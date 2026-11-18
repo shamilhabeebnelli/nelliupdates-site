@@ -123,12 +123,12 @@ function cls(m){
  if(m.status=="upcoming"){if(m.status_text&&/abnormal/i.test(m.status_text))return ["na","Status unclear"];return ["","Upcoming"]}
  return ["na","Status unclear"];}
 function pick(ms,sp){
- /* rank: India/Kerala involvement (pending owner approval), then international/major-competition keywords, then a usable score. No popularity claim. */
+ /* rank: a usable score first, then India/Kerala involvement, then international/major-competition keywords, then a usable score. No popularity claim. */
  const sc=m=>{let p=0;const t=(m.home+" "+m.away);
   if(/india|kerala/i.test(t))p+=100;
   if(sp=="cricket"&&/\bODI\b|\bTest\b|T20I|World Cup|Series|Ashes/i.test(m.competition||""))p+=50;
   if(sp=="football"&&/World Cup|Champions League|Premier League|La Liga|Serie A|Bundesliga|Ligue 1|Euro|Copa|Nations League|Qualif|Indian Super League|Super League/i.test(m.competition||""))p+=50;
-  if(hasSc(m.home_score)||hasSc(m.away_score))p+=10;return p};
+  if(hasSc(m.home_score)||hasSc(m.away_score))p+=200;return p};
  return ms.filter(m=>m.status=="live").sort((a,b)=>sc(b)-sc(a))[0]||null;}
 function age(sp){const o=SC[sp];return o.okAt?Math.round((Date.now()-o.okAt)/1000):null}
 function stale(sp){const o=SC[sp];return !!(o.okAt&&(o.err||age(sp)>180))}
@@ -141,17 +141,17 @@ function mrow(m){const c=cls(m);
  return `<div class="mc"><div class="cp"><span>${esc(m.competition)}</span><span class="ls ${c[0]}">${c[1]}</span></div><div class="row"><span>${esc(m.home)}</span><i>${hasSc(m.home_score)?esc(m.home_score):"-"}</i></div><div class="row"><span>${esc(m.away)}</span><i>${hasSc(m.away_score)?esc(m.away_score):"-"}</i></div><div class="nt">${m.time?new Date(m.time).toLocaleString("en-IN",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit",hour12:true,timeZone:"Asia/Kolkata"})+" IST":""}${m.status=="live"&&m.status_text?" &middot; "+esc(m.status_text):""}${m.url?` &middot; <a href="https://sportscore.com${esc(m.url)}" target="_blank" rel="noopener" style="text-decoration:underline">Details</a>`:""}</div></div>`}
 function featured(sp){const o=SC[sp],m=o.data?pick(o.data,sp):null;let body;
  if(!o.okAt)body=`<div class="meta" style="font-size:14px;color:#cfd8f0">${o.busy?"Loading...":"Unavailable: live scores could not be loaded right now."}</div>`;
- else if(!m)body=`<div class="meta" style="font-size:14px;color:#cfd8f0">The SportScore feed currently lists no live ${sp} match. Other matches may be on that this feed does not cover.</div>`;
+ else if(!m)body=`<div class="meta" style="font-size:14px;color:#cfd8f0">The SportScore feed currently lists no live ${sp} match. ${(o.data||[]).length>=50?"The feed returned only its first 50 matches of the day, so later and live matches may be missing.":"Other matches may be on that this feed does not cover."}</div>`;
  else{const c=cls(m),ok=hasSc(m.home_score)||hasSc(m.away_score);
   body=`<div class="meta" style="margin:6px 0 0">${esc(m.competition)} &middot; <b>${c[1]}</b></div><div class="row"><span>${esc(m.home)}</span><span class="sc2">${hasSc(m.home_score)?esc(m.home_score):"-"}</span></div><div class="row"><span>${esc(m.away)}</span><span class="sc2">${hasSc(m.away_score)?esc(m.away_score):"-"}</span></div>`+(ok?"":`<div class="meta" style="color:#ffd95a">The provider lists this match as live but has no score for it yet.</div>`)}
- return `<div class="fm"><small>Featured ${sp} &middot; auto-picked: India/Kerala first, then major competitions</small>${body}<div class="meta">${o.okAt?`Last successful fetch ${hm(new Date(o.okAt))}${stale(sp)?" - could not refresh, may be out of date":""} &middot; `:""}<a href="#/Scores">All scores</a> &middot; ${CRED}</div></div>`}
+ return `<div class="fm"><small>Featured ${sp} &middot; auto-picked: has a score first, then India/Kerala, then major competitions</small>${body}<div class="meta">${o.okAt?`Last successful fetch ${hm(new Date(o.okAt))}${stale(sp)?" - could not refresh, may be out of date":""} &middot; `:""}<a href="#/Scores">All scores</a> &middot; ${CRED}</div></div>`}
 function featuredBoth(){return `<div id="fm" class="fmw">${featured("cricket")}${featured("football")}</div>`}
 function scoresPage(){const sp=SPORT,o=SC[sp],ms=o.data||[];
  const tabs=`<div class="sw">${Object.keys(SPN).map(k=>`<a href="#/Scores/${k}" class="${k==sp?"on":""}">${SPN[k]}</a>`).join("")}</div>`;
  const part=(t,l)=>l.length?`<div class="sec">${t} (${l.length})</div><div class="mg">${l.map(mrow).join("")}</div>`:"";
  const live=ms.filter(m=>m.status=="live"),up=ms.filter(m=>m.status=="upcoming"),fin=ms.filter(m=>m.status=="finished");
  const nsc=live.filter(m=>hasSc(m.home_score)||hasSc(m.away_score)).length;
- return `<div class="sec">${SPN[sp]} scores</div>${tabs}${status(sp)}`+(o.okAt?(live.length?`<div class="mu" style="margin:10px 2px">${live.length} marked live by the provider, ${nsc} with a score.</div>`:"")+(part("Live",live)+part("Upcoming",up)+part("Finished",fin)||`<div class="empty" style="margin-top:14px">The provider returned no ${sp} matches right now.</div>`):`<div class="empty" style="margin-top:14px">${o.busy?"Loading...":"Live scores unavailable right now."}</div>`)}
+ return `<div class="sec">${SPN[sp]} scores</div>${tabs}${status(sp)}${ms.length>=50?`<div class="mu" style="margin:10px 2px">The feed returned only its first 50 matches of the day, earliest first, so later and live matches may be missing.</div>`:""}`+(o.okAt?(live.length?`<div class="mu" style="margin:10px 2px">${live.length} marked live by the provider, ${nsc} with a score.</div>`:"")+(part("Live",live)+part("Upcoming",up)+part("Finished",fin)||`<div class="empty" style="margin-top:14px">The provider returned no ${sp} matches right now.</div>`):`<div class="empty" style="margin-top:14px">${o.busy?"Loading...":"Live scores unavailable right now."}</div>`)}
 async function load(sp){const o=SC[sp];
  if(o.busy)return;o.busy=true;const ac=new AbortController(),to=setTimeout(()=>ac.abort(),9000);
  try{const r=await fetch(API(sp),{signal:ac.signal});if(!r.ok)throw new Error("http "+r.status);const j=await r.json();if(!j||!Array.isArray(j.matches))throw new Error("bad data");o.data=j.matches;o.okAt=Date.now();o.err=null}

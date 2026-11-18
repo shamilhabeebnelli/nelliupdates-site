@@ -1,6 +1,53 @@
 {
  "stories": [
   {
+   "id": "karnataka-mizoram-manvanth-five",
+   "cats": [
+    "Sports",
+    "Highlights"
+   ],
+   "title": "മാൻവന്തിന് അഞ്ച് വിക്കറ്റ്",
+   "en": "Manvanth Kumar takes five as Karnataka beat Mizoram by seven wickets in SMAT",
+   "sum": "ഇരുപത്തഞ്ച് റൺസ് വഴങ്ങി അഞ്ച് വിക്കറ്റ് വീഴ്ത്തിയ മാൻവന്ത് കുമാർ കർണാടകയുടെ ജയത്തിൽ തിളങ്ങി.",
+   "date": "18 Nov 2026",
+   "body": [
+    "മാൻവന്ത് കുമാർ നാലോവറിൽ അഞ്ച് വിക്കറ്റ് വീഴ്ത്തി. വഴങ്ങിയത് ഇരുപത്തഞ്ച് റൺസ് മാത്രം.",
+    "മിസോറം ഇരുപത് ഓവറിൽ എട്ട് വിക്കറ്റിന് 129 റൺസ്. കർണാടക പതിമൂന്ന് ഓവറും അഞ്ച് പന്തിലും മൂന്ന് വിക്കറ്റിന് 130 റൺസെടുത്ത് ജയിച്ചു. കരുൺ നായർ 35 പന്തിൽ 61 റൺസുമായി പുറത്താകാതെ നിന്നു. രോഹൻ പാട്ടീൽ 35 റൺസ് നേടി.",
+    "വാങ്കഡെയിലെ സയ്യിദ് മുഷ്താഖ് അലി ട്രോഫി മത്സരത്തിലാണ് ജയം."
+   ],
+   "srcs": [
+    [
+     "Hindustan Times scorecard",
+     "https://www.hindustantimes.com/cricket/match-result-kar-vs-miz-smat-2026-match-56-karnataka-vs-mizoram-t20-kamiz11182026273262"
+    ],
+    [
+     "The Hindu",
+     "https://www.thehindu.com/sport/abhimanyu-leads-bengal-to-second-straight-win/article71716806.ece"
+    ],
+    [
+     "IANS",
+     "https://ianslive.in/smat-2026-mp-maintain-winning-run-karnataka-uttarakhand-saurashtra-register-wins--20261118210221"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/Df49hOoFlW5/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 10:12 PM IST on 18 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-18T22:12:50+05:30",
+   "score": {
+    "l1": "SMAT | Karnataka v Mizoram",
+    "n": "5/25",
+    "b": " Manvanth Kumar",
+    "st": [
+     "Mizoram 129/8",
+     "Karnataka 130/3",
+     "Won by 7 wickets"
+    ],
+    "ft": "18 November 2026 | Wankhede Stadium"
+   }
+  },
+  {
    "id": "caltech-nanosyringes-plant-cells",
    "cats": [
     "Tech",

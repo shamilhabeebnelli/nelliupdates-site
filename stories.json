@@ -1,6 +1,47 @@
 {
  "stories": [
   {
+   "id": "gta-vi-rolling-midnight-launch",
+   "cats": [
+    "World",
+    "Tech",
+    "Entertainment"
+   ],
+   "title": "പതിമൂന്ന് വർഷത്തെ കാത്തിരിപ്പിന് വിരാമം; ജിടിഎ ആറ് പുറത്തിറങ്ങി",
+   "en": "GTA VI begins rolling midnight launch after a 13-year wait",
+   "sum": "നവംബർ പത്തൊൻപതിന് രാജ്യങ്ങളിലെ പ്രാദേശിക അർധരാത്രി അനുസരിച്ചാണ് ഗെയിം ലഭ്യമാകുന്നത്. ന്യൂസീലൻഡിലെ കളിക്കാർക്ക് ആദ്യം ലഭിച്ചു.",
+   "date": "19 Nov 2026",
+   "body": [
+    "ഗ്രാൻഡ് തെഫ്റ്റ് ഓട്ടോ ആറിന്റെ റിലീസ് ആരംഭിച്ചു. നവംബർ പത്തൊൻപതിന് ഓരോ രാജ്യത്തെയും പ്രാദേശിക അർധരാത്രി അനുസരിച്ചാണ് ഗെയിം ലഭ്യമാകുന്നത്. ന്യൂസീലൻഡിലെ കളിക്കാർക്ക് ആദ്യം ലഭിച്ചു. എല്ലാ പ്രദേശങ്ങളിലും ഒരേ നിമിഷത്തിൽ ലഭ്യമാകുന്ന റിലീസ് അല്ല ഇത്.",
+    "മുൻ പ്രധാന പതിപ്പിന് ശേഷം പതിമൂന്ന് വർഷത്തെ ഇടവേളയിലാണ് പുതിയ ഗെയിം എത്തുന്നത്. പ്ലേസ്റ്റേഷൻ അഞ്ചിലും എക്സ്ബോക്സ് സീരീസ് എക്സ്/എസിലും ഗെയിം ലഭ്യമാണ്; ലഭ്യത പ്രദേശം അനുസരിച്ച് മാറും.",
+    "ലിയോണിഡയിലെ വൈസ് സിറ്റിയാണ് കഥയുടെ പശ്ചാത്തലം. ജേസണും ലൂസിയയുമാണ് പ്രധാന കഥാപാത്രങ്ങൾ."
+   ],
+   "srcs": [
+    [
+     "PlayStation Blog: launch",
+     "https://blog.playstation.com/2026/11/18/grand-theft-auto-vi-launches-tomorrow-november-19/"
+    ],
+    [
+     "PlayStation Blog: rolling midnight release",
+     "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/"
+    ],
+    [
+     "BBC News",
+     "https://www.bbc.com/news/live/c60rkg21dl22t"
+    ],
+    [
+     "Associated Press",
+     "https://apnews.com/article/grand-theft-auto-6-video-game-release-6e255c930da6de820e539721f4682253"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/Df5QXVHFp9I/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 12:57 AM IST on 19 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-19T00:57:33+05:30"
+  },
+  {
    "id": "fifa-november-spain-top-morocco-fifth",
    "cats": [
     "Sports",

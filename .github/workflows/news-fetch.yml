@@ -43,11 +43,15 @@ jobs:
                   l = a.get("link") or ""
                   if not t or not l.startswith("http") or t in seen or a.get("duplicate"):
                       continue
+                  cats = [str(c).lower() for c in (a.get("category") or [])]
+                  want = p.get("category")
+                  if want and (not cats or cats[0] != want):
+                      continue
                   seen.add(t)
                   d = (a.get("description") or "").strip()
                   if len(d) > 220:
                       d = d[:217].rsplit(" ", 1)[0] + "..."
-                  items.append({"title": t, "description": d, "source": a.get("source_name") or a.get("source_id") or "", "link": l, "pubDate": a.get("pubDate") or ""})
+                  items.append({"title": t, "description": d, "source": a.get("source_name") or a.get("source_id") or "", "link": l, "pubDate": a.get("pubDate") or "", "category": cats})
                   if len(items) >= 8:
                       break
               out["groups"][name] = items

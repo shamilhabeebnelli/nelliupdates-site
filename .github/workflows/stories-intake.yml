@@ -27,6 +27,20 @@ jobs:
               d = json.loads(raw)
           except Exception:
               print("rejected: not valid JSON"); sys.exit(1)
+          if isinstance(d, dict) and set(d.keys()) == {"remove"}:
+              rid = d["remove"]
+              if not (isinstance(rid, str) and re.fullmatch(r"[a-z0-9-]{3,60}", rid)):
+                  print("rejected: remove id"); sys.exit(1)
+              try:
+                  j = json.load(open("stories.json"))
+              except Exception:
+                  j = {"stories": []}
+              j["stories"] = [x for x in j["stories"] if x.get("id") != rid]
+              j.setdefault("removed", [])
+              if rid not in j["removed"]:
+                  j["removed"].append(rid)
+              json.dump(j, open("stories.json", "w"), ensure_ascii=False, indent=1)
+              print("removed", rid); sys.exit(0)
           ALLOWED = {"Breaking","Highlights","Kerala","India","World","Sports","Entertainment","Tech"}
           def s(k, n):
               v = d.get(k)
@@ -75,6 +89,7 @@ jobs:
               j = {"stories": []}
           j["stories"] = [e] + [x for x in j["stories"] if x.get("id") != sid]
           j["stories"] = j["stories"][:60]
+          j["removed"] = [x for x in j.get("removed", []) if x != sid]
           json.dump(j, open("stories.json", "w"), ensure_ascii=False, indent=1)
           print("added", sid)
           PY

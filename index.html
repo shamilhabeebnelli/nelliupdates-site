@@ -84,9 +84,9 @@ footer a{color:#fff;text-decoration:underline}
 <div class="bk"><div class="in"><b>BREAKING</b><div class="t"><div id="tk"></div></div></div></div>
 <nav><div class="in" id="nav"></div></nav>
 <main id="m"></main>
-<footer><div class="in"><div>&copy; 2026 Nelli Updates. Independent news and highlights. Sources are linked on each story.</div><div>Instagram: <a href="https://www.instagram.com/nelli.updates/">@nelli.updates</a> &nbsp;|&nbsp; <a href="https://denelli.in">denelli.in</a></div></div></footer>
+<footer><div class="in"><div>&copy; 2026 Nelli Updates. Independent news and highlights. Sources are linked on each story.</div><div>Scores: <a href="https://sportscore.com/" rel="dofollow noopener" target="_blank">Powered by SportScore</a> &nbsp;|&nbsp; Instagram: <a href="https://www.instagram.com/nelli.updates/">@nelli.updates</a> &nbsp;|&nbsp; <a href="https://denelli.in">denelli.in</a></div></div></footer>
 <script>
-const CATS=["Home","Breaking","Highlights","Kerala","India","World","Sports","Entertainment","Tech"];
+const CATS=["Home","Breaking","Scores","Highlights","Kerala","India","World","Sports","Entertainment","Tech"];
 const S=[{id:"england-win-hobart",cats:["Sports","Breaking","Highlights"],breaking:true,
  title:"ഹൊബാർട്ടിൽ ഇംഗ്ലണ്ടിന് 97 റൺസ് ജയം, പരമ്പര 2-1",en:"England beat Australia by 97 runs in Hobart to win the ODI series 2-1",
  sum:"മൂന്നാം ഏകദിനത്തിൽ ഓസ്ട്രേലിയയെ 97 റൺസിന് തോൽപ്പിച്ച് ഇംഗ്ലണ്ട് പരമ്പര 2-1ന് സ്വന്തമാക്കി. ഇംഗ്ലണ്ട് 328 റൺസെടുത്തു, ഓസ്ട്രേലിയ 231ന് പുറത്തായി.",
@@ -144,7 +144,7 @@ function featured(sp){const o=SC[sp],m=o.data?pick(o.data,sp):null;let body;
  else if(!m)body=`<div class="meta" style="font-size:14px;color:#cfd8f0">No ${sp} match is live right now.</div>`;
  else{const c=cls(m),ok=hasSc(m.home_score)||hasSc(m.away_score);
   body=`<div class="meta" style="margin:6px 0 0">${esc(m.competition)} &middot; <b>${c[1]}</b></div><div class="row"><span>${esc(m.home)}</span><span class="sc2">${hasSc(m.home_score)?esc(m.home_score):"-"}</span></div><div class="row"><span>${esc(m.away)}</span><span class="sc2">${hasSc(m.away_score)?esc(m.away_score):"-"}</span></div>`+(ok?"":`<div class="meta" style="color:#ffd95a">The provider lists this match as live but has no score for it yet.</div>`)}
- return `<div class="fm"><small>Featured ${sp} &middot; auto-picked: India/Kerala first (pending approval), then major competitions</small>${body}<div class="meta">${o.okAt?`Last successful fetch ${hm(new Date(o.okAt))}${stale(sp)?" - could not refresh, may be out of date":""} &middot; `:""}<a href="#/Scores">All scores</a> &middot; ${CRED}</div></div>`}
+ return `<div class="fm"><small>Featured ${sp} &middot; auto-picked: India/Kerala first, then major competitions</small>${body}<div class="meta">${o.okAt?`Last successful fetch ${hm(new Date(o.okAt))}${stale(sp)?" - could not refresh, may be out of date":""} &middot; `:""}<a href="#/Scores">All scores</a> &middot; ${CRED}</div></div>`}
 function featuredBoth(){return `<div id="fm" class="fmw">${featured("cricket")}${featured("football")}</div>`}
 function scoresPage(){const sp=SPORT,o=SC[sp],ms=o.data||[];
  const tabs=`<div class="sw">${Object.keys(SPN).map(k=>`<a href="#/Scores/${k}" class="${k==sp?"on":""}">${SPN[k]}</a>`).join("")}</div>`;
@@ -172,7 +172,7 @@ function route(){
  if(c=="Scores"){m.innerHTML=scoresPage();load(SPORT);return}
  const l=inCat(c);
  if(c=="Home"){const s=S[0];
-  m.innerHTML=`<a class="lead" href="#/story/${s.id}">${vis(s)}<div class="tx">${pill(s)}<h1 class="ml">${s.title}</h1><p class="mu">${s.en}</p><p class="ml">${s.sum}</p><p class="mu">${s.date} &middot; ${s.cats.find(c=>c!=="Breaking"&&c!=="Highlights")}</p></div></a>${S.length>1?`<div class="sec">Latest</div><div class="grid">${S.slice(1).map(sc).join("")}</div>`:""}<div class="sec">Sections</div><div class="cats">${CATS.slice(1).map(x=>x=="Scores"?`<a class="cat" href="#/Scores">Scores<span>Cricket and football</span></a>`:`<a class="cat" href="#/${x}">${x}<span>${inCat(x).length} ${inCat(x).length==1?"story":"stories"}</span></a>`).join("")}</div>`;loadAll();return}
+  m.innerHTML=`<a class="lead" href="#/story/${s.id}">${vis(s)}<div class="tx">${pill(s)}<h1 class="ml">${s.title}</h1><p class="mu">${s.en}</p><p class="ml">${s.sum}</p><p class="mu">${s.date} &middot; ${s.cats.find(c=>c!=="Breaking"&&c!=="Highlights")}</p></div></a>${featuredBoth()}${S.length>1?`<div class="sec">Latest</div><div class="grid">${S.slice(1).map(sc).join("")}</div>`:""}<div class="sec">Sections</div><div class="cats">${CATS.slice(1).map(x=>x=="Scores"?`<a class="cat" href="#/Scores">Scores<span>Cricket and football</span></a>`:`<a class="cat" href="#/${x}">${x}<span>${inCat(x).length} ${inCat(x).length==1?"story":"stories"}</span></a>`).join("")}</div>`;loadAll();return}
  m.innerHTML=`<div class="sec">${c}</div>`+(l.length?`<div class="grid">${l.map(sc).join("")}</div>`:`<div class="empty">No stories in ${c} yet. Follow <a href="https://www.instagram.com/nelli.updates/" style="text-decoration:underline">@nelli.updates</a> for the latest.</div>`)}
 addEventListener("hashchange",route);route();
 </script></body></html>

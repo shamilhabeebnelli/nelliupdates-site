@@ -1,0 +1,63 @@
+name: news-fetch
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch headlines from NewsData.io
+        env:
+          NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
+        run: |
+          python3 - <<'PY'
+          import json, os, time, urllib.request, urllib.parse
+          key = os.environ["NEWSDATA_API_KEY"]
+          groups = {
+            "india": {"country": "in", "language": "en", "category": "top"},
+            "kerala": {"country": "in", "language": "en", "q": "Kerala"},
+            "world": {"language": "en", "category": "world"},
+            "sports": {"country": "in", "language": "en", "category": "sports"},
+            "entertainment": {"country": "in", "language": "en", "category": "entertainment"},
+            "tech": {"language": "en", "category": "technology"},
+          }
+          out = {"fetched_at": time.strftime("%Y-%m-%d %H:%M UTC", time.gmtime()), "groups": {}}
+          for name, p in groups.items():
+              q = dict(p, apikey=key)
+              try:
+                  with urllib.request.urlopen("https://newsdata.io/api/1/latest?" + urllib.parse.urlencode(q), timeout=30) as r:
+                      j = json.load(r)
+              except Exception as e:
+                  print(name, "failed", type(e).__name__)
+                  continue
+              if j.get("status") != "success":
+                  print(name, "api status", j.get("status"))
+                  continue
+              items, seen = [], set()
+              for a in j.get("results", []):
+                  t = (a.get("title") or "").strip()
+                  l = a.get("link") or ""
+                  if not t or not l.startswith("http") or t in seen or a.get("duplicate"):
+                      continue
+                  seen.add(t)
+                  d = (a.get("description") or "").strip()
+                  if len(d) > 220:
+                      d = d[:217].rsplit(" ", 1)[0] + "..."
+                  items.append({"title": t, "description": d, "source": a.get("source_name") or a.get("source_id") or "", "link": l, "pubDate": a.get("pubDate") or ""})
+                  if len(items) >= 8:
+                      break
+              out["groups"][name] = items
+              print(name, len(items))
+          if any(out["groups"].values()):
+              json.dump(out, open("news.json", "w"), ensure_ascii=False, indent=1)
+          PY
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add news.json
+          git diff --cached --quiet || (git commit -m "Update auto headlines" && git push)

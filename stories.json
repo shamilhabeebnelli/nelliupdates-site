@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "us-venezuela-defense-cooperation-caracas",
+   "cats": [
+    "World"
+   ],
+   "title": "കാരക്കാസിൽ പ്രതിരോധ സഹകരണ കരാർ; യുഎസ്-വെനസ്വേല ബന്ധത്തിൽ പുതിയ നീക്കം",
+   "en": "US and Venezuela sign agreement to strengthen defense cooperation in Caracas",
+   "sum": "നവംബർ പതിനെട്ടിന് കാരക്കാസിൽ പീറ്റ് ഹെഗ്സെത്തും ഡെൽസി റോഡ്രിഗസും കൂടിക്കാഴ്ച നടത്തി. കരാറിന്റെ വിശദമായ വ്യവസ്ഥകൾ പുറത്തുവിട്ടിട്ടില്ല.",
+   "date": "19 Nov 2026",
+   "body": [
+    "യുഎസും വെനസ്വേലയും പ്രതിരോധ സഹകരണം ശക്തമാക്കുന്നതിനുള്ള കരാർ പ്രഖ്യാപിച്ചു. നവംബർ പതിനെട്ടിന് കാരക്കാസിലെ മിറാഫ്ലോറസ് കൊട്ടാരത്തിൽ പീറ്റ് ഹെഗ്സെത്തും ഇടക്കാല പ്രസിഡന്റ് ഡെൽസി റോഡ്രിഗസും നടത്തിയ കൂടിക്കാഴ്ചയിലാണ് പ്രഖ്യാപനം.",
+    "സൈനിക പരിശീലനം, സേനയുടെ ശേഷിവർധന, അതിർത്തി സുരക്ഷ എന്നിവയാണ് ഇരുപക്ഷവും ചർച്ച ചെയ്ത പ്രധാന വിഷയങ്ങൾ. സഹകരണം പുനരാരംഭിക്കുന്നതിനെ റോഡ്രിഗസ് സ്വാഗതം ചെയ്തതായി വെനസ്വേലൻ പ്രസിഡൻസിയും അന്താരാഷ്ട്ര മാധ്യമങ്ങളും റിപ്പോർട്ട് ചെയ്തു.",
+    "കരാറിന്റെ വിശദമായ വ്യവസ്ഥകളും നടപ്പാക്കൽ സംവിധാനവും പുറത്തുവിട്ടിട്ടില്ല. ഈ പ്രഖ്യാപനം യുഎസ് സൈനികതാവളം സ്ഥാപിക്കുന്നതിന്റെ സ്ഥിരീകരണമല്ല."
+   ],
+   "srcs": [
+    [
+     "Venezuelan Presidency",
+     "https://www.presidencia.gob.ve/Site/Web/Principal/paginas/classMostrarEvento3.php?id_evento=33435"
+    ],
+    [
+     "Reuters via Forth",
+     "https://www.forth.news/articles/ChApwLmDQaqWuyWzBjBom"
+    ],
+    [
+     "El Pais",
+     "https://english.elpais.com/international/2026-11-18/us-defense-secretary-announces-agreement-with-venezuela-against-threats-from-foreign-actors.html"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/Df5YmvumPi5/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 2:09 AM IST on 19 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-19T02:09:33+05:30"
+  },
+  {
    "id": "fiona-hippo-supportive-care-hat",
    "cats": [
     "World"

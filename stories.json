@@ -90,6 +90,55 @@
    }
   },
   {
+   "id": "icc-india-slow-over-rate",
+   "cats": [
+    "Sports",
+    "Highlights"
+   ],
+   "title": "കുറഞ്ഞ ഓവർ നിരക്ക്: ഇന്ത്യക്ക് പിഴ",
+   "en": "India fined 35% of match fee for slow over rate in 5th ODI v New Zealand",
+   "sum": "ന്യൂസീലൻഡിനെതിരായ അഞ്ചാം ഏകദിനത്തിലെ വീഴ്ച മാച്ച് ഫീയുടെ മുപ്പത്തഞ്ച് ശതമാനം പിഴ",
+   "date": "18 Nov 2026",
+   "body": [
+    "ഇന്ത്യൻ താരങ്ങൾക്ക് മാച്ച് ഫീയുടെ മുപ്പത്തഞ്ച് ശതമാനം പിഴ ചുമത്തി ഐസിസി. നവംബർ 15ന് മൗണ്ട് മാംഗനൂയിയിൽ നടന്ന ന്യൂസീലൻഡിനെതിരായ അഞ്ചാം ഏകദിനത്തിലാണ് വീഴ്ച. സമയ ഇളവുകൾക്കുശേഷവും ഏഴ് ഓവർ പിന്നിലായി. മാച്ച് റഫറി രഞ്ജൻ മദുഗല്ലെയാണ് പിഴ ചുമത്തിയത്. ക്യാപ്റ്റൻ ശ്രേയസ് അയ്യർ കുറ്റം സമ്മതിച്ച് നടപടി അംഗീകരിച്ചതിനാൽ ഔപചാരിക വാദം വേണ്ടിവന്നില്ല."
+   ],
+   "srcs": [
+    [
+     "icc-cricket.com",
+     "https://www.icc-cricket.com/media-releases/india-fined-for-slow-over-rate-in-5th-odi-against-new-zealand"
+    ],
+    [
+     "sportstar.thehindu.com",
+     "https://sportstar.thehindu.com/cricket/india-fined-35-per-cent-match-fee-slow-over-rate-5th-odi-new-zealand/article71716643.ece"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/Df4xfqlFtLx/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 8:28 PM IST on 18 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-18T20:28:00+05:30",
+   "image": {
+    "file": "images/bay-oval.jpg",
+    "alt": "Bay Oval cricket ground, Mount Maunganui",
+    "label": "File photo: Bay Oval, Mount Maunganui. Not from this match.",
+    "credit": "NZDF",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bay_Oval_2024.jpg"
+   },
+   "score": {
+    "l1": "ICC sanction | 5th ODI v New Zealand",
+    "n": "35%",
+    "b": " match fee",
+    "st": [
+     "7 overs behind",
+     "Played 15 Nov",
+     "ICC announced 18 Nov"
+    ],
+    "ft": "Fine accepted, no formal hearing needed"
+   }
+  },
+  {
    "id": "trump-china-shenzhen",
    "cats": [
     "World",
@@ -140,55 +189,6 @@
      "Xi and Putin met 18 Nov"
     ],
     "ft": "Outcome of the planned talks not yet announced"
-   }
-  },
-  {
-   "id": "icc-india-slow-over-rate",
-   "cats": [
-    "Sports",
-    "Highlights"
-   ],
-   "title": "കുറഞ്ഞ ഓവർ നിരക്ക്: ഇന്ത്യക്ക് പിഴ",
-   "en": "India fined 35% of match fee for slow over rate in 5th ODI v New Zealand",
-   "sum": "ന്യൂസീലൻഡിനെതിരായ അഞ്ചാം ഏകദിനത്തിലെ വീഴ്ച മാച്ച് ഫീയുടെ മുപ്പത്തഞ്ച് ശതമാനം പിഴ",
-   "date": "18 Nov 2026",
-   "body": [
-    "ഇന്ത്യൻ താരങ്ങൾക്ക് മാച്ച് ഫീയുടെ മുപ്പത്തഞ്ച് ശതമാനം പിഴ ചുമത്തി ഐസിസി. നവംബർ 15ന് മൗണ്ട് മാംഗനൂയിയിൽ നടന്ന ന്യൂസീലൻഡിനെതിരായ അഞ്ചാം ഏകദിനത്തിലാണ് വീഴ്ച. സമയ ഇളവുകൾക്കുശേഷവും ഏഴ് ഓവർ പിന്നിലായി. മാച്ച് റഫറി രഞ്ജൻ മദുഗല്ലെയാണ് പിഴ ചുമത്തിയത്. ക്യാപ്റ്റൻ ശ്രേയസ് അയ്യർ കുറ്റം സമ്മതിച്ച് നടപടി അംഗീകരിച്ചതിനാൽ ഔപചാരിക വാദം വേണ്ടിവന്നില്ല."
-   ],
-   "srcs": [
-    [
-     "icc-cricket.com",
-     "https://www.icc-cricket.com/media-releases/india-fined-for-slow-over-rate-in-5th-odi-against-new-zealand"
-    ],
-    [
-     "sportstar.thehindu.com",
-     "https://sportstar.thehindu.com/cricket/india-fined-35-per-cent-match-fee-slow-over-rate-5th-odi-new-zealand/article71716643.ece"
-    ],
-    [
-     "Instagram post (@nelli.updates)",
-     "https://www.instagram.com/nelli.updates/p/Df4xfqlFtLx/"
-    ]
-   ],
-   "note": "Posted on Instagram @nelli.updates at about 8:28 PM IST on 18 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
-   "published_at": "2026-11-18T20:28:00+05:30",
-   "image": {
-    "file": "images/bay-oval.jpg",
-    "alt": "Bay Oval cricket ground, Mount Maunganui",
-    "label": "File photo: Bay Oval, Mount Maunganui. Not from this match.",
-    "credit": "NZDF, CC BY 4.0",
-    "license": "CC BY 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Bay_Oval_2024.jpg"
-   },
-   "score": {
-    "l1": "ICC sanction | 5th ODI v New Zealand",
-    "n": "35%",
-    "b": " match fee",
-    "st": [
-     "7 overs behind",
-     "Played 15 Nov",
-     "ICC announced 18 Nov"
-    ],
-    "ft": "Fine accepted, no formal hearing needed"
    }
   }
  ],

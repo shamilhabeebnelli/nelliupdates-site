@@ -76,6 +76,18 @@ jobs:
                "date": t.strftime("%-d %b %Y"), "body": [p.strip() for p in body], "srcs": clean,
                "note": "Posted on Instagram @nelli.updates at about " + t.strftime("%-I:%M %p") + " IST on " + t.strftime("%-d %b %Y") + ". Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
                "published_at": t.isoformat()}
+          im = d.get("image")
+          if isinstance(im, dict):
+              f = im.get("file")
+              if not (isinstance(f, str) and re.fullmatch(r"images/[a-z0-9._-]+\.(jpg|jpeg|png)", f) and os.path.exists(f)):
+                  print("rejected: image file"); sys.exit(1)
+              pg = im.get("page_url")
+              if not (isinstance(pg, str) and pg.startswith("https://commons.wikimedia.org/wiki/") and len(pg) < 300):
+                  print("rejected: image page"); sys.exit(1)
+              for k, n in (("alt", 200), ("label", 200), ("credit", 160), ("license", 40)):
+                  if not (isinstance(im.get(k), str) and 0 < len(im[k]) <= n):
+                      print("rejected: image", k); sys.exit(1)
+              e["image"] = {"file": f, "alt": im["alt"], "label": im["label"], "credit": im["credit"], "license": im["license"], "page": pg}
           sc = d.get("score")
           if isinstance(sc, dict):
               try:

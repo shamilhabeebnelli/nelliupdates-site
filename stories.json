@@ -1,6 +1,42 @@
 {
  "stories": [
   {
+   "id": "us-outages-no-coordinated-cyberattack-evidence",
+   "cats": [
+    "World",
+    "Tech"
+   ],
+   "title": "യുഎസിലെ സാങ്കേതിക തടസ്സങ്ങൾ: ഒറ്റ സൈബർ ആക്രമണത്തിന് തെളിവില്ലെന്ന് ഉദ്യോഗസ്ഥർ",
+   "en": "US officials see no evidence of coordinated cyberattack behind recent tech outages",
+   "sum": "സമീപകാല സേവന തടസ്സങ്ങൾ തമ്മിൽ ബന്ധമുണ്ടെന്നതിന് തെളിവില്ലെന്ന് യുഎസ് സുരക്ഷാ ഉദ്യോഗസ്ഥർ. അറ്റകുറ്റപ്പണികളും സാങ്കേതിക മാറ്റങ്ങളും കാരണമായെന്നാണ് വിലയിരുത്തൽ.",
+   "date": "19 Nov 2026",
+   "body": [
+    "യുഎസിലെ സമീപകാല സാങ്കേതിക സേവന തടസ്സങ്ങൾ ഒരു ഏകോപിത സൈബർ ആക്രമണത്തിന്റെ ഭാഗമാണെന്നതിന് തെളിവില്ലെന്ന് മുതിർന്ന സുരക്ഷാ ഉദ്യോഗസ്ഥർ അറിയിച്ചു. നവംബർ പതിനെട്ടിന് ഹൗസ് ഹോംലാൻഡ് സെക്യൂരിറ്റി കമ്മിറ്റിയിൽ നൽകിയ വിശദീകരണത്തിലാണ് വിലയിരുത്തൽ.",
+    "വിമാന സർവീസുകൾ, ബാങ്കുകൾ, മൈക്രോസോഫ്റ്റ് സേവനങ്ങൾ, ദേശീയ സുരക്ഷാ ഏജൻസിയുടെ ആശയവിനിമയ സംവിധാനം എന്നിവിടങ്ങളിലാണ് അടുത്തിടെ തടസ്സങ്ങളുണ്ടായത്. അറ്റകുറ്റപ്പണികളും സിസ്റ്റം നവീകരണങ്ങളും സാങ്കേതിക മാറ്റങ്ങളും കാരണമായെന്നാണ് ഉദ്യോഗസ്ഥർ വിശദീകരിച്ചത്.",
+    "വ്യത്യസ്ത സംഭവങ്ങൾ തമ്മിൽ ബന്ധമുണ്ടെന്നതിന് തെളിവില്ലെന്ന വിലയിരുത്തൽ മാർക്കോ റൂബിയോയും പങ്കുവച്ചു. എഫ്ബിഐ സ്വകാര്യ സ്ഥാപനങ്ങളുമായി ചേർന്ന് പരിശോധന തുടരുന്നതായി അറിയിച്ചു. എല്ലാ സേവനങ്ങളും പൂർണമായി ശരിയായെന്ന പ്രഖ്യാപനമല്ല ഇത്."
+   ],
+   "srcs": [
+    [
+     "White House",
+     "https://www.whitehouse.gov/releases/2026/11/no-indication-of-a-cyberattack-dni-clayton-and-secretary-rubio-on-recent-tech-outages/"
+    ],
+    [
+     "CBS News",
+     "https://www.cbsnews.com/news/network-outages-cyber-malicious-activity-homeland-security-hearing/"
+    ],
+    [
+     "BBC News",
+     "https://www.bbc.com/news/articles/crkgvxxwpwz2o"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/Df5mxxsGAzw/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 4:13 AM IST on 19 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-19T04:13:23+05:30"
+  },
+  {
    "id": "us-venezuela-defense-cooperation-caracas",
    "cats": [
     "World"

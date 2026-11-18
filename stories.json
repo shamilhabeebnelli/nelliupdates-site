@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "fiona-hippo-supportive-care-hat",
+   "cats": [
+    "World"
+   ],
+   "title": "തൊപ്പി വിഴുങ്ങിയ നീർക്കുതിര ഫിയോണ ചികിത്സയിൽ",
+   "en": "Fiona the hippo under round-the-clock care after swallowing a knit hat",
+   "sum": "അമേരിക്കയിലെ സിന്‍സിനാറ്റി മൃഗശാലയിൽ ഫിയോണയ്ക്ക് തുടർച്ചയായ പരിചരണം. തൊപ്പി സ്വാഭാവികമായി പുറത്തുപോകാൻ സഹായചികിത്സ നൽകുന്നു.",
+   "date": "19 Nov 2026",
+   "body": [
+    "തൊപ്പി വിഴുങ്ങിയ നീർക്കുതിര ഫിയോണയ്ക്ക് അമേരിക്കയിലെ സിന്‍സിനാറ്റി മൃഗശാലയിൽ തുടർച്ചയായ ചികിത്സയും നിരീക്ഷണവും. നവംബർ പതിനെട്ടിന് പുറത്തുവന്ന റിപ്പോർട്ടുകൾ പ്രകാരം, തൊപ്പി അബദ്ധത്തിൽ ആവാസസ്ഥലത്തേക്ക് വീണതാണെന്ന് മൃഗശാല അറിയിച്ചു. സംഭവം അതിനുമുമ്പാണ് നടന്നത്; നവംബർ പത്തൊൻപതിലെ പുതിയ സംഭവമല്ല.",
+    "ആദ്യം ലക്ഷണങ്ങളില്ലായിരുന്നെങ്കിലും പിന്നീട് ഭക്ഷണം കഴിക്കുന്നത് കുറഞ്ഞു. ദ്രാവകങ്ങളും മരുന്നുകളും നൽകി തൊപ്പി സ്വാഭാവികമായി പുറത്തുപോകാൻ സഹായിക്കുകയാണ് ചികിത്സാസംഘം. വളർച്ചയെത്തിയ നീർക്കുതിരയ്ക്ക് ശസ്ത്രക്രിയ പ്രായോഗികമല്ലെന്നാണ് വിദഗ്ധരുമായി ആലോചിച്ച സംഘത്തിന്റെ വിശദീകരണം.",
+    "ഫിയോണ സുഖം പ്രാപിച്ചെന്ന സ്ഥിരീകരണം റിപ്പോർട്ടുകളിൽ നൽകിയിട്ടില്ല. പരിചരണം തുടരുന്നതിനാൽ സന്ദർശകർക്കായി പ്രദർശിപ്പിക്കുന്ന സ്ഥലത്തുനിന്ന് മാറ്റി നിരീക്ഷിക്കുകയാണ്."
+   ],
+   "srcs": [
+    [
+     "BBC News",
+     "https://www.bbc.com/news/articles/cm2d93z0e9gjo"
+    ],
+    [
+     "WVXU / NPR Cincinnati",
+     "https://www.wvxu.org/local-news/2026-11-18/cincinnati-zoo-monitor-fiona-hippo-health"
+    ],
+    [
+     "WLWT",
+     "https://www.wlwt.com/article/cincinnati-zoo-fiona-the-hippo-knit-cap-ingestion/74459033"
+    ],
+    [
+     "Cincinnati Zoo: Fiona profile",
+     "https://cincinnatizoo.org/fiona-the-world-famous-hippo/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/Df5VRZcmCrQ/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 1:40 AM IST on 19 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-19T01:40:25+05:30"
+  },
+  {
    "id": "gta-vi-rolling-midnight-launch",
    "cats": [
     "World",

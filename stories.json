@@ -1,0 +1,49 @@
+{
+ "stories": [
+  {
+   "id": "trump-china-shenzhen",
+   "cats": [
+    "World",
+    "Highlights"
+   ],
+   "title": "ട്രംപിന് ചൈനയിൽ സ്വീകരണം",
+   "en": "Trump arrives in China; talks with Xi and Putin planned for 19 Nov",
+   "sum": "ഷെൻഷെൻ വിമാനത്താവളത്തിൽ വരവേറ്റ് ഷി ജിൻപിങ് പുടിനുമായുള്ള ത്രിരാഷ്ട്ര ചർച്ച നവംബർ 19ന്",
+   "date": "18 Nov 2026",
+   "body": [
+    "ഡോണൾഡ് ട്രംപ് നവംബർ 18ന് ചൈനയിലെത്തി. ഷെൻഷെൻ വിമാനത്താവളത്തിൽ ഷി വരവേറ്റു. എപെക് നേതൃയോഗത്തിൽ പങ്കെടുക്കാനാണ് സന്ദർശനം. ഷിയും പുടിനും ട്രംപും നവംബർ 19ന് ഷെൻഷെനിൽ ത്രിരാഷ്ട്ര ചർച്ച നടത്തുമെന്ന് ചൈനീസ് വിദേശകാര്യ മന്ത്രാലയം അറിയിച്ചു. നവംബർ 18ന് ഷിയും പുടിനും കൂടിക്കാഴ്ച നടത്തി. ത്രിരാഷ്ട്ര ചർച്ചയുടെ ഫലം ഇനിയും പുറത്തുവന്നിട്ടില്ല."
+   ],
+   "srcs": [
+    [
+     "fmprc.gov.cn",
+     "https://www.fmprc.gov.cn/eng/xw/zyxw/202611/t20261118_12062188.html"
+    ],
+    [
+     "fmprc.gov.cn",
+     "https://www.fmprc.gov.cn/eng/xw/zyxw/202611/t20261116_12059663.html"
+    ],
+    [
+     "bbc.com",
+     "https://www.bbc.com/news/articles/ck9d75x5wwwwo"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/Df4wSjellhV/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 8:17 PM IST on 18 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-18T20:17:29+05:30",
+   "score": {
+    "l1": "Shenzhen | APEC leaders' meeting",
+    "n": "19 Nov",
+    "b": " talks planned",
+    "st": [
+     "Trump arrived 18 Nov",
+     "Xi welcomed at airport",
+     "Xi and Putin met 18 Nov"
+    ],
+    "ft": "Outcome of the planned talks not yet announced"
+   }
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+name: stories-intake
+on:
+  issues:
+    types: [opened]
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: site-content-write
+  cancel-in-progress: false
+jobs:
+  intake:
+    if: github.event.issue.user.login == 'shamilhabeebnelli' && startsWith(github.event.issue.title, 'STORY:')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate and add story
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          python3 - <<'PY'
+          import json, os, re, sys
+          from datetime import datetime, timezone, timedelta
+          raw = os.environ.get("ISSUE_BODY", "")
+          raw = re.sub(r"^```[a-z]*\s*|\s*```\s*$", "", raw.strip())
+          try:
+              d = json.loads(raw)
+          except Exception:
+              print("rejected: not valid JSON"); sys.exit(1)
+          ALLOWED = {"Breaking","Highlights","Kerala","India","World","Sports","Entertainment","Tech"}
+          def s(k, n):
+              v = d.get(k)
+              if not isinstance(v, str) or not v.strip() or len(v) > n:
+                  print("rejected: field", k); sys.exit(1)
+              return v.strip()
+          sid = s("id", 60)
+          if not re.fullmatch(r"[a-z0-9-]{3,60}", sid):
+              print("rejected: id"); sys.exit(1)
+          cats = d.get("cats")
+          if not isinstance(cats, list) or not cats or not all(c in ALLOWED for c in cats):
+              print("rejected: cats"); sys.exit(1)
+          body = d.get("body")
+          if not isinstance(body, list) or not body or len(body) > 8 or not all(isinstance(p, str) and 0 < len(p) <= 1200 for p in body):
+              print("rejected: body"); sys.exit(1)
+          srcs = d.get("srcs")
+          if not isinstance(srcs, list) or not srcs or len(srcs) > 8:
+              print("rejected: srcs"); sys.exit(1)
+          clean = []
+          for x in srcs:
+              if not (isinstance(x, list) and len(x) == 2 and isinstance(x[0], str) and isinstance(x[1], str) and x[1].startswith("https://") and len(x[1]) < 400 and len(x[0]) < 80):
+                  print("rejected: source entry"); sys.exit(1)
+              clean.append([x[0], x[1]])
+          ig = d.get("instagram_url")
+          if not (isinstance(ig, str) and ig.startswith("https://www.instagram.com/nelli.updates/")):
+              print("rejected: instagram_url"); sys.exit(1)
+          clean.append(["Instagram post (@nelli.updates)", ig])
+          try:
+              t = datetime.fromisoformat(d["published_at"]).astimezone(timezone(timedelta(hours=5, minutes=30)))
+          except Exception:
+              print("rejected: published_at"); sys.exit(1)
+          e = {"id": sid, "cats": cats, "title": s("title", 200), "en": s("en", 200), "sum": s("sum", 400),
+               "date": t.strftime("%-d %b %Y"), "body": [p.strip() for p in body], "srcs": clean,
+               "note": "Posted on Instagram @nelli.updates at about " + t.strftime("%-I:%M %p") + " IST on " + t.strftime("%-d %b %Y") + ". Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+               "published_at": t.isoformat()}
+          sc = d.get("score")
+          if isinstance(sc, dict):
+              try:
+                  e["score"] = {"l1": str(sc["l1"])[:80], "n": str(sc["n"])[:12], "b": str(sc.get("b", ""))[:30],
+                                "st": [str(z)[:40] for z in sc.get("st", [])][:4], "ft": str(sc.get("ft", ""))[:100]}
+              except Exception:
+                  pass
+          try:
+              j = json.load(open("stories.json"))
+          except Exception:
+              j = {"stories": []}
+          j["stories"] = [e] + [x for x in j["stories"] if x.get("id") != sid]
+          j["stories"] = j["stories"][:60]
+          json.dump(j, open("stories.json", "w"), ensure_ascii=False, indent=1)
+          print("added", sid)
+          PY
+      - name: Commit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add stories.json
+          git diff --cached --quiet || git commit -m "Add story from intake issue"
+          git pull --rebase -q && git push

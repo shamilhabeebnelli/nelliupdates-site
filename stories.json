@@ -1,6 +1,42 @@
 {
  "stories": [
   {
+   "id": "instagram-stories-fifteen-minute-editing",
+   "cats": [
+    "Tech",
+    "World"
+   ],
+   "title": "ഇൻസ്റ്റഗ്രാം സ്റ്റോറി ഇനി തിരുത്താം; പോസ്റ്റ് ചെയ്ത് പതിനഞ്ച് മിനിറ്റിനുള്ളിൽ",
+   "en": "Instagram rolls out 15-minute Story editing without losing views, likes or replies",
+   "sum": "ടെക്സ്റ്റ്, സംഗീതം, സ്റ്റിക്കറുകൾ, വരകൾ എന്നിവ മാറ്റാം. സ്റ്റോറി ഡിലീറ്റ് ചെയ്ത് വീണ്ടും ഇടാതെ തന്നെ തിരുത്താനുള്ള സൗകര്യം ഘട്ടംഘട്ടമായി ലഭ്യമാകുന്നു.",
+   "date": "19 Nov 2026",
+   "body": [
+    "പോസ്റ്റ് ചെയ്ത സ്റ്റോറികൾ പതിനഞ്ച് മിനിറ്റിനുള്ളിൽ തിരുത്താനുള്ള സൗകര്യം ഇൻസ്റ്റഗ്രാം അവതരിപ്പിച്ചു. ടെക്സ്റ്റ്, സംഗീതം, സ്റ്റിക്കറുകൾ, വരകൾ എന്നിവ മാറ്റാമെന്ന് ഇൻസ്റ്റഗ്രാം മേധാവി ആദം മൊസേരി അറിയിച്ചു.",
+    "സ്റ്റോറി ഡിലീറ്റ് ചെയ്ത് വീണ്ടും പങ്കുവയ്ക്കേണ്ടതില്ല. നിലവിലെ വ്യൂസും ലൈക്കുകളും മറുപടികളും നിലനിൽക്കും. സ്റ്റോറിയിലെ മെനുവിൽ എഡിറ്റ് സ്റ്റോറി തിരഞ്ഞെടുക്കാം. തിരുത്തിയ സ്റ്റോറിയിൽ എഡിറ്റഡ് അടയാളം കാണിക്കും.",
+    "പുതിയ സൗകര്യം ഘട്ടംഘട്ടമായാണ് ലഭ്യമാകുന്നത്. അതിനാൽ എല്ലാ അക്കൗണ്ടിലും ഒരേസമയം കാണണമെന്നില്ല. പ്രഖ്യാപനം ടെക്സ്റ്റ്, സംഗീതം, സ്റ്റിക്കറുകൾ, വരകൾ എന്നിവയുടെ തിരുത്തലിനെക്കുറിച്ചാണ്; സ്റ്റോറിയിലെ ഫോട്ടോയോ വീഡിയോയോ മാറ്റാമെന്ന അവകാശവാദമല്ല."
+   ],
+   "srcs": [
+    [
+     "Adam Mosseri / Instagram",
+     "https://www.instagram.com/p/Df5GaO_pUH3/?img_index=1"
+    ],
+    [
+     "The Verge",
+     "https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them"
+    ],
+    [
+     "Engadget",
+     "https://www.engadget.com/2320953/you-can-finally-edit-an-instagram-story-without-deleting-it/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/Df5tXgbmKqB/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 5:10 AM IST on 19 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-19T05:10:58+05:30"
+  },
+  {
    "id": "us-outages-no-coordinated-cyberattack-evidence",
    "cats": [
     "World",

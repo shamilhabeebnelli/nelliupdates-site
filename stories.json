@@ -1,6 +1,44 @@
 {
  "stories": [
   {
+   "id": "buchanan-sentenced-six-years",
+   "cats": [
+    "World",
+    "Tech",
+    "Highlights"
+   ],
+   "title": "ക്രിപ്റ്റോ തട്ടിപ്പ്: ആറു വർഷം തടവ്",
+   "en": "British hacker Tyler Buchanan sentenced to six years in US crypto theft case",
+   "sum": "ടൈലർ റോബർട്ട് ബുക്കാനന് 72 മാസം തടവ്. സ്കോട്ട്ലൻഡിലെ ഡണ്ടി സ്വദേശിക്ക് യുഎസിൽ ശിക്ഷ. കുറ്റം സമ്മതിച്ച കേസിലാണ് നവംബർ 17ലെ വിധി.",
+   "date": "18 Nov 2026",
+   "body": [
+    "ടൈലർ റോബർട്ട് ബുക്കാനന് 72 മാസം തടവ്. സ്കോട്ട്ലൻഡിലെ ഡണ്ടി സ്വദേശിക്ക് യുഎസിൽ ശിക്ഷ. കുറ്റം സമ്മതിച്ച കേസിലാണ് നവംബർ 17ലെ വിധി. കമ്പനികളെ ലക്ഷ്യമിട്ട എസ്എംഎസ് ഫിഷിങ്ങും വ്യക്തികളുടെ ക്രിപ്റ്റോ കറൻസി മോഷണവുമാണ് കേസ്. സംഘം തട്ടിയത് ഒരു കോടി പതിനാറ് ലക്ഷം ഡോളറിലേറെയെന്ന് യുഎസ് നീതിന്യായ വകുപ്പ്. നഷ്ടപരിഹാരത്തിൽ ഡിസംബർ 11ന് വാദം കേൾക്കും."
+   ],
+   "srcs": [
+    [
+     "US Department of Justice",
+     "https://www.justice.gov/usao-cdca/pr/british-national-sentenced-6-years-federal-prison-hacking-companies-and-stealing-least"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/Df4402_llM1/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 9:32 PM IST on 18 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-18T21:32:00+05:30",
+   "score": {
+    "l1": "US Justice Department | Sentencing",
+    "n": "72",
+    "b": " months",
+    "st": [
+     "Over $11.6 million",
+     "Guilty plea",
+     "Hearing 11 Dec"
+    ],
+    "ft": "Sentence announced 17 Nov 2026"
+   }
+  },
+  {
    "id": "icc-india-slow-over-rate",
    "cats": [
     "Sports",

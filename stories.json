@@ -1,6 +1,49 @@
 {
  "stories": [
   {
+   "id": "caltech-nanosyringes-plant-cells",
+   "cats": [
+    "Tech",
+    "Highlights"
+   ],
+   "title": "സസ്യകോശങ്ങളിലേക്ക് നാനോസിറിഞ്ച്",
+   "en": "Caltech nanosyringes deliver active proteins into plant cells in lab study",
+   "sum": "സസ്യകോശങ്ങളിലേക്ക് പ്രോട്ടീനുകൾ എത്തിക്കാൻ ബാക്ടീരിയയിലെ സൂക്ഷ്മ സംവിധാനത്തെ മാറ്റിയെടുത്തു.",
+   "date": "18 Nov 2026",
+   "body": [
+    "സസ്യകോശങ്ങളിലേക്ക് പ്രോട്ടീനുകൾ എത്തിക്കാൻ ബാക്ടീരിയയിലെ സൂക്ഷ്മ സംവിധാനത്തെ മാറ്റിയെടുത്തു. കോശത്തിലെ പ്രത്യേക റിസപ്റ്ററിനെ തിരിച്ചറിഞ്ഞാണ് പ്രവർത്തനം. അറബിഡോപ്സിസ്, നിക്കോട്ടിയാന എന്നീ സസ്യങ്ങളിലായിരുന്നു പരീക്ഷണം.",
+    "ഇലകളിലെ കോശങ്ങളിൽ എൻസൈമുകൾ സജീവമായി പ്രവർത്തിച്ചു. നിർദിഷ്ട സ്ഥാനത്ത് ജീൻ ചേർക്കാനും ഗവേഷകർക്ക് കഴിഞ്ഞു. നേച്ചർ നാനോടെക്നോളജിയിൽ നവംബർ 18ന് പഠനം പ്രസിദ്ധീകരിച്ചു. കൃഷിയിടങ്ങളിൽ ഉപയോഗിക്കാൻ കൂടുതൽ വികസനം വേണം.",
+    "Note: this is a peer-reviewed lab study only. Further development is needed before field use. It does not show improved crop yields, commercial availability or editing without foreign DNA."
+   ],
+   "srcs": [
+    [
+     "Nature Nanotechnology",
+     "https://www.nature.com/articles/s41565-026-02323-w"
+    ],
+    [
+     "Caltech",
+     "https://www.caltech.edu/about/news/engineered-nanosyringes-open-a-new-route-into-plant-cells"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/Df457U9lozA/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 9:41 PM IST on 18 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-18T21:41:24+05:30",
+   "score": {
+    "l1": "Nature Nanotechnology | Caltech",
+    "n": "18 Nov",
+    "b": " study published",
+    "st": [
+     "Lab study",
+     "Arabidopsis and Nicotiana",
+     "Not ready for farms"
+    ],
+    "ft": "Further development needed before field use"
+   }
+  },
+  {
    "id": "buchanan-sentenced-six-years",
    "cats": [
     "World",

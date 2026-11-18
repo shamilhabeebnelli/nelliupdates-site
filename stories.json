@@ -1,6 +1,42 @@
 {
  "stories": [
   {
+   "id": "pochettino-starts-work-manchester-united",
+   "cats": [
+    "Sports",
+    "World"
+   ],
+   "title": "പൊച്ചെറ്റിനോ എത്തി; യുണൈറ്റഡിൽ ജോലി തുടങ്ങി",
+   "en": "Pochettino arrives at Carrington and starts work as Manchester United head coach",
+   "sum": "യുഎസ് ടീമിലെ ദൗത്യം പൂർത്തിയാക്കിയ മൗറീസിയോ പൊച്ചെറ്റിനോ ബുധനാഴ്ച മാഞ്ചസ്റ്റർ യുണൈറ്റഡിൽ ജോലി തുടങ്ങി.",
+   "date": "18 Nov 2026",
+   "body": [
+    "മൗറീസിയോ പൊച്ചെറ്റിനോ മാഞ്ചസ്റ്റർ യുണൈറ്റഡിന്റെ മുഖ്യ പരിശീലകനായി ജോലി തുടങ്ങി. യുഎസ് ടീമിലെ അവസാന മത്സരങ്ങൾക്കു ശേഷം സിന്‍സിനാറ്റിയിൽ നിന്ന് മാഞ്ചസ്റ്ററിലേക്ക് പറന്നു.",
+    "ബുധനാഴ്ച നേരെ കാരിങ്ടണിലെ പരിശീലന കേന്ദ്രത്തിലെത്തി. താരങ്ങളെയും ജീവനക്കാരെയും കണ്ടു; കേന്ദ്രം സന്ദർശിച്ചു. കഴിഞ്ഞ വെള്ളിയാഴ്ചയാണ് നിയമനം പ്രഖ്യാപിച്ചത്.",
+    "ഞായറാഴ്ച ലിവർപൂളിനെതിരെയാണ് ആദ്യ മത്സരം. ആൻഫീൽഡിലാണ് യുണൈറ്റഡിന്റെ അടുത്ത മത്സരം."
+   ],
+   "srcs": [
+    [
+     "Manchester United",
+     "https://www.manutd.com/en/news/pochettino-and-staff-officially-start-work-at-man-united"
+    ],
+    [
+     "PA via The Leader",
+     "https://www.leaderlive.co.uk/sport/national/26741119.mauricio-pochettino-arrives-man-utd-training-ground-start-role-new-boss/"
+    ],
+    [
+     "The Standard",
+     "https://www.standard.co.uk/sport/football/man-utd-training-pochettino-carrington-b1305393.html"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/Df4_2eXlvZQ/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 10:33 PM IST on 18 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-18T22:33:14+05:30"
+  },
+  {
    "id": "karnataka-mizoram-manvanth-five",
    "cats": [
     "Sports",

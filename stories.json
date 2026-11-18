@@ -1,6 +1,42 @@
 {
  "stories": [
   {
+   "id": "fifa-november-spain-top-morocco-fifth",
+   "cats": [
+    "Sports",
+    "World"
+   ],
+   "title": "സ്പെയിൻ ഒന്നാമത് തുടരുന്നു; മൊറോക്കോ അഞ്ചാം സ്ഥാനത്ത്",
+   "en": "Spain stay top as Morocco reach a record fifth in FIFA's 18 November men's ranking",
+   "sum": "ഫിഫ പുരുഷ ലോക റാങ്കിങ്ങിൽ രണ്ട് സ്ഥാനം കയറിയ മൊറോക്കോ അഞ്ചാമതെത്തി. കൊളംബിയ ആദ്യ പത്തിൽ തിരിച്ചെത്തി.",
+   "date": "19 Nov 2026",
+   "body": [
+    "ഫിഫ പുരുഷ ലോക റാങ്കിങ്ങിൽ സ്പെയിൻ ഒന്നാമത് തുടരുന്നു. അർജന്റീന രണ്ടാം സ്ഥാനത്തും ഫ്രാൻസ് മൂന്നാമതുമാണ്. ഇംഗ്ലണ്ട് നാലാം സ്ഥാനത്ത് തുടരുന്നു.",
+    "രണ്ട് സ്ഥാനം കയറിയ മൊറോക്കോ അഞ്ചാമതെത്തി. മൊറോക്കോയുടെ ഏറ്റവും മികച്ച റാങ്കാണിത്. പോർച്ചുഗൽ ആറാമത്; ബ്രസീൽ ഏഴാമത്.",
+    "ബെൽജിയം എട്ടാമത്; നെതർലൻഡ്സ് ഒൻപതാമത്. കൊളംബിയ പത്താമതെത്തി ആദ്യ പത്തിൽ തിരിച്ചെത്തി. നവംബർ പതിനെട്ടിലെ പട്ടികയാണിത്."
+   ],
+   "srcs": [
+    [
+     "FIFA men's ranking",
+     "https://inside.fifa.com/en/fifa-rankings"
+    ],
+    [
+     "FIFA November release",
+     "https://www.fifa.com/es/news/articles/ranking-fifa-noviembre-2026"
+    ],
+    [
+     "Italian Football Federation",
+     "https://www.figc.it/en/national-teams/news/italy-climb-to-14th-in-fifa-world-ranking-as-spain-lose-unbeaten-record-but-remain-top-j81xfi04"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/Df5PJSBFg3B/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 12:46 AM IST on 19 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-19T00:46:51+05:30"
+  },
+  {
    "id": "pochettino-starts-work-manchester-united",
    "cats": [
     "Sports",

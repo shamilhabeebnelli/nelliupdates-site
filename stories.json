@@ -1,6 +1,47 @@
 {
  "stories": [
   {
+   "id": "anthropic-nasdaq-trading-debut-ant",
+   "cats": [
+    "Tech",
+    "World"
+   ],
+   "title": "ആന്ത്രോപിക് നാസ്ഡാക്കിൽ: ഓഹരി വ്യാപാരം തുടങ്ങി",
+   "en": "Anthropic begins trading on Nasdaq after its IPO",
+   "sum": "ക്ലോഡ് നിർമാതാക്കളായ ആന്ത്രോപിക് നാസ്ഡാക്കിൽ ഓഹരി വ്യാപാരം തുടങ്ങി. ആദ്യ വ്യാപാര വില ഐപിഒ വിലയെ മറികടന്നതായി സിഎൻബിസി റിപ്പോർട്ട് ചെയ്തു. ആദ്യ വ്യാപാര വില ഇപ്പോഴത്തെ വിപണി വിലയല്ല.",
+   "date": "19 Nov 2026",
+   "body": [
+    "ക്ലോഡ് നിർമാതാക്കളായ ആന്ത്രോപിക് വ്യാഴാഴ്ച നാസ്ഡാക്കിൽ ഓഹരി വ്യാപാരം തുടങ്ങി. എഎൻടി എന്ന ടിക്കറിലാണ് വ്യാപാരം. കമ്പനിയുടെ ഐപിഒയെ അടയാളപ്പെടുത്തി ഡാരിയോ അമോഡെയും ഡാനിയേല അമോഡെയും ഉദ്ഘാടന മണി മുഴക്കിയതായി നാസ്ഡാക്കിന്റെ ഔദ്യോഗിക പരിപാടി വിവരം വ്യക്തമാക്കുന്നു.",
+    "ഐപിഒ വില ബുധനാഴ്ചയാണ് കമ്പനി പ്രഖ്യാപിച്ചത്. ആദ്യ വ്യാപാരത്തിലെ വില ഐപിഒ വിലയെ മറികടന്നതായി സിഎൻബിസിയും ദി വെർജും റിപ്പോർട്ട് ചെയ്തു. ഇത് ആദ്യ വ്യാപാരത്തെക്കുറിച്ചുള്ള വിവരമാണ്; ഇപ്പോഴത്തെ വിപണി വിലയായി കാണരുത്.",
+    "ഓഹരി വ്യാപാരം തുടങ്ങുന്നതും ഐപിഒയുടെ ഔപചാരിക പൂർത്തിയാക്കലും ഒരേ ഘട്ടമല്ല. പതിവ് നിബന്ധനകൾ പാലിക്കുന്നതിന് വിധേയമായി വെള്ളിയാഴ്ച ഐപിഒ പൂർത്തിയാക്കൽ പ്രതീക്ഷിക്കുന്നതായി കമ്പനിയുടെ അറിയിപ്പിൽ പറയുന്നു.",
+    "ഈ വാർത്ത ഓഹരി വാങ്ങാനോ വിൽക്കാനോ ഉള്ള ശുപാർശയല്ല. ഇൻസ്റ്റാഗ്രാം കാർഡിലെ ചിത്രം നവംബർ പത്തൊമ്പതിന് നാസ്ഡാക്കിൽ ഡാരിയോ അമോഡെ സംസാരിക്കുന്നതിന്റെതാണ്."
+   ],
+   "srcs": [
+    [
+     "Nasdaq official IPO opening-bell event",
+     "https://www.nasdaq.com/events/anthropic-pbc-rings-opening-bell"
+    ],
+    [
+     "Anthropic original IPO pricing notice",
+     "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+    ],
+    [
+     "CNBC live debut reporting",
+     "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html"
+    ],
+    [
+     "The Verge debut report",
+     "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/Df7rS1XloVt/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 11:31 PM IST on 19 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-19T23:31:25+05:30"
+  },
+  {
    "id": "riyadh-financial-district-tower-damage-no-injuries",
    "cats": [
     "World"

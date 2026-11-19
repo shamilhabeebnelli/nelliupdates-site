@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "miami-heat-bucks-giannis-former-team-result",
+   "cats": [
+    "Sports"
+   ],
+   "title": "മിൽവോക്കിയെ വീഴ്ത്തി മയാമി ഹീറ്റ്; യാനിസിന് ഇരുപത്തിയേഴ് പോയിന്റ്",
+   "en": "Heat beat Bucks 137-130 as Giannis scores 27 against his former team",
+   "sum": "എൻബിഎയിൽ മിൽവോക്കി ബക്സിനെ മയാമി ഹീറ്റ് നൂറ്റിമുപ്പത്തിയേഴ്, നൂറ്റിമുപ്പത് എന്ന സ്കോറിന് തോൽപ്പിച്ചു. മുൻ ടീമിനെതിരെ യാനിസ് ആന്ററ്റോകൗൺംപോ ഇരുപത്തിയേഴ് പോയിന്റ് നേടി.",
+   "date": "19 Nov 2026",
+   "body": [
+    "എൻബിഎയിൽ മിൽവോക്കി ബക്സിനെ മയാമി ഹീറ്റ് തോൽപ്പിച്ചു. എൻബിഎയുടെ ഔദ്യോഗിക ഫൈനൽ സ്കോർ പ്രകാരം ഹീറ്റിന് നൂറ്റിമുപ്പത്തിയേഴ് പോയിന്റും ബക്സിന് നൂറ്റിമുപ്പത് പോയിന്റുമാണ്.",
+    "അമേരിക്കൻ പ്രാദേശിക സമയപ്രകാരം നവംബർ പതിനെട്ടിന് മയാമിയിലെ കാസേയ സെന്ററിലാണ് മത്സരം നടന്നത്.",
+    "യാനിസ് ആന്ററ്റോകൗൺംപോ ഇരുപത്തിയേഴ് പോയിന്റ് നേടി. തന്റെ മുൻ ടീമായ ബക്സിനെതിരെ യാനിസിന്റെ ആദ്യ മത്സരമായിരുന്നുവെന്ന് എൻബിഎയുടെ ഔദ്യോഗിക റീക്യാപ് പറയുന്നു. ബാം അഡബായോ ഇരുപത്തിയാറ് പോയിന്റുമായി പിന്തുണച്ചു."
+   ],
+   "srcs": [
+    [
+     "NBA official final box score",
+     "https://www.nba.com/game/mil-vs-mia-0022600260/box-score"
+    ],
+    [
+     "NBA official game recap",
+     "https://www.nba.com/watch/video/game-recap-heat-137-bucks-130-nov-18"
+    ],
+    [
+     "NBC 6 South Florida match report",
+     "https://www.nbcmiami.com/nba/heat-bucks-score-vice-city-gta-6/3890211/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/Df6vgFTFrd3/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 2:48 PM IST on 19 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-19T14:48:52+05:30"
+  },
+  {
    "id": "dubai-global-village-weekend-fireworks-return",
    "cats": [
     "World",

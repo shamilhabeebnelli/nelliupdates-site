@@ -1,6 +1,46 @@
 {
  "stories": [
   {
+   "id": "db-cooper-1971-unsolved-historical-case",
+   "cats": [
+    "World"
+   ],
+   "title": "ഡി.ബി. കൂപ്പർ: ആകാശത്തുനിന്ന് അപ്രത്യക്ഷനായ മനുഷ്യൻ",
+   "en": "D.B. Cooper: the unresolved1971 skyjacking case",
+   "sum": "1971ലെ വിമാനത്തട്ടിക്കൊണ്ടുപോകലിനു പിന്നാലെ മോചനദ്രവ്യവുമായി അപ്രത്യക്ഷനായ ഡി.ബി. കൂപ്പറിന്റെ വ്യക്തിത്വവും വിധിയും സ്ഥിരീകരിച്ചിട്ടില്ല. എഫ് ബി ഐ രേഖകൾ അടിസ്ഥാനമാക്കിയ ചരിത്ര വിശദീകരണം.",
+   "date": "20 Nov 2026",
+   "body": [
+    "1971 നവംബർ24ന് ഡാൻ കൂപ്പർ എന്ന പേരിൽ ടിക്കറ്റെടുത്ത ഒരാൾ അമേരിക്കയിലെ പോർട്ട്ലൻഡിൽനിന്ന് വിമാനത്തിൽ കയറി. ബോംബുണ്ടെന്ന് ഭീഷണിപ്പെടുത്തി രണ്ട് ലക്ഷം ഡോളറും നാല് പാരച്യൂട്ടുകളും ആവശ്യപ്പെട്ടു. സിയാറ്റിലിൽ യാത്രക്കാരെ വിട്ടയച്ച ശേഷം വിമാനം വീണ്ടും പറന്നു.",
+    "പിന്നീട് വിമാനത്തിന്റെ പിൻഭാഗത്തുനിന്ന് മോചനദ്രവ്യവുമായി അയാൾ പാരച്യൂട്ടിൽ ചാടിയെന്നാണ് എഫ് ബി ഐയുടെ കേസ് വിവരണം. ആളുടെ യഥാർത്ഥ വ്യക്തിത്വവും യാത്രയുടെ അവസാനവും തെളിഞ്ഞിട്ടില്ല.",
+    "1980ൽ മോചനദ്രവ്യത്തിലെ ചില നോട്ടുകൾ നദിക്കരയിൽ കണ്ടെത്തി. അവയുടെ സീരിയൽ നമ്പറുകൾ കേസുമായി ബന്ധപ്പെട്ടു. ആ കണ്ടെത്തൽ മാത്രം അയാളുടെ വിധി തെളിയിക്കുന്നില്ല. വിവിധ വ്യക്തികളെക്കുറിച്ചുള്ള അവകാശവാദങ്ങളെ സ്ഥിരീകരിച്ച തിരിച്ചറിയലായി കാണരുത്.",
+    "2016ൽ എഫ് ബി ഐ കേസിന്റെ സജീവ അന്വേഷണത്തിനുള്ള വിഭവങ്ങൾ മറ്റ് മുൻഗണനകളിലേക്ക് മാറ്റുന്നതായി അറിയിച്ചു. കേസ് തെളിഞ്ഞു എന്നല്ല അതിനർത്ഥം. ഇത്1971ലെ ചരിത്രകേസിനെക്കുറിച്ചുള്ള വിവരണമാണ്, പുതിയ ബ്രേക്കിങ് വാർത്തയല്ല. കാണിച്ചിരിക്കുന്നത് എഫ് ബി ഐയുടെ കലാകാരൻ തയ്യാറാക്കിയ സംയുക്ത രേഖാചിത്രമാണ്; കൂപ്പറിന്റെ സ്ഥിരീകരിച്ച ഫോട്ടോയല്ല."
+   ],
+   "srcs": [
+    [
+     "FBI case history and archive",
+     "https://www.fbi.gov/history/cases-and-criminals/db-cooper-hijacking"
+    ],
+    [
+     "FBI2016 investigation update",
+     "https://www.fbi.gov/contact-us/field-offices/seattle/news/press-releases/update-on-investigation-of-1971-hijacking-by-d.b.-cooper"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/reel/Df8ICA_PF4e/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 3:44 AM IST on 20 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-20T03:44:19+05:30",
+   "image": {
+    "file": "images/4-cooper-fbi-site.png",
+    "alt": "FBI artist composite sketch associated with the D.B. Cooper case",
+    "label": "FBI artist composite. Not a confirmed photograph.",
+    "credit": "Federal Bureau of Investigation / Wikimedia Commons",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:DB_Cooper_(FBI_composite_sketch).png"
+   }
+  },
+  {
    "id": "mary-celeste-ten-missing-historical-mystery",
    "cats": [
     "World"

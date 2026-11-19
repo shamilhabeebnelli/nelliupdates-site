@@ -1,6 +1,42 @@
 {
  "stories": [
   {
+   "id": "riyadh-financial-district-tower-damage-no-injuries",
+   "cats": [
+    "World"
+   ],
+   "title": "റിയാദിലെ ധനകാര്യ ടവറിന് കേടുപാട്; പരിക്കുകൾ റിപ്പോർട്ട് ചെയ്തിട്ടില്ലെന്ന് സൗദി",
+   "en": "Riyadh tower damaged, no injuries reported: Saudi Civil Defense",
+   "sum": "ധനകാര്യ മേഖലയിലെ ടവറിന്റെ പല നിലകൾക്കും സമീപ കെട്ടിടങ്ങൾക്കും കേടുപാടുണ്ടായതായി സൗദി സിവിൽ ഡിഫൻസ് അറിയിച്ചു. ഹൂതികൾ നടത്തിയ ആക്രമണമെന്നാണ് ഔദ്യോഗിക പ്രസ്താവന. ഇത് പുതിയ സജീവ അപകട മുന്നറിയിപ്പല്ല.",
+   "date": "19 Nov 2026",
+   "body": [
+    "റിയാദിലെ ധനകാര്യ മേഖലയിലെ ഒരു ടവറിനും സമീപ കെട്ടിടങ്ങൾക്കും കേടുപാടുണ്ടായതായി സൗദി സിവിൽ ഡിഫൻസ് അറിയിച്ചു. നവംബർ പത്തൊമ്പതിന് സൗദി പ്രസ് ഏജൻസി പ്രസിദ്ധീകരിച്ച പ്രസ്താവനയിലാണ് വിവരം.",
+    "ഹൂതികൾ നടത്തിയ ആക്രമണമാണ് സംഭവത്തിന് കാരണമെന്നാണ് സൗദി അധികൃതരുടെ അറിയിപ്പ്. ടവറിന്റെ പല നിലകൾക്കും സമീപ കെട്ടിടങ്ങൾക്കും ഭൗതിക നാശമുണ്ടായെങ്കിലും പരിക്കുകൾ റിപ്പോർട്ട് ചെയ്തിട്ടില്ലെന്ന് പ്രസ്താവന വ്യക്തമാക്കുന്നു.",
+    "സംഭവത്തെത്തുടർന്ന് ബന്ധപ്പെട്ട വിഭാഗങ്ങളും രക്ഷാപ്രവർത്തകരും ഉടൻ സ്ഥലത്തെത്തിയതായി അധികൃതർ അറിയിച്ചു. ജീവനും സ്വത്തിനും സംരക്ഷണം നൽകാനുള്ള നിശ്ചിത നടപടികൾ സ്വീകരിച്ചതായും പ്രസ്താവന പറയുന്നു.",
+    "ഔദ്യോഗികമായി സ്ഥിരീകരിച്ച നാശനഷ്ടത്തെക്കുറിച്ചുള്ള വാർത്തയാണിത്. പുതിയ സജീവ അപകട മുന്നറിയിപ്പായോ ഇപ്പോഴത്തെ സുരക്ഷാസ്ഥിതിയുടെ സമ്പൂർണ വിലയിരുത്തലായോ ഇതിനെ കാണരുത്. ഇൻസ്റ്റാഗ്രാം കാർഡിലെ റിയാദ് നഗരചിത്രം ഫയൽ ചിത്രമാണ്; ആക്രമണത്തിന്റെ ദൃശ്യമല്ല."
+   ],
+   "srcs": [
+    [
+     "Saudi Press Agency original Civil Defense statement",
+     "https://www.spa.gov.sa/en/N2731674"
+    ],
+    [
+     "Reuters via Al Jazeera",
+     "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south"
+    ],
+    [
+     "Anadolu report",
+     "https://www.aa.com.tr/en/middle-east/houthi-attack-damages-tower-in-riyadhs-financial-district-saudi-civil-defense/4131230"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/Df7kA-1Fv3t/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 10:27 PM IST on 19 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-19T22:27:49+05:30"
+  },
+  {
    "id": "saudi-minimum-top-up-tax-multinationals-2027",
    "cats": [
     "World"

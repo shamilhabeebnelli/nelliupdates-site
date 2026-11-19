@@ -420,7 +420,15 @@
     ]
    ],
    "note": "Posted on Instagram @nelli.updates at about 4:57 PM IST on 19 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
-   "published_at": "2026-11-19T16:57:34+05:30"
+   "published_at": "2026-11-19T16:57:34+05:30",
+   "image": {
+    "file": "images/trump-xi-g20-2019.jpg",
+    "alt": "Trump and Xi at a bilateral meeting in Osaka in 2019, not the 2026 summit",
+    "label": "File photo: Trump and Xi in Osaka, 2019. Not the 2026 three-leader summit. Putin is not pictured.",
+    "credit": "The White House / Shealah Craighead",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:President_Trump_at_the_G20_(48162294616).jpg"
+   }
   },
   {
    "id": "grace-harris-thunder-unbeaten-century-wbbl",
@@ -623,7 +631,15 @@
     ]
    ],
    "note": "Posted on Instagram @nelli.updates at about 10:25 AM IST on 19 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
-   "published_at": "2026-11-19T10:25:00+05:30"
+   "published_at": "2026-11-19T10:25:00+05:30",
+   "image": {
+    "file": "images/4-musk-nasa2012-cropped.jpg",
+    "alt": "Elon Musk on NASA TV in May 2012, cropped archive portrait",
+    "label": "File photo: Elon Musk, May 2012. Not from the 2026 election interview. Cropped.",
+    "credit": "NASA/VOA via Wikimedia Commons",
+    "license": "Public domain, cropped",
+    "page": "https://commons.wikimedia.org/wiki/File:Elon_musk_nasa_tv.jpg"
+   }
   },
   {
    "id": "avengers-doomsday-eleven-character-posters",

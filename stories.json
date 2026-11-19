@@ -1,6 +1,50 @@
 {
  "stories": [
   {
+   "id": "mary-celeste-ten-missing-historical-mystery",
+   "cats": [
+    "World"
+   ],
+   "title": "മേരി സെലെസ്റ്റ്: കപ്പലിലെ പത്തുപേർ എവിടെപ്പോയി?",
+   "en": "Mary Celeste: an unresolved historical maritime mystery",
+   "sum": "1872ൽ അറ്റ്ലാന്റിക്കിൽ ആളില്ലാതെ കണ്ടെത്തിയ മേരി സെലെസ്റ്റ് കപ്പലിലുണ്ടായിരുന്ന പത്തുപേരുടെ വിധി ഇന്നും വ്യക്തമല്ല. രേഖപ്പെടുത്തിയ വിവരങ്ങളും പിന്നീട് പ്രചരിച്ച കഥകളും വേർതിരിച്ചറിയണം.",
+   "date": "20 Nov 2026",
+   "body": [
+    "1872 നവംബറിൽ ന്യൂയോർക്കിൽനിന്ന് ഇറ്റലിയിലെ ജെനോവയിലേക്ക് പുറപ്പെട്ട മേരി സെലെസ്റ്റിൽ ക്യാപ്റ്റൻ ബെഞ്ചമിൻ ബ്രിഗ്സ്, ഭാര്യ, രണ്ടുവയസ്സുള്ള മകൾ, ഏഴ് ജീവനക്കാർ എന്നിവരുണ്ടായിരുന്നു. ഡിസംബറിൽ അസോറസ് ദ്വീപുകൾക്കടുത്ത് കപ്പൽ ആളില്ലാതെ ഒഴുകിനടക്കുന്നത് ഡെയ് ഗ്രേഷ്യയിലെ ജീവനക്കാർ കണ്ടെത്തി.",
+    "കപ്പലിൽ ചരക്കും ഭക്ഷണസാധനങ്ങളും ശേഷിച്ചിരുന്നു. ചെറിയ ബോട്ട് കാണാനില്ലായിരുന്നു. വെള്ളം കയറിയതും ഒരു പമ്പ് അഴിച്ച നിലയിലായിരുന്നതും രേഖപ്പെടുത്തിയ വിവരങ്ങളാണ്. കപ്പൽ പിന്നീട് രക്ഷാപ്രവർത്തകർ ജിബ്രാൾട്ടറിലെത്തിച്ചു.",
+    "കപ്പൽ മുങ്ങുമെന്ന ഭയം യാത്രക്കാരെ ബോട്ടിലേക്കിറങ്ങാൻ പ്രേരിപ്പിച്ചിരിക്കാം എന്ന വിശദീകരണമുണ്ട്. അത് തെളിയിക്കപ്പെട്ട അന്തിമ ഉത്തരമല്ല. ആ പത്തുപേരുടെ വിധി സ്ഥിരീകരിച്ചിട്ടില്ല. അക്രമം, കടൽഭീകരൻ, അതീന്ദ്രിയ സംഭവം എന്നിവയെ തെളിഞ്ഞ വസ്തുതയായി അവതരിപ്പിക്കാൻ തെളിവില്ല.",
+    "ഇത് ചരിത്രകേസിനെക്കുറിച്ചുള്ള വിശദീകരണമാണ്, പുതിയ ബ്രേക്കിങ് വാർത്തയല്ല. കണ്ടെത്തിയ കൃത്യദിവസത്തിൽ പരിശോധിച്ച സ്രോതസ്സുകൾക്കിടയിൽ വ്യത്യാസമുള്ളതിനാൽ ഡിസംബർ എന്ന് മാത്രമാണ് ഇവിടെ പറയുന്നത്. ചിത്രം 1861ലെ പെയിന്റിങ്ങാണ്; അന്ന് കപ്പലിന്റെ പേര് ആമസോൺ എന്നായിരുന്നു. ആളുകൾ കാണാതായ സംഭവത്തിന്റെ ഫോട്ടോയല്ല."
+   ],
+   "srcs": [
+    [
+     "Royal Museums Greenwich: historical case",
+     "https://www.rmg.co.uk/stories/maritime-history/mystery-mary-celeste"
+    ],
+    [
+     "Smithsonian: historical reporting, 2024",
+     "https://www.smithsonianmag.com/smart-news/an-abandoned-merchant-ship-was-discovered-floating-in-the-atlantic-1872-the-mystery-its-missing-crew-never-solved-180985547/"
+    ],
+    [
+     "Sippican Historical Society exhibit",
+     "https://sippicanhistoricalsociety.org/exhibits/current-exhibits/the-mary-celeste-room/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/reel/Df8HB06v4nt/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 3:36 AM IST on 20 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-20T03:36:06+05:30",
+   "image": {
+    "file": "images/3-amazon1861.jpg",
+    "alt": "1861 painting of the ship Amazon, later renamed Mary Celeste",
+    "label": "Historical painting,1861: ship then named Amazon. Not a disappearance photo.",
+    "credit": "Artist unconfirmed / Wikimedia Commons",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Mary_Celeste_as_Amazon_in_1861.jpg"
+   }
+  },
+  {
    "id": "nasa-rs25-developmental-engine-nov18-hot-fire",
    "cats": [
     "Tech",

@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "uk-october-cpi-inflation-three-point-six",
+   "cats": [
+    "World"
+   ],
+   "title": "ബ്രിട്ടനിൽ ഒക്ടോബറിലെ പണപ്പെരുപ്പം മൂന്ന് ദശാംശം ആറ് ശതമാനമായി ഉയർന്നു",
+   "en": "UK October CPI inflation rises to 3.6% from 3.5%, led by transport and fuel",
+   "sum": "ഒക്ടോബറിലെ വാർഷിക ഉപഭോക്തൃ പണപ്പെരുപ്പം സെപ്റ്റംബറിലെ മൂന്ന് ദശാംശം അഞ്ച് ശതമാനത്തിൽനിന്ന് ഉയർന്നു. ഗതാഗതവും ഇന്ധനവിലകളും പ്രധാന സ്വാധീനം ചെലുത്തി.",
+   "date": "19 Nov 2026",
+   "body": [
+    "ബ്രിട്ടനിലെ ഒക്ടോബർ മാസത്തെ വാർഷിക ഉപഭോക്തൃ പണപ്പെരുപ്പം മൂന്ന് ദശാംശം ആറ് ശതമാനമായി ഉയർന്നു. സെപ്റ്റംബറിൽ ഇത് മൂന്ന് ദശാംശം അഞ്ച് ശതമാനമായിരുന്നു. നവംബർ പതിനെട്ടിന് ഓഫീസ് ഫോർ നാഷണൽ സ്റ്റാറ്റിസ്റ്റിക്സ് പുറത്തുവിട്ട സി.പി.ഐ. കണക്കാണിത്.",
+    "വാർഷിക നിരക്കിലെ മാറ്റത്തിന് ഏറ്റവും വലിയ വർധനാ സ്വാധീനം ചെലുത്തിയത് ഗതാഗതച്ചെലവാണ്. പ്രത്യേകിച്ച് പെട്രോൾ, ഡീസൽ വിലകൾ സ്വാധീനിച്ചു. ഹോട്ടലുകളുടെയും റെസ്റ്റോറന്റുകളുടെയും വിലകളിലെ മാറ്റം ഈ വർധനയെ ഭാഗികമായി പ്രതിരോധിച്ചു. എല്ലാ സാധനങ്ങളുടെയും വില ഒരേ നിരക്കിൽ ഉയർന്നു എന്നല്ല ഇതിന്റെ അർത്ഥം.",
+    "ഊർജം, ഭക്ഷണം, മദ്യം, പുകയില എന്നിവ ഒഴിവാക്കിയ കോർ സി.പി.ഐ. പണപ്പെരുപ്പം രണ്ട് ദശാംശം എട്ട് ശതമാനത്തിൽ തുടർന്നു. സേവന മേഖലയിലെ വാർഷിക പണപ്പെരുപ്പം മൂന്ന് ദശാംശം ഏഴ് ശതമാനമായി തുടർന്നു. റിപ്പോർട്ട് ഒക്ടോബറിലെ വിലമാറ്റത്തെക്കുറിച്ചാണ്; നവംബറിലെ പണപ്പെരുപ്പ കണക്കല്ല."
+   ],
+   "srcs": [
+    [
+     "ONS: October 2026 consumer price inflation bulletin",
+     "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/october2026/pdf"
+    ],
+    [
+     "The Guardian: November 18 inflation report",
+     "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil"
+    ],
+    [
+     "The Independent: October inflation drivers",
+     "https://www.independent.co.uk/news/uk/home-news/inflation-ons-fuel-prices-office-for-national-statistics-olive-oil-b3087030.html"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/Df56_ImlrKI/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 7:09 AM IST on 19 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-19T07:09:57+05:30"
+  },
+  {
    "id": "south-florida-floods-hollywood-emergency",
    "cats": [
     "World"

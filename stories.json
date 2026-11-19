@@ -1,6 +1,55 @@
 {
  "stories": [
   {
+   "id": "roopkund-skeleton-lake-historical-dna-mystery",
+   "cats": [
+    "India"
+   ],
+   "title": "രൂപ്കുണ്ഡ്: അസ്ഥികൂടങ്ങളുടെ തടാകത്തിലെ തീരാത്ത ചോദ്യങ്ങൾ",
+   "en": "Roopkund: what ancient DNA revealed, and what remains unknown",
+   "sum": "2019ലെ പഠനം രൂപ്കുണ്ഡിലെ 38 പേരുടെ അവശിഷ്ടങ്ങളിൽ വ്യത്യസ്ത ജനിതക പാരമ്പര്യങ്ങൾ കണ്ടെത്തി. എല്ലാവരും ഒരേ ദുരന്തത്തിൽ മരിച്ചതല്ലെന്ന് കാലനിർണയം സൂചിപ്പിക്കുന്നു. അവരുടെ യാത്രയുടെയും മരണത്തിന്റെയും കാരണം പൂർണമായി തെളിഞ്ഞിട്ടില്ല.",
+   "date": "20 Nov 2026",
+   "body": [
+    "ഉത്തരാഖണ്ഡിലെ ഹിമാലയത്തിൽ സ്ഥിതിചെയ്യുന്ന രൂപ്കുണ്ഡ് തടാകത്തിനടുത്ത് മനുഷ്യാവശിഷ്ടങ്ങൾ കണ്ടെത്തിയിട്ടുണ്ട്. ഇവ ആരുടേതാണ്, അവർ എന്തിനാണ് അവിടെയെത്തിയത്, എങ്ങനെ മരിച്ചു എന്നീ ചോദ്യങ്ങൾക്ക് ഒറ്റ ഉത്തരം ലഭിച്ചിട്ടില്ല.",
+    "2019ൽ Nature Communicationsൽ പ്രസിദ്ധീകരിച്ച പഠനം 38 പേരുടെ അവശിഷ്ടങ്ങളിലെ പുരാതന ഡിഎൻഎ പരിശോധിച്ചു. 23 പേർക്ക് ദക്ഷിണേഷ്യൻ പാരമ്പര്യവുമായി ബന്ധവും 14 പേർക്ക് കിഴക്കൻ മെഡിറ്ററേനിയൻ പ്രദേശത്തെ ഇന്നത്തെ ജനവിഭാഗങ്ങളോട് ജനിതക സാമ്യവും ഒരാൾക്ക് തെക്കുകിഴക്കൻ ഏഷ്യൻ ബന്ധവും കണ്ടെത്തി. ജനിതക സാമ്യം പൗരത്വമോ കൃത്യമായ ജന്മസ്ഥലമോ തെളിയിക്കുന്നില്ല.",
+    "റേഡിയോകാർബൺ കാലനിർണയം പ്രധാന കൂട്ടങ്ങൾ ഏകദേശം ആയിരം വർഷത്തെ വ്യത്യാസത്തിൽ ജീവിച്ചിരുന്നുവെന്ന് സൂചിപ്പിച്ചു. അതിനാൽ പഠനത്തിൽ പരിശോധിച്ച എല്ലാവരെയും ഒരേയൊരു ദുരന്തംകൊണ്ട് വിശദീകരിക്കാനാകില്ല. പരിശോധിച്ച 38 പേരെ തടാകത്തിലെ മുഴുവൻ അവശിഷ്ടങ്ങളുടെയും കൃത്യമായ പ്രതിനിധികളായി കണക്കാക്കരുത്.",
+    "മരണകാരണം, യാത്രയുടെ ഉദ്ദേശ്യം, വ്യത്യസ്ത പശ്ചാത്തലങ്ങളുള്ള ആളുകൾ അവിടെ എത്തിയത് എങ്ങനെ എന്നിവയെല്ലാം പൂർണമായി തെളിഞ്ഞിട്ടില്ല. മഞ്ഞുകട്ട വീഴ്ച ഉൾപ്പെടെയുള്ള വിശദീകരണങ്ങൾ എല്ലാ കൂട്ടങ്ങൾക്കും തെളിയിക്കപ്പെട്ട ഒറ്റ ഉത്തരമല്ല. ഇത് 2019ലെ ഗവേഷണത്തെ ആസ്പദമാക്കിയ ചരിത്ര-ശാസ്ത്ര വിശദീകരണമാണ്, പുതിയ കണ്ടെത്തൽ എന്ന വാർത്തയല്ല.",
+    "തടാകത്തിന്റെ ചിത്രം പഠനത്തിലെ Figure 1cയിൽനിന്ന് ക്രോപ്പ് ചെയ്തതാണ്. ഫോട്ടോ: Atish Waghwase. Harney et al. (2019), CC BY 4.0. ചിത്രത്തിലെ മാപ്പോ അസ്ഥികളുടെ പാനലോ ഉപയോഗിച്ചിട്ടില്ല. റീലിലെ മറ്റു വിശദീകരണ ചിത്രങ്ങളും സംഗീതവും പ്രത്യേകം തയ്യാറാക്കിയതാണ്."
+   ],
+   "srcs": [
+    [
+     "Nature Communications: original 2019 study",
+     "https://www.nature.com/articles/s41467-019-11357-9"
+    ],
+    [
+     "Science News: study reporting",
+     "https://www.sciencenews.org/article/india-skeleton-lake-contains-bones-mysterious-european-migrants"
+    ],
+    [
+     "Figure 1: lake photograph and credit",
+     "https://www.nature.com/articles/s41467-019-11357-9/figures/1"
+    ],
+    [
+     "CC BY 4.0 license",
+     "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/reel/Df8LSz6v1YA/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 4:12 AM IST on 20 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-20T04:12:33+05:30",
+   "image": {
+    "file": "images/2-lake-atish-ccby4.jpg",
+    "alt": "Roopkund lake in the Himalayas, cropped from Figure 1c of the 2019 study",
+    "label": "Archive lake photo from the 2019 study. Not a new discovery. Cropped.",
+    "credit": "Atish Waghwase / Harney et al. (2019)",
+    "license": "CC BY 4.0, cropped",
+    "page": "https://www.nature.com/articles/s41467-019-11357-9/figures/1"
+   }
+  },
+  {
    "id": "db-cooper-1971-unsolved-historical-case",
    "cats": [
     "World"

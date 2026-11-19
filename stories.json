@@ -1,6 +1,43 @@
 {
  "stories": [
   {
+   "id": "empire-ai-gamma-permanent-centre-groundbreaking",
+   "cats": [
+    "Tech",
+    "World"
+   ],
+   "title": "എംപയർ എഐ ഗാമയ്ക്ക് സ്ഥിരം കേന്ദ്രം: തറക്കല്ലിടൽ നടന്നു",
+   "en": "Empire AI Gamma permanent centre breaks ground in New York",
+   "sum": "ന്യൂയോർക്കിലെ ബഫലോ സർവകലാശാലയുടെ നോർത്ത് ക്യാംപസിൽ എംപയർ എഐ ഗാമയുടെ സ്ഥിരം കേന്ദ്രത്തിന് തറക്കല്ലിട്ടു. രണ്ടായിരത്തി ഇരുപത്തെട്ടിന്റെ തുടക്കത്തിൽ പൂർത്തിയാകുമെന്നാണ് പ്രതീക്ഷ. ഗാമ ഇപ്പോൾ പ്രവർത്തനം തുടങ്ങിയെന്നല്ല.",
+   "date": "20 Nov 2026",
+   "body": [
+    "ന്യൂയോർക്കിലെ ആംഹെർസ്റ്റിൽ എംപയർ എഐ ഗാമയുടെ സ്ഥിരം കേന്ദ്രത്തിന് വ്യാഴാഴ്ച തറക്കല്ലിടൽ ചടങ്ങ് നടന്നു. ബഫലോ സർവകലാശാലയുടെ നോർത്ത് ക്യാംപസിലാണ് കേന്ദ്രം ഒരുക്കുന്നത്. ഗവർണറുടെ ഔദ്യോഗിക അറിയിപ്പും പ്രാദേശിക മാധ്യമമായ ഡബ്ല്യുഐവിബിയും ചടങ്ങ് സ്ഥിരീകരിച്ചു.",
+    "സംസ്ഥാനത്തെ പൊതു, സ്വകാര്യ സർവകലാശാലകളിലെ ഗവേഷകർക്ക് എഐ കംപ്യൂട്ടിങ് സൗകര്യം നൽകുന്ന എംപയർ എഐ പദ്ധതിയുടെ അടുത്ത ഘട്ടമാണിത്. ആരോഗ്യം, കാലാവസ്ഥ, നിർമാണം തുടങ്ങിയ മേഖലകളിലെ ഗവേഷണത്തിനാണ് സൗകര്യം ലക്ഷ്യമിടുന്നത്.",
+    "രണ്ടായിരത്തി ഇരുപത്തെട്ടിന്റെ തുടക്കത്തിൽ പുതിയ കേന്ദ്രം പൂർത്തിയാകുമെന്നാണ് ഇപ്പോഴത്തെ പ്രതീക്ഷ. ഗാമ കേന്ദ്രം തുറന്നെന്നോ പ്രവർത്തനം തുടങ്ങിയെന്നോ ഉള്ള പ്രഖ്യാപനമല്ല ഇത്. മുമ്പേ പ്രവർത്തിക്കുന്ന ബീറ്റ സംവിധാനം ഇതിൽ നിന്ന് വേറെയാണ്.",
+    "സെർവറുകൾ സൃഷ്ടിക്കുന്ന ചൂട് ക്യാംപസ് കെട്ടിടങ്ങൾക്ക് ഉപയോഗിക്കാൻ പദ്ധതിയുണ്ടെന്ന് ഔദ്യോഗിക അറിയിപ്പിൽ പറയുന്നു. ഇത് നടപ്പായിക്കഴിഞ്ഞ സംവിധാനമായി കാണരുത്. ഇൻസ്റ്റാഗ്രാം കാർഡിലെ ചിത്രം സർവകലാശാല പ്രസിദ്ധീകരിച്ച ബീറ്റ സെർവറുകളുടെ ഓഗസ്റ്റിലെ ഫയൽ ചിത്രമാണ്; ഗാമ കേന്ദ്രത്തിന്റെ നിലവിലെ ചിത്രമല്ല."
+   ],
+   "srcs": [
+    [
+     "New York governor official Nov19 announcement",
+     "https://www.governor.ny.gov/news/governor-hochul-breaks-ground-permanent-empire-ai-supercomputing-center-marking-major"
+    ],
+    [
+     "WIVB local groundbreaking report",
+     "https://www.wivb.com/news/local-news/empire-ai-gamma-holds-groundbreaking-ceremony-in-amherst/"
+    ],
+    [
+     "University at Buffalo Beta file-photo context",
+     "https://www.buffalo.edu/ubnow/stories/2026/08/empire-ai-beta.html"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/Df7y7q_llsH/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 12:38 AM IST on 20 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-20T00:38:09+05:30"
+  },
+  {
    "id": "anthropic-nasdaq-trading-debut-ant",
    "cats": [
     "Tech",

@@ -1,6 +1,43 @@
 {
  "stories": [
   {
+   "id": "gordon-ramsay-hollywood-walk-of-fame",
+   "cats": [
+    "Entertainment",
+    "World"
+   ],
+   "title": "ഗോർഡൻ റാംസിക്ക് ഹോളിവുഡ് വാക്ക് ഓഫ് ഫെയിം താരം",
+   "en": "Gordon Ramsay receives Hollywood Walk of Fame star",
+   "sum": "ടെലിവിഷൻ രംഗത്തെ സംഭാവനകൾക്ക് ഗോർഡൻ റാംസിക്ക് ആദരം. ഈ ബഹുമതി നേടുന്ന ആദ്യ ബ്രിട്ടീഷ് ഷെഫ്.",
+   "date": "19 Nov 2026",
+   "body": [
+    "പ്രശസ്ത ഷെഫും ടെലിവിഷൻ അവതാരകനുമായ ഗോർഡൻ റാംസിക്ക് ഹോളിവുഡ് വാക്ക് ഓഫ് ഫെയിമിൽ നക്ഷത്രം ലഭിച്ചു. ടെലിവിഷൻ വിഭാഗത്തിലാണ് അംഗീകാരം.",
+    "നവംബർ പതിനെട്ടിന് ലോസ് ആഞ്ചലസിലാണ് നക്ഷത്രം അനാച്ഛാദനം ചെയ്തത്. വാക്ക് ഓഫ് ഫെയിമിന്റെ ഔദ്യോഗിക വിവരവും സ്വതന്ത്ര വാർത്താ റിപ്പോർട്ടുകളും ചടങ്ങ് സ്ഥിരീകരിക്കുന്നു.",
+    "ഈ ബഹുമതി നേടുന്ന ആദ്യ ബ്രിട്ടീഷ് ഷെഫാണ് റാംസി. ഹെൽസ് കിച്ചൻ, മാസ്റ്റർഷെഫ് തുടങ്ങിയ ടെലിവിഷൻ പരിപാടികളിലൂടെ അദ്ദേഹം ലോകമെങ്ങും പ്രശസ്തനാണ്.",
+    "അംഗീകാരം ലഭിച്ചതിൽ അതിയായ സന്തോഷവും നന്ദിയും റാംസി പ്രകടിപ്പിച്ചു. ഇൻസ്റ്റാഗ്രാം കാർഡിൽ ഉപയോഗിച്ചത് സംഘാടകർ നൽകിയ പോർട്രെയ്റ്റാണ്, ചടങ്ങിന്റെ ചിത്രമല്ല."
+   ],
+   "srcs": [
+    [
+     "Hollywood Walk of Fame",
+     "https://walkoffame.com/gordon-ramsay/"
+    ],
+    [
+     "The Independent",
+     "https://www.independent.co.uk/arts-entertainment/tv/news/gordon-ramsay-hollywood-walk-of-fame-star-b3087560.html"
+    ],
+    [
+     "UPI",
+     "https://www.upi.com/Entertainment_News/Photos/Gordon-Ramsay-receives-star-on-Hollywood-Walk-of-Fame/17086/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/Df6CT34lk1s/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 8:14 AM IST on 19 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-19T08:14:00+05:30"
+  },
+  {
    "id": "uk-october-cpi-inflation-three-point-six",
    "cats": [
     "World"

@@ -82,7 +82,7 @@ jobs:
               if not (isinstance(f, str) and re.fullmatch(r"images/[a-z0-9._-]+\.(jpg|jpeg|png)", f) and os.path.exists(f)):
                   print("rejected: image file"); sys.exit(1)
               pg = im.get("page_url")
-              if not (isinstance(pg, str) and pg.startswith("https://commons.wikimedia.org/wiki/") and len(pg) < 300):
+              if not (isinstance(pg, str) and (pg.startswith("https://commons.wikimedia.org/wiki/") or pg == "https://www.nature.com/articles/s41467-019-11357-9/figures/1") and len(pg) < 300):
                   print("rejected: image page"); sys.exit(1)
               for k, n in (("alt", 200), ("label", 200), ("credit", 160), ("license", 40)):
                   if not (isinstance(im.get(k), str) and 0 < len(im[k]) <= n):

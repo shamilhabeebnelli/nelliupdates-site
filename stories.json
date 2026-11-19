@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "south-florida-floods-hollywood-emergency",
+   "cats": [
+    "World"
+   ],
+   "title": "തെക്കൻ ഫ്ലോറിഡയിൽ വെള്ളപ്പൊക്കം; ഹോളിവുഡിൽ അടിയന്തരാവസ്ഥ",
+   "en": "South Florida flooding: Hollywood declares emergency after heavy rain",
+   "sum": "നവംബർ പതിനെട്ടിലെ കനത്ത മഴയിൽ വീടുകളിലും റോഡുകളിലും വെള്ളം കയറി. അനാവശ്യ യാത്രയും വെള്ളം കയറിയ റോഡുകളും ഒഴിവാക്കണമെന്ന് അധികൃതർ ആവശ്യപ്പെട്ടു.",
+   "date": "19 Nov 2026",
+   "body": [
+    "നവംബർ പതിനെട്ടിന് കനത്ത മഴയെ തുടർന്ന് തെക്കൻ ഫ്ലോറിഡയിലെ ബ്രോവാർഡ് കൗണ്ടിയിൽ വെള്ളപ്പൊക്കമുണ്ടായി. ഹോളിവുഡ് നഗരത്തിൽ മേയർ ജോഷ് ലെവി അടിയന്തരാവസ്ഥ പ്രഖ്യാപിച്ചു. വീടുകളിലും റോഡുകളിലും വെള്ളം കയറിയതോടെ നഗരത്തിലെ വിവിധ വിഭാഗങ്ങൾ രക്ഷാപ്രവർത്തനത്തിനും വെള്ളം നീക്കുന്നതിനുമായി രംഗത്തെത്തി.",
+    "ഹോളിവുഡിലെ ടെംപിൾ സിനായ് സിനഗോഗിന്റെ മേൽക്കൂര ഭാഗികമായി ഇടിഞ്ഞു. ഈ അപകടത്തിൽ പരിക്ക് റിപ്പോർട്ട് ചെയ്തിട്ടില്ലെന്ന് അധികൃതരെ ഉദ്ധരിച്ച് പ്രാദേശിക മാധ്യമങ്ങൾ അറിയിച്ചു. ബ്രോവാർഡ് കൗണ്ടിയിലെ പൊതുവിദ്യാലയങ്ങൾ ബുധനാഴ്ച അടച്ചു.",
+    "അനാവശ്യ യാത്രകൾ ഒഴിവാക്കണമെന്നും വെള്ളം കയറിയ റോഡുകളിലൂടെ വാഹനമോടിക്കരുതെന്നും അധികൃതർ ആവശ്യപ്പെട്ടു. ചില പ്രദേശങ്ങളിലെ സഹായത്തിനായി ഉയർന്ന വാഹനങ്ങൾ വിന്യസിച്ചിട്ടുണ്ട്. ഇത് നവംബർ പതിനെട്ടിലെ സംഭവത്തെക്കുറിച്ചുള്ള റിപ്പോർട്ടാണ്; എല്ലാ പ്രദേശങ്ങളിലെയും ഇപ്പോഴത്തെ റോഡ് നിലയോ മുന്നറിയിപ്പുകളുടെ കാലാവധിയോ ഇതിലൂടെ സ്ഥിരീകരിക്കുന്നില്ല."
+   ],
+   "srcs": [
+    [
+     "City of Hollywood: November 18 flood alert",
+     "https://www.hollywoodfl.org/m/newsflash/Home/Detail/1882"
+    ],
+    [
+     "CBS12: Hollywood emergency briefing",
+     "https://cbs12.com/news/local/hollywood-officials-urge-residents-to-stay-home-as-crews-respond-to-widespread-flooding-state-of-emergency-flooding-rain-impacts-homes-cars-schools-closed-weather-florida"
+    ],
+    [
+     "Miami Herald: synagogue roof collapse",
+     "https://www.miamiherald.com/news/local/community/broward/article318137554.html"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/Df50Sy1Fkvi/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 6:11 AM IST on 19 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-19T06:11:29+05:30"
+  },
+  {
    "id": "instagram-stories-fifteen-minute-editing",
    "cats": [
     "Tech",

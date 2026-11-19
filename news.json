@@ -1,79 +1,80 @@
 {
- "fetched_at": "2026-11-19 13:59 UTC",
+ "fetched_at": "2026-11-19 14:59 UTC",
  "groups": {
   "india": [
    {
-    "title": "Another Anthropic researcher sends ‘AI warning’, says the technology can soon bully humans and …",
-    "description": "Tao Lin, a researcher at Anthropic, has warned about the imminent rise of artificial intelligence capabilities. He emphasizes that AI will soon surpass human competencies across various fields and conflicts. Lin...",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/technology/tech-news/another-anthropic-researcher-sends-ai-warning-says-the-technology-can-soon-bully-humans-and-/articleshow/135975304.cms",
-    "pubDate": "2026-11-19 01:58:51",
+    "title": "Shashi Tharoor-led Parliamentary panel to discuss India-Pakistan relations",
+    "description": "The Tharoor-led external affairs committee has decided to discuss \"Recent developments in India-Pakistan Relations\" as one of the 18 subjects it will take up",
+    "source": "Hindustan Times",
+    "link": "https://www.hindustantimes.com/india-news/shashi-tharoor-led-parliamentary-panel-to-discuss-india-pakistan-relations-101795054889605.html",
+    "pubDate": "2026-11-19 02:59:00",
+    "category": [
+     "top",
+     "politics"
+    ]
+   },
+   {
+    "title": "Railways Plans MEMU Trains from Lucknow to Ayodhya and Barabanki, More Services for Kanpur",
+    "description": "Lucknow: Indian Railways is preparing to introduce MEMU train services from Lucknow to Ayodhya and Barabanki. A route survey is expected to be conducted soon. The railway administration… Railways Plans MEMU Trains...",
+    "source": "Udaipur Kiran",
+    "link": "https://udaipurkiran.com/railways-plans-memu-trains-from-lucknow-to-ayodhya-and-barabanki-more-services-for-kanpur/",
+    "pubDate": "2026-11-19 02:58:45",
     "category": [
      "top",
      "technology"
     ]
    },
    {
-    "title": "Anthropic IPO: One AI company vs India's top 10; Uday Kotak questions valuations",
-    "description": "Kotak Mahindra Bank founder Uday Kotak has questioned whether Indian companies are undervalued or falling behind in the global technology race after AI firm Anthropic reached a reported $1.5 trillion fully diluted...",
-    "source": "Et Now",
-    "link": "https://www.etnownews.com/markets/anthropic-ipo-uday-kotak-india-top-10-companies-market-cap-valuation-article-156534505",
-    "pubDate": "2026-11-19 01:58:48",
+    "title": "EU Commission targeted in cyberattack, personal data may have been compromised: Report",
+    "description": "The European Commission has been targeted in a cyberattack that may have compromised significant amounts of personal data, Politico reported. While the Commission believes it has contained most of the attack, the...",
+    "source": "The Economic Times",
+    "link": "https://economictimes.indiatimes.com/news/international/world-news/eu-commission-targeted-in-cyberattack-personal-data-may-have-been-compromised-report/articleshow/135982706.cms",
+    "pubDate": "2026-11-19 02:58:39",
+    "category": [
+     "top",
+     "technology"
+    ]
+   },
+   {
+    "title": "KU begins workshop on Bima Sakhi agents’ well-being",
+    "description": "SRINAGAR, Nov 18:- The Department of Psychology, University of Kashmir (KU), on Wednesday began a two-day national workshop on the financial and psychological well-being of Mahila Career Agents working under the Bima...",
+    "source": "Rising Kashmir",
+    "link": "https://risingkashmir.com/city/ku-begins-workshop-on-bima-sakhi-agents-well-being-12821959",
+    "pubDate": "2026-11-19 02:58:37",
+    "category": [
+     "top",
+     "education"
+    ]
+   },
+   {
+    "title": "Punjab National Bank Approves 8,254 Vacancies For Promotion, Direct Recruitment",
+    "description": "Punjab National Bank Recruitment 2027: The vacancies include 145 posts in the technical stream.",
+    "source": "Ndtv",
+    "link": "https://www.ndtv.com/education/punjab-national-bank-approves-8-254-vacancies-for-promotion-direct-recruitment-12346901",
+    "pubDate": "2026-11-19 02:58:27",
     "category": [
      "top",
      "business"
     ]
    },
    {
-    "title": "Yeh Prem Mol Liya actor Ayushmann Khurrana calls superstar the ‘OG Prem’: ‘Nobody can be a better Prem than Salman Bhai'",
-    "description": "Salman Khan had played the role of Prem in Sooraj Barjatya's hit movies—Maine Pyar Kiya, Hum Aapke Hain Koun!, Hum Saath Saath Hain, and Prem Ratan Dhan Payo. His name became synonymous with Prem over the years in...",
-    "source": "Moneycontrol",
-    "link": "https://www.moneycontrol.com/entertainment/yeh-prem-mol-liya-actor-ayushmann-khurrana-calls-superstar-the-og-prem-nobody-can-be-a-better-prem-than-salman-bhai-article-14084056.html",
-    "pubDate": "2026-11-19 01:58:22",
+    "title": "Beyond Huang",
+    "description": "The departure of Jensen Huang from Nvidia marks a moment of uncertainty for a company whose fortunes have become closely intertwined with one individual's extraordinary technological vision.",
+    "source": "The Statesman",
+    "link": "https://www.thestatesman.com/opinion/beyond-huang-1503664153.html",
+    "pubDate": "2026-11-19 02:58:23",
     "category": [
      "top",
-     "entertainment"
+     "business",
+     "technology"
     ]
    },
    {
-    "title": "Xi, Putin blast West's protectionism & sanctions before meeting Trump",
-    "description": "Amid 'spy' scandal, Xi welcomes Trump at airport in a rare diplomatic move",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/world/china/xi-putin-blast-wests-protectionism-sanctions-before-meeting-trump/articleshow/135975283.cms",
-    "pubDate": "2026-11-19 01:58:22",
-    "category": [
-     "top",
-     "politics"
-    ]
-   },
-   {
-    "title": "Restore OPS",
-    "description": "For decades the government employee has been the invisible engine of this country. Long before dawn and long after dusk they are the ones executing policies, managing elections, handling disaster relief, and keeping...",
-    "source": "Greater Kashmir",
-    "link": "https://www.greaterkashmir.com/opinion/restore-ops-12821878",
-    "pubDate": "2026-11-19 01:58:08",
-    "category": [
-     "top",
-     "politics"
-    ]
-   },
-   {
-    "title": "Copper rebounds after crashing to lowest level since April 2025 as AI spending, US tariff concerns ease",
-    "description": "Three-month copper futures rise as much as 1.7% to $12,645 a tonne after hitting their lowest level since April on Wednesday. Tight physical supplies and critically low inventories in China offer some support, while...",
-    "source": "Cnbctv18",
-    "link": "https://www.cnbctv18.com/market/commodities/copper-prices-rebound-after-6-percent-fall-ai-spending-us-tariff-bets-gold-silver-20037321.htm",
-    "pubDate": "2026-11-19 01:57:51",
-    "category": [
-     "top",
-     "business"
-    ]
-   },
-   {
-    "title": "‘Let's move forward’: Nvidia interim CEO announces pay raises as employees seek Jensen Huang's return",
-    "description": "At Nvidia's first all-hands since Jensen Huang's resignation, interim CEO Colette Kress discussed pay raises while the board pressed ahead with its search for a successor.",
-    "source": "Moneycontrol",
-    "link": "https://www.moneycontrol.com/news/business/let-s-move-forward-nvidia-interim-ceo-announces-pay-raises-as-employees-seek-jensen-huang-s-return-14084047.html",
-    "pubDate": "2026-11-19 01:57:45",
+    "title": "Invest ₹10,000 Monthly in PPF to Reach ₹32 Lakh in 15 Years, Here’s How",
+    "description": "A regular ₹10,000 monthly deposit in the Public Provident Fund, earning 7.1% interest, can accumulate to ₹32.55 lakh after 15 years. The scheme also offers tax deductions and tax‑free maturity. The post Invest...",
+    "source": "Business League - Financial Experts",
+    "link": "https://www.businessleague.in/invest-%E2%82%B910000-monthly-in-ppf-to-reach-%E2%82%B932-lakh-in-15-years-heres-how/",
+    "pubDate": "2026-11-19 02:58:12",
     "category": [
      "top",
      "business"
@@ -82,125 +83,122 @@
   ],
   "kerala": [
    {
-    "title": "Health of states: Bihar per capita spend lowest, Sikkim's highest",
-    "description": "Health of states: Bihar per capita spend lowest, Sikkim's highest",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/india/health-of-states-bihar-per-capita-spend-lowest-sikkims-highest/articleshow/135975120.cms",
-    "pubDate": "2026-11-19 01:53:09",
-    "category": [
-     "business",
-     "top",
-     "health"
-    ]
-   },
-   {
-    "title": "No need to label child as ‘adopted’ in official records, says Keralam High Court",
-    "description": "It directed the government to ensure that adopted children are described as the son or daughter of their adoptive parents in official records.",
-    "source": "The New Indian Express",
-    "link": "https://www.newindianexpress.com/states/kerala/2026/Nov/19/no-need-to-label-child-as-adopted-in-official-records-says-keralam-high-court",
-    "pubDate": "2026-11-19 01:46:16",
+    "title": "Editorial: Modi's muted Quad moment",
+    "description": "India is learning to tread with caution as geopolitical dynamics are straining at the seams due to escalating conflicts and consequent energy shocks, tariffs and tariff threats, competition over rare earth minerals,...",
+    "source": "Dt Next",
+    "link": "https://www.dtnext.in/edit/editorial-modis-muted-quad-moment",
+    "pubDate": "2026-11-19 02:57:27",
     "category": [
      "top",
      "politics"
     ]
    },
    {
-    "title": "Scene Box Office Collection Day 13: Suriya, Nazriya Nazim's Film Eyes Rs 300 Crore Mark Despite Dip In Earnings",
-    "description": "Suriya's Scene witnessed a dip in collections on Day 13 but maintained its overall box-office momentum. The film, featuring Nazriya Nazim, has earned Rs 145.05 crore net in India and Rs 256.50 crore worldwide. Here's...",
-    "source": "Times Now News",
-    "link": "https://www.timesnownews.com/entertainment-news/south/scene-box-office-collection-day-13-suriya-nazriya-nazims-film-eyes-rs-300-crore-mark-despite-dip-in-earnings-article-156534361",
-    "pubDate": "2026-11-19 01:43:21",
+    "title": "Keralam High Court calls for lowering legal age of childhood to 16 amid rising juvenile crimes",
+    "description": "The Kerala High Court has observed that it is time for the legislature to consider reducing the age of childhood from 18 to 16 years under the Juvenile Justice (Care and Protection of Children) Act, 2015. The Court...",
+    "source": "Organiser Weekly",
+    "link": "https://organiser.org/2026/11/19/427250/bharat/keralam-high-court-calls-for-lowering-legal-age-of-childhood-to-16-amid-rising-juvenile-crimes/",
+    "pubDate": "2026-11-19 02:50:07",
     "category": [
-     "top",
+     "crime",
+     "politics",
+     "top"
+    ]
+   },
+   {
+    "title": "7 places in South India to escape the winter chills",
+    "description": "Discover South Indian places for winter vacation, from misty hill stations and lush plantations to sunny beaches and peaceful backwaters.",
+    "source": "Indulgexpress",
+    "link": "https://www.indulgexpress.com/galleries/2026/Nov/19/7-places-in-south-india-to-escape-the-winter-chills",
+    "pubDate": "2026-11-19 02:48:30",
+    "category": [
      "entertainment"
     ]
    },
    {
-    "title": "Smooth darshan at Sabarimala on second day",
-    "description": "The thickness of the wicks in the traditional lamps inside the Sreekovil has also been increased to help devotees to get a clear view of the Ayyappa idol during darshan.",
-    "source": "The New Indian Express",
-    "link": "https://www.newindianexpress.com/states/kerala/2026/Nov/19/smooth-darshan-at-sabarimala-on-second-day",
-    "pubDate": "2026-11-19 01:32:30",
+    "title": "Why are grocery bills rising in Kerala? Food inflation climbs above national average",
+    "description": "Kerala's food inflation rate has climbed to 10.92%, exceeding the national average of 9.94%, as rising prices of rice, onions, garlic, dried chillies and other essential groceries put additional pressure on household...",
+    "source": "Mathrubhumi English",
+    "link": "https://english.mathrubhumi.com/news/kerala/kerala-food-inflation-hits-10-92-exceeds-national-average-vx77cqd1",
+    "pubDate": "2026-11-19 02:47:05",
     "category": [
      "top",
-     "politics",
-     "lifestyle"
+     "business"
     ]
    },
    {
-    "title": "Keralam: Single major, flexible 4th-year choices among proposed changes to FYUGP",
-    "description": "Suggestion to rename it Flexible Graduate Programme to reflect academic mobility options",
-    "source": "The New Indian Express",
-    "link": "https://www.newindianexpress.com/states/kerala/2026/Nov/19/keralam-single-major-flexible-4th-year-choices-among-proposed-changes-to-fyugp",
-    "pubDate": "2026-11-19 01:31:07",
-    "category": [
-     "top",
-     "education"
-    ]
-   },
-   {
-    "title": "T1, T2 sections contain sensitive information that needs protection from purview of RTI, VACB informs Kerala High Court",
-    "description": "VACB argues T1/T2 hold sensitive intel beyond RTI purview; court heard why disclosure risks investigations, informants, and integrity.",
-    "source": "The Hindu",
-    "link": "https://www.thehindu.com/news/national/kerala/t1-t2-sections-contain-sensitive-information-that-needs-protection-from-purview-of-rti-vacb-informs-kerala-high-court/article71717092.ece",
-    "pubDate": "2026-11-19 01:30:00",
-    "category": [
-     "top",
-     "politics",
-     "technology"
-    ]
-   },
-   {
-    "title": "Kerala High Court reserves order on plea by SSUS students challenging their suspension",
-    "description": "Kerala High Court reserves order on SSUS students’ challenge to suspension, alleging lack of reasons and biased inquiry, seeking exam access.",
-    "source": "The Hindu",
-    "link": "https://www.thehindu.com/news/national/kerala/kerala-high-court-reserves-order-on-plea-by-ssus-students-challenging-their-suspension/article71716507.ece",
-    "pubDate": "2026-11-19 01:30:00",
-    "category": [
-     "top",
-     "politics"
-    ]
-   },
-   {
-    "title": "Vehicle owners in Keralam fall prey to fake e-challan messages",
-    "description": "Cyber scammers spoof MVD e-challan alerts target Kerala vehicle owners; beware fake links, verify fines on official Parivahan sites.",
-    "source": "The Hindu",
-    "link": "https://www.thehindu.com/news/national/kerala/vehicle-owners-in-keralam-fall-prey-to-fake-e-challan-messages/article71716826.ece",
-    "pubDate": "2026-11-19 01:30:00",
+    "title": "13 found guilty in Ariyil Shukoor murder case; P Jayarajan, TV Rajesh, Shyamjith acquitted - Onmanorama",
+    "description": "13 found guilty in Ariyil Shukoor murder case; P Jayarajan, TV Rajesh, Shyamjith acquitted Onmanorama Shukkoor case was a political hatchet job, alleges P. Jayarajan The Hindu Ariyil Shukkoor murder: 13 found guilty;...",
+    "source": "Google News",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM3RrYXF2eHlfMmZhNURWTlo2Z091RHR1dnd5dHR1bElISWJBTURUTHlFQ0o0VmE2b09nRVpjNDdqSUF5eF9rM2h4TFFSWlU4bWpvOEJxUWprZWI3aXFpbnVGZVBCbktUWVB1ajlNY2dEY1VCeXJQZDNyYkRBeTZUQnFFYVE5X1hEYm9JSFBYZmQtbEk2Q3d3al9UOHpzNzlGUnV5eVp0d0U3MkpEb3BiVm56Y0U4R2NpaDBpUGRaQ0Q?oc=5",
+    "pubDate": "2026-11-19 02:40:35",
     "category": [
      "crime",
+     "top"
+    ]
+   },
+   {
+    "title": "The Importance of Scientific Temper in Everyday Life",
+    "description": "The Importance of Scientific Temper in Everyday Life A society cannot progress merely by acquiring more knowledge, adopting modern technology, or building impressive infrastructure. True progress begins when people...",
+    "source": "Mangalorean",
+    "link": "https://www.mangalorean.com/the-importance-of-scientific-temper-in-everyday-life/",
+    "pubDate": "2026-11-19 02:39:09",
+    "category": [
      "top",
-     "technology"
+     "science"
+    ]
+   },
+   {
+    "title": "Delhi Police’s Reelmaker Vs Journalist Divide Tests Who Qualifies As Press",
+    "description": "The new distinction between \"bona fide journalists\" and reelmakers emerges from the October protests that led to the detention of more than 30 journalists along with allegations of harassment against the police",
+    "source": "Outlook",
+    "link": "https://www.outlookindia.com/national/delhi-polices-reelmaker-vs-journalist-divide-tests-who-qualifies-as-press",
+    "pubDate": "2026-11-19 02:35:41",
+    "category": [
+     "crime",
+     "politics",
+     "top"
+    ]
+   },
+   {
+    "title": "Caught on cam: Kerala Congress MP's aide extorts Rs 10 lakh from doctor, expelled",
+    "description": "Suhail Shajahan was arrested on Tuesday by the Petta police in Thiruvananthapuram for allegedly attempting to extort Rs 10 lakh from the owner, a doctor, of a private infertility clinic.",
+    "source": "Moneycontrol",
+    "link": "https://www.moneycontrol.com/news/india/caught-on-cam-kerala-congress-mp-s-aide-extorts-rs-10-lakh-from-doctor-expelled-14084067.html",
+    "pubDate": "2026-11-19 02:32:06",
+    "category": [
+     "crime",
+     "top"
     ]
    }
   ],
   "world": [
    {
-    "title": "Trump admits to ‘indications’ of Iran looking at using gas and bio weapons against the US; weighs new wave of strikes",
-    "description": "President Donald Trump reportedly said there were ‘indications’ that Iran was looking at using gas or bio weapons as the conflict with the US continues.",
-    "source": "Hindustan Times",
-    "link": "https://www.hindustantimes.com/world-news/us-news/donald-trump-admits-to-indications-of-iran-looking-at-using-gas-and-bio-weapons-against-the-us-weighs-new-wave-of-strikes-101795051670506.html",
-    "pubDate": "2026-11-19 01:56:31",
+    "title": "Israeli rescue drill turns into ‘farce’ before delegations from 36 countries: Report",
+    "description": "Maariv describes Ashkelon demonstration attended by 200 officers and officials as ‘amateurish and disorganized’",
+    "source": "Anadolu Agency",
+    "link": "https://www.aa.com.tr/en/middle-east/israeli-rescue-drill-turns-into-farce-before-delegations-from-36-countries-report/4129934",
+    "pubDate": "2026-11-19 02:58:12",
     "category": [
      "world"
     ]
    },
    {
-    "title": "Van Gogh work fetches record price after owner dispute",
-    "description": "A Vincent van Gogh masterpiece sold for a record-breaking US$190.4 million after a dispute between the seller and the heirs of a previous Jewish owner who sold it in the Nazi era, Sotheby's said. \"Chataigniers en...",
-    "source": "香港電台新聞網 - Rthk",
-    "link": "https://news.rthk.hk/rthk/en/component/k2/1878391-20261119.htm",
-    "pubDate": "2026-11-19 01:56:21",
+    "title": "Trump Touts US Economic Growth, Claims Inflation Below 2%; Warns Against AI Regulations at APEC",
+    "description": "| touts America's economic growth, claiming inflation is below 2%, while warning against imposing regulations that could stifle artificial intelligence development\"Don't stifle AI development,\" Trump signals as he...",
+    "source": "News 18",
+    "link": "https://www.news18.com/videos/world/trump-touts-us-economic-growth-claims-inflation-below-2-warns-against-ai-regulations-at-apec-10431805.html",
+    "pubDate": "2026-11-19 02:56:19",
     "category": [
      "world"
     ]
    },
    {
-    "title": "Putin's Kerch Bridge connecting Russia to Crimea has been hit again",
-    "description": "One of the most strategic bridges, the Kerch Bridge, which connects Russia to the occupied Crimean Peninsula, has been attacked once again as the ongoing Russia-Ukraine war continues to escalate.",
-    "source": "Firstpost",
-    "link": "https://www.firstpost.com/world/putin-kerch-bridge-connecting-russia-to-crimea-has-been-hit-again-war-ukraine-14061104.html",
-    "pubDate": "2026-11-19 01:54:38",
+    "title": "Nancy Guthrie update: Ex-FBI agent questions official timeline",
+    "description": "Nancy Guthrie update: Ex-FBI agent questions official timelineOn the eve of Nancy Guthrie going missing, her son-in-law, Tommaso Cioni, dropped her off at her home around 9:48 p.m. after dinner at her daughter Annie...",
+    "source": "The News International",
+    "link": "https://www.thenews.com.pk/latest/1424180-nancy-guthrie-update-ex-fbi-agent-raises-question-over-official-timeline-issue",
+    "pubDate": "2026-11-19 02:56:00",
     "category": [
      "world"
     ]
@@ -208,99 +206,66 @@
   ],
   "sports": [
    {
-    "title": "Is Travis Kelce set to miss Sunday's game? Latest Chiefs injury report offers an important update",
-    "description": "After dealing with an ankle injury, Travis Kelce is set to join the game against the Arizona Cardinals. Coach Andy Reid mentioned that Kelce's recovery is progressing well, and he is looking forward to playing....",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/sports/nfl/news/is-travis-kelce-set-to-miss-sundays-game-latest-chiefs-injury-report-offers-an-important-update/articleshow/135975294.cms",
-    "pubDate": "2026-11-19 01:58:50",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "Dale Jr. Voices Skepticism Over Outside Investors Treating NASCAR Teams ‘Like a Baseball Card’",
-    "description": "NASCAR has become an increasingly attractive proposition for investors outside the sport. Team ownership is drawing interest from people with experience in other major leagues, while the value of Cup Series charters...",
-    "source": "Essentially Sports",
-    "link": "https://www.essentiallysports.com/nascar-news-dale-jr-voices-skepticism-over-outside-investors-treating-nascar-teams-like-a-baseball-card/",
-    "pubDate": "2026-11-19 01:58:45",
+    "title": "Disseqt AI Raises US$8Mn To Build The AI Governance And Assurance Layer For Enterprise AI Agents And Workflows",
+    "description": "(MENAFN - ForPressRelease) Bangalore, 19 November 2026: Disseqt AI, the Dublin-headquartered AI assurance platform with a significant presence in India, today announced that it has raised $8mn in a ...",
+    "source": "Menafn",
+    "link": "https://menafn.com/1111987726/Disseqt-AI-Raises-US8Mn-To-Build-The-AI-Governance-And-Assurance-Layer-For-Enterprise-AI-Agents-And-Workflows",
+    "pubDate": "2026-11-19 02:58:21",
     "category": [
      "sports"
     ]
    },
    {
-    "title": "IND Vs NZ | 1st Test Day 1: Nicholls hits gritty fifty, Phillips supports as New Zealand reach 140 for 5 at tea",
-    "description": "Once the Kookaburra ball became semi-new and subsequently older, only Bumrah looked potent enough to beat the opposition batters on a number of occasions.",
-    "source": "The New Indian Express",
-    "link": "https://www.newindianexpress.com/sport/cricket/2026/Nov/19/ind-vs-nz-1st-test-day-1-nicholls-hits-gritty-fifty-phillips-supports-as-new-zealand-reach-140-for-5-at-tea",
-    "pubDate": "2026-11-19 01:56:58",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "IND Vs NZ | 1st Test Day 1: Nicholls 113, Phillips batting on 94 as New Zealand reach 243 for 5 at stumps",
-    "description": "Once the Kookaburra ball became semi-new and subsequently older, only Bumrah looked potent enough to beat the opposition batters on a number of occasions.",
-    "source": "The New Indian Express",
-    "link": "https://www.newindianexpress.com/sport/cricket/2026/Nov/19/ind-vs-nz-1st-test-day-1-nicholls-113-phillips-batting-on-94-as-new-zealand-reach-243-for-5-at-stumps",
-    "pubDate": "2026-11-19 01:56:58",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "IND Vs NZ | 1st Test Day 1: Nicholls on 109, Phillips batting on 91 as New Zealand reach 236 for 5",
-    "description": "Once the Kookaburra ball became semi-new and subsequently older, only Bumrah looked potent enough to beat the opposition batters on a number of occasions.",
-    "source": "The New Indian Express",
-    "link": "https://www.newindianexpress.com/sport/cricket/2026/Nov/19/ind-vs-nz-1st-test-day-1-nicholls-on-109-phillips-batting-on-91-as-new-zealand-reach-236-for-5",
-    "pubDate": "2026-11-19 01:56:58",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "Yashasvi Jaiswal’s sharp catch at forward short-leg helps Jasprit Bumrah dismiss Daryl Mitchell",
-    "description": "Yashasvi Jaiswal and Daryl Mitchell. (Photo Source: Sony Liv) Four wickets down inside 21 overs told the story of New Zealand’s difficult opening session on Day 1 of the first Test against India, being played at the...",
-    "source": "Bj Sports - Cricket Prediction, Live Score",
-    "link": "https://www.bjsports.live/latest-news-en/yashasvi-jaiswals-sharp-catch-at-forward-short-leg-helps-jasprit-bumrah-dismiss-daryl-mitchell",
-    "pubDate": "2026-11-19 01:56:31",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "Flabbergasted that India have left out Mohammed Siraj: Harsha Bhogle",
-    "description": "Mohammed Siraj (Photo by Abhishek Chinnappa/Getty Images) India’s pace bowling department faced a significant selection decision ahead of the first Test against New Zealand at Basin Reserve in Wellington on November...",
-    "source": "Bj Sports - Cricket Prediction, Live Score",
-    "link": "https://www.bjsports.live/latest-news-en/flabbergasted-that-india-have-left-out-mohammed-siraj-harsha-bhogle",
-    "pubDate": "2026-11-19 01:56:27",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "Rajasthan Royals explore options for Yashasvi Jaiswal trade - The Times of India",
-    "description": "Rajasthan Royals explore options for Yashasvi Jaiswal trade The Times of India Yashasvi Jaiswal to KKR or LSG? Why Rajasthan Royals can still trade the India opener Sportstar Yashasvi Jaiswal 'not very happy' at...",
+    "title": "Playing XI - AFG-A vs SL-A 2nd Match, Group A | Asia Cup Rising Stars (50 Overs) Squad - Cricinfo",
+    "description": "Playing XI - AFG-A vs SL-A 2nd Match, Group A | Asia Cup Rising Stars (50 Overs) Squad Cricinfo Playing XI - NZ vs IND 1st Test | India tour of New Zealand Squad Cricinfo Ball by Ball Commentary & Live Score - AS-W...",
     "source": "Google News",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWWZhaDJwejJXYlByWWhSSWlna3ExUFJVbUpITy1SUXNHMjlMX2JvQzhqa3JTZkN1OE5WMTE4WHZ2eEJINGRIdlFQdk1uOFFLZVlZNTdUUVhkWUpkM3FuRGpMZGM4UHBHbjlPVXk0MEZsMEE2VUNSbjlEUVNIVFQyaElkY1hETHAxV1lNM21yYTZrZDdpTVNKOS00aENEd1Z2SlFZUzJTQmhJdHlWRFpCN0lIdGZMLW1yYTF6SGxQQm5wUlhSSEhlNDdONG5MQXhodWw5cGdLZkVhX1VfOXRnaDJhZWpibG_SAewBQVVfeXFMT0hSNXl2MmFmMEp1d3MydGthLU1odUQ2Q08wbWF6cTBLODVKMlF2RXViRVR3S1ZKVEFjODVOOW5iMUtfOEVGR0swZHpFZUZjR1VncndWMVRVLUkybTQyenkwRWp3UnlWNkUwS0VkMFBvNmxrQVpXYjN2Uk1GaXVnUGVUc3JzcFh6Z2FiS0VzSEtIWlp1VWdEWVBaT21wLWRIX0hNSjF6aURYMEh5X21iTTBSd0w1TFF0NkZmLXlzV0tVUko0bXI5NlkzNFJlR3ppQnBiQmx2Y0FEVDRIS3B6REhRRWFoQmdTTmRLNGg?oc=5",
-    "pubDate": "2026-11-19 01:56:00",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVnNaNWZqMmhYaThSekFhSXB1UU4zZW1YMHJTSGtuWG1WeVg0aEVNUVlzQzRZdkxmbkdzQzZ6M2Y4blNodVg0M2IwRzdSUHc2VkRjeXpBckFscUdudlN0eHUtYjI4VEQyOU1icVJXbDU4ZUhjQlhPbmo3NGpLbVJxcHl0bXRWYXpUX3RWV21MSTloZjdWdm13d1NlaS1xbk5FTEJlVzJNSmJQb3ZCb2YxRXU1LWRQX0hWWVlWVUFSNHJENkJxd2RCSVQtLTdfaTZPOXBYb0E0d2NyOGoydndUZWZ5N1U?oc=5",
+    "pubDate": "2026-11-19 02:58:11",
     "category": [
      "sports"
+    ]
+   },
+   {
+    "title": "‘ICC responsible for ball tampering, the guidance should be clear’ – Greg Chappell as Sandpapergate fire reignites",
+    "description": "‘ICC responsible for ball tampering, the guidance should be clear’ – Greg Chappell as Sandpapergate fire reignites (Photo Source: Cricket Australia) The debate over ball tampering in cricket has resurfaced with...",
+    "source": "Bj Sports - Cricket Prediction, Live Score",
+    "link": "https://www.bjsports.live/latest-news-en/icc-responsible-for-ball-tampering-the-guidance-should-be-clear-greg-chappell-as-sandpapergate-fire-reignites",
+    "pubDate": "2026-11-19 02:56:48",
+    "category": [
+     "sports",
+     "top"
+    ]
+   },
+   {
+    "title": "Jasprit Bumrah surpasses Javagal Srinath to enter India’s top 10 Test wicket-takers",
+    "description": "Jasprit Bumrah surpasses Javagal Srinath to enter India’s top 10 Test wicket-takers (Photo by Robert Cianflone/Getty Images) Wellington’s Basin Reserve witnessed a landmark moment on November 19 2026 when Jasprit...",
+    "source": "Bj Sports - Cricket Prediction, Live Score",
+    "link": "https://www.bjsports.live/latest-news-en/jasprit-bumrah-surpasses-javagal-srinath-to-enter-indias-top-10-test-wicket-takers",
+    "pubDate": "2026-11-19 02:56:44",
+    "category": [
+     "sports",
+     "top"
+    ]
+   },
+   {
+    "title": "Three years on: India’s 2023 ODI World Cup final heartbreak at Ahmedabad remembered",
+    "description": "Prime Minister Narendra Modi, Virat Kohli and Rohit Sharma. (Photo Source: Twitter/Darshana Jardosh) November 19, 2026 marks three years to the day since Narendra Modi Stadium in Ahmedabad staged the 2023 ICC ODI...",
+    "source": "Bj Sports - Cricket Prediction, Live Score",
+    "link": "https://www.bjsports.live/latest-news-en/three-years-on-indias-2023-odi-world-cup-final-heartbreak-at-ahmedabad-remembered",
+    "pubDate": "2026-11-19 02:56:38",
+    "category": [
+     "sports",
+     "top"
     ]
    }
   ],
   "entertainment": [
    {
-    "title": "One in Theatres, Another on OTT! Vishwak Sen Gets a Rare Double Release Treat",
-    "description": "Mass Ka Das Vishwak Sen has a rare day today, with two of his films arriving on the same day: one in",
-    "source": "123telugu.com",
-    "link": "https://www.123telugu.com/mnews/one-in-theatres-another-on-ott-vishwak-sen-gets-a-rare-double-release-treat-hk.html",
-    "pubDate": "2026-11-19 01:52:08",
+    "title": "7 places in South India to escape the winter chills",
+    "description": "Discover South Indian places for winter vacation, from misty hill stations and lush plantations to sunny beaches and peaceful backwaters.",
+    "source": "Indulgexpress",
+    "link": "https://www.indulgexpress.com/galleries/2026/Nov/19/7-places-in-south-india-to-escape-the-winter-chills",
+    "pubDate": "2026-11-19 02:48:30",
     "category": [
      "entertainment"
     ]
@@ -308,31 +273,41 @@
   ],
   "tech": [
    {
-    "title": "Understanding Low-Latency Streaming: Where Delay Comes From and How to Reduce It",
-    "description": "Low-latency streaming is about more than delivering video quickly. It is about minimizing the time between a real-world event and the moment viewers see it, while keeping playback stable. For example, if a goal...",
-    "source": "Dev Community",
-    "link": "https://dev.to/alviny/understanding-low-latency-streaming-where-delay-comes-from-and-how-to-reduce-it-4n0a",
-    "pubDate": "2026-11-19 01:58:49",
+    "title": "VC funding deals: MountAIn, StepSecurity, Vero Security",
+    "description": "The latest VC funding deals include announcements on MountAIn, StepSecurity, Vero Security, 360 Capital, Supernova Invest, and others.",
+    "source": "Infotech Lead",
+    "link": "https://infotechlead.com/tech/vc-funding-deals-mountain-stepsecurity-vero-security-99722",
+    "pubDate": "2026-11-19 02:58:43",
     "category": [
      "technology"
     ]
    },
    {
-    "title": "“It’s just nasty,”: Bats found inside metro Atlanta high school",
-    "description": "",
-    "source": "Wsb-tv Channel 2 - Atlanta",
-    "link": "https://www.wsbtv.com/news/local/its-just-nasty-bats-found-inside-metro-atlanta-high-school/TUHX2EOORRHHZG24I4A36BHX5Y/",
-    "pubDate": "2026-11-19 01:58:39",
+    "title": "Making a booking page installable: tenant-aware PWA with vite-plugin-pwa",
+    "description": "A PWA is usually explained with one manifest and one service worker. That's fine until you serve many tenants from one installation — then every tenant needs its own app identity, its own icon label, its own start...",
+    "source": "Dev Community",
+    "link": "https://dev.to/chinayi/making-a-booking-page-installable-tenant-aware-pwa-with-vite-plugin-pwa-3b88",
+    "pubDate": "2026-11-19 02:58:40",
     "category": [
      "technology"
     ]
    },
    {
-    "title": "1 is int. 1.5 is float. TypeScript says number",
-    "description": "A whole number and a decimal do not land the same way on the PHP DTO. On the JSON converter, paste 1 and the property is typed int. Paste 1.5 and it is typed float. TypeScript types both as number. Conversion runs in...",
+    "title": "When does reserved GPU capacity beat on-demand pricing?",
+    "description": "Reserved GPU capacity beats on-demand once your utilization over the term exceeds the reserved rate divided by the on-demand rate: 63.0% of all hours for an 8 x NVIDIA H100 machine on a 1-year Amazon EC2 Instance...",
     "source": "Dev Community",
-    "link": "https://dev.to/ameenusman/1-is-int-15-is-float-typescript-says-number-287o",
-    "pubDate": "2026-11-19 01:58:18",
+    "link": "https://dev.to/viswaretas_kotra/when-does-reserved-gpu-capacity-beat-on-demand-pricing-3e7d",
+    "pubDate": "2026-11-19 02:58:34",
+    "category": [
+     "technology"
+    ]
+   },
+   {
+    "title": "Serialization and Deserialization in Database Engines: How Data Becomes Bytes",
+    "description": "When building a database engine from scratch, one of the most important concepts you need to understand is serialization and deserialization. You might be wondering: How does a database store data on disk? How does...",
+    "source": "Dev Community",
+    "link": "https://dev.to/farhadrahimiklie/serialization-and-deserialization-in-database-engines-how-data-becomes-bytes-4koi",
+    "pubDate": "2026-11-19 02:58:14",
     "category": [
      "technology"
     ]

@@ -1,6 +1,39 @@
 {
  "stories": [
   {
+   "id": "hormuz-tanker-engine-room-projectile-khasab",
+   "cats": [
+    "World",
+    "Breaking"
+   ],
+   "title": "ഹോർമുസിൽ ടാങ്കറിന് അജ്ഞാത പ്രൊജക്ടൈൽ പതിച്ചു; ജീവനക്കാർ സുരക്ഷിതർ",
+   "en": "Tanker struck near Strait of Hormuz; crew safe, UKMTO says",
+   "sum": "ഒമാനിലെ ഖസബിന് വടക്ക് ആറ് നോട്ടിക്കൽ മൈൽ അകലെ ടാങ്കറിന്റെ എൻജിൻ മുറിക്കാണ് പ്രഹരമേറ്റതെന്ന് യു.കെ.എം.ടി.ഒ. അറിയിച്ചു. നാശനഷ്ടവും പരിസ്ഥിതി ആഘാതവും വ്യക്തമല്ല.",
+   "date": "19 Nov 2026",
+   "body": [
+    "ഹോർമുസ് കടലിടുക്കിലൂടെ പുറത്തേക്ക് സഞ്ചരിക്കുകയായിരുന്ന ടാങ്കറിന് അജ്ഞാത പ്രൊജക്ടൈൽ പതിച്ചതായി യു.കെ. മാരിടൈം ട്രേഡ് ഓപ്പറേഷൻസ് അറിയിച്ചു. ഒമാനിലെ ഖസബിന് വടക്ക് ആറ് നോട്ടിക്കൽ മൈൽ അകലെയാണ് സംഭവം.",
+    "പ്രാദേശിക അധികാരികളെ ഉദ്ധരിച്ചുള്ള ഏജൻസിയുടെ മുന്നറിയിപ്പ് പ്രകാരം നവംബർ പതിനെട്ടിന് പതിനാറ് നാൽപ്പത്തിയഞ്ച് യു.ടി.സി. സമയത്താണ് ടാങ്കറിന്റെ എൻജിൻ മുറിക്ക് പ്രഹരമേറ്റത്.",
+    "കപ്പലിലെ ജീവനക്കാരെല്ലാം സുരക്ഷിതരാണെന്ന് യു.കെ.എം.ടി.ഒ. അറിയിച്ചു. നാശനഷ്ടവും പരിസ്ഥിതി ആഘാതവും ഇതുവരെ വ്യക്തമായിട്ടില്ല. അന്വേഷണം നടക്കുന്നതിനാൽ പ്രദേശത്തുകൂടി സഞ്ചരിക്കുന്ന കപ്പലുകൾ ജാഗ്രത പാലിക്കാനും സംശയാസ്പദമായ കാര്യങ്ങൾ റിപ്പോർട്ട് ചെയ്യാനും നിർദേശമുണ്ട്.",
+    "മുന്നറിയിപ്പിൽ കപ്പലിന്റെ പേര്, പതാക, ഉടമസ്ഥർ എന്നിവയോ ആക്രമണത്തിന് ഉത്തരവാദികളെയോ തിരിച്ചറിയിച്ചിട്ടില്ല."
+   ],
+   "srcs": [
+    [
+     "UKMTO warning 212-26",
+     "https://x.com/UK_MTO/status/2123182021308559506"
+    ],
+    [
+     "Anadolu Agency",
+     "https://u.aa.com.tr/en/middle-east/tanker-hit-by-unknown-projectile-near-strait-of-hormuz-uk-maritime-agency-says/4129910"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/Df6gtTklv1p/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 12:39 PM IST on 19 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-19T12:39:35+05:30"
+  },
+  {
    "id": "new-zealand-india-wellington-day-one-nicholls-century",
    "cats": [
     "Sports",

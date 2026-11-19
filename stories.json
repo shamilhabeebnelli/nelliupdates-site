@@ -34,8 +34,16 @@
      "https://www.instagram.com/nelli.updates/p/Df76SNhmEjI/"
     ]
    ],
-   "note": "Posted on Instagram @nelli.updates at about 1:42 AM IST on 20 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
-   "published_at": "2026-11-20T01:42:24+05:30"
+   "note": "Posted on Instagram @nelli.updates at about 1:42 AM IST on 20 Nov 2026. Facts were verified when posted and not refreshed since. Photograph supplied by NASA, credited to NASA/Danny Nowlin, used for factual editorial coverage under NASA media guidelines. No endorsement is implied.",
+   "published_at": "2026-11-20T01:42:24+05:30",
+   "image": {
+    "file": "images/1-nasa-rs25-nov18.jpg",
+    "alt": "RS-25 engine hot-fire test on the Fred Haise Test Stand at NASA Stennis, 18 November 2026",
+    "label": "Photo: RS-25 ground test, 18 Nov 2026. Not a launch.",
+    "credit": "NASA/Danny Nowlin",
+    "license": "NASA editorial use guidelines",
+    "page": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/"
+   }
   },
   {
    "id": "empire-ai-gamma-permanent-centre-groundbreaking",

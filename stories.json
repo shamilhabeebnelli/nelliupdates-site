@@ -1,6 +1,42 @@
 {
  "stories": [
   {
+   "id": "elon-musk-us-midterm-spending-regret",
+   "cats": [
+    "World"
+   ],
+   "title": "യു.എസ്. തിരഞ്ഞെടുപ്പ് ചെലവിൽ ഖേദം പ്രകടിപ്പിച്ച് ഇലോൺ മസ്ക്",
+   "en": "Elon Musk regrets his US midterm election spending",
+   "sum": "റിപ്പബ്ലിക്കൻ സ്ഥാനാർഥികൾക്കായി ഇത്രയും പണം ചെലവിട്ടതിൽ ഖേദമെന്ന് മസ്ക്. പണം മാത്രമല്ല തിരഞ്ഞെടുപ്പ് ഫലത്തെ തീരുമാനിക്കുന്നതെന്നും പ്രതികരണം.",
+   "date": "19 Nov 2026",
+   "body": [
+    "യു.എസ്. ഇടക്കാല തിരഞ്ഞെടുപ്പിൽ റിപ്പബ്ലിക്കൻ സ്ഥാനാർഥികളെ പിന്തുണയ്ക്കാൻ ചെലവിട്ട പണത്തെക്കുറിച്ച് ഖേദം പ്രകടിപ്പിച്ച് ഇലോൺ മസ്ക്. നവംബർ പതിനെട്ടിന് ന്യൂയോർക്ക് ടൈംസിന്റെ ഡീൽബുക്ക് സമ്മേളനത്തിൽ ആൻഡ്രൂ റോസ് സോർകിനുമായി നടത്തിയ ഓൺലൈൻ അഭിമുഖത്തിലാണ് പ്രതികരണം.",
+    "ഇത്രയും പണം ചെലവിട്ടിട്ടും വലിയ ഫലം കാണാനായില്ലെന്ന് മസ്ക് പറഞ്ഞു. സമയം തിരികെ കൊണ്ടുപോകാനായാൽ കുറച്ച് പണമേ ചെലവിടുമായിരുന്നുള്ളൂവെന്നും അദ്ദേഹം കൂട്ടിച്ചേർത്തു.",
+    "അതേസമയം ആ ചെലവില്ലായിരുന്നെങ്കിൽ റിപ്പബ്ലിക്കൻ ഫലം കൂടുതൽ മോശമായിരിക്കാമെന്നും മസ്ക് പറഞ്ഞു. അമേരിക്കൻ തിരഞ്ഞെടുപ്പുകൾ പണം മാത്രം കൊണ്ടല്ല തീരുമാനിക്കപ്പെടുന്നതെന്നായിരുന്നു അദ്ദേഹത്തിന്റെ വിലയിരുത്തൽ.",
+    "വാർത്തയിൽ ചെലവിന്റെ കൃത്യമായ തുക ഉൾപ്പെടുത്തിയിട്ടില്ല. ഇൻസ്റ്റാഗ്രാം കാർഡിൽ ഉപയോഗിച്ചിരിക്കുന്നത് ഒക്ടോബർ രണ്ടായിരത്തി ഇരുപത്തിനാലിലെ റേച്ചൽ വിസ്നിയേവ്സ്കി എടുത്ത റോയിട്ടേഴ്സ് ഫയൽ ചിത്രമാണ്, പുതിയ അഭിമുഖത്തിന്റെ ചിത്രമല്ല."
+   ],
+   "srcs": [
+    [
+     "CNBC interviewer clip",
+     "https://www.cnbc.com/video/2026/11/18/musk-says-he-feels-pretty-foolish-about-midterm-spending.html"
+    ],
+    [
+     "BBC News",
+     "https://www.bbc.com/news/articles/cm9q8j2z3gg8o"
+    ],
+    [
+     "ABC News",
+     "https://abcnews.com/Politics/musk-regrets-500-million-midterm-elections-spending-hes/story?id=138270985"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/Df6RXYrliS6/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 10:25 AM IST on 19 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-19T10:25:00+05:30"
+  },
+  {
    "id": "avengers-doomsday-eleven-character-posters",
    "cats": [
     "Entertainment"

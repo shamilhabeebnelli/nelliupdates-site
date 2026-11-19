@@ -1,81 +1,94 @@
 {
- "fetched_at": "2026-11-19 21:59 UTC",
+ "fetched_at": "2026-11-19 23:59 UTC",
  "groups": {
   "india": [
    {
-    "title": "Innover Digital joins OpenAI partner network as Select",
-    "description": "The deal could speed up deployment of agentic AI tools for manufacturers, insurers and lenders as Innover moves customer projects into live use.",
-    "source": "It Brief India",
-    "link": "https://itbrief.in/story/innover-digital-joins-openai-partner-network-as-select",
-    "pubDate": "2026-11-19 09:59:00",
+    "title": "Mahesh Baldi Convicted | आमदार महेश बालदींना सश्रम कारावास | Raigad News",
+    "description": "रायगडमधील उरण येथील 2010 मधील एका प्रकरणात आमदार महेश बालदी यांच्यासह चौघांना अलिबागच्या मुख्य न्यायदंडाधिकाऱ्यांनी तीन वर्षांच्या सश्रम कारावासाची शिक्षा सुनावली आहे. Raigad MLA Mahesh Baldi and three others have...",
+    "source": "News18marathi",
+    "link": "https://news18marathi.com/videos/maharashtra/mahesh-baldi-convicted-raigad-news-1836037.html",
+    "pubDate": "2026-11-19 11:58:57",
     "category": [
      "top",
-     "technology"
+     "politics",
+     "lifestyle"
     ]
    },
    {
-    "title": "Trump Admits US, China Spy On Each Other Amid Jensen Huang Scandal, Then Claims: 'We Do It Better'",
-    "description": "When asked if he would ask China to stop spying on the US, he responded: \"They'll ask me to stop doing it, and I don't know if I'd do that.\"",
-    "source": "News 18",
-    "link": "https://www.news18.com/world/trump-admits-us-china-spy-on-each-other-amid-jensen-huang-scandal-then-claims-we-do-it-better-ws-l-10432545.html",
-    "pubDate": "2026-11-19 09:58:54",
-    "category": [
-     "top",
-     "politics"
-    ]
-   },
-   {
-    "title": "The Business Value Gap: Rethinking How Enterprises Measure AI Success",
-    "description": "India is expanding its artificial intelligence capabilities, but the next challenge for enterprises is turning that investment into measurable business value. Deploying an AI application is one milestone....",
-    "source": "Cio&leader",
-    "link": "https://www.cioandleader.com/the-business-value-gap-rethinking-how-enterprises-measure-ai-success/",
-    "pubDate": "2026-11-19 09:58:47",
-    "category": [
-     "top",
-     "technology"
-    ]
-   },
-   {
-    "title": "Helplines On IDs, Counselling Room In Schools: Delhi's Mental Health Policy",
-    "description": "The 104-page framework sets out new rules for counsellors, emergency support, student privacy and school accountability.",
-    "source": "Ndtv",
-    "link": "https://www.ndtv.com/education/helplines-on-college-ids-counselling-rooms-in-schools-delhi-launches-mental-health-policy-12348815",
-    "pubDate": "2026-11-19 09:58:34",
-    "category": [
-     "top",
-     "health"
-    ]
-   },
-   {
-    "title": "European shares rebound as Anthropic IPO boosts tech stocks; Commerzbank rallies",
-    "description": "European equities recovered on Thursday, snapping a three-day losing streak as chipmakers and tech shares surged ahead of Anthropic's record $81.3 billion Nasdaq debut. Banking stocks also lent support, with...",
-    "source": "The Economic Times",
-    "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-rebound-as-anthropic-ipo-boosts-tech-stocks-commerzbank-rallies/articleshow/135985666.cms",
-    "pubDate": "2026-11-19 09:58:33",
+    "title": "Haryana Invites Bids for O&M of Solar Project at Thermal Plant",
+    "description": "Listen to this article The Haryana Power Generation Corporation (HPGCL) has issued a tender to invite bids for providing operation and maintenance (O&M) services for",
+    "source": "Mercom India",
+    "link": "https://www.mercomindia.com/haryana-invites-bids-for-om-of-solar-project-at-thermal-plant",
+    "pubDate": "2026-11-19 11:58:30",
     "category": [
      "top",
      "business"
     ]
    },
    {
-    "title": "Best Samsung tablets under Rs 30,000 in India: Samsung Galaxy Tab S10 Lite, Samsung Galaxy Tab A11+, Samsung Galaxy Tab A11, and more",
-    "description": "Here are the best Samsung tablets under Rs 30,000 in India, including the Galaxy Tab S10 Lite, Galaxy Tab A11+, Galaxy Tab S6 Lite (2024), Galaxy Tab A9+, Galaxy Tab A11 and Galaxy Tab A9. We compare price, display,...",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/best-samsung-tablets-under-rs-30000-in-india-samsung-galaxy-tab-s10-lite-samsung-galaxy-tab-a11-samsung-galaxy-tab-a11-and-more/articleshow/135985425.cms",
-    "pubDate": "2026-11-19 09:58:33",
+    "title": "esVolta Secures Over $180 Million for Texas Battery Storage Projects",
+    "description": "esVolta, a developer, owner, and operator of utility-scale battery energy storage projects, has secured $181.2 million through two…",
+    "source": "Mercom India",
+    "link": "https://www.mercomindia.com/esvolta-secures-over-180-million-for-texas-battery-storage-projects",
+    "pubDate": "2026-11-19 11:58:30",
     "category": [
      "top",
      "technology"
+    ]
+   },
+   {
+    "title": "NTPC SAIL Invites Bids for Solar Project in Chhattisgarh",
+    "description": "NTPC SAIL Power Company (NSPCL), a joint venture of NTPC and Steel Authority of India (SAIL), has invited bids for the engineering, procurement, and construction (EPC) of a solar project in Chhattisgarh.",
+    "source": "Mercom India",
+    "link": "https://www.mercomindia.com/ntpc-sail-invites-bids-for-solar-project-in-chhattisgarh",
+    "pubDate": "2026-11-19 11:58:30",
+    "category": [
+     "top",
+     "business"
+    ]
+   },
+   {
+    "title": "Gujarat Regulator Rejects Deadline Extension for 4 MW Captive Solar Project",
+    "description": "The Gujarat Electricity Regulatory Commission (GERC) has refused an extension of the scheduled commissioning date (SCOD) for evacuation infrastructure associated with a 4 MW captive solar power project in...",
+    "source": "Mercom India",
+    "link": "https://www.mercomindia.com/gujarat-regulator-rejects-deadline-extension-for-4-mw-captive-solar-project",
+    "pubDate": "2026-11-19 11:58:30",
+    "category": [
+     "top",
+     "business"
+    ]
+   },
+   {
+    "title": "Rajasthan Regulator Upholds Surcharges on Industrial Rooftop Solar Project",
+    "description": "The Rajasthan Electricity Regulatory Commission (RERC) has upheld the levy of cross-subsidy surcharge (CSS) and additional surcharge on electricity supplied to a metal company from a third party-owned rooftop solar...",
+    "source": "Mercom India",
+    "link": "https://www.mercomindia.com/rajasthan-regulator-upholds-surcharges-on-industrial-rooftop-solar-project",
+    "pubDate": "2026-11-19 11:58:30",
+    "category": [
+     "top",
+     "business"
     ]
    }
   ],
   "kerala": [
    {
-    "title": "Kerala lottery Karunya Plus KN-650 result today 19/11/2026: ₹1 cr first prize for PS 554896 | Check complete list - Onmanorama",
-    "description": "Kerala lottery Karunya Plus KN-650 result today 19/11/2026: ₹1 cr first prize for PS 554896 | Check complete list Onmanorama Kerala lottery Dhanalekshmi DL-78 result today 18/11/2026: ₹1 cr first prize for DO 359523...",
-    "source": "Google News",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTTF1cG9MbThHanZ4QzNTZjNLRXg4Wnd1WHp5aXJ4YzNubWlGeUdWM3lsRWRvWnZadms0cjA3ZHZGZmhBREtpS0QyWHAwQl9wTDIwVm9fT1ZHMDEwaHJuVkdfUm1oMVVBYVo0SE5GRGlJNGVaeG1ldE1xTjdLN1kxTjNiaUt4T2NrWDlZT0ZXeG45OGtOVDUyUmotakRZeTVybmlEZzBXdGo1bnpVVDF1dV9hR1dVZUZpMFBrZkJXUVloekc4UGRTQkhxTFJWWXEx?oc=5",
-    "pubDate": "2026-11-19 09:56:28",
+    "title": "Kerala PSC Electrician Salary 2026 – In-Hand Pay, Annual Income, Perks & Allowances",
+    "description": "Kerala PSC Electrician Salary 2026 – Pay scale, in-hand salary, allowances, perks, and expected annual income explained!",
+    "source": "Entri",
+    "link": "https://entri.app/blog/kerala-psc-electrician-salary/",
+    "pubDate": "2026-11-19 11:54:43",
+    "category": [
+     "top",
+     "business",
+     "technology"
+    ]
+   },
+   {
+    "title": "Scene Crosses ₹256.5 Crore Worldwide In 13 Days",
+    "description": "Suriya-starrer Scene has collected ₹256.50 crore worldwide in 13 days, driven by ₹145.05 crore in India net and ₹88.00 crore from overseas markets.",
+    "source": "Business Times India",
+    "link": "https://www.btin.co.in/scene-crosses-rs-256-5-crore-worldwide-in-13-days-123011",
+    "pubDate": "2026-11-19 11:53:35",
     "category": [
      "top",
      "business",
@@ -83,162 +96,142 @@
     ]
    },
    {
-    "title": "Kerala lottery Karunya Plus KN-650 result today 19/11/2026: ₹1 cr first prize for PS 554896 | Check complete list",
-    "description": "The Kerala State Lottery Department announced the results of the Karunya Plus KN-650 lottery today, 19/11/2026. The first prize is ₹1 crore. Find winning numbers and prize-claiming details. Kerala Lottery Results....",
-    "source": "Onmanorama",
-    "link": "https://www.onmanorama.com/kerala/top-news/2026/11/19/karunya-plus-kn-650-lottery-results-kerala-1-crore-first-prize-list-winners-live.html",
-    "pubDate": "2026-11-19 09:56:19",
+    "title": "Vizhinjam Port and the Outer Ring Road: Structural Design Skills Kerala Will Need",
+    "description": "Vizhinjam Port and the Outer Ring Road will need skills in bridges, tunnels, geotechnics, port structures and BIM. See what Kerala's engineers should learn now.",
+    "source": "Entri",
+    "link": "https://entri.app/blog/vizhinjam-port-and-the-outer-ring-road-structural-design-skills-kerala-will-need/",
+    "pubDate": "2026-11-19 11:52:24",
     "category": [
      "top",
      "business",
-     "entertainment"
+     "technology"
     ]
    },
    {
-    "title": "Padmaja Venugopal exits BJP, says no plan to join Congress yet",
-    "description": "Two years after she joined the Kerala unit of the Bharatiya Janata Party (BJP), Padmaja Venugopal announced her exit from the outfit on Thursday, November 19. She called her shift from the Congress to the BJP in...",
-    "source": "The News Minute",
-    "link": "https://www.thenewsminute.com/kerala/padmaja-venugopal-exits-bjp-says-no-plan-to-join-congress-yet",
-    "pubDate": "2026-11-19 09:54:47",
+    "title": "Kerala PSC Electrician Preparation Tips 2026: Tricks, Strategy",
+    "description": "Master Kerala PSC Electrician Exam with These Expert Tips and Strategies. Find Kerala PSC Electrician Preparation Tips 2026 here.",
+    "source": "Entri",
+    "link": "https://entri.app/blog/kerala-psc-electrician-preparation-tips/",
+    "pubDate": "2026-11-19 11:52:02",
+    "category": [
+     "top",
+     "technology"
+    ]
+   },
+   {
+    "title": "Kerala PSC Electrician Previous Year Question Paper 2026 PDF Download",
+    "description": "Kerala PSC released Electrician Previous Question Papers 2026. Eligible candidates can download the PDF from the link provided here",
+    "source": "Entri",
+    "link": "https://entri.app/blog/kerala-psc-electrician-previous-question-paper/",
+    "pubDate": "2026-11-19 11:50:14",
+    "category": [
+     "politics",
+     "top",
+     "education"
+    ]
+   },
+   {
+    "title": "Who Was VS Babu? Former DMK Leader Who Defeated Stalin And Joined Vijay's TVK",
+    "description": "Tamilaga Vettri Kazhagam MLA VS Babu, who defeated former Tamil Nadu Chief Minister MK Stalin in the 2026 Assembly elections, died at 75 in Chennai on November 19. He suffered a cardiac arrest at MGM Healthcare.",
+    "source": "Asianet Newsable",
+    "link": "https://newsable.asianetnews.com/gallery/india/vs-babu-dies-at-75-his-political-journey-from-dmk-north-chennai-secretary-joining-vijay-tvk-to-defeating-mk-stalin-vrc6kcf",
+    "pubDate": "2026-11-19 11:49:18",
     "category": [
      "top",
      "politics"
     ]
    },
    {
-    "title": "Congress govt removes more than 15000 social media posts in 6 months, freedom of speech goes for a toss in Kerala",
-    "description": "Kerala’s Congress-led UDF government has removed 15,627 social media posts, Assembly figures show, opposition said of digital censorship and a political row over targeting online criticism in the state",
-    "source": "Op India",
-    "link": "https://www.opindia.com/news-updates/congress-govt-removes-15627-social-media-posts-six-months-in-power/",
-    "pubDate": "2026-11-19 09:54:18",
+    "title": "Kamran and Rudra bowl Hyderabad out for lowly 83, put Uttar Pradesh on way to big lead",
+    "description": "Uttar Pradesh’ Kamran Ali ripped the heart out of Hyderabad who they were bowled out for a lowly 83 in the Vijay Merchant Trophy at the KSCA Navule Stadium in Shivamogga, Karnataka, on Thursday. At stumps on the...",
+    "source": "Khel Khiladis.com",
+    "link": "https://khelkhiladis.com/kamran-and-rudra-bowl-hyderabad-out-for-lowly-83/",
+    "pubDate": "2026-11-19 11:48:50",
     "category": [
-     "top",
-     "politics",
-     "technology"
+     "sports",
+     "top"
     ]
    },
    {
-    "title": "Kerala PSC Revenue Surveyor Grade 2 Mock Test 2026: Free Online Mock Tests",
-    "description": "Take Kerala PSC Revenue Surveyor Grade 2 mock tests module-wise and full-length, with answers and analysis on the Entri app.",
+    "title": "Kerala PSC Electrician Exam 2026 Study Plan – Daily Schedule, Step-by-Step Strategy",
+    "description": "Kerala PSC Electrician Exam 2026 study plan with daily schedule, syllabus coverage, PYQs, mock tests, and smart preparation strategy.",
     "source": "Entri",
-    "link": "https://entri.app/blog/kerala-psc-revenue-surveyor-grade-2-mock-test/",
-    "pubDate": "2026-11-19 09:53:55",
+    "link": "https://entri.app/blog/kerala-psc-electrician-study-plan/",
+    "pubDate": "2026-11-19 11:47:35",
     "category": [
      "top",
-     "science",
-     "business"
-    ]
-   },
-   {
-    "title": "15 States, None Above 6/10: New Index Highlights Gaps in India's Vehicle Ownership Transfers",
-    "description": "A new Ease of Vehicle Ownership Index (EVOI) by IndiaTech. Org, Consumer VOICE India, and IMPACT Bharat reveals major state-level delays, paperwork, and high costs in India's used vehicle ownership transfers.",
-    "source": "Deccan Herald",
-    "link": "https://www.deccanherald.com/connect/15-states-none-above-610-new-index-highlights-gaps-in-indias-vehicle-ownership-transfers-4223931",
-    "pubDate": "2026-11-19 09:50:43",
-    "category": [
-     "top",
+     "education",
      "technology"
-    ]
-   },
-   {
-    "title": "Padmaja Venugopal Quits BJP, Admits 'Mistake' in Political Journey",
-    "description": "Padmaja Venugopal Quits BJP, Admits 'Mistake' in Political Journey - In a significant political U-turn, Padmaja Venugopal, daughter of the late Congress stalwart and former Kerala Chief Minister K. ... - Latest News....",
-    "source": "lokmattimes",
-    "link": "https://www.lokmattimes.com/national/padmaja-venugopal-quits-bjp-admits-mistake-in-political-journey-a001-w02/",
-    "pubDate": "2026-11-19 09:50:27",
-    "category": [
-     "domestic"
-    ]
-   },
-   {
-    "title": "PM Modi asks India Inc to suggest more reforms for growth",
-    "description": "Prime Minister Narendra Modi asked India Inc to openly suggest further reforms, while urging businesses to focus on self-reliance and investment in agriculture and allied sectors. The post PM Modi asks India Inc to...",
-    "source": "Apn",
-    "link": "https://apnlive.com/india-news/pm-modi-india-inc-suggest-industry-reforms/",
-    "pubDate": "2026-11-19 09:46:08",
-    "category": [
-     "top",
-     "business"
     ]
    }
   ],
   "world": [
    {
-    "title": "UAC delivers batch of modernized Su-57 fighter jets to Russian Aerospace Forces",
-    "description": "The Su-57 is Russian flagship aircraft in the operational-tactical aviation fleet",
-    "source": "Тасс",
-    "link": "https://tass.com/defense/2221283",
-    "pubDate": "2026-11-19 09:58:40",
+    "title": "Council boss axed after being unmasked as adult star as videos spark 'blackmail' fears",
+    "description": "A Swedish council boss has been sacked over fears his secret past as an adult film star could leave him vulnerable to Russian blackmail in a key NATO area",
+    "source": "Dailystar Co Uk",
+    "link": "https://www.dailystar.co.uk/news/latest-news/council-boss-axed-after-being-37893850",
+    "pubDate": "2026-11-19 11:58:11",
     "category": [
      "world"
     ]
    },
    {
-    "title": "Mamdani defends criticizing Israel on October 7 anniversary, repeats genocide accusation",
-    "description": "NYC Mayor Zohran Mamdani doubles down on Israel genocide accusations and defends October 7 comments. The post Mamdani defends criticizing Israel on October 7 anniversary, repeats genocide accusation appeared first on...",
-    "source": "Win",
-    "link": "https://worldisraelnews.com/mamdani-defends-criticizing-israel-on-october-7-anniversary-repeats-genocide-accusation/",
-    "pubDate": "2026-11-19 09:58:05",
+    "title": "AI being run in a ‘mediaeval’ way: UN",
+    "description": "The UN high commissioner for human rights said AI was increasingly controlling people’s lives.",
+    "source": "Straitstimes",
+    "link": "https://www.straitstimes.com/world/europe/ai-being-run-in-a-mediaeval-way-un",
+    "pubDate": "2026-11-19 11:58:00",
     "category": [
      "world"
     ]
    },
    {
-    "title": "State Courts: 27-year-old man imprisoned after paying for sexual services of 16-year-old girl",
-    "description": "The State Courts of Singapore have sentenced 27-year-old Muhammad Ameerulah Noor Mohamed to three months' imprisonment after he pleaded guilty to engaging the sexual services of a person under 18 years of age. The...",
-    "source": "Pravda",
-    "link": "https://english.pravda.ru/news/world/173460-singapore-court-sentences-man-minor-offense/",
-    "pubDate": "2026-11-19 09:58:00",
-    "category": [
-     "world"
-    ]
-   },
-   {
-    "title": "Wealthy nations hold back, leaving COP31 adaptation fund with $50.2M in new pledges",
-    "description": "Spain pledges $27.8M, followed by Germany and Ireland, while the US, the UK, Canada, France, Italy and Australia make no new commitments to the fund.",
+    "title": "Myanmar committed genocide against Rohingya, ICJ rules",
+    "description": "The ICJ found that Myanmar's military acted with intent to destroy a substantial part of the Muslim Rohingya population, citing mass killings, widespread sexual violence and extreme violence against children.",
     "source": "Trt World",
-    "link": "https://www.trtworld.com/article/98bf8cf4b568",
-    "pubDate": "2026-11-19 09:57:45",
+    "link": "https://www.trtworld.com/article/0008bbafb344",
+    "pubDate": "2026-11-19 11:57:48",
     "category": [
      "world"
     ]
    },
    {
-    "title": "Bulgaria says hackers stole 62M pages of government documents",
-    "description": "Authorities say attackers' access to government networks has been blocked, with no evidence so far that citizens' personal data was compromised",
-    "source": "Anadolu Agency",
-    "link": "https://www.aa.com.tr/en/europe/bulgaria-says-hackers-stole-62m-pages-of-government-documents/4130430",
-    "pubDate": "2026-11-19 09:56:42",
+    "title": "Tabu joins YRF's Tunnel Men, Netflix series inspired by Uttarakhand tunnel rescue",
+    "description": "Last seen in Drishyam: The Conclusion alongside Ajay Devgn, Bollywood actress Tabu is reportedly set to make her Hindi OTT debut with YRF Entertainment's upcoming series Tunnel Men, directed by Shiv Rawail.",
+    "source": "Wion",
+    "link": "https://www.wionews.com/entertainment/bollywood/tabu-joins-yrf-s-tunnel-men-netflix-series-inspired-by-uttarakhand-tunnel-rescue-1795063305665",
+    "pubDate": "2026-11-19 11:57:12",
     "category": [
      "world"
     ]
    },
    {
-    "title": "Women call for greater access and collaboration in SA’s defence industry",
-    "description": "Women in South Africa’s defence industry are not asking to be merely accommodated, but for the opportunity to gain meaningful [...]",
-    "source": "Defence Web",
-    "link": "https://defenceweb.co.za/sa-defence-sa-defence/women-call-for-greater-access-and-collaboration-in-sas-defence-industry/",
-    "pubDate": "2026-11-19 09:56:01",
+    "title": "Danish parliament ratifies expanded US military access to Greenland",
+    "description": "COPENHAGEN — Denmark’s parliament on Thursday unanimously approved a security and defense agreement that expands the US military’s access to Greenland. The deal aimed at bolstering security in the Arctic and North...",
+    "source": "Saudi Gazette",
+    "link": "https://saudigazette.com.sa/article/666369/world/danish-parliament-ratifies-expanded-us-military-access-to-greenland",
+    "pubDate": "2026-11-19 11:56:50",
     "category": [
      "world"
     ]
    },
    {
-    "title": "Denmark's parliament ratifies security agreement with US, Greenland",
-    "description": "Denmark's parliament has approved an agreement involving Greenland and the United States to strengthen security in the Arctic and North Atlantic. The vote follows months of pressure by U.S. President Donald Trump...",
-    "source": "Naharnet",
-    "link": "https://www.naharnet.com/stories/en/323886-denmark-s-parliament-ratifies-security-agreement-with-us-greenland",
-    "pubDate": "2026-11-19 09:54:37",
+    "title": "FDA suspends 23 food business licences across Maharashtra, seizes stock worth Rs 2.23 crore",
+    "description": "In a statement, FDA said the action followed inspections that revealed several violations, including unhygienic preparation, improper storage of food, presence of cockroaches and flies, unclean equipment and failure...",
+    "source": "The Economic Times",
+    "link": "https://economictimes.indiatimes.com/news/india/fda-suspends-23-food-business-licences-across-maharashtra-seizes-stock-worth-rs-2-23-crore/articleshow/135990064.cms",
+    "pubDate": "2026-11-19 11:56:01",
     "category": [
      "world"
     ]
    },
    {
-    "title": "Hawks uncover R100 million drug lab in KwaZulu-Natal",
-    "description": "A multi-disciplinary police operation has uncovered a clandestine drug laboratory at Umvoti in KwaZulu-Natal, leading to the arrest of a [...]",
-    "source": "Defence Web",
-    "link": "https://defenceweb.co.za/security/civil-security/hawks-uncover-r100-million-drug-lab-in-kwazulu-natal/",
-    "pubDate": "2026-11-19 09:54:34",
+    "title": "What we know about Putin-Xi-Trump meeting",
+    "description": "Russian President Vladimir Putin stressed that Moscow, Beijing and Washington could make a significant contribution to reinforcing international stability through constructive cooperation as partners",
+    "source": "Тасс",
+    "link": "https://tass.com/politics/2221501",
+    "pubDate": "2026-11-19 11:55:57",
     "category": [
      "world"
     ]
@@ -246,44 +239,32 @@
   ],
   "sports": [
    {
-    "title": "140 years of Mercedes-Benz",
-    "description": "What would it look like when past, present and future came together? That was the 140 years festival for me",
-    "source": "Evo India",
-    "link": "https://www.evoindia.com/article/140-years-of-mercedes-benz",
-    "pubDate": "2026-11-19 09:58:36",
-    "category": [
-     "sports",
-     "top",
-     "technology"
-    ]
-   },
-   {
-    "title": "Why India Coach Wants Other Pacers To Learn From Jasprit Bumrah After Allowing New Zealand To Recover From 70/5 To 243/5",
-    "description": "India assistant coach Sitanshu Kotak admitted the team could have bowled straighter to Glenn Phillips after New Zealand reached 243/5 on Day 1.",
-    "source": "News 18",
-    "link": "https://www.news18.com/cricket/why-india-coach-wants-other-pacers-to-learn-from-jasprit-bumrah-after-allowing-new-zealand-to-recover-from-70-5-to-243-5-ws-l-10432534.html",
-    "pubDate": "2026-11-19 09:57:38",
+    "title": "India A vs Nepal liveStreaming: When and where to watch Rising Stars Asia Cup 2026 match?",
+    "description": "India A is gearing up for the Men's Asia Cup Rising Stars 2026, kicking off against Nepal on November 20. With Tilak Varma leading the charge, the squad boasts talents like Abhishek Sharma and Vaibhav Sooryavanshi....",
+    "source": "The Times Of India",
+    "link": "https://timesofindia.indiatimes.com/sports/cricket/news/india-a-vs-nepal-live-streaming-when-and-where-to-watch-rising-stars-asia-cup-2026-match-in-india/articleshow/135989771.cms",
+    "pubDate": "2026-11-19 11:57:53",
     "category": [
      "sports",
      "top"
     ]
    },
    {
-    "title": "Porto vs USC Paredes Prediction and Betting Tips | November 20th 2026",
-    "description": "Porto are back in action on Friday when they play host to USC Paredes in the fourth round of the Taça de Portugal at the Estádio do Dragão.",
-    "source": "Sportskeeda",
-    "link": "https://www.sportskeeda.com/football/porto-vs-usc-paredes-prediction-betting-tips-november-20th-2026",
-    "pubDate": "2026-11-19 09:56:00",
+    "title": "SLA vs AFGA, 2nd Match, Group A, ACC Men's Asia Cup Rising Stars 2026 - Commentary - Cricbuzz",
+    "description": "SLA vs AFGA, 2nd Match, Group A, ACC Men's Asia Cup Rising Stars 2026 - Commentary Cricbuzz",
+    "source": "Google News",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRlJoZzJJTnplZjRwQUxjaHhyalFDTXVRcV9DX05qTmFsb0V5LWFUUjdiTkRtMmJva0Y1V1YyY1hVcm1zWWxQUEVjdkVqMjk1U21uSXhnTXNsU3hZWUdQTlNka3NpMHBHWVd4eXF4NWxzdUxtV3lRSXNjSUhBVmR3aTZFcTBqNnRNRjVqWFdObnMyV1k2SVRka2pXTzJ0T2dpQ1RTWng0T1ViSncwYmdJQTk0SmhLdw?oc=5",
+    "pubDate": "2026-11-19 11:57:00",
     "category": [
      "sports"
     ]
    },
    {
-    "title": "Sandpapergate Row: Pat Cummins Confronted by Reporters Outside Home Following Cameron Bancroft's Claims (WATCH)",
-    "description": "Australian captain Pat Cummins was confronted by reporters outside his home regarding Cameron Bancroft's ball-tampering allegations. Fans slammed the media for invading his privacy and questioning their journalistic...",
-    "source": "Asianet Newsable",
-    "link": "https://newsable.asianetnews.com/sports/sandpapergate-row-pat-cummins-confronted-by-reporters-outside-home-following-cameron-bancrofts-claims-watch-articleshow-gsflufv",
-    "pubDate": "2026-11-19 09:55:51",
+    "title": "A ‘bulldozer’ move at Akhilesh Yadav rally, a tragic death, then a blame game - The Indian Express",
+    "description": "A ‘bulldozer’ move at Akhilesh Yadav rally, a tragic death, then a blame game The Indian Express Boy killed after allegedly being hit by JCB during SP rally in Gorakhpur; BJP slams SP ‘hooliganism’; Akhilesh demands...",
+    "source": "Google News",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNk9MVUw4WndPYnJlQ0JqWGlPVkxxeEtwTHFzNnVIWDJYc3lyUmdkd2FuTnZaWGwweXBGQ0kyVW9LNEVZaDdkUHl2VzlGUTctSDBqMGhHd1NlTFVNa1dEUDdLX2lPNmRXeUhQLU43YkVLMjc0QTlDZk1xUk4yX2ZrNG1pdFlQZzVpYko0UGhmX0d4NlpqV3VlemoyZmE4V2RsZjJZeko1VUgxamxBRUoyazZhU2E4ME84VEM5OURya2JBYVZaazNfQ2U0TlAteTdRYzdZctIB2wFBVV95cUxNRGYzZ2VTTlI3bTZxMnVsTXJwbVMxSl83UkdwVHJISHlBblc4T0xGMTRRMGw3ZzdURnBKMXAwbnl4UDVhOFBhanlfeG9tSUNvYUxVSENScVg1X3lBUDJZa1NoZjdBdHN4SW80WXFNcVdCMzBsdTZocHNCdHJCbWtzTGFCclRYd25DX0xxRnJibEozQ01mN2pYTENfaGFSWmZWRVRERHd4RXU5MnhUVmtqNmtwUjRacEtUVmZVOGxNMjRWZVRWQmdFVFhQblhETXlsanNZVkthN2E4WWM?oc=5",
+    "pubDate": "2026-11-19 11:56:53",
     "category": [
      "sports",
      "crime",
@@ -291,42 +272,56 @@
     ]
    },
    {
-    "title": "Rahul Dravid Was India's Most Lethal Test Weapon vs New Zealand; If Only He Still Played!",
-    "description": "Team India under Shubman Gill is currently engaged in a Test series in New Zealand. India's aim is to win a Test series on New Zealand soil for the first time since 2009. The last time it happened, MS Dhoni was the...",
-    "source": "Mensxp",
-    "link": "https://www.mensxp.com/sports/cricket/186882-rahul-dravid-was-indias-most-lethal-test-weapon-vs-new-zealand-if-only-he-still-played.html",
-    "pubDate": "2026-11-19 09:55:26",
+    "title": "Gaming firm flags rise of illegal offshore operators before SC",
+    "description": "The illegal offshore operators are booming because all legitimate businesses are shutting, Head Digital Works, which operates A23 Rummy, tells the Supreme Court",
+    "source": "Mint",
+    "link": "https://www.livemint.com/news/india/gaming-firm-flags-rise-of-illegal-offshore-operators-before-sc-11795082738878.html",
+    "pubDate": "2026-11-19 11:56:33",
     "category": [
      "sports",
      "top"
     ]
    },
    {
-    "title": "Vaibhav Sooryavanshi joins TIME100 Next India list alongside Harmanpreet Kaur",
-    "description": "Vaibhav Sooryavanshi features in the inaugural TIME100 Next India list, with Ayushmann Khurrana praising the 15-year-old's record-breaking cricket journey and calling him a symbol of a changing India.",
-    "source": "Cricket Addictor",
-    "link": "https://cricketaddictor.com/cricket-news/vaibhav-sooryavanshi-joins-time100-next-india-list-alongside-harmanpreet-kaur-466208/",
-    "pubDate": "2026-11-19 09:53:48",
+    "title": "Who Is Jhon Perlaza? Ecuadorian Footballer Banned For Eight Years After Attacking Referee",
+    "description": "Ecuadorian footballer Jhon Perlaza has received an eight-year ban after throwing a stone that seriously injured an assistant referee during a third-tier match. The Ecuadorian Football Federation also fined his club...",
+    "source": "The Sunday Guardian",
+    "link": "https://sundayguardianlive.com/sports/who-is-jhon-perlaza-ecuadorian-footballer-banned-for-eight-years-after-attacking-referee-324506/",
+    "pubDate": "2026-11-19 11:55:03",
+    "category": [
+     "sports",
+     "crime",
+     "top"
+    ]
+   },
+   {
+    "title": "‘Can’t Put Ourselves in That Position’: Joe Mazzulla Holds Jayson Tatum Accountable as Celtics’ Losing Streak Continues",
+    "description": "A careless error with the game on the line. Now, the Celtics sit with back-to-back losses. And it was committed by the franchise cornerstone himself, Jayson Tatum. The late-game technical foul became one of the...",
+    "source": "Essentially Sports",
+    "link": "https://www.essentiallysports.com/nba-active-basketball-news-cant-put-ourselves-in-that-position-joe-mazzulla-holds-jayson-tatum-accountable-as-boston-celtics-losing-streak-continues/",
+    "pubDate": "2026-11-19 11:55:00",
     "category": [
      "sports"
     ]
    },
    {
-    "title": "LSG's Tom Moody explains reason for trading Sam Curran for Mohammed Shami",
-    "description": "Lucknow Super Giants made two blockbuster trades ahead of the IPL 2027 season. First, they traded in Kuldeep Yadav from Delhi Capitals for Rishabh Pant and later signed Sam Curran from Rajasthan Royals in exchange...",
-    "source": "India Tv",
-    "link": "https://www.indiatvnews.com/sports/cricket/lsg-s-tom-moody-explains-reason-for-trading-sam-curran-for-mohammed-shami-2026-11-19-1059850",
-    "pubDate": "2026-11-19 09:53:42",
+    "title": "Entirely wrong decision: Siraj’s drop from NZ Test draws veterans’ ire",
+    "description": "Hyderabad/New Delhi: Several prominent names in the cricket world voiced their frustration and slammed the India team’s management over Mohammed Siraj’s ouster from the first Test against New Zealand. India assistant...",
+    "source": "Siasat.com",
+    "link": "https://www.siasat.com/entirely-wrong-decision-sirajs-drop-from-nz-test-draws-veterans-ire-3581395/",
+    "pubDate": "2026-11-19 11:54:04",
     "category": [
-     "sports"
+     "sports",
+     "top",
+     "politics"
     ]
    },
    {
-    "title": "The Rock returns at WWE Survivor Series 2026: 3 moments The Final Boss can create on 30th anniversary of his debut",
-    "description": "WWE Survivor Series 2026 will mark The Rock's return, celebrating the 30th anniversary of his debut. This event will feature John Cena, who may invite guests to his Classic. The Rock might hint at a WrestleMania...",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/sports/wwe/top-stories/the-rock-returns-at-wwe-survivor-series-2026-3-moments-the-final-boss-can-create-on-30th-anniversary-of-his-debut/articleshow/135984983.cms",
-    "pubDate": "2026-11-19 09:52:49",
+    "title": "IPL 2027: Mitch Marsh, Aiden Markram and Nicholas Pooran in LSG captaincy contention, reveals Tom Moody",
+    "description": "Lucknow Super Giants are looking for a new captain before IPL 2027 season after the departure of Rishabh Pant for…",
+    "source": "The Times Of Bengal",
+    "link": "https://www.thetimesofbengal.com/sports/ipl-2027-mitch-marsh-aiden-markram-and-nicholas-pooran-in-lsg-captaincy-contention-reveals-tom-moody/",
+    "pubDate": "2026-11-19 11:54:03",
     "category": [
      "sports",
      "top"
@@ -335,22 +330,21 @@
   ],
   "entertainment": [
    {
-    "title": "Rs 34 cr in 36 hrs: Avengers Doomsday eyes record India opening; 5.3 lakh tickets sold",
-    "description": "",
-    "source": "Financial Express , Read To Lead",
-    "link": "https://www.financialexpress.com/life/entertainment-avengers-doomsday-india-advance-booking-crosses-rs-34-crore-robert-downey-jr-4388467/",
-    "pubDate": "2026-11-19 09:56:11",
+    "title": "Emraan Hashmi's 'Gunmaaster G9' Pays Tribute To Bappi Lahiri, Revamps 1979 Song 'Mausam Hai Gaane Ka'",
+    "description": "Emraan Hashmi's upcoming film Gunmaaster G9 has brought back a musical favourite from Bollywood's archives. The makers have released the film's promotional title track, recreating Bappi Lahiri's popular composition...",
+    "source": "Abp News",
+    "link": "https://news.abplive.com/entertainment/movies/emraan-hashmi-s-gunmaaster-g9-pays-tribute-to-bappi-lahiri-revamps-1979-song-mausam-hai-gaane-ka-1876708",
+    "pubDate": "2026-11-19 11:57:38",
     "category": [
-     "entertainment",
-     "top"
+     "entertainment"
     ]
    },
    {
-    "title": "Have You Heard The Most Viewed Telugu Song? - Rediff",
-    "description": "Have You Heard The Most Viewed Telugu Song? Rediff Telangana folk song beats Allu Arjun’s Butta Bomma record - Telugu Cinema | News, Reviews & Daily Telugu Cinema",
+    "title": "Anirudh Ravichander Shares Unseen Photos From Pre-Wedding Festivities With Kavya Maran, Calls It 'My Favourite Kind Of Magic' - NDTV",
+    "description": "Anirudh Ravichander Shares Unseen Photos From Pre-Wedding Festivities With Kavya Maran, Calls It 'My Favourite Kind Of Magic' NDTV Inside Anirudh Ravichander-Kavya Maran's Wedding, Her Cousin Shares Pic With...",
     "source": "Google News",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQWR1MjQyLU5qbzB2N1VtUFNCOHg3elBpR3NfeEtiVklFOGpROXJkRTJhLU9RalVEWXBLVmJHVE5tWW9SYjRycU1hOVZQeW4ydzNRN0N3RFhGdVNMWmRrNHY3cWlGM2dEZHJpVE9HV0Jvay1pRXNyeXJuZUJ6eDdaeHRETk9wTkotZjIzelIzdzhla3Zab0lNNW9NeHJxQnlsUldneGJSLWFuQlJldEFoVm4wZ2JQLUXSAbwBQVVfeXFMUDdudjBfMzlZZ0o5RXRXZE9DRkRaOXZuMmNLcmZkZ2dxR0xxc0hfNTJpa1RmclpZR2h1azRpUGc4YmJIZTBRLVg5TjBUZTlzalI2ekgxelg3VjhLRmNxLW4zXzlJQ1JCMDQwSUx0U0JULW5GbUR5aXpaTnlnelNhTXptYl9pNHZSSGEzOTc1SkdlTXpKVkFCZVFFSzkzVDRpY0JkVERaamR1UEtmelk0RVJYbE9uUHdFM3lfb1E?oc=5",
-    "pubDate": "2026-11-19 09:56:00",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNazBzZXY5Z0dIR0tsMUhtMmRJeHhjZ2NydE43cmExWEJQOTIxRDJDOVNVbHZ1S0ZjUVFUdlNyR3M2UjlfaWt5R2J0SDVnQWc0WU44a1ZjZzBMTmlZbGxxYkxaek1Xdk5qMHl5dGUwTzZ5TVRTYlFScUFjNks1RS1sY2VoSmV4Z1V4bDBLU2dwajBtY0xzMnMzUmRQWDJxRVF0R042bmdJSDJEQVdfTmhHSXJoVmZYTnZPSFZpZW5jb08xdkNXZjdfWGFDVmpQWVlfc21WckxxM3BPWXZfMXotanRBa1dWN3J3UWp5bkFWUjVzR19FbTUxYlNR0gGCAkFVX3lxTE5tMU9aUEJ1eTRuYXRhX1NLRGE1SW1fMGNqSlRnM3JxU0FHSExGSnV3TW10Vkw2b3l1bXplZmxnMUlJWVRnSl9waFY1S3M4RzZNb2RDR0Z1WVNVWDJ3MFFVaDJBcDNqNURWVUNSdW02VUppeE1MMENBamFZamxZWlJkNDFiOFl0RGRjcVc3MUo4cmcwdUV5TTJYSUh1YUNlc0VHMTU0S0dXN1FVeENpRVdZSlN4Z1ZaOHZvX2NuZTVfNmR0dlQ2NDhUb2VMcnpvWldqUV9RU0VtVVM4Y282ZmVIWWQ3TGlwVTJsVjZqTW4zT1JCNWNJY05aSFl0NFBCalN6QQ?oc=5",
+    "pubDate": "2026-11-19 11:57:05",
     "category": [
      "entertainment"
     ]
@@ -358,73 +352,14 @@
   ],
   "tech": [
    {
-    "title": "Walmart Shares Dip Premarket Ahead of Q3 Earnings",
-    "description": "Walmart shares slip 0.69% premarket as investors await third-quarter earnings results following last quarter's revenue and profit beat.",
-    "source": "Biztoc",
-    "link": "https://biztoc.com/x/f9170e65dde73183",
-    "pubDate": "2026-11-19 09:59:00",
+    "title": "Satellite NTN Market worth $3.22 billion by 2031 - Exclusive Report by MarketsandMarkets™",
+    "description": "DELRAY BEACH, Fla., Nov. 19, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the satellite NTN market is projected to grow from USD 0.75 billion in 2026 to USD 3.22 billion by 2031, registering a CAGR of 33.7%...",
+    "source": "Pr Newswire Uk",
+    "link": "https://www.prnewswire.co.uk/news-releases/satellite-ntn-market-worth-3-22-billion-by-2031---exclusive-report-by-marketsandmarkets-302945169.html",
+    "pubDate": "2026-11-19 11:59:00",
     "category": [
-     "technology"
-    ]
-   },
-   {
-    "title": "مايكروسوفت تشرح سبب انقطاع خدمات Outlook وTeams وCopilot في جميع أنحاء العالم لمدة 24 ساعة تقريبًا",
-    "description": "",
-    "source": "حوحو للمعلوميات",
-    "link": "http://www.igli5.com/2026/11/outlook-teams-copilot-24.html",
-    "pubDate": "2026-11-19 09:59:00",
-    "category": [
-     "technology"
-    ]
-   },
-   {
-    "title": "Democrats seem to back away from shutdown over Iran war",
-    "description": "House Democrats are backing away from using a December government funding deadline to force an end to the Iran war, arguing they’ll have more control over the process next year. “Until we get that additional...",
-    "source": "Biztoc",
-    "link": "https://biztoc.com/x/5af5189e04e176e8",
-    "pubDate": "2026-11-19 09:58:59",
-    "category": [
-     "technology"
-    ]
-   },
-   {
-    "title": "Republicans turn to Democrats for Pentagon money",
-    "description": "The News Senate Republicans are at least temporarily giving up their quest for a party-line defense funding bill, choosing instead to pursue negotiations with Democrats. The main culprit: Republicans don’t have 50...",
-    "source": "Biztoc",
-    "link": "https://biztoc.com/x/8d88e7f8533e7a63",
-    "pubDate": "2026-11-19 09:58:57",
-    "category": [
-     "technology"
-    ]
-   },
-   {
-    "title": "Rick Scott Says US Is ‘Barreling Toward’ $41 Trillion Debt Limit, Urges Congress to Act As Bipartisan Policy…",
-    "description": "Bipartisan Policy Center forecasts $41.1 trillion debt limit in 2027 as Rick Scott urges Congress to balance budget.",
-    "source": "Biztoc",
-    "link": "https://biztoc.com/x/e858dced66784b09",
-    "pubDate": "2026-11-19 09:58:53",
-    "category": [
-     "technology"
-    ]
-   },
-   {
-    "title": "Anthropic IPO Prices Above Expectations, Markets Steady Ahead of Debut",
-    "description": "Anthropic priced its initial public offering above its expected range on Wednesday in a sign that investor demand for the artificial intelligence giant is robust ahead of its debut on the Nasdaq later today. The...",
-    "source": "Biztoc",
-    "link": "https://biztoc.com/x/29ec3d6f65b9e9c5",
-    "pubDate": "2026-11-19 09:58:53",
-    "category": [
-     "technology"
-    ]
-   },
-   {
-    "title": "Hill Republicans want to finish the year with a bang. It could be a whimper",
-    "description": "Republicans want to run through the tape in their final weeks in power on Capitol Hill, but they’re hitting some major hurdles. With 17 working days left in the Senate before Democrats take charge, Republicans...",
-    "source": "Biztoc",
-    "link": "https://biztoc.com/x/f96a66e3196b205d",
-    "pubDate": "2026-11-19 09:58:53",
-    "category": [
-     "technology"
+     "technology",
+     "business"
     ]
    }
   ]

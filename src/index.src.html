@@ -171,7 +171,7 @@ function route(){
  let h=decodeURIComponent(location.hash.slice(2)||"Home");const m=$("m");scrollTo(0,0);if(h.startsWith("Scores/")){SPORT=h.split("/")[1]=="football"?"football":"cricket";h="Scores"}
  if(h.startsWith("story/")){const s=S.find(x=>x.id==h.slice(6));if(s){
   document.querySelectorAll("nav a").forEach(a=>a.classList.remove("on"));
-  m.innerHTML=`<div class="art"><div style="padding:16px 26px 0"><a class="back" href="#/Home">&larr; Back</a></div>${vis(s)}${fig(s)}<div class="bd">${pill(s)}<h1 class="ml">${s.title}</h1><p class="mu">${s.en} &middot; ${s.date}</p>${s.body.map(p=>`<p class="ml">${p}</p>`).join("")}<div class="note">${s.note}</div><div class="src"><b>Sources</b><br>${s.srcs.map(x=>`<a href="${x[1]}" target="_blank" rel="noopener">${x[0]}</a>`).join(" &middot; ")}</div></div></div>`;return}}
+  m.innerHTML=`<div class="art"><div style="padding:16px 26px 0"><a class="back" href="#/Home">&larr; Back</a></div>${s.score?vis(s):""}${fig(s)}<div class="bd">${pill(s)}<h1 class="ml">${s.title}</h1><p class="mu">${s.en} &middot; ${s.date}</p>${s.body.map(p=>`<p class="ml">${p}</p>`).join("")}<div class="note">${s.note}</div><div class="src"><b>Sources</b><br>${s.srcs.map(x=>`<a href="${x[1]}" target="_blank" rel="noopener">${x[0]}</a>`).join(" &middot; ")}</div></div></div>`;return}}
  const c=CATS.includes(h)?h:"Home";
  document.querySelectorAll("nav a").forEach(a=>a.classList.toggle("on",a.dataset.c==c));
  if(c=="Scores"){m.innerHTML=scoresPage();load(SPORT);return}

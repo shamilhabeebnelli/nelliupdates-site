@@ -1,6 +1,43 @@
 {
  "stories": [
   {
+   "id": "nasa-rs25-developmental-engine-nov18-hot-fire",
+   "cats": [
+    "Tech",
+    "World"
+   ],
+   "title": "നാസയുടെ എൻജിൻ പരീക്ഷണം: മൂന്നു മിനിറ്റ് ഇരുപത് സെക്കൻഡ്",
+   "en": "NASA completes a 200-second ground test of a developmental RS-25 engine",
+   "sum": "നാസയുടെ ആർഎസ് ഇരുപത്തിയഞ്ച് വികസന എൻജിനിൽ നവംബർ പതിനെട്ടിന് ഹോട്ട് ഫയർ പരീക്ഷണം നടന്നു. നിശ്ചയിച്ച മൂന്നു മിനിറ്റ് ഇരുപത് സെക്കൻഡ് എൻജിൻ പ്രവർത്തിച്ചു. ഇത് വിക്ഷേപണമല്ല; ഈ പരീക്ഷണ എൻജിൻ ബഹിരാകാശത്ത് പറക്കില്ല.",
+   "date": "20 Nov 2026",
+   "body": [
+    "നാസയുടെ ആർഎസ് ഇരുപത്തിയഞ്ച് ശ്രേണിയിലെ വികസന എൻജിനിൽ നവംബർ പതിനെട്ടിന് പുതിയ ഹോട്ട് ഫയർ പരീക്ഷണം നടന്നു. മിസിസിപ്പിയിലെ സ്റ്റെനിസ് ബഹിരാകാശ കേന്ദ്രത്തിലെ ഫ്രെഡ് ഹെയ്സ് ടെസ്റ്റ് സ്റ്റാൻഡിലാണ് പരീക്ഷണം നടത്തിയതെന്ന് നവംബർ പത്തൊമ്പതിലെ നാസയുടെ അറിയിപ്പ് പറയുന്നു.",
+    "നിശ്ചയിച്ച മൂന്നു മിനിറ്റ് ഇരുപത് സെക്കൻഡ്, അഥവാ ഇരുനൂറ് സെക്കൻഡ്, എൻജിൻ പ്രവർത്തിച്ചു. നിലത്ത് നിയന്ത്രിത സാഹചര്യത്തിൽ എൻജിൻ പ്രവർത്തിപ്പിച്ച് പ്രകടന വിവരങ്ങൾ ശേഖരിക്കുന്ന പരീക്ഷണമാണിത്. റോക്കറ്റ് വിക്ഷേപണമോ ബഹിരാകാശ യാത്രയോ അല്ല.",
+    "പരീക്ഷണത്തിന് ഉപയോഗിച്ച വികസന എൻജിൻ വിമാനയാത്രയ്ക്കോ ബഹിരാകാശ ദൗത്യത്തിനോ ഉപയോഗിക്കില്ലെന്ന് നാസ വ്യക്തമാക്കുന്നു. ഭാവി ആർട്ടെമിസ് ദൗത്യങ്ങൾക്കായി എൻജിന്റെ പ്രകടനവും വിശ്വാസ്യതയും മെച്ചപ്പെടുത്താനുള്ള ഡാറ്റയാണ് ലക്ഷ്യം.",
+    "ഈ വാർത്ത ഏതെങ്കിലും ദൗത്യത്തിന്റെ വിക്ഷേപണ തീയതി ഉറപ്പാക്കുന്നതല്ല. ഇൻസ്റ്റാഗ്രാം കാർഡിലെ ചിത്രം നവംബർ പതിനെട്ടിലെ സ്റ്റെനിസ് പരീക്ഷണത്തിന്റെ നാസ ഫോട്ടോയാണ്; ഫോട്ടോ ക്രെഡിറ്റ് ഡാനി നൗലിൻ."
+   ],
+   "srcs": [
+    [
+     "NASA original Nov19 test report and photographs",
+     "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/"
+    ],
+    [
+     "Orbital Wire secondary test reporting",
+     "https://orbital-wire.com/agency-program-news/nasa-rs-25-hot-fire-test-artemis-missions/"
+    ],
+    [
+     "Phys.org NASA-authored republication",
+     "https://phys.org/news/2026-11-nasa-latest-rs-future-artemis.html"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/Df76SNhmEjI/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 1:42 AM IST on 20 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-20T01:42:24+05:30"
+  },
+  {
    "id": "empire-ai-gamma-permanent-centre-groundbreaking",
    "cats": [
     "Tech",

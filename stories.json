@@ -523,10 +523,22 @@
     [
      "Instagram post (@nelli.updates)",
      "https://www.instagram.com/nelli.updates/p/Df6oCbQFqX0/"
+    ],
+    [
+     "Photo license: CC BY-SA 4.0",
+     "https://creativecommons.org/licenses/by-sa/4.0/"
     ]
    ],
    "note": "Posted on Instagram @nelli.updates at about 1:43 PM IST on 19 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
-   "published_at": "2026-11-19T13:43:38+05:30"
+   "published_at": "2026-11-19T13:43:38+05:30",
+   "image": {
+    "file": "images/5-global-village2019-site.jpg",
+    "alt": "Inside Global Village in Dubai in February 2019",
+    "label": "File photo: Global Village, Dubai, February 2019. Not a photo of the announced fireworks. Resized.",
+    "credit": "Slayym / Wikimedia Commons",
+    "license": "CC BY-SA 4.0, resized",
+    "page": "https://commons.wikimedia.org/wiki/File:Inside_the_Global_Village_in_Dubai_February_2019.jpg"
+   }
   },
   {
    "id": "hormuz-tanker-engine-room-projectile-khasab",

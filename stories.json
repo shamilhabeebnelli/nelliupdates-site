@@ -1516,10 +1516,22 @@
     [
      "Instagram post (@nelli.updates)",
      "https://www.instagram.com/nelli.updates/p/Df6ZacClrIY/"
+    ],
+    [
+     "Wikimedia Commons photo and rights",
+     "https://commons.wikimedia.org/wiki/File:Basin_Reserve.JPG"
     ]
    ],
-   "note": "Posted on Instagram @nelli.updates at about 11:35 AM IST on 19 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
-   "published_at": "2026-11-19T11:35:50+05:30"
+   "note": "Posted on Instagram @nelli.updates at about 11:35 AM IST on 19 Nov 2026. Facts were verified when posted and not refreshed since. Dated historical file photo shown for context, not imagery of the reported event.",
+   "published_at": "2026-11-19T11:35:50+05:30",
+   "image": {
+    "file": "images/3-basin2008.jpg",
+    "alt": "Cricket at Basin Reserve in Wellington in 2008, with spectators and surrounding green hills",
+    "label": "FILE PHOTO: Basin Reserve, New Zealand v England in 2008. Not the November 2026 India match.",
+    "credit": "PaddyBriggs / Wikimedia Commons. Public domain. 960px preview; no further pixel edits.",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Basin_Reserve.JPG"
+   }
   },
   {
    "id": "elon-musk-us-midterm-spending-regret",
@@ -1637,10 +1649,22 @@
     [
      "Instagram post (@nelli.updates)",
      "https://www.instagram.com/nelli.updates/p/Df6CT34lk1s/"
+    ],
+    [
+     "Wikimedia Commons photo and rights",
+     "https://commons.wikimedia.org/wiki/File:GordonRamsay.jpg"
     ]
    ],
-   "note": "Posted on Instagram @nelli.updates at about 8:14 AM IST on 19 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
-   "published_at": "2026-11-19T08:14:00+05:30"
+   "note": "Posted on Instagram @nelli.updates at about 8:14 AM IST on 19 Nov 2026. Facts were verified when posted and not refreshed since. Dated historical file photo shown for context, not imagery of the reported event.",
+   "published_at": "2026-11-19T08:14:00+05:30",
+   "image": {
+    "file": "images/1-gordon-file.jpg",
+    "alt": "Gordon Ramsay in a white chef jacket wearing a headset microphone at Gardeners World Live in June 2008",
+    "label": "FILE PHOTO: Gordon Ramsay, Gardeners World Live, June 2008. Not the Hollywood star ceremony.",
+    "credit": "Jo-h / Wikimedia Commons, GordonRamsay.jpg. 960px preview. CC BY 2.0: https://creativecommons.org/licenses/by/2.0/ .",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:GordonRamsay.jpg"
+   }
   },
   {
    "id": "uk-october-cpi-inflation-three-point-six",
@@ -1978,10 +2002,22 @@
     [
      "Instagram post (@nelli.updates)",
      "https://www.instagram.com/nelli.updates/p/Df4_2eXlvZQ/"
+    ],
+    [
+     "Wikimedia Commons photo and rights",
+     "https://commons.wikimedia.org/wiki/File:Pochettino_2012.jpg"
     ]
    ],
-   "note": "Posted on Instagram @nelli.updates at about 10:33 PM IST on 18 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
-   "published_at": "2026-11-18T22:33:14+05:30"
+   "note": "Posted on Instagram @nelli.updates at about 10:33 PM IST on 18 Nov 2026. Facts were verified when posted and not refreshed since. Dated historical file photo shown for context, not imagery of the reported event.",
+   "published_at": "2026-11-18T22:33:14+05:30",
+   "image": {
+    "file": "images/2-pochettino-file.jpg",
+    "alt": "Mauricio Pochettino at an Espanyol press conference on 17 November 2012",
+    "label": "FILE PHOTO: Mauricio Pochettino with Espanyol, 17 November 2012. Not his Manchester United arrival.",
+    "credit": "Víctor Gutiérrez Navarro / Wikimedia Commons, Pochettino 2012.jpg. Existing crop. CC BY 2.0: https://creativecommons.org/licenses/by/2.0/ .",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pochettino_2012.jpg"
+   }
   },
   {
    "id": "karnataka-mizoram-manvanth-five",
@@ -2223,4 +2259,4 @@
   }
  ],
  "removed": []
-   }
+    }

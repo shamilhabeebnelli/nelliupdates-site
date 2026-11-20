@@ -1,8 +1,9 @@
 name: news-fetch
 on:
   schedule:
-    - cron: '23 * * * *'
+    - cron: '3,13,23,33,43,53 * * * *'
   workflow_dispatch:
+  repository_dispatch:
 permissions:
   contents: write
 concurrency:
@@ -28,6 +29,16 @@ jobs:
                   print("fresh, skipping fetch; age_min", int(age / 60)); sys.exit(0)
           except Exception:
               pass
+          state_path = ".github/news-fetch-state.json"
+          today = time.strftime("%Y-%m-%d", time.gmtime())
+          try:
+              st = json.load(open(state_path))
+          except Exception:
+              st = {}
+          attempts = st.get("attempts", 0) if st.get("date") == today else 0
+          if attempts >= 26:
+              print("daily fetch-attempt cap reached; skipping to protect NewsData quota"); sys.exit(0)
+          json.dump({"date": today, "attempts": attempts + 1}, open(state_path, "w"))
           groups = {
             "india": {"country": "in", "language": "en", "category": "top"},
             "kerala": {"country": "in", "language": "en", "q": "Kerala"},
@@ -74,5 +85,5 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@users.noreply.github.com"
-          git add news.json
+          git add news.json .github/news-fetch-state.json
           git diff --cached --quiet || (git commit -m "Update auto headlines" && git pull --rebase -q && git push)

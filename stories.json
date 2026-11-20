@@ -1,6 +1,65 @@
 {
  "stories": [
   {
+   "id": "antikythera-mechanism-historical-astronomy",
+   "cats": [
+    "World",
+    "Tech"
+   ],
+   "title": "ആന്റികിതീറ മെക്കാനിസം: കടലിനടിയിൽ നിന്ന് ആകാശത്തിന്റെ കണക്കുകൾ",
+   "en": "Antikythera mechanism: ancient gears that calculated the sky",
+   "sum": "പുരാതന ഗ്രീക്ക് ജ്യോതിശാസ്ത്ര ഉപകരണത്തിന്റെ അവശിഷ്ടങ്ങൾ ശാസ്ത്രജ്ഞർ ഇന്നും പഠിക്കുന്നു. ശേഷിക്കുന്ന ഭാഗങ്ങളിൽ നിന്ന് നിർദേശിക്കുന്ന മാതൃകകൾ യഥാർത്ഥ പൂർണരൂപത്തിന്റെ തെളിഞ്ഞ പകർപ്പുകളല്ല.",
+   "date": "20 Nov 2026",
+   "body": [
+    "ഗ്രീസിലെ ആന്റികിതീറ ദ്വീപിനടുത്തുള്ള കപ്പലവശിഷ്ടങ്ങളിൽ നിന്ന് 1901ൽ പുറത്തെടുത്ത വെങ്കല ഉപകരണമാണ് ആന്റികിതീറ മെക്കാനിസം. ഇന്ന് ഏഥൻസിലെ ദേശീയ പുരാവസ്തു മ്യൂസിയത്തിലാണ് ഇത് സൂക്ഷിക്കുന്നത്. രണ്ടായിരത്തിലേറെ വർഷം പഴക്കമുള്ള പുരാതന ഗ്രീക്ക് സാങ്കേതികവിദ്യയുടെ ഉദാഹരണമാണിത്.",
+    "എൺപത്തിരണ്ട് ഭാഗങ്ങളായാണ് ഉപകരണം ശേഷിക്കുന്നത്. അവയിൽ മുപ്പത് വെങ്കല ഗിയറുകൾ നിലനിൽക്കുന്നു. ഇത് യഥാർത്ഥ യന്ത്രത്തിലെ ആകെ ഭാഗങ്ങളുടെയോ ഗിയറുകളുടെയോ എണ്ണം എന്നല്ല. ഗിയറുകൾക്കൊപ്പം അച്ചുതണ്ടുകൾ, ഡയലുകൾ, സൂചികൾ, ഗ്രീക്ക് ലിഖിതങ്ങൾ എന്നിവയും ഗവേഷകർ പരിശോധിക്കുന്നു.",
+    "സൂര്യന്റെയും ചന്ദ്രന്റെയും ചലനങ്ങളും ജ്യോതിശാസ്ത്ര ചക്രങ്ങളും കണക്കാക്കാനും ഗ്രഹണങ്ങൾ മുൻകൂട്ടി കണക്കുകൂട്ടാനും ഉപയോഗിച്ചിരുന്ന യന്ത്രമായാണ് പഠനങ്ങൾ ഇതിനെ വിശദീകരിക്കുന്നത്. അനലോഗ് കമ്പ്യൂട്ടർ എന്ന വിശേഷണം ഗിയറുകൾ ഉപയോഗിച്ചുള്ള കണക്കുകൂട്ടലിനെയാണ് സൂചിപ്പിക്കുന്നത്. ഇന്നത്തെ ഇലക്ട്രോണിക് കമ്പ്യൂട്ടറുമായി ഇതിനെ തുല്യമാക്കരുത്.",
+    "യന്ത്രത്തിന്റെ ഏകദേശം മൂന്നിലൊന്ന് മാത്രമാണ് ശേഷിക്കുന്നത്. നഷ്ടപ്പെട്ട ഭാഗങ്ങൾ എങ്ങനെയായിരുന്നു എന്നും മുൻവശത്തെ ഘടകങ്ങൾ എങ്ങനെ ക്രമീകരിച്ചിരുന്നുവെന്നും മനസ്സിലാക്കാൻ ഗവേഷകർ പല പുനർനിർമാണ മാതൃകകളും നിർദേശിച്ചിട്ടുണ്ട്. എക്സ്-റേ ചിത്രങ്ങളും ശേഷിക്കുന്ന ലിഖിതങ്ങളും അതിന് സഹായിക്കുന്നു.",
+    "2021ൽ Scientific Reportsൽ പ്രസിദ്ധീകരിച്ച UCL സംഘത്തിന്റെ പഠനം ഒരു പുതിയ മാതൃക അവതരിപ്പിച്ചു. എന്നാൽ തെളിവുകളുടെ നഷ്ടം കാരണം തങ്ങളുടെ മാതൃക യഥാർത്ഥ ഉപകരണത്തിന്റെ പകർപ്പാണെന്ന് അവകാശപ്പെടാനാവില്ലെന്ന് പഠനം വ്യക്തമാക്കുന്നു. ഒരു മാതൃക തെളിവുകളുമായി പൊരുത്തപ്പെടുന്നതും അത് യഥാർത്ഥ പൂർണരൂപമാണെന്ന് ഉറപ്പിക്കുന്നതും രണ്ടാണ്.",
+    "ഇത് പുതിയതായി രഹസ്യം പൂർണമായി തെളിഞ്ഞ വാർത്തയല്ല. പുരാതന മനുഷ്യരുടെ ജ്യോതിശാസ്ത്രവും ഗണിതവും യന്ത്രനിർമാണവും മനസ്സിലാക്കാൻ സഹായിക്കുന്ന, പഠനം തുടരുന്ന ചരിത്രവിഷയമാണ്. ഇവിടെ ഉപയോഗിച്ചിരിക്കുന്നത് Fragment Aയുടെ യഥാർത്ഥ മ്യൂസിയം ഫോട്ടോയാണ്; മുഴുവൻ യന്ത്രത്തിന്റെ ചിത്രം എന്നല്ല."
+   ],
+   "srcs": [
+    [
+     "Greek Ministry of Culture collection",
+     "https://olympicgames.culture.gov.gr/en/texnologia/1_Mixanismos-Antikithirwn.html"
+    ],
+    [
+     "National Archaeological Museum",
+     "https://antikythera-mechanism.namuseum.gr/en/archaeologist/"
+    ],
+    [
+     "UCL research announcement, 2021",
+     "https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer"
+    ],
+    [
+     "Scientific Reports paper, 2021",
+     "https://www.nature.com/articles/s41598-021-84310-w"
+    ],
+    [
+     "Ars Technica, 2021",
+     "https://arstechnica.com/science/2021/03/scientists-solve-another-piece-of-the-puzzling-antikythera-mechanism/"
+    ],
+    [
+     "Smithsonian, 2025",
+     "https://www.smithsonianmag.com/smart-news/how-well-did-the-mysterious-antikythera-mechanism-actually-work-180986451/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/reel/Df8YVfFBRiH/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 6:05 AM IST on 20 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-20T06:05:52+05:30",
+   "image": {
+    "file": "images/2-fragment-a.jpg",
+    "alt": "The original surviving Fragment A of the Antikythera mechanism at the National Archaeological Museum, Athens",
+    "label": "Original Fragment A, not the complete mechanism. File museum photograph; not a new discovery.",
+    "credit": "Marsyas, via Wikimedia Commons. CC BY 2.5: https://creativecommons.org/licenses/by/2.5/ . No pixel edits.",
+    "license": "CC BY 2.5",
+    "page": "https://commons.wikimedia.org/wiki/File:NAMA_Machine_d%27Anticyth%C3%A8re_1.jpg"
+   }
+  },
+  {
    "id": "voynich-manuscript-historical-mystery",
    "cats": [
     "World"

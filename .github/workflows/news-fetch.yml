@@ -14,21 +14,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Fetch headlines from NewsData.io
-        env:
-          NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
+      - name: Guard and reserve fetch attempt
+        id: guard
         run: |
           python3 - <<'PY'
-          import json, os, time, urllib.request, urllib.parse
-          key = os.environ["NEWSDATA_API_KEY"]
-          import calendar, sys
+          import json, time, calendar, os
+          out = open(os.environ["GITHUB_OUTPUT"], "a")
+          fresh = False
           try:
               prev = json.load(open("news.json"))["fetched_at"]
               age = time.time() - calendar.timegm(time.strptime(prev, "%Y-%m-%d %H:%M UTC"))
               if age < 45 * 60:
-                  print("fresh, skipping fetch; age_min", int(age / 60)); sys.exit(0)
+                  fresh = True
+                  print("fresh, skipping fetch; age_min", int(age / 60))
           except Exception:
               pass
+          if fresh:
+              out.write("fetch=no\n"); out.close(); raise SystemExit(0)
           state_path = ".github/news-fetch-state.json"
           today = time.strftime("%Y-%m-%d", time.gmtime())
           try:
@@ -37,8 +39,30 @@ jobs:
               st = {}
           attempts = st.get("attempts", 0) if st.get("date") == today else 0
           if attempts >= 26:
-              print("daily fetch-attempt cap reached; skipping to protect NewsData quota"); sys.exit(0)
+              print("daily fetch-attempt cap reached; skipping to protect NewsData quota")
+              out.write("fetch=no\n"); out.close(); raise SystemExit(0)
           json.dump({"date": today, "attempts": attempts + 1}, open(state_path, "w"))
+          out.write("fetch=yes\n"); out.close()
+          print("reserved attempt", attempts + 1)
+          PY
+      - name: Commit attempt reservation
+        if: steps.guard.outputs.fetch == 'yes'
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add .github/news-fetch-state.json
+          git commit -q -m "Reserve news fetch attempt"
+          git pull --rebase -q
+          git push
+      - name: Fetch headlines from NewsData.io
+        if: steps.guard.outputs.fetch == 'yes'
+        env:
+          NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
+        run: |
+          python3 - <<'PY'
+          import json, os, time, urllib.request, urllib.parse
+          key = os.environ["NEWSDATA_API_KEY"]
+          out = {"fetched_at": time.strftime("%Y-%m-%d %H:%M UTC", time.gmtime()), "groups": {}}
           groups = {
             "india": {"country": "in", "language": "en", "category": "top"},
             "kerala": {"country": "in", "language": "en", "q": "Kerala"},
@@ -81,9 +105,10 @@ jobs:
           if any(out["groups"].values()):
               json.dump(out, open("news.json", "w"), ensure_ascii=False, indent=1)
           PY
-      - name: Commit if changed
+      - name: Commit headlines if changed
+        if: steps.guard.outputs.fetch == 'yes'
         run: |
           git config user.name "github-actions"
           git config user.email "actions@users.noreply.github.com"
-          git add news.json .github/news-fetch-state.json
+          git add news.json
           git diff --cached --quiet || (git commit -m "Update auto headlines" && git pull --rebase -q && git push)

@@ -1,78 +1,55 @@
 {
- "fetched_at": "2026-11-20 07:59 UTC",
+ "fetched_at": "2026-11-20 09:59 UTC",
  "groups": {
   "india": [
    {
-    "title": "Punjab Pavilion puts heritage, technology on display at IITF",
-    "description": "From traditional Punjabi architectural motifs to AI-powered interactive installations, the Punjab Pavilion at the ongoing India International Trade Fair (IITF) 2026 is showcasing the state’s cultural legacy alongside...",
-    "source": "The Tribune India",
-    "link": "https://www.tribuneindia.com/news/punjab/punjab-pavilion-puts-heritage-technology-on-display-at-iitf",
-    "pubDate": "2026-11-19 19:58:53",
+    "title": "Commentary: Grand Theft Auto made its name satirising America. Then reality caught up",
+    "description": "The success of a game franchise that once sparked public outrage, lawsuits and congressional scrutiny tells a story about how much society has changed, says Gearoid Reidy for Bloomberg Opinion.",
+    "source": "Channel Newsasia",
+    "link": "https://www.channelnewsasia.com/commentary/gta-vi-grand-theft-auto-satire-success-6565451",
+    "pubDate": "2026-11-19 21:59:00",
     "category": [
      "top",
-     "technology"
+     "politics",
+     "entertainment"
     ]
    },
    {
-    "title": "HC greenlights Gaggal airport expansion, says serves larger public interest",
-    "description": "Himachal Pradesh HC clears Rs 4,064-crore Gaggal (Kangra) airport expansion, upholds land acquisition, cites IAF strategic value; orders fast TEFR and EIA.",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/city/chandigarh/hc-greenlights-gaggal-airport-expansion-says-serves-larger-public-interest/articleshow/136004235.cms",
-    "pubDate": "2026-11-19 19:58:38",
-    "category": [
-     "top",
-     "business"
-    ]
-   },
-   {
-    "title": "NER pushes for faster disposal of passenger plaints",
-    "description": "NER pushes for faster disposal of passenger plaints",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/city/lucknow/ner-pushes-for-faster-disposal-of-passenger-plaints/articleshow/136004225.cms",
-    "pubDate": "2026-11-19 19:58:23",
-    "category": [
-     "top",
-     "business",
-     "technology"
-    ]
-   },
-   {
-    "title": "Children urge govt, politicians to prioritise kids for UP’s devpt",
-    "description": "Children urge govt, politicians to prioritise kids for UP’s devpt",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/city/lucknow/children-urge-govt-politicians-to-prioritise-kids-for-ups-devpt/articleshow/136004220.cms",
-    "pubDate": "2026-11-19 19:57:58",
+    "title": "Tirupati District Police Step Up Vigil At Hyper-Sensitive Villages Ahead Of GP Polls",
+    "description": "The SP instructed police officers to ensure that the nomination process is completed peacefully and without obstruction.",
+    "source": "Deccan Chronicle",
+    "link": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/tirupati-district-police-step-up-vigil-at-hyper-sensitive-villages-ahead-of-gp-polls-2006101",
+    "pubDate": "2026-11-19 21:58:34",
     "category": [
      "top",
      "politics"
     ]
    },
    {
-    "title": "SCR delibarates workplace rights, welfare of women staff",
-    "description": "Led by Principal Chief Commercial Manager Ity Pandey, the event was conducted for women staff from three divisions and SCR headquarters, focusing largely on field personnel.",
-    "source": "The Hans India",
-    "link": "https://www.thehansindia.com/news/cities/hyderabad/scr-delibarates-workplace-rights-welfare-of-women-staff-1143753",
-    "pubDate": "2026-11-19 19:57:30",
+    "title": "Nimrat Kaur brings ethnic fashion extravaganza in a classic black and golden saree at an exquisite event in the city",
+    "description": "Nimrat Kaur, known for making heads turn in her ethnic ensembles, recently marked her presence at the Earthshot Prize, the global environmental initiative founded by Prince William. The actress arrived in her ethnic...",
+    "source": "Indore Mirror",
+    "link": "https://indoremirror.in/nimrat-kaur-brings-ethnic-fashion-extravaganza-in-a-classic-black-and-golden-saree/",
+    "pubDate": "2026-11-19 21:55:02",
     "category": [
      "top",
-     "politics",
-     "business"
-    ]
-   },
-   {
-    "title": "India to have Hindus in majority till 2070, Muslims will grow faster: Pew study",
-    "description": "Hindus will increase the most in absolute number in India until 2070, but they will grow faster in countries outside India, including the US, Pew Research Centre on the future of world religions has shown. In...",
-    "source": "The Tribune India",
-    "link": "https://www.tribuneindia.com/news/india/india-to-have-hindus-in-majority-till-2070-muslims-will-grow-faster-pew-study",
-    "pubDate": "2026-11-19 19:57:24",
-    "category": [
-     "top",
-     "politics",
      "lifestyle"
     ]
    }
   ],
   "kerala": [
+   {
+    "title": "Keerthy Suresh clarifies remarks on south Indian culture",
+    "description": "",
+    "source": "The Hans India",
+    "link": "https://www.thehansindia.com/cinema/keerthy-suresh-clarifies-remarks-on-south-indian-culture-1143780",
+    "pubDate": "2026-11-19 21:07:44",
+    "category": [
+     "top",
+     "politics",
+     "entertainment"
+    ]
+   },
    {
     "title": "Cong. Reshuffles AICC Secretaries, Relieves 25 Leaders",
     "description": "The reshuffle covers several states, including Uttar Pradesh, Rajasthan, Assam, Kerala, Tamil Nadu, Gujarat, Karnataka, Punjab, Madhya Pradesh, Bihar, Telangana, West Bengal and Odisha",
@@ -149,67 +126,45 @@
      "top",
      "technology"
     ]
-   },
-   {
-    "title": "Style Union Raises ₹485 Crore in Series E Funding",
-    "description": "Major funding for India’s value-fashion sector Nexon Omniverse Limited, the parent company of Indian value-fashion retailer Style Union, has raised ₹485 crore in a Series E funding round as it prepares to expand...",
-    "source": "Inc29, Business, Funding And Entrepreneur News",
-    "link": "https://inc29.com/style-union-raises-%E2%82%B9485-crore-in-series-e-funding/",
-    "pubDate": "2026-11-19 18:59:47",
-    "category": [
-     "top",
-     "lifestyle",
-     "business"
-    ]
    }
   ],
   "world": [
    {
-    "title": "KFC Restaurants Closing as Major Franchisee Files for Bankruptcy",
-    "description": "The closures come after several years of declining KFC restaurant numbers in the United States.",
-    "source": "Ntd",
-    "link": "https://www.ntd.com/kfc-restaurants-closing-as-major-franchisee-files-for-bankruptcy_1186226.html",
-    "pubDate": "2026-11-19 19:58:22",
+    "title": "Trump posthumously pardons late controversial baseball star Pete Rose",
+    "description": "Trump is known for raising eyebrows over who he chooses to pardon, including January 6 rioters",
+    "source": "The Independent",
+    "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-pardon-pete-rose-baseball-b3088301.html",
+    "pubDate": "2026-11-19 21:58:13",
     "category": [
      "world"
     ]
    },
    {
-    "title": "Germany, France, UK, Ukraine urge Russia to agree to winter energy ceasefire",
-    "description": "Leaders also call for Black Sea ceasefire to allow food exports as 1st step toward ending hostilities",
-    "source": "Anadolu Agency",
-    "link": "https://www.aa.com.tr/en/europe/germany-france-uk-ukraine-urge-russia-to-agree-to-winter-energy-ceasefire/4131510",
-    "pubDate": "2026-11-19 19:58:22",
+    "title": "Appeals court rejects Democrat LaMonica McIver’s bid to toss charges over ICE protest",
+    "description": "New Jersey congresswoman, charged with interfering with immigration arrest, set to face trial over May 2025 incident An appeals court decided on Thursday that Democratic New Jersey representative LaMonica McIver will...",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/us-news/2026/nov/19/lamonica-mciver-ice-delaney-hall",
+    "pubDate": "2026-11-19 21:57:39",
     "category": [
      "world"
     ]
    },
    {
-    "title": "Former world boxing champion detained by ICE in Texas",
-    "description": "Officials told Nexstar's KTSM News that Linares was arrested at the El Paso International Airport.",
-    "source": "Ktla5",
-    "link": "https://ktla.com/news/former-world-boxing-champion-detained-by-ice-in-texas/",
-    "pubDate": "2026-11-19 19:55:08",
+    "title": "LAPD chief warns price tag for Olympic security could hit staggering $4 billion",
+    "description": "The $1 billion approved by Congress to cover policing the Olympics will not cover all the costs associated with security",
+    "source": "The Independent",
+    "link": "https://www.independent.co.uk/news/world/americas/la-olympic-security-cost-4-billion-b3088284.html",
+    "pubDate": "2026-11-19 21:56:09",
     "category": [
      "world"
     ]
    },
    {
-    "title": "India votes against UN resolution critical of Iran's human rights record",
-    "description": "India has opposed country-specific human rights resolutions at the UN, including a recent Canada-led resolution. The Indian government voted alongside countries like China, Russia, and Iran against the resolution....",
-    "source": "The Economic Times",
-    "link": "https://economictimes.indiatimes.com/news/india/india-votes-against-un-resolution-criticizing-irans-human-rights-record-aligns-with-major-nations/articleshow/136004088.cms",
-    "pubDate": "2026-11-19 19:53:02",
-    "category": [
-     "world"
-    ]
-   },
-   {
-    "title": "Countries allowing US military operations against Iran will become targets: IRGC",
-    "description": "TEHRAN (Agencies): The Islamic Revolutionary Guard Corps (IRGC) has warned that the countries whose military bases the United States uses for operations against Iran will also become targets. IRGC spokesman Hossein...",
-    "source": "The Frontier Post",
-    "link": "https://thefrontierpost.com/countries-allowing-us-military-operations-against-iran-will-become-targets-irgc/",
-    "pubDate": "2026-11-19 19:52:28",
+    "title": "Zelensky questions whether Kyiv and Washington mean the same thing by ‘NATO-style’ guarantees and reiterates that postwar Ukraine would need foreign troops on its soil",
+    "description": "Jared Kushner, one of Donald Trump’s negotiators, said the United States had persuaded Russia to accept security guarantees for Ukraine based on Article 5 of NATO’s founding treaty.",
+    "source": "Meduza",
+    "link": "https://meduza.io/en/news/2026/11/20/zelensky-questions-whether-kyiv-and-washington-mean-the-same-thing-by-nato-style-guarantees-and-reiterates-that-postwar-ukraine-would-need-foreign-troops-on-its-soil",
+    "pubDate": "2026-11-19 21:53:32",
     "category": [
      "world"
     ]
@@ -217,88 +172,85 @@
   ],
   "sports": [
    {
-    "title": "Suspended for 8 years, IPS officer Jasvir Singh reinstated with demotion",
-    "description": "Suspended for 8 years, IPS officer Jasvir Singh reinstated with demotion",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/city/lucknow/suspended-for-8-years-ips-officer-jasvir-singh-reinstated-with-demotion/articleshow/136004213.cms",
-    "pubDate": "2026-11-19 19:57:28",
-    "category": [
-     "sports",
-     "top",
-     "politics"
-    ]
-   },
-   {
-    "title": "Hockey heroes’ village in grip of drugs; 23-year-old’s death rings alarm bells",
-    "description": "The death of 23-year-old Sagar, allegedly due to a drug overdose, has left a haunting question hanging over Sant Nagar in Sirsa district: Who will be next? In Ward No. 10, where several young men are battling...",
-    "source": "The Tribune India",
-    "link": "https://www.tribuneindia.com/news/haryana/hockey-heroes-village-in-grip-of-drugs-23-year-olds-death-rings-alarm-bells",
-    "pubDate": "2026-11-19 19:57:13",
-    "category": [
-     "sports",
-     "crime",
-     "top"
-    ]
-   },
-   {
-    "title": "HC scraps six sports quota entries in police recruitment",
-    "description": "HC scraps six sports quota entries in police recruitment",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/city/lucknow/hc-scraps-six-sports-quota-entries-in-police-recruitment/articleshow/136004205.cms",
-    "pubDate": "2026-11-19 19:56:39",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "Vikings' Cousins channeling Dantonio's 'slow down' maxim amid whirlwind month",
-    "description": "As he manages the whirlwind of his professional and personal life this month, Vikings QB Kirk Cousins has relied on a maxim he often heard from his college coach Mark Dantonio at Michigan State -- when things speed...",
-    "source": "Entertainment And Sports Programming Network",
-    "link": "https://www.espn.com/nfl/story/_/id/50532748/vikings-cousins-channeling-dantonio-maxim-amid-whirlwind-month",
-    "pubDate": "2026-11-19 19:56:06",
+    "title": "L.A. Rams wide receiver Puka Nacua, on injured reserve, suspended three games for biting incident",
+    "description": "Los Angeles Rams wide receiver Puka Nacua, who is slated to miss the next three games on injured reserve, will be serving a three-game suspension at the same time.",
+    "source": "The Washington Times",
+    "link": "https://www.washingtontimes.com/news/2026/nov/19/la-rams-wide-receiver-puka-nacua-injured-reserve-suspended-three/",
+    "pubDate": "2026-11-19 21:58:23",
     "category": [
      "sports"
     ]
    },
    {
-    "title": "Cowboys DC Parker says he briefly mulled quitting after losing playcalling role",
-    "description": "Cowboys defensive coordinator Christian Parker said he briefly considered leaving the team after informed he was being stripped of playcalling responsibilities.",
+    "title": "India Vs New Zealand Live Score, 1st Test Day 2: IND Eye Early Wickets As NZ Look To Post Big Total",
+    "description": "India vs New Zealand Live Cricket Score, 1st Test Day 2: Follow IND vs NZ Test Match ball-by-ball updates, latest scorecard, and key moments from Basin Reserve in Wellington.",
+    "source": "News 18",
+    "link": "https://www.news18.com/cricket/india-vs-new-zealand-live-cricket-score-1st-test-day-2-ind-vs-nz-latest-scorecard-basin-reserve-wellington-match-updates-liveblog-ws-l-10433209.html",
+    "pubDate": "2026-11-19 21:58:12",
+    "category": [
+     "sports",
+     "top"
+    ]
+   },
+   {
+    "title": "'Legend' Pete Rose receives posthumous presidential pardon from Trump",
+    "description": "President Donald Trump said he has posthumously pardoned Pete Rose more than two years after the baseball star's death and a year after he was reinstated by MLB.",
     "source": "Entertainment And Sports Programming Network",
-    "link": "https://www.espn.com/nfl/story/_/id/50532679/cowboys-christian-parker-dc-job-do",
-    "pubDate": "2026-11-19 19:56:06",
+    "link": "https://www.espn.com/mlb/story/_/id/50534187/pete-rose-posthumously-pardoned-president-donald-trump",
+    "pubDate": "2026-11-19 21:57:27",
     "category": [
      "sports"
     ]
    },
    {
-    "title": "Yogi dares Akhilesh for a face-to-face contest in Ayodhya",
-    "description": "Yogi dares Akhilesh for a face-to-face contest in Ayodhya",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/city/lucknow/yogi-dares-akhilesh-for-a-face-to-face-contest-in-ayodhya/articleshow/136004202.cms",
-    "pubDate": "2026-11-19 19:56:05",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "Culver’s vaunted rushing attack faces big test against Heppner",
-    "description": "CULVER — The whistle blows, and the Culver football players chant “Beat Heppner” before lunging into the blocking sled and pushing it several yards. No. 1 Heppner is all that […]",
-    "source": "Madras Pioneer",
-    "link": "https://madraspioneer.com/2026/11/19/culvers-vaunted-rushing-attack-faces-big-test-against-heppner/",
-    "pubDate": "2026-11-19 19:53:37",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "“That Deal Was Such a Joke”- Marco Andretti Drops Brutally Honest Confession on His NASCAR Stint to Dale Jr.",
-    "description": "Marco Andretti could have answered Dale Earnhardt Jr.’s question about retirement with a simple no. Instead, when Earnhardt floated the possibility of another one-off NASCAR Truck Series appearance, Andretti...",
+    "title": "Alexander Zverev Fights Through Mid-Match Pain to Send Both Himself & Ben Shelton Into Semifinals in Turin",
+    "description": "Alexander Zverev has made serving look almost effortless at the ATP Finals this week. He entered his final group match without dropping a set or getting broken, but his toughest test in Turin arrived when his own...",
     "source": "Essentially Sports",
-    "link": "https://www.essentiallysports.com/nascar-news-that-deal-was-such-a-joke-marco-andretti-drops-brutally-honest-confession-on-his-nascar-stint-to-dale-jr/",
-    "pubDate": "2026-11-19 19:47:55",
+    "link": "https://www.essentiallysports.com/tennis-news-alexander-zverev-fights-through-mid-match-pain-to-send-both-himself-ben-shelton-into-semifinals-in-turin/",
+    "pubDate": "2026-11-19 21:57:14",
+    "category": [
+     "sports"
+    ]
+   },
+   {
+    "title": "Temba Bavuma Ruled Out Of 2nd Bangladesh Test Due To Calf Strain",
+    "description": "Bavuma will miss the second Test of the ongoing two-match series between South Africa and Bangladesh. In his absence, Aiden Markram is likely to lead the Proteas.",
+    "source": "News 18",
+    "link": "https://www.news18.com/cricket/temba-bavuma-ruled-out-of-2nd-bangladesh-test-due-to-calf-strain-ws-l-10433213.html",
+    "pubDate": "2026-11-19 21:56:58",
+    "category": [
+     "sports",
+     "top"
+    ]
+   },
+   {
+    "title": "Bengaluru's biking culture shifts gears, embraces a new generation of riders",
+    "description": "Motorcycle culture in Bengaluru shifts as younger riders, women and diverse groups embrace weekend tours, safety gear and new routes across the region.",
+    "source": "Deccan Herald",
+    "link": "https://www.deccanherald.com/india/karnataka/bengaluru/bengalurus-biking-culture-shifts-gears-embraces-a-new-generation-of-riders-4224563",
+    "pubDate": "2026-11-19 21:56:57",
+    "category": [
+     "sports",
+     "tourism",
+     "top"
+    ]
+   },
+   {
+    "title": "Arabian Aces vs UAE Bulls, Qualifier (2v3), Abu Dhabi T10 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada - Cricbuzz",
+    "description": "Arabian Aces vs UAE Bulls, Qualifier (2v3), Abu Dhabi T10 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada Cricbuzz Abu Dhabi T10 2026 Match 28, 29,...",
+    "source": "Google News",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbDJjN25tRG1zQTVvdU55eU5nTnFKbWpIOGFUNEJNYkxFb2RiUXg1cVZ3M3hNS3NlLTNqeUV6SXFtOWtwTG1pRmFwWUVoSWFKWTAxNjUtRXktZzFxVXRFdlVpWGltU1hma3JILWdTR1ZGMm1CeGJUd0Q0MkpXUFRHNGZlcUFnSmNwTC1pbDN5aktZZ0xGWkxnUzNYRQ?oc=5",
+    "pubDate": "2026-11-19 21:54:47",
+    "category": [
+     "sports"
+    ]
+   },
+   {
+    "title": "Lionel Messi fed up with Argentine football association and sets lawyers to work - Goal.com",
+    "description": "Lionel Messi fed up with Argentine football association and sets lawyers to work Goal.comSee more headlines and perspectives on Google News",
+    "source": "Google News",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVkl6SXBycGJUcEVYdmVNOG9zZTNZUzFYeEFkRmNqYUZuWVVZX3FSbkREaVVFZjFvQ3AwUXRtbTF0c2lxVkprVG5hcEw3S2k4RnN4enRxb1BPT2lpY2M2ZUYwSHFrd2hqRmYtY01WWlFYZ1hKbnVZYUdEdUNpdnowdzVKN3M3QkpYZjZvekIwWjZScUt1cENKU0s4anh6dl84MHZsSE9UdlQ0aDVIX0pQcnhXX20ycThOdlRMY0pJcGl2SGJzeUNoV0lhN1U?oc=5",
+    "pubDate": "2026-11-19 21:54:17",
     "category": [
      "sports"
     ]
@@ -306,21 +258,21 @@
   ],
   "entertainment": [
    {
-    "title": "Florence Pugh responds to online comments about changes in her face",
-    "description": "Actress Florence Pugh is clapping back at online speculation about her undergoing cosmetic procedures after her recent red-carpet appearance at an awards show.",
-    "source": "The Washington Times",
-    "link": "https://www.washingtontimes.com/news/2026/nov/19/florence-pugh-responds-online-comments-changes-face/",
-    "pubDate": "2026-11-19 19:50:17",
+    "title": "Odia film ‘Baghuni’ to have world premiere at IFFI",
+    "description": "Directed by Jitendra Mishra and starring Sabyasachi Mishra, the Odia feature film 'Baghuni' is the sole Odia production selected for a gala premiere at the 57th International Film Festival of India (IFFI) in Goa....",
+    "source": "The Hans India",
+    "link": "https://www.thehansindia.com/odisha/odia-film-baghuni-to-have-world-premiere-at-iffi-1143798",
+    "pubDate": "2026-11-19 21:51:03",
     "category": [
      "entertainment"
     ]
    },
    {
-    "title": "Prince William's Mumbai lunch had crab, lobster and vada pav on the menu; here's what made the royal feas - The Times of India",
-    "description": "Prince William's Mumbai lunch had crab, lobster and vada pav on the menu; here's what made the royal feas The Times of India Menu Of Prince William's Private Lunch With Karan Johar, Saif Ali Khan, Kareena Kapoor NDTV...",
-    "source": "Google News",
-    "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQRVptZEd6TloyT2NCdDI2VTdMOGd1UVNYTlRuRFVfNkxreUZPNE05VVJ5aWx0QWNuY0xJYnFERlFxYXNpZFprbldqMUlXRVFQbWdiQ3IyemNUY3AxcGtrUUNqVThMcGo0TlFKQUNLUWhzM0ptbEJpR3lhR0hBS0dRRGdFT0ZMQXhIYzBrMEdmcGNaQ1p3eVE0MTR5VnZTSEtiV1FUSDV6WldTaUtEcDh0eTFyR1UydmtQRENfbEsyUGZ1aHhpNy1Ga0ZnWmwzQXZPXzFMaGdva3JHS1Zjd0NmNjhWSHhwU2t1QmUxS0R2aVFCb3F4UUt5Y2ZNcURpUmxSZEY0V2EwODNCUWdKSTZrTUFWOE5tTjZxY2FiVjRrcjA2VW96YmpVUlZETQ?oc=5",
-    "pubDate": "2026-11-19 19:45:00",
+    "title": "Larry Poindexter dies at 66, after being hit by car",
+    "description": "Larry Poindexter passed away at the age of 66 following an accident where he was hit by a car. He suffered significant injuries and was set to undergo surgery but died unexpectedly. Poindexter had a distinguished...",
+    "source": "The Times Of India",
+    "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/larry-poindexter-of-general-hospital-fame-dies-at-66-after-being-hit-by-car/articleshow/136005259.cms",
+    "pubDate": "2026-11-19 21:49:10",
     "category": [
      "entertainment"
     ]
@@ -328,21 +280,41 @@
   ],
   "tech": [
    {
-    "title": "GTA 6 launch: Tips, highlights, reactions as gamers get to play - USA Today",
-    "description": "GTA 6 launch: Tips, highlights, reactions as gamers get to play USA Today GTA 6 beginner’s guide: Essential tips and hidden mechanics Red Bull GTA 6 Launch Day Live: Our Top Expert Tips, the Latest News, Updates, and...",
-    "source": "Google News",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdlM5UExrWHBpSWhHS0JLMW8wb2dOM2Z5X3pBbmpaX0ZWZkhmaHZBbElrNjF6UGNiRmVLZldFaUlVal9uNG9ESnJ4NkZFQWM5SGJkTTNReFlvVmVsWGNXR3h4SHhzNHF0ZkotUTN6dkhvM0RrVEJTZVFGOGI0SXMxRS1ZdEdZV2tSUFcta1FEX0RJb0JpN3c?oc=5",
-    "pubDate": "2026-11-19 19:59:00",
+    "title": "Hands-On AI 8: Ask Your Appliance Manuals Anything",
+    "description": "Turn Your Appliance Manuals Into a Notebook That Answers Questions & Cites Its Sources.",
+    "source": "Twit",
+    "link": "https://twit.tv/shows/hands-on-ai/episodes/8",
+    "pubDate": "2026-11-19 21:59:00",
     "category": [
      "technology"
     ]
    },
    {
-    "title": "Traveling for Thanksgiving? Here’s when Georgia traffic is expected to be the worst",
-    "description": "Expect heavy Atlanta interstate traffic Tuesday and Wednesday before Thanksgiving, according to GDOT projections.",
-    "source": "Wsb-tv Channel 2 - Atlanta",
-    "link": "https://www.wsbtv.com/news/local/atlanta/traveling-thanksgiving-heres-when-georgia-traffic-is-expected-be-worst/7SAGKGHJQNFPFBK22372MPMM7M/",
-    "pubDate": "2026-11-19 19:57:57",
+    "title": "AI Agent Authorization That Limits the Damage of Prompt Injection",
+    "description": "An AI agent moves an incident from Open to Investigating, exactly as requested. Then it closes two unrelated incidents because a note inside the ticket told it to. The requested task succeeded. The authorization...",
+    "source": "Dev Community",
+    "link": "https://dev.to/stack_builders/ai-agent-authorization-that-limits-the-damage-of-prompt-injection-2eb7",
+    "pubDate": "2026-11-19 21:58:47",
+    "category": [
+     "technology"
+    ]
+   },
+   {
+    "title": "\"Street Fighter 6\" x \"Star Detective Precure!\" Collab Video Reveals Cure Answer’s Adorable Fighter Poses - 玩具人 TOY PEOPLE",
+    "description": "\"Street Fighter 6\" x \"Star Detective Precure!\" Collab Video Reveals Cure Answer’s Adorable Fighter Poses 玩具人 TOY PEOPLE Street Fighter 6 x Star Detective Precure! Collab Gets New Trailer GamerBraves",
+    "source": "Google News",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SLXNzdFZfYzdFN3c4a3E0bkRuV2NzeHQtZlVBWkp0blVVWTMyOGhqUkxLT2tPMDhzTWRsNXVzY24tSzgxZVlnYjhNa2RhV1BY?oc=5",
+    "pubDate": "2026-11-19 21:58:47",
+    "category": [
+     "technology"
+    ]
+   },
+   {
+    "title": "Building an Assembler, One Reboot at a Time",
+    "description": "A semester-long term project building a Macro Assembler from scratch — and the habits a fragile, reboot-happy era beat into me. A look back — long before any of the tools we argue about now. The mid-90s, when I was...",
+    "source": "Dev Community",
+    "link": "https://dev.to/chaesang/building-an-assembler-one-reboot-at-a-time-56h4",
+    "pubDate": "2026-11-19 21:58:45",
     "category": [
      "technology"
     ]

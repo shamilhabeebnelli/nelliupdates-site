@@ -615,10 +615,10 @@
     ]
    ],
    "image": {
-    "file": "images/3-fiona-bibi2018.jpg",
+    "file": "images/1-fiona-bibi2018-960.jpg",
     "alt": "Fiona nuzzling her mother Bibi at Cincinnati Zoo in a photograph dated 27 May 2018",
     "label": "FILE PHOTO: Fiona with mother Bibi, 27 May 2018. Not treatment or death-day imagery.",
-    "credit": "DarthBotto, via Wikimedia Commons. CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/ . No pixel edits on website.",
+    "credit": "DarthBotto / Wikimedia Commons. Resized to 960px and JPEG recompressed; full frame retained. CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/ .",
     "license": "CC BY-SA 4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Fiona_the_Hippopotamus.jpg"
    },
@@ -1862,10 +1862,10 @@
    "note": "Posted on Instagram @nelli.updates at about 1:40 AM IST on 19 Nov 2026. Facts were verified when posted and not refreshed since. Historical file photo dated 27 May 2018, not treatment imagery. This article retains its original reporting date.",
    "published_at": "2026-11-19T01:40:25+05:30",
    "image": {
-    "file": "images/3-fiona-bibi2018.jpg",
+    "file": "images/1-fiona-bibi2018-960.jpg",
     "alt": "Fiona nuzzling her mother Bibi at Cincinnati Zoo in a photograph dated 27 May 2018",
     "label": "FILE PHOTO: Fiona with mother Bibi, 27 May 2018. Not treatment imagery.",
-    "credit": "DarthBotto, via Wikimedia Commons. CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/ . No pixel edits on website.",
+    "credit": "DarthBotto / Wikimedia Commons. Resized to 960px and JPEG recompressed; full frame retained. CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/ .",
     "license": "CC BY-SA 4.0",
     "page": "https://commons.wikimedia.org/wiki/File:Fiona_the_Hippopotamus.jpg"
    }
@@ -2223,4 +2223,4 @@
   }
  ],
  "removed": []
-    }
+   }

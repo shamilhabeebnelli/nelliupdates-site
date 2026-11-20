@@ -1,6 +1,48 @@
 {
  "stories": [
   {
+   "id": "gta6-sensortower-sales-estimate-nov19",
+   "cats": [
+    "Tech",
+    "Entertainment",
+    "World"
+   ],
+   "title": "ജിടിഎ 6: 24.58 ദശലക്ഷം കോപ്പികളെന്ന് സെൻസർ ടവറിന്റെ വിലയിരുത്തൽ",
+   "en": "Sensor Tower estimates GTA 6 sales at 24.58 million units and $2.36 billion",
+   "sum": "മുൻകൂർ ബുക്കിങ്ങും റിലീസ് ദിവസത്തെ വിൽപ്പനയും ഉൾപ്പെടുന്ന കണക്കാണിത്. നവംബർ 19ന് പുതുക്കിയ സെൻസർ ടവർ ട്രാക്കറിലെ കണക്കുകൾ കമ്പനിയുടെ ഔദ്യോഗിക വിൽപ്പനഫലമല്ല.",
+   "date": "20 Nov 2026",
+   "body": [
+    "ഗ്രാൻഡ് തെഫ്റ്റ് ഓട്ടോ ആറിന്റെ വിൽപ്പന 24.58 ദശലക്ഷം കോപ്പികളിലെത്തിയെന്നും വിൽപ്പനമൂല്യം 2.36 ബില്യൺ ഡോളറാണെന്നും സെൻസർ ടവർ വിലയിരുത്തുന്നു. 2026 നവംബർ 19ന് പുതുക്കിയ ട്രാക്കറിലാണ് കണക്കുകൾ. ഇവ റോക്ക്സ്റ്റാറോ ടേക്ക് ടുവോ പുറത്തുവിട്ട ഔദ്യോഗിക വിൽപ്പനഫലമല്ല.",
+    "മുൻകൂർ ബുക്കിങ്ങും റിലീസ് ദിവസത്തെ വിൽപ്പനയും ചേർന്ന ആകെ കണക്കാണിത്. അതിനാൽ ആദ്യത്തെ 24 മണിക്കൂറിൽ മാത്രം ലഭിച്ച വരുമാനമെന്ന രീതിയിൽ അവതരിപ്പിക്കുന്നത് ശരിയല്ല. തിരിച്ചുനൽകലുകൾ കുറച്ച ശേഷമുള്ള കണക്കുകളാണെന്ന് ട്രാക്കർ വ്യക്തമാക്കുന്നു.",
+    "പ്ലേസ്റ്റേഷൻ അഞ്ചിലും എക്സ്ബോക്സ് സീരീസ് എക്സ്/എസിലും ഗെയിം ലഭ്യമാണെന്ന് ടേക്ക് ടുവിന്റെ നവംബർ 19ലെ ഔദ്യോഗിക അറിയിപ്പ് സ്ഥിരീകരിക്കുന്നു. ആ അറിയിപ്പ് മുകളിലെ വിൽപ്പന കണക്കുകൾ സ്ഥിരീകരിക്കുന്നില്ല.",
+    "ഇൻസ്റ്റഗ്രാം റീലിൽ ഉപയോഗിച്ചിരിക്കുന്നത് ഞങ്ങൾ തയ്യാറാക്കിയ ഗെയിം കൺട്രോളറും നഗരവും ഉൾപ്പെടുന്ന ചിത്രീകരണമാണ്. അത് യഥാർഥ ഗെയിം ദൃശ്യങ്ങളല്ല. ഈ ലേഖനത്തിൽ മൂന്നാംകക്ഷിയുടെ ഗെയിം ചിത്രമോ പോസ്റ്ററോ പകർത്തിയിട്ടില്ല."
+   ],
+   "srcs": [
+    [
+     "Sensor Tower sales tracker, updated19Nov2026",
+     "https://sensortower.com/grand-theft-auto-VI/sales-tracker"
+    ],
+    [
+     "Take-Two launch announcement,19Nov2026",
+     "https://www.take2games.com/ir/news/rockstar-games-announces-grand-theft-auto-vi-now-available"
+    ],
+    [
+     "BBC News sales estimate report",
+     "https://www.bbc.com/news/articles/c9zr5nyv5dj2o"
+    ],
+    [
+     "Anadolu sales estimate report",
+     "https://aa.com.tr/en/world/gta-6-generates-estimated-236b-in-launch-revenue-sells-over-245m-copies/4131705"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/reel/Df9WQj_hODR/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 3:06 PM IST on 20 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-20T15:06:03+05:30"
+  },
+  {
    "id": "kerala-gold-price-drop-nov20-2026",
    "cats": [
     "Kerala",
@@ -2283,4 +2325,4 @@
   }
  ],
  "removed": []
-    }
+}

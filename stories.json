@@ -1151,10 +1151,22 @@
     [
      "Instagram post (@nelli.updates)",
      "https://www.instagram.com/nelli.updates/p/Df7rS1XloVt/"
+    ],
+    [
+     "Wikimedia Commons photo and rights",
+     "https://commons.wikimedia.org/wiki/File:Dario_Amodei_at_TechCrunch_Disrupt_2023_01.jpg"
     ]
    ],
-   "note": "Posted on Instagram @nelli.updates at about 11:31 PM IST on 19 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
-   "published_at": "2026-11-19T23:31:25+05:30"
+   "note": "Posted on Instagram @nelli.updates at about 11:31 PM IST on 19 Nov 2026. Facts were verified when posted and not refreshed since. Dated historical file photo shown for context, not imagery of the reported event.",
+   "published_at": "2026-11-19T23:31:25+05:30",
+   "image": {
+    "file": "images/1-amodei.jpg",
+    "alt": "Dario Amodei speaking on stage at TechCrunch Disrupt in September 2023",
+    "label": "FILE PHOTO: Dario Amodei at TechCrunch Disrupt, 20 September 2023. Not the Nasdaq trading debut.",
+    "credit": "TechCrunch, photo by Kimberly White/Getty Images for TechCrunch. Full frame resized to 960px and JPEG recompressed. CC BY 2.0: https://creativecommons.org/licenses/by/2.0/ .",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Dario_Amodei_at_TechCrunch_Disrupt_2023_01.jpg"
+   }
   },
   {
    "id": "riyadh-financial-district-tower-damage-no-injuries",
@@ -1368,10 +1380,22 @@
     [
      "Instagram post (@nelli.updates)",
      "https://www.instagram.com/nelli.updates/p/Df625YHltEh/"
+    ],
+    [
+     "Wikimedia Commons photo and rights",
+     "https://commons.wikimedia.org/wiki/File:GRACE_HARRIS_(6539923195).jpg"
     ]
    ],
-   "note": "Posted on Instagram @nelli.updates at about 3:53 PM IST on 19 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
-   "published_at": "2026-11-19T15:53:29+05:30"
+   "note": "Posted on Instagram @nelli.updates at about 3:53 PM IST on 19 Nov 2026. Facts were verified when posted and not refreshed since. Dated historical file photo shown for context, not imagery of the reported event.",
+   "published_at": "2026-11-19T15:53:29+05:30",
+   "image": {
+    "file": "images/2-grace.jpg",
+    "alt": "Grace Harris holding a bat in Queensland Fire uniform in December 2011",
+    "label": "FILE PHOTO: Grace Harris, 18 December 2011, in Queensland Fire uniform. Not the reported Sydney Thunder innings.",
+    "credit": "NAPARAZZI / Wikimedia Commons, GRACE HARRIS (6539923195).jpg. Full frame resized to 960px and JPEG recompressed. This image remains CC BY-SA 2.0: https://creativecommons.org/licenses/by-sa/2.0/ .",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:GRACE_HARRIS_(6539923195).jpg"
+   }
   },
   {
    "id": "miami-heat-bucks-giannis-former-team-result",

@@ -101,7 +101,7 @@ jobs:
               j = {"stories": []}
           j["stories"] = [e] + [x for x in j["stories"] if x.get("id") != sid]
           j["stories"].sort(key=lambda x: datetime.fromisoformat(x["published_at"]), reverse=True)
-          j["stories"] = j["stories"][:60]
+          # Preserve all published story IDs and content; listing pagination is client-side.
           j["removed"] = [x for x in j.get("removed", []) if x != sid]
           json.dump(j, open("stories.json", "w"), ensure_ascii=False, indent=1)
           print("added", sid)

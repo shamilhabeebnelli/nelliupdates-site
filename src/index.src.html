@@ -82,7 +82,7 @@ footer a{color:#fff;text-decoration:underline}
 .fmw{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:22px}.fmw .fm{margin-top:0}@media(max-width:820px){.fmw{grid-template-columns:1fr}}.sw{display:flex;gap:8px;margin:0 0 12px}.sw a{padding:7px 16px;border-radius:20px;border:1px solid var(--ln);background:#fff;font-weight:700;font-size:14px}.sw a.on{background:var(--ink);color:#fff;border-color:var(--ink)}.ah{margin-top:26px}.ah .al{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:12px}.ah .ai{background:var(--card);border:1px solid var(--ln);border-radius:12px;padding:12px 14px;display:block}.ah .ai b{display:block;font-size:15px;line-height:1.35;margin-bottom:4px}.ah .ai p{font-size:13px;color:var(--mu);margin:0 0 6px}.ah .ai span{font-size:12px;color:var(--mu)}.ah .nt{font-size:12px;color:var(--mu);margin:8px 2px}.ah .nt a{text-decoration:underline;color:#0b8f79}
 h1.ml,h2.ml,.ml,.ah .ai b{overflow-wrap:anywhere}.art,.sc .b,.lead .tx{min-width:0}
 .ph{margin:0;background:#0e1220}.ph img{display:block;width:100%;max-height:420px;object-fit:cover}.ph figcaption{font-size:12px;color:#9aa8c9;padding:8px 26px 10px;line-height:1.45}.ph figcaption a{color:#cfe0ff;text-decoration:underline}.ph b{color:#ffd95a}
-</style></head><body>
+.pager{display:flex;align-items:center;justify-content:center;gap:12px;flex-wrap:wrap;margin:24px 0}.pager button{min-height:44px;padding:10px 16px;border:1px solid var(--ln);border-radius:8px;background:#fff;color:var(--tx);font:inherit;font-weight:600;cursor:pointer}.pager button:disabled{opacity:.45;cursor:default}.pager span{font-size:13px;color:var(--mu)}</style></head><body>
 <header><div class="hd"><img src="logo-dark.png" alt="Nelli Updates"><div class="brand">NELLI UPDATES<small>News &amp; Highlights</small></div><div class="sp"></div><div class="dt" id="dt"></div><a class="ig" href="https://www.instagram.com/nelli.updates/" target="_blank" rel="noopener">Follow<span> @nelli.updates</span></a></div></header>
 <div class="bk"><div class="in"><b>BREAKING</b><div class="t"><div id="tk"></div></div></div></div>
 <nav><div class="in" id="nav"></div></nav>
@@ -167,6 +167,13 @@ function paint(){const h=decodeURIComponent(location.hash.slice(2)||"Home");cons
  if(h.startsWith("Scores")){m.innerHTML=scoresPage()}
  else if(h=="Home"){const f=document.getElementById("fm");if(f)f.outerHTML=featuredBoth()}}
 setInterval(()=>{if(!document.hidden){const h=location.hash.slice(2)||"Home";if(h.startsWith("Scores"))load(SPORT);else if(h=="Home")loadAll()}},60000);
+const PAGE_SIZE=24,LIST_PAGES={};
+function pagedStories(key,items){
+ const total=Math.max(1,Math.ceil(items.length/PAGE_SIZE)),page=Math.min(total,Math.max(1,LIST_PAGES[key]||1));LIST_PAGES[key]=page;
+ const list=items.slice((page-1)*PAGE_SIZE,page*PAGE_SIZE);
+ return `<div class="grid">${list.map(sc).join("")}</div>`+(total>1?`<div class="pager" aria-label="Story pages"><button type="button" data-story-page="${page-1}" data-story-section="${key}" ${page===1?"disabled":""}>Newer stories</button><span>Page ${page} of ${total} &middot; ${items.length} stories</span><button type="button" data-story-page="${page+1}" data-story-section="${key}" ${page===total?"disabled":""}>Older stories</button></div>`:"");
+}
+document.addEventListener("click",ev=>{const b=ev.target.closest("button[data-story-page]");if(!b||b.disabled)return;LIST_PAGES[b.dataset.storySection]=Number(b.dataset.storyPage);route();addAuto()});
 function route(){
  let h=decodeURIComponent(location.hash.slice(2)||"Home");const m=$("m");scrollTo(0,0);if(h.startsWith("Scores/")){SPORT=h.split("/")[1]=="football"?"football":"cricket";h="Scores"}
  if(h.startsWith("story/")){const s=S.find(x=>x.id==h.slice(6));if(s){
@@ -177,8 +184,8 @@ function route(){
  if(c=="Scores"){m.innerHTML=scoresPage();load(SPORT);return}
  const l=inCat(c);
  if(c=="Home"){const s=S[0];
-  m.innerHTML=`<a class="lead" href="#/story/${s.id}">${s.image?fig(s,false):vis(s)}<div class="tx">${pill(s)}<h1 class="ml">${s.title}</h1><p class="mu">${s.en}</p><p class="ml">${s.sum}</p><p class="mu">${s.date} &middot; ${s.cats.find(c=>c!=="Breaking"&&c!=="Highlights")}</p></div></a>${featuredBoth()}${S.length>1?`<div class="sec">Latest</div><div class="grid">${S.slice(1).map(sc).join("")}</div>`:""}<div class="sec">Sections</div><div class="cats">${CATS.slice(1).map(x=>x=="Scores"?`<a class="cat" href="#/Scores">Scores<span>Cricket and football</span></a>`:`<a class="cat" href="#/${x}">${x}<span>${inCat(x).length+autoItems(x).length} ${inCat(x).length+autoItems(x).length==1?"story":"stories"}</span></a>`).join("")}</div>`;loadAll();return}
- const au=autoItems(c);m.innerHTML=`<div class="sec">${c}</div>`+(l.length?`<div class="sec">Nelli Updates stories</div><div class="grid">${l.map(sc).join("")}</div>`:"")+(NEWS?(au.length?autoHtml(c):(!l.length?`<div class="empty">No stories in ${c} yet. Follow <a href="https://www.instagram.com/nelli.updates/" style="text-decoration:underline">@nelli.updates</a> for the latest.</div>`:"")):(!l.length?`<div class="empty">Loading automatic headlines…</div>`:""))}
+  m.innerHTML=`<a class="lead" href="#/story/${s.id}">${s.image?fig(s,false):vis(s)}<div class="tx">${pill(s)}<h1 class="ml">${s.title}</h1><p class="mu">${s.en}</p><p class="ml">${s.sum}</p><p class="mu">${s.date} &middot; ${s.cats.find(c=>c!=="Breaking"&&c!=="Highlights")}</p></div></a>${featuredBoth()}${S.length>1?`<div class="sec">Latest</div>${pagedStories("Home",S.slice(1))}`:""}<div class="sec">Sections</div><div class="cats">${CATS.slice(1).map(x=>x=="Scores"?`<a class="cat" href="#/Scores">Scores<span>Cricket and football</span></a>`:`<a class="cat" href="#/${x}">${x}<span>${inCat(x).length+autoItems(x).length} ${inCat(x).length+autoItems(x).length==1?"story":"stories"}</span></a>`).join("")}</div>`;loadAll();return}
+ const au=autoItems(c);m.innerHTML=`<div class="sec">${c}</div>`+(l.length?`<div class="sec">Nelli Updates stories</div>${pagedStories(c,l)}`:"")+(NEWS?(au.length?autoHtml(c):(!l.length?`<div class="empty">No stories in ${c} yet. Follow <a href="https://www.instagram.com/nelli.updates/" style="text-decoration:underline">@nelli.updates</a> for the latest.</div>`:"")):(!l.length?`<div class="empty">Loading automatic headlines…</div>`:""))}
 addEventListener("hashchange",route);
 let NEWS=null,NEWSERR=false;
 const AMAP={Home:["india"],Kerala:["kerala"],India:["india"],World:["world"],Sports:["sports"],Entertainment:["entertainment"],Tech:["tech"]};

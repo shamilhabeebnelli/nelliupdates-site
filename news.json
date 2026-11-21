@@ -1,78 +1,147 @@
 {
- "fetched_at": "2026-11-21 09:59 UTC",
+ "fetched_at": "2026-11-21 10:59 UTC",
  "groups": {
   "india": [
    {
-    "title": "US Bond market: Why is benchmark 10-year Treasury yield witnessing biggest weekly drop since early April 2025? Check 30-year, 2-year bond prices",
-    "description": "US Treasury yield bond market witnessed massive drop as US stock market's fall on Friday sent shockwaves.",
-    "source": "The Economic Times",
-    "link": "https://economictimes.indiatimes.com/world/business/us-bond-market-why-is-benchmark-10-year-treasury-yield-witnessing-biggest-weekly-drop-since-early-april-2025-check-30-year-2-year-bond-prices/articleshow/136039487.cms",
-    "pubDate": "2026-11-20 21:57:31",
+    "title": "Taj Yelahanka Opens as IHCL’s 400th Hotel",
+    "description": "",
+    "source": "Hospitalitynews",
+    "link": "https://hospitalitynews.in/news/taj-yelahanka-opens-in-bengaluru-as-ihcl-marks-its-400th-operating-hotel",
+    "pubDate": "2026-11-20 22:57:58",
     "category": [
      "top",
+     "lifestyle",
      "business"
     ]
    },
    {
-    "title": "BJP to disrupt legislature session if crop compensation is not paid to farmers: BYV",
-    "description": "Karnataka BJP chief BY Vijayendra warned of stalling both Houses during the December 2 winter session unless the Congress government releases pending crop-loss compensation and clarifies the Rs 5,000 vs Rs 2,500...",
+    "title": "Mansa student tops country in electrical trade",
+    "description": "Jaspreet Kaur, a student of Government Industrial Training Institute (ITI), Mansa, has secured the top rank at the national level in the electrical trade, bringing laurels to the state. Education Minister Harjot...",
+    "source": "The Tribune India",
+    "link": "https://www.tribuneindia.com/news/bathinda/mansa-student-tops-country-in-electrical-trade",
+    "pubDate": "2026-11-20 22:57:26",
+    "category": [
+     "top",
+     "lifestyle",
+     "technology"
+    ]
+   },
+   {
+    "title": "EXCLUSIVE-Lutnick asked battery startup Pure Lithium to accept US takeover, documents and source say",
+    "description": "US Commerce Secretary Howard Lutnick asked battery startup Pure Lithium in July to give Washington a 51 controlling stake in exchange for funds to build a manufacturing plant that the company would not own or control...",
+    "source": "Devdiscourse",
+    "link": "https://www.devdiscourse.com/article/international/4010117-exclusive-lutnick-asked-battery-startup-pure-lithium-to-accept-us-takeover-documents-and-source-say",
+    "pubDate": "2026-11-20 22:57:06",
+    "category": [
+     "top",
+     "business",
+     "technology"
+    ]
+   },
+   {
+    "title": "epigamia Promotes Greek Yogurt with Farah Khan",
+    "description": "",
+    "source": "Hospitalitynews",
+    "link": "https://hospitalitynews.in/news/epigamia-brings-farah-khan-and-chef-dilip-together-to-showcase-greek-yogurt",
+    "pubDate": "2026-11-20 22:55:09",
+    "category": [
+     "top",
+     "food",
+     "entertainment"
+    ]
+   },
+   {
+    "title": "Who saved Modi from jail? Moily’s revelation embarrasses Congress",
+    "description": "With Moily absolving Manmohan Singh, Rahul Gandhi must explain who intervened, why the investigation was stopped and who exercised the alleged veto power",
     "source": "The Hans India",
-    "link": "https://www.thehansindia.com/news/cities/bengaluru/bjp-to-disrupt-legislature-session-if-crop-compensation-is-not-paid-to-farmers-byv-1144201",
-    "pubDate": "2026-11-20 21:57:23",
+    "link": "https://www.thehansindia.com/hans/opinion/bold-talk/who-saved-modi-from-jail-moilys-revelation-embarrasses-congress-1144230",
+    "pubDate": "2026-11-20 22:55:05",
     "category": [
      "top",
      "politics"
     ]
    },
    {
-    "title": "Raffles Le Royal Launches Mindy’s Speakeasy",
-    "description": "",
-    "source": "Hospitalitynews",
-    "link": "https://hospitalitynews.in/news/raffles-hotel-le-royal-introduces-mindys-pop-up-speakeasy-in-phnom-penh",
-    "pubDate": "2026-11-20 21:56:53",
+    "title": "Wheels and Axles: A Major Force Behind the World's Progress",
+    "description": "We use many tools in our daily lives, such as tongs, scissors, pliers and pincers. From a scientific point of view, these are known as simple machines.",
+    "source": "Gujaratsamachar",
+    "link": "https://www.gujaratsamachar.com/news/zagmag/wheels-and-axles-a-major-force-behind-the-worlds-progress-20552873260",
+    "pubDate": "2026-11-20 22:55:00",
     "category": [
      "top",
-     "lifestyle",
-     "entertainment"
-    ]
-   },
-   {
-    "title": "Bike taxis can operate in Karnataka; SC dismisses state’s plea",
-    "description": "The Supreme Court dismissed the Karnataka government’s appeal against the January 2026 High Court ruling permitting bike taxis, allowing Ola, Uber, and Rapido to continue operations under legal regulation.",
-    "source": "The Hans India",
-    "link": "https://www.thehansindia.com/news/cities/bengaluru/bike-taxis-can-operate-in-karnataka-sc-dismisses-states-plea-1144200",
-    "pubDate": "2026-11-20 21:55:58",
-    "category": [
-     "top",
-     "politics",
-     "technology"
-    ]
-   },
-   {
-    "title": "HMT takes legal action against fake watch sales, issues notice to Flipkart",
-    "description": "HMT launched a legal crackdown against counterfeit watches—issuing a legal notice to Flipkart after its CMD received a fake ₹290 watch—and warned buyers against imitation sellers online and in Bengaluru.",
-    "source": "The Hans India",
-    "link": "https://www.thehansindia.com/news/cities/bengaluru/hmt-takes-legal-action-against-fake-watch-sales-issues-notice-to-flipkart-1144199",
-    "pubDate": "2026-11-20 21:54:48",
-    "category": [
-     "top",
-     "business"
-    ]
-   },
-   {
-    "title": "Hero’s Remuneration Shoots Up To Rs 75 Cr",
-    "description": "With back-to-back successes, this hero’s market value has increased significantly. Reports suggest that he is now demanding Rs 75 crore for his next film. We… The post Hero’s Remuneration Shoots Up To Rs 75 Cr...",
-    "source": "Great Andhra",
-    "link": "https://www.greatandhra.com/movies/movies-gossip/heros-remuneration-shoots-up-to-rs-75-cr/",
-    "pubDate": "2026-11-20 21:54:10",
-    "category": [
-     "top",
-     "business",
-     "entertainment"
+     "science"
     ]
    }
   ],
   "kerala": [
+   {
+    "title": "Jatayu The Bird Who Gave His Life for Dharma",
+    "description": "L ong ago, during the age of the Ramayana, there lived a mighty vulture king named Jatayu. He was no ordinary bird. He was powerful, wise and respected by many. He was also a close friend of King Dasharatha, the...",
+    "source": "Gujaratsamachar",
+    "link": "https://www.gujaratsamachar.com/news/zagmag/jatayu-the-bird-who-gave-his-life-for-dharma-73447154270",
+    "pubDate": "2026-11-20 22:50:00",
+    "category": [
+     "environment",
+     "lifestyle",
+     "top"
+    ]
+   },
+   {
+    "title": "Viral Video: Minibus Bursts Into Flames After Colliding With Moving Train In Indonesia! (WATCH)",
+    "description": "A minibus caught fire after colliding with a moving train at an unguarded railway crossing in North Sumatra, Indonesia. At least one person was killed and several others injured, while the locomotive also caught fire.",
+    "source": "Asianet Newsable",
+    "link": "https://newsable.asianetnews.com/world/minibus-bursts-into-flames-after-colliding-with-moving-train-in-indonesia-articleshow-qxp3c6k",
+    "pubDate": "2026-11-20 22:43:39",
+    "category": [
+     "crime",
+     "top"
+    ]
+   },
+   {
+    "title": "Mangaluru Police rescue med student 'forcibly taken away by her family'",
+    "description": "M'luru police rescue med student 'forcibly taken away by her family'",
+    "source": "Deccan Herald",
+    "link": "https://www.deccanherald.com/india/karnataka/mangaluru/mangaluru-police-rescue-med-student-forcibly-taken-away-by-her-family-4226030",
+    "pubDate": "2026-11-20 22:42:07",
+    "category": [
+     "crime",
+     "politics",
+     "top"
+    ]
+   },
+   {
+    "title": "Viral Video: High-Speed Tata Punch Crash In Unnao Caught On Camera! (WATCH)",
+    "description": "A Tata Punch crashed in Unnao, Uttar Pradesh, at around 2:33 am during a late-night drive. Police are examining overspeeding and suspected drunk driving as possible causes, while the exact circumstances remain under...",
+    "source": "Asianet Newsable",
+    "link": "https://newsable.asianetnews.com/india/high-speed-tata-punch-crash-in-unnao-caught-on-camera-articleshow-leaqdfo",
+    "pubDate": "2026-11-20 22:36:43",
+    "category": [
+     "crime",
+     "top"
+    ]
+   },
+   {
+    "title": "KCHR Chairperson Appointment Sparks Political Storm and Resignations",
+    "description": "Opposition parties slam the controversial appointment of the KCHR chairperson as search panel members resign, alleging rule bypass and procedural lapses.",
+    "source": "Growmudra",
+    "link": "https://growmudra.com/news/details/82a008560ab8fa4bd01994e2ff52bb6a/kchr-chairperson-appointment-sparks-political-storm-and-resignations",
+    "pubDate": "2026-11-20 22:16:56",
+    "category": [
+     "domestic",
+     "business"
+    ]
+   },
+   {
+    "title": "Consider law to curb marriage between relatives: SC to govt",
+    "description": "NEW DELHI: The ordeal of a 20-year-old Bengaluru-based woman who defied serious physical conditions to gain admission to an elite law school became the",
+    "source": "The Times Of India",
+    "link": "https://timesofindia.indiatimes.com/india/consider-law-to-curb-marriage-between-relatives-sc-to-government/articleshow/136039466.cms",
+    "pubDate": "2026-11-20 22:03:45",
+    "category": [
+     "top",
+     "politics"
+    ]
+   },
    {
     "title": "Maharashtra tops the list of states with most suicides",
     "description": "NCRB 2024 report highlights 1.7 lakh suicides in India with 73.5% men, led by Maharashtra, Tamil Nadu, and MP, while Kerala records a 30.2 rate against a 12.2 national average and family problems top causes at 33.5%.",
@@ -95,83 +164,25 @@
      "top",
      "education"
     ]
-   },
-   {
-    "title": "Online virtual queue booking must for Sabarimala Darshan",
-    "description": "As per the guidelines, a maximum of 80,000 devotees will be allowed darshan every day.",
-    "source": "The Hans India",
-    "link": "https://www.thehansindia.com/andhra-pradesh/online-virtual-queue-booking-must-for-sabarimala-darshan-1144139",
-    "pubDate": "2026-11-20 20:45:55",
-    "category": [
-     "top",
-     "politics",
-     "lifestyle"
-    ]
-   },
-   {
-    "title": "Dragged Into SUV on Mangaluru Campus, Rescued in Kerala: Medical Student Refuses to Return to Family",
-    "description": "Police rescued a woman medical student from a relative's house in Kerala after a viral video showed several people, suspected to be family members, forcibly taking her from Kanachur Medical College campus in Mangaluru.",
-    "source": "Asianet Newsable",
-    "link": "https://newsable.asianetnews.com/karnataka-news/mangaluru-medical-student-abduction-police-rescue-woman-from-kerala-vhp-alleges-law-and-order-failure-articleshow-i64exd0",
-    "pubDate": "2026-11-20 19:21:27",
-    "category": [
-     "crime",
-     "top"
-    ]
-   },
-   {
-    "title": "What is O.M: Operation Mole start Mammootty’s net worth? Film fees, luxury cars, properties and business ventures",
-    "description": "Mammootty, who stars alongside Dhanush in O.M: Operation Mole, reportedly has a net worth of ₹340 crore. From his film fees and luxury car collection to real estate and business interests, here's a look at the...",
-    "source": "Mint",
-    "link": "https://www.livemint.com/entertainment/what-is-o-m-operation-mole-start-mammootty-s-net-worth-film-fees-luxury-cars-properties-and-business-ventures-11795200207453.html",
-    "pubDate": "2026-11-20 19:07:23",
-    "category": [
-     "top",
-     "entertainment"
-    ]
-   },
-   {
-    "title": "Keralam mulls plans to allow state universities to set up Gulf campuses",
-    "description": "Keralam mulls plans to allow state universities to set up Gulf campuses",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/city/kochi/keralam-mulls-plans-to-allow-state-universities-to-set-up-gulf-campuses/articleshow/136038091.cms",
-    "pubDate": "2026-11-20 18:52:48",
-    "category": [
-     "top",
-     "education",
-     "business"
-    ]
-   },
-   {
-    "title": "Ignatius Gonsalves to be installed as Pontifical Knight",
-    "description": "Ignatius Gonsalves is to be installed as a Pontifical Knight (Chevalier) on November 22 at Infant Jesus Church, Kerala.",
-    "source": "The Hindu",
-    "link": "https://www.thehindu.com/news/cities/Kochi/ignatius-gonsalves-to-be-installed-as-pontifical-knight/article71725089.ece",
-    "pubDate": "2026-11-20 18:50:06",
-    "category": [
-     "top",
-     "lifestyle"
-    ]
-   },
-   {
-    "title": "Keralam forms expert panel to study air quality data mismatch in Kochi, T’puram",
-    "description": "Govt Asks Expert Committee To Submit Report In Two Weeks",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/keralam-forms-expert-panel-to-study-air-quality-data-mismatch-in-kochi-tpuram/articleshow/136038044.cms",
-    "pubDate": "2026-11-20 18:50:02",
-    "category": [
-     "environment",
-     "top"
-    ]
    }
   ],
   "world": [
    {
-    "title": "Trump says he'll penalize U.S. companies that build data centers in other countries",
-    "description": "Trump returned from Asia eager to project confidence in his push to win the global race for dominance in artificial intelligence.",
-    "source": "Los Angeles Times",
-    "link": "https://www.latimes.com/politics/story/2026-11-20/trump-says-hell-penalize-u-s-companies-that-build-data-centers-abroad",
-    "pubDate": "2026-11-20 21:58:36",
+    "title": "Opinion | Defining Genocide Down at the International Court of Justice",
+    "description": "An international court redefines the meaning to target the U.S. and Israel.",
+    "source": "Wsj",
+    "link": "https://www.wsj.com/opinion/international-court-of-justice-genocide-definition-israel-1f650a2e?mod=rss_worldnews",
+    "pubDate": "2026-11-20 22:59:00",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "US vice-president JD Vance declines to say he would have ordered Iran strikes",
+    "description": "War blamed for Republicans’ historic midterm losses as vice-president calls for the US to exit the conflict",
+    "source": "The Irish Times",
+    "link": "https://www.irishtimes.com/world/us/2026/11/20/us-vice-president-jd-vance-declines-to-say-he-would-have-ordered-iran-strikes/",
+    "pubDate": "2026-11-20 22:56:55",
     "category": [
      "world"
     ]
@@ -179,116 +190,111 @@
   ],
   "sports": [
    {
-    "title": "Spain To Face France In UEFA Nations League Quarterfinal, Portugal Vs Netherlands",
-    "description": "Spain beat France 2-0 in the semi-finals of the World Cup in the United States in July and hey also defeated Les Bleus 5-4 in the semi-finals of the last edition of Nations League.",
+    "title": "Best Period To Play Slots When Do Online Casino Slots Pay The Particular Most?",
+    "description": "Aita For Telling The Friends Friend He Or She Couldnt Keep The Jackpot He Hit On My Slot Machine Game? Content Playing A Specific Slot Machine Game And A Certain…",
+    "source": "Newz India 24",
+    "link": "https://newzindia24.in/?p=173242",
+    "pubDate": "2026-11-20 22:57:29",
+    "category": [
+     "sports",
+     "top",
+     "entertainment"
+    ]
+   },
+   {
+    "title": "‘Desperate Fishing Expedition’: PGA Tour Hits Back at LIV Golf Creditors Over Subpoena in Bankruptcy Battle",
+    "description": "LIV Golf’s financial collapse is now drawing the PGA Tour back into a dispute that once threatened to reshape professional golf. This time, however, the focus is on bankruptcy discovery. LIV’s unsecured creditors are...",
+    "source": "Essentially Sports",
+    "link": "https://www.essentiallysports.com/golf-news-desperate-fishing-expedition-pga-tour-hits-back-at-liv-golf-creditors-over-subpoena-in-bankruptcy-battle/",
+    "pubDate": "2026-11-20 22:45:14",
+    "category": [
+     "sports"
+    ]
+   },
+   {
+    "title": "Harry Kane ‘out for next few months’ after ankle ligament injury in Bayern Munich draw",
+    "description": "England forward limped off early in 1-1 draw with Cologne Club statement confirms ‘tear of ligament in left ankle’ Bayern Munich have confirmed Harry Kane will be “out for the next few months” with ankle ligament...",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
+    "pubDate": "2026-11-20 22:43:40",
+    "category": [
+     "sports"
+    ]
+   },
+   {
+    "title": "Dewald Brevis, Lungi Ngidi & Anrich Nortje Back In South Africa Squad For Bangladesh ODIs",
+    "description": "Keshav Maharaj will captain South Africa in the three-match ODI series against Bangladesh, scheduled to be played from December 1 to 7.",
     "source": "News 18",
-    "link": "https://www.news18.com/sports/football/spain-to-face-france-in-uefa-nations-league-quarterfinal-portugal-vs-netherlands-ws-l-10434754.html",
-    "pubDate": "2026-11-20 21:56:52",
+    "link": "https://www.news18.com/cricket/dewald-brevis-lungi-ngidi-anrich-nortje-back-in-south-africa-squad-for-bangladesh-odis-ws-l-10434766.html",
+    "pubDate": "2026-11-20 22:42:37",
     "category": [
      "sports",
      "top"
     ]
    },
    {
-    "title": "Rory McIlroy Enters NHL Locker Room as Maple Leafs Battle Historic Slump",
-    "description": "Rory McIlroy stepped into the Toronto Maple Leafs’ locker room this week as the franchise worked to halt a slide unmatched in its 109-year history. The Maple Leafs’ eight-game winless skid (0-7-1)—capped by a 4-3...",
-    "source": "Essentially Sports",
-    "link": "https://www.essentiallysports.com/golf-news-rory-mcilroy-enters-nhl-locker-room-as-maple-leafs-battle-historic-slump/",
-    "pubDate": "2026-11-20 21:56:39",
-    "category": [
-     "sports"
-    ]
-   },
-   {
-    "title": "Cricket Australia backs Pat Cummins as captain amid fresh allegations in 2018 Sandpapergate scandal",
-    "description": "Cricket Australia has expressed its unanimous support for Pat Cummins to continue as captain despite recent allegations. The board convened to focus on maintaining the integrity of Australian cricket and discussing...",
-    "source": "The Economic Times",
-    "link": "https://economictimes.indiatimes.com/news/sports/cricket/cricket-australia-backs-pat-cummins-as-captain-amid-fresh-allegations-in-2018-sandpapergate-scandal/articleshow/136043705.cms",
-    "pubDate": "2026-11-20 21:55:49",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "Police investigating as man dies days after alleged incident at 49ers-Cowboys",
-    "description": "Police are investigating the death of a man who was allegedly involved in an altercation before Sunday's game between the Cowboys and 49ers at AT&T Stadium.",
-    "source": "Entertainment And Sports Programming Network",
-    "link": "https://www.espn.com/nfl/story/_/id/50543613/police-investigate-man-death-incident-cowboys-game",
-    "pubDate": "2026-11-20 21:54:20",
-    "category": [
-     "sports"
-    ]
-   },
-   {
-    "title": "Sources: Tigers, right-hander Melton agree to 6-year, $46.5M extension",
-    "description": "Troy Melton, who went 8-5 with a 2.76 ERA in 20 starts this season, has agreed to a six-year, $46.5M contract extension with the Tigers, sources told ESPN.",
-    "source": "Entertainment And Sports Programming Network",
-    "link": "https://www.espn.com/mlb/story/_/id/50543664/sources-tigers-troy-melton-reach-6-year-465m-extension",
-    "pubDate": "2026-11-20 21:54:20",
-    "category": [
-     "sports"
-    ]
-   },
-   {
-    "title": "“The Snow Will Melt”: Fox Analysts Give Harsh Verdict on Luka Doncic-Led Lakers Amid Stephen A. Smith’s Controversial Take",
-    "description": "The Los Angeles Lakers’ early-season surge has put them among the NBA’s most talked-about teams, but questions remain over whether their impressive form can translate into a championship run. Luka Doncic has been...",
-    "source": "Essentially Sports",
-    "link": "https://www.essentiallysports.com/nba-active-basketball-news-the-snow-will-melt-fox-analysts-give-harsh-verdict-on-luka-doncic-led-lakers-amid-stephen-a-smiths-controversial-take/",
-    "pubDate": "2026-11-20 21:52:23",
-    "category": [
-     "sports"
-    ]
-   },
-   {
-    "title": "The Indianapolis Colts Are Proving Why They’re One of the Worst-Run Franchises in the NFL Right Now",
-    "description": "The Indianapolis Colts are putting on a clinic on how not to run an NFL team. If you told me a year ago that the Colts would be one of the worst teams in football and would have just released Daniel Jones, I would’ve...",
-    "source": "Essentially Sports",
-    "link": "https://www.essentiallysports.com/nfl-active-news-the-indianapolis-colts-are-showing-why-theyre-one-of-the-worst-run-franchises-in-the-nfl-right-now/",
-    "pubDate": "2026-11-20 21:52:23",
-    "category": [
-     "sports"
-    ]
-   },
-   {
-    "title": "Suraj Shah returns as 10K pacer at Adani Ahmedabad Marathon",
-    "description": "Suraj Shah will return as the 10K pacer at the Adani Ahmedabad Marathon on November 29, making his sixth appearance and drawing on his endurance experience.",
+    "title": "Kane and Olise exit injured in Bayern Munich’s Bundesliga match",
+    "description": "Harry Kane and Michael Olise were substituted injured in Bayern Munich’s Bundesliga match against Cologne, where Nathaniel Brown equalised before half-time.",
     "source": "The News Mill",
-    "link": "https://thenewsmill.com/2026/11/suraj-shah-returns-as-10k-pacer-at-adani-ahmedabad-marathon/",
-    "pubDate": "2026-11-20 21:51:40",
+    "link": "https://thenewsmill.com/2026/11/kane-and-olise-exit-injured-in-bayern-munichs-bundesliga-match/",
+    "pubDate": "2026-11-20 22:40:27",
     "category": [
      "sports",
      "top"
+    ]
+   },
+   {
+    "title": "Aquarius Horoscope Today, November 21, 2026: Fresh determination may help you tackle familiar tasks with renewed confidence",
+    "description": "Aquarius Horoscope Today: You will feel interested in testing what you can do, while household financial concerns remain in the background.",
+    "source": "Hindustan Times",
+    "link": "https://www.hindustantimes.com/astrology/horoscope/aquarius-horoscope-today-november-21-2026-fresh-determination-may-help-you-tackle-familiar-tasks-with-renewed-confide-101795020010104.html",
+    "pubDate": "2026-11-20 22:40:24",
+    "category": [
+     "sports",
+     "top",
+     "health"
+    ]
+   },
+   {
+    "title": "TTWO Stock Gains As Grand Theft Auto VI Retail Sales Touch $3.8B",
+    "description": "Take-Two Interactive and Rockstar Games announced that “Grand Theft Auto VI” generated an estimated $3.79 billion in global day-one sales, alongside 32.5 million pre-release units.",
+    "source": "Asianet Newsable",
+    "link": "https://newsable.asianetnews.com/markets/ttwo-stock-gains-as-grand-theft-auto-vi-retail-sales-touch-3-8b-articleshow-873b3yu",
+    "pubDate": "2026-11-20 22:35:02",
+    "category": [
+     "sports",
+     "top",
+     "business"
+    ]
+   },
+   {
+    "title": "Insider Provides Major Injury Update on Stephen Curry as Warriors Losing Streak Continues",
+    "description": "The Golden State Warriors have failed to score even 100 points for four games straight. The absence of their star scorer, Stephen Curry, is clearly haunting the team. The team has lost five games in a row, and four...",
+    "source": "Essentially Sports",
+    "link": "https://www.essentiallysports.com/nba-active-basketball-news-insider-provides-major-injury-update-on-stephen-curry-as-warriors-losing-streak-continues/",
+    "pubDate": "2026-11-20 22:31:41",
+    "category": [
+     "sports"
     ]
    }
   ],
   "entertainment": [
    {
-    "title": "Anirudh Ravichander, wife Kaviya thank fans for love and blessings",
-    "description": "Music composer Anirudh Ravichander and SunRisers Hyderabad owner Kavya Maran shared a heartfelt thank-you note to fans after their November 11 wedding in Greece, ahead of their November 21 reception in Chennai.",
-    "source": "The Hans India",
-    "link": "https://www.thehansindia.com/news/cities/chennai/anirudh-ravichander-wife-kaviya-thank-fans-for-love-and-blessings-1144193",
-    "pubDate": "2026-11-20 21:42:22",
-    "category": [
-     "entertainment"
-    ]
-   },
-   {
-    "title": "Rupa’s ‘Aaj Shanibar’ bombed 44 years ago. Now, it’s playing on GTA 6’s radio stations",
-    "description": "The genre-bending number from Rupa’s debut album, Disco Jazz, has featured in an international Netflix show, a Loewe campaign and now, GTA 6",
-    "source": "Vogue",
-    "link": "https://www.vogue.in/content/her-debut-album-bombed-42-years-ago-now-at-69-rupa-is-finally-getting-the-praise-she-deserves",
-    "pubDate": "2026-11-20 21:36:45",
-    "category": [
-     "entertainment"
-    ]
-   },
-   {
-    "title": "Percy Jackson and the Olympians Season 3: Here's release date, plot, episode schedule, US timings and where to watch",
-    "description": "Percy Jackson and the Olympians Season 3 began on Disney+ on November 20, 2026. This season is based on the novel ‘The Titan’s Curse’ by Rick Riordan. Percy, Thalia and their friends try to save Annabeth from the...",
+    "title": "Yellowjackets Season 4: When will new episode air? Here's release date, time, episode schedule, plot, cast, crew and where to watch",
+    "description": "Yellowjackets Season 4 will be the last season in the series. It has aired on Paramount+ Premium on Friday, November 20, 2026. The series has 10 episodes, and one episode will be released every Friday. The group of...",
     "source": "The Economic Times",
-    "link": "https://economictimes.indiatimes.com/magazines/panache/percy-jackson-and-the-olympians-season-3-heres-release-date-plot-episode-schedule-us-timings-and-where-to-watch/articleshow/136039123.cms",
-    "pubDate": "2026-11-20 21:31:09",
+    "link": "https://economictimes.indiatimes.com/magazines/panache/yellowjackets-season-4-when-will-new-episode-air-heres-release-date-time-episode-schedule-plot-cast-crew-and-where-to-watch/articleshow/136041707.cms",
+    "pubDate": "2026-11-20 22:56:58",
+    "category": [
+     "entertainment"
+    ]
+   },
+   {
+    "title": "Taylor Swift: 'Toy Story' song a welcome break from personal ballads",
+    "description": "Taylor Swift: 'Toy Story' song a welcome break from personal ballads",
+    "source": "Hindustan Times",
+    "link": "https://www.hindustantimes.com/entertainment/music/taylor-swift-toy-story-song-a-welcome-break-from-personal-ballads-101795215398656.html",
+    "pubDate": "2026-11-20 22:56:38",
     "category": [
      "entertainment"
     ]
@@ -296,21 +302,21 @@
   ],
   "tech": [
    {
-    "title": "9to5Mac Overtime 091: Kicking the tires and seeing what works",
-    "description": "Fernando and Jeff are back to talk about the iPhone Duo after a month of use, including the new face unlock and close-to-lock toggle in iOS 27.3 beta 2. They also dig into Siri AI’s Health app access and its quirks,...",
-    "source": "9to5 Mac",
-    "link": "https://9to5mac.com/2026/11/20/9to5mac-overtime-091-kicking-the-tires-and-seeing-what-works/",
-    "pubDate": "2026-11-20 21:58:47",
+    "title": "JavaScript's \\b Is ASCII-Only: How It Silently Broke Our Rules in Six Languages",
+    "description": "We run a chat application used in nine languages, and a surprising amount of its behaviour depends on regular expressions: recognising that a user said \"yes\", detecting that a message asks for a photo, catching a...",
+    "source": "Dev Community",
+    "link": "https://dev.to/lovora/javascripts-b-is-ascii-only-how-it-silently-broke-our-rules-in-six-languages-5bk5",
+    "pubDate": "2026-11-20 22:58:13",
     "category": [
      "technology"
     ]
    },
    {
-    "title": "Three supply chain breaks in one week, zero code written",
-    "description": "Three doors, one pattern The week of November 16 to 20 left three incidents that share an uncomfortable property. None of them required the victim to write a single line of vulnerable code. The first came out of...",
-    "source": "Dev Community",
-    "link": "https://dev.to/analista_83/three-supply-chain-breaks-in-one-week-zero-code-written-2lp2",
-    "pubDate": "2026-11-20 21:58:46",
+    "title": "Hyundai Takes Over the Starion Name From Mitsubishi For a Tiburon Reborn Across Imagination Land",
+    "description": "Apparently, some folks believe – or at least secretly hope – that compact and more affordable front-wheel drive coupe models are making a comeback. There are some fresh hints, indeed, but it remains to be seen if...",
+    "source": "Auto Evolution",
+    "link": "https://www.autoevolution.com/news/hyundai-takes-over-the-starion-name-from-mitsubishi-for-a-tiburon-reborn-across-imagination-land-278475.html",
+    "pubDate": "2026-11-20 22:58:01",
     "category": [
      "technology"
     ]

@@ -1,77 +1,78 @@
 {
- "fetched_at": "2026-11-21 07:59 UTC",
+ "fetched_at": "2026-11-21 08:59 UTC",
  "groups": {
   "india": [
    {
-    "title": "‘Poornam’ puts unbreakable family bonds in spotlight",
-    "description": "‘Poornam’ puts unbreakable family bonds in spotlight",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/city/lucknow/poornam-puts-unbreakable-family-bonds-in-spotlight/articleshow/136038837.cms",
-    "pubDate": "2026-11-20 19:58:09",
+    "title": "The Best WordPress Web Hosting Services for 2026",
+    "description": "WordPress is a powerful content management system that makes building a website a whole lot easier. For a smooth, feature-packed experience, check out the top WordPress hosting services we've tested.",
+    "source": "Pcmag",
+    "link": "https://www.pcmag.com/picks/the-best-wordpress-web-hosting-services",
+    "pubDate": "2026-11-20 20:58:57",
     "category": [
      "top",
-     "politics"
+     "technology"
     ]
    },
    {
-    "title": "Fifth rare-earth magnet maker to be selected within 15 days",
-    "description": "India may name a fifth rare earth magnet maker within 15 days for its ₹7,280-crore scheme; see how it aims to cut China reliance.",
-    "source": "Financial Express , Read To Lead",
-    "link": "https://www.financialexpress.com/business/industry/fifth-rare-earth-magnet-maker-to-be-selected-within-15-days/4390200/",
-    "pubDate": "2026-11-20 19:58:08",
+    "title": "'A good man who ...' Trump backs Jensen Huang’s return as Nvidia CEO",
+    "description": "Speaking to reporters at a White House press conference on Friday, Trump described Huang as one of the world's most talented minds and said he would like to see him return to lead the company.",
+    "source": "Moneycontrol",
+    "link": "https://www.moneycontrol.com/world/a-good-man-who-trump-backs-jensen-huang-s-return-as-nvidia-ceo-article-14085920.html",
+    "pubDate": "2026-11-20 20:58:07",
+    "category": [
+     "top",
+     "business",
+     "technology"
+    ]
+   },
+   {
+    "title": "Brazil's imprisoned ex-president Jair Bolsonaro taken to hospital with abdominal pain",
+    "description": "Jair Bolsonaro has been hospitalized due to intense abdominal pain linked to his declining health condition. Concerned for his father’s well-being, Carlos Bolsonaro has voiced worries over the treatment and...",
+    "source": "The Times Of India",
+    "link": "https://timesofindia.indiatimes.com/world/rest-of-world/brazils-jailed-ex-president-jair-bolsonaro-taken-to-hospital-son-alleges-psychological-torture/articleshow/136039037.cms",
+    "pubDate": "2026-11-20 20:56:39",
+    "category": [
+     "top",
+     "health"
+    ]
+   },
+   {
+    "title": "Trump administration replaces cyber chief after wave of major US tech outages",
+    "description": "The Trump administration has removed National Cyber Director Sean Cairncross after a series of technology outages disrupted banking, air traffic control and other services in the United States.",
+    "source": "Newseisamay",
+    "link": "https://newseisamay.com/world/us-news/sean-cairncross-removed-us-national-cyber",
+    "pubDate": "2026-11-20 20:55:53",
+    "category": [
+     "top",
+     "politics",
+     "technology"
+    ]
+   },
+   {
+    "title": "Wall Street regulator proposes to take control of market surveillance tool",
+    "description": "The US Securities and Exchange Commission on Friday proposed taking direct control of a comprehensive market surveillance tool long the subject of funding and privacy complaints the agency announced",
+    "source": "Devdiscourse",
+    "link": "https://www.devdiscourse.com/article/international/4010099-wall-street-regulator-proposes-totakecontrol-ofmarketsurveillance-tool",
+    "pubDate": "2026-11-20 20:55:48",
     "category": [
      "top",
      "business"
     ]
-   },
+   }
+  ],
+  "kerala": [
    {
-    "title": "Ambala: Former state Congress chief Mullana dies at 85",
-    "description": "Senior Congress leader and four-time MLA Phool Chand Mullana passed away on Friday. He was 85. He had also served as the president of the Haryana Pradesh Congress Committee and a Cabinet minister. The final rites...",
-    "source": "The Tribune India",
-    "link": "https://www.tribuneindia.com/news/haryana/ambala-former-state-congress-chief-mullana-dies-at-85",
-    "pubDate": "2026-11-20 19:58:04",
+    "title": "Online virtual queue booking must for Sabarimala Darshan",
+    "description": "As per the guidelines, a maximum of 80,000 devotees will be allowed darshan every day.",
+    "source": "The Hans India",
+    "link": "https://www.thehansindia.com/andhra-pradesh/online-virtual-queue-booking-must-for-sabarimala-darshan-1144139",
+    "pubDate": "2026-11-20 20:45:55",
     "category": [
      "top",
      "politics",
      "lifestyle"
     ]
    },
-   {
-    "title": "Samarth portal to run DSMNRU admissions",
-    "description": "DSMNRU to conduct affiliated college admissions via Samarth portal from next session; centralized online exams, password-protected papers and CCTV surveillance.",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/city/lucknow/samarth-portal-to-run-dsmnru-admissions/articleshow/136038829.cms",
-    "pubDate": "2026-11-20 19:56:37",
-    "category": [
-     "top",
-     "education",
-     "technology"
-    ]
-   },
-   {
-    "title": "New Delhi: National Human Rights Commission seeks report over transportation of bodies of woman, daughter in garbage van",
-    "description": "The National Human Rights Commission (NHRC) has sought a detailed report from the Haryana Government and the Faridabad district administration after taking suo motu cognisance of a media report alleging that the...",
-    "source": "The Tribune India",
-    "link": "https://www.tribuneindia.com/news/haryana/new-delhi-national-human-rights-commission-seeks-report-over-transportation-of-bodies-of-woman-daughter-in-garbage-van",
-    "pubDate": "2026-11-20 19:55:36",
-    "category": [
-     "top",
-     "politics"
-    ]
-   },
-   {
-    "title": "Sukhu accuses previous BJP regime of ‘selling’ Himachal assets",
-    "description": "When Speaker Kuldeep Singh Pathania asked the CM to begin his reply, the Opposition began protesting and trooped into the well of the House, alleging that some of their members were yet to speak on the motion",
-    "source": "Hindustan Times",
-    "link": "https://www.hindustantimes.com/cities/chandigarh-news/sukhu-accuses-previous-bjp-regime-of-selling-himachal-assets-101795204533195.html",
-    "pubDate": "2026-11-20 19:55:32",
-    "category": [
-     "top",
-     "politics"
-    ]
-   }
-  ],
-  "kerala": [
    {
     "title": "Dragged Into SUV on Mangaluru Campus, Rescued in Kerala: Medical Student Refuses to Return to Family",
     "description": "Police rescued a woman medical student from a relative's house in Kerala after a viral video showed several people, suspected to be family members, forcibly taking her from Kanachur Medical College campus in Mangaluru.",
@@ -149,36 +150,55 @@
      "business",
      "domestic"
     ]
-   },
-   {
-    "title": "Exciting Highlights from the Syed Mushtaq Ali Trophy: Unadkat's Hat-Trick and Juyal's Explosive Innings",
-    "description": "The 2026-27 Syed Mushtaq Ali Trophy delivered an action-packed day with standout performances, including Jaydev Unadkat's hat-trick and Aryan Juyal's explosive half-century. While rain disrupted matches in Kolkata,...",
-    "source": "Gyanhigyan",
-    "link": "https://gyanhigyan.com/sports/cricket/exciting-highlights-from-the-syed-mushtaq-ali-trophy/cid19557263.htm",
-    "pubDate": "2026-11-20 18:13:20",
-    "category": [
-     "sports",
-     "top"
-    ]
    }
   ],
   "world": [
    {
-    "title": "Venezuela rejects ICJ jurisdiction over Essequibo dispute, calls for talks with Guyana",
-    "description": "Caracas dismisses 1899 arbitral ruling as fraudulent, urges Guyana to honor 1966 Geneva Agreement and pursue bilateral negotiations",
-    "source": "Anadolu Agency",
-    "link": "https://www.aa.com.tr/en/americas/venezuela-rejects-icj-jurisdiction-over-essequibo-dispute-calls-for-talks-with-guyana/4132557",
-    "pubDate": "2026-11-20 19:57:15",
+    "title": "U.S. reports nearly 5,840 confirmed measles cases in 2026, highest since 1991",
+    "description": "LOS ANGELES, Nov. 20 (Xinhua) -- The United States had reported 5,838 confirmed measles cases in 2026 as of Thursday, with the number continuing to rise, according to the latest data released Friday by the U.S....",
+    "source": "The Star",
+    "link": "https://www.thestar.com.my/news/world/2026/11/21/us-reports-nearly-5840-confirmed-measles-cases-in-2026-highest-since-1991",
+    "pubDate": "2026-11-20 20:59:00",
     "category": [
      "world"
     ]
    },
    {
-    "title": "Iranian nuclear program discussed at Russia-US-China meeting — Trump",
-    "description": "Leaders talked extensively about ensuring that Iran will never have a nuclear weapon, US President said",
-    "source": "Тасс",
-    "link": "https://tass.com/world/2222737",
-    "pubDate": "2026-11-20 19:55:10",
+    "title": "Navy’s Shipbuilding Plan Would Exceed Budget Estimates by Hundreds of Billions, CBO Finds",
+    "description": "Increasing the size of the Navy’s fleet by 112 ships over the next three decades would require a 41 percent increase in the sea service’s annual budget and exceed the Navy’s own budget estimates by about 18 percent –...",
+    "source": "Usni News",
+    "link": "https://news.usni.org/2026/11/20/navys-shipbuilding-plan-would-exceed-budget-estimates-by-hundreds-of-billions-cbo-finds",
+    "pubDate": "2026-11-20 20:57:51",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "JD Vance evades question on whether he would have authorised strikes on Iran",
+    "description": "JD Vance avoided endorsing US strikes on Iran, saying the decision rests with Trump, amid Republican election losses and growing tensions over the war.",
+    "source": "Hindustan Times",
+    "link": "https://www.hindustantimes.com/world-news/us-news/jd-vance-evades-question-on-whether-he-would-have-authorised-strikes-on-iran-101795207747497.html",
+    "pubDate": "2026-11-20 20:56:50",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "Moment ducting collapses at Pontins bingo night and injures grandma months before death",
+    "description": "Wendy Jones, 68, was seriously injured at Pontins' holiday park in Brean Sands in February 2019 when industrial ducting collapsed. She died months later, with Pontins' parent company fined £1m and contractor Stephen...",
+    "source": "Dailystar Co Uk",
+    "link": "https://www.dailystar.co.uk/news/latest-news/moment-ducting-collapses-pontins-bingo-37901062",
+    "pubDate": "2026-11-20 20:52:19",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "Denmark Accuses Russia of Trying to Kill Ukrainian Rapper",
+    "description": "The alleged plot is the latest example of a Western country accusing Moscow of orchestrating a crime on European soil.",
+    "source": "Wsj",
+    "link": "https://www.wsj.com/world/europe/denmark-accuses-russia-of-trying-to-kill-ukrainian-rapper-a3a5e34c?mod=rss_worldnews",
+    "pubDate": "2026-11-20 20:52:00",
     "category": [
      "world"
     ]
@@ -186,143 +206,90 @@
   ],
   "sports": [
    {
-    "title": "NBA Team Pays Rival Player to Score Against Them After Being Cut",
-    "description": "Perhaps one of the most bizarre situations involving an NBA franchise is unfolding this season. One organization is struggling through one of the worst starts in its history, while a former star it moved on from is...",
+    "title": "Joao Maleck reigns and rises in Uruguay, but continues a step to return to prison in Jalisco",
+    "description": "The Mexican forward achieved the promotion with Plaza Colonia but a court judge will determine if he returns to prison for not settling 20 million pesos.",
+    "source": "News247plus - Only News That Matters",
+    "link": "https://www.news247plus.com/news/Sports/joao-maleck-reigns-and-rises-in-uruguay-but-continues-a-step-to-return-to-prison-in-jalisco-64667",
+    "pubDate": "2026-11-20 20:58:22",
+    "category": [
+     "sports",
+     "top"
+    ]
+   },
+   {
+    "title": "NBA Cup returns with nine games tonight and a nine-leg 3-point parlay for every matchup",
+    "description": "The NBA Cup is back in action tonight, and that means that even in November,... The post NBA Cup returns with nine games tonight and a nine-leg 3-point parlay for every matchup appeared first on Democratic Accent .",
+    "source": "Democratic Accent",
+    "link": "https://www.democraticaccent.com/nba-cup-returns-with-nine-games-tonight-and-a-nine-leg-3-point-parlay-for-every-matchup/",
+    "pubDate": "2026-11-20 20:58:17",
+    "category": [
+     "sports",
+     "top"
+    ]
+   },
+   {
+    "title": "Jordon Hudson Faces New Legal Trouble Amid Ongoing Lawsuit Over Shirtless Bill Belichick Video Leak",
+    "description": "Few people connected to the sports world have watched their personal and business lives collide in public as quickly as Jordon Hudson. Her name has been tied to Bill Belichick since 2023, and it now appears in two...",
     "source": "Essentially Sports",
-    "link": "https://www.essentiallysports.com/nba-active-basketball-news-nba-team-pays-rival-player-damian-lillard-to-score-against-them-after-being-cut/",
-    "pubDate": "2026-11-20 19:56:27",
+    "link": "https://www.essentiallysports.com/ncaa-college-football-news-jordon-hudson-faces-new-legal-trouble-amid-ongoing-lawsuit-over-shirtless-bill-belichick-video-leak/",
+    "pubDate": "2026-11-20 20:57:59",
     "category": [
      "sports"
     ]
    },
    {
-    "title": "“No Clue How to Run a Football Organization”: Ex-NFL Player Blasts Colts Owner Carlie Irsay-Gordon Over Daniel Jones Release",
-    "description": "The Indianapolis Colts‘ decision to release Daniel Jones drew criticism of the franchise’s leadership. After investing $88 million in a two-year contract extension for the quarterback, the Colts have decided to move...",
-    "source": "Essentially Sports",
-    "link": "https://www.essentiallysports.com/nfl-active-news-colts-no-clue-how-to-run-a-football-organization-ex-nfl-player-blasts-colts-owner-carlie-irsay-gordon-over-daniel-jones-release/",
-    "pubDate": "2026-11-20 19:56:02",
-    "category": [
-     "sports"
-    ]
-   },
-   {
-    "title": "FCI Headquarters win third successive Inter-Zonal Hockey Championship",
-    "description": "FCI Headquarters clinched their third consecutive title at the 55th All India FCI Inter-Zonal Hockey Championship, defeating North Zone 3–2 in the final at Railway Hockey Stadium. Bobby Singh Dhami was adjudged...",
-    "source": "Telangana Today",
-    "link": "https://telanganatoday.com/fci-headquarters-win-third-successive-inter-zonal-hockey-championship",
-    "pubDate": "2026-11-20 19:54:32",
+    "title": "Clovis High Football: Measuring Nagle’s Impact",
+    "description": "Clovis High Football hired alumnus Brandon Nagle as head coach on February 3, 2026, replacing Aaron Wilkins after a season that ended in the Central Section final. Nagle brought a conference championship and a 27–8...",
+    "source": "Ambikapur City - Your Guide To Local Sports",
+    "link": "https://ambikapurcity.com/clovis-high-football-measuring-nagle-s/",
+    "pubDate": "2026-11-20 20:53:17",
     "category": [
      "sports",
      "top"
     ]
    },
    {
-    "title": "Tom Brady’s Next Football Move: NFL Icon Targets Chelsea Investment After Birmingham City Departure",
-    "description": "NFL legend Tom Brady is reportedly targeting a minority investment in Chelsea after ending his three-year association with Birmingham City. His relationship with Chelsea co-owner Behdad Eghbali could play a role in...",
-    "source": "The Sunday Guardian",
-    "link": "https://sundayguardianlive.com/sports/tom-bradys-next-football-move-nfl-icon-targets-chelsea-investment-after-birmingham-city-325199/",
-    "pubDate": "2026-11-20 19:53:06",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "India vs New Zealand 1st Test Day 3 Live Score: Follow live updates of IND vs NZ match in Wellington",
-    "description": "India vs New Zealand 1st Test Day 3 Live Score: New Zealand, who were invited to bat first by Shubman Gill, scored 368/10 in their first innings.",
-    "source": "Moneycontrol",
-    "link": "https://www.moneycontrol.com/sports/cricket/india-vs-new-zealand-1st-test-day-3-live-score-ind-vs-nz-live-updates-wellington-liveblog-14085918.html",
-    "pubDate": "2026-11-20 19:52:00",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "Mamata Medical College beat G9 Academy in Hyderabad basketball league",
-    "description": "Mamata Medical College defeated G9 Academy 94-45 in the GM Sampath Kumar annual league basketball championship at YMCA Secunderabad. The winners led 39-22 at half-time. Nizam Basketball Academy also secured a narrow...",
-    "source": "Telangana Today",
-    "link": "https://telanganatoday.com/mamata-medical-college-beat-g9-academy-in-hyderabad-basketball-league",
-    "pubDate": "2026-11-20 19:50:56",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "‘Still Numb’: Jim Nantz Recounts Painful Moment Jack Nicklaus Learned of Dan Hicks’s Passing",
-    "description": "Jim Nantz walked into a clubhouse expecting to share grief. Instead, he became the bearer of devastating news. Days after longtime NBC Sports broadcaster Dan Hicks died suddenly at age 64, the CBS Sports voice...",
-    "source": "Essentially Sports",
-    "link": "https://www.essentiallysports.com/golf-news-still-numb-jim-nantz-recounts-painful-moment-jack-nicklaus-learned-of-dan-hickss-passing/",
-    "pubDate": "2026-11-20 19:43:26",
-    "category": [
-     "sports"
-    ]
-   },
-   {
-    "title": "No more Indiana Jones: Colts cut quarterback 11 games into 2-year, $88 million deal",
-    "description": "The Indianapolis Colts cut quarterback Daniel Jones on Friday after benching him during Thursday night's 26-3 loss to the Houston Texans.",
+    "title": "Man dies after fight at 49ers-Cowboys game",
+    "description": "A 36-year-old fan, Mario Narro, died Wednesday in a hospital several days after getting into a fight at the 49ers-Cowboys game at AT&T Stadium in Texas.",
     "source": "The Washington Times",
-    "link": "https://www.washingtontimes.com/news/2026/nov/20/colts-cut-quarterback-daniel-jones-11-games-2-year-88-million-deal/",
-    "pubDate": "2026-11-20 19:43:00",
+    "link": "https://www.washingtontimes.com/news/2026/nov/20/man-dies-fight-49ers-cowboys-game/",
+    "pubDate": "2026-11-20 20:52:01",
+    "category": [
+     "sports"
+    ]
+   },
+   {
+    "title": "Colts Release Disgruntled Daniel Jones Midseason Despite Handing Out $88M Contract",
+    "description": "For a team that was seemingly open to listening to offers for its players, the Indianapolis Colts had drawn a rather firm line when it came to Daniel Jones. The quarterback hadn’t quite delivered the performances the...",
+    "source": "Essentially Sports",
+    "link": "https://www.essentiallysports.com/nfl-active-news-colts-release-disgruntled-daniel-jones-midseason-despite-handing-out-88m-contract/",
+    "pubDate": "2026-11-20 20:46:38",
+    "category": [
+     "sports"
+    ]
+   },
+   {
+    "title": "Cristiano Ronaldo edges closer to 1,000 goals but misses penalty in Al Nassr loss - ESPN India",
+    "description": "Cristiano Ronaldo edges closer to 1,000 goals but misses penalty in Al Nassr loss ESPN India Video: Ronaldo becomes Al-Nassr's all-time top scorer in the Clasico with first goal since retirement Goal.com Al-Nassr rue...",
+    "source": "Google News",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONlQwOHhadlYxbXpjanVFaHA4UzlwaldpUm5fV2haQTd3YWNNMG9Kcm95UkFGNGg0RXJHSFhncHpwWmVMVms2a2g1SURkbnlEVFNEZUhUWTM0SmZuclZYU1ZWVnpHVUpfalpWWVBheWNwWHYxQXVrU1pRbnZZQVh6Q21sRTBMUFZkVGxvdTg2eTVXZGdQSy04WHJCT3llRVk?oc=5",
+    "pubDate": "2026-11-20 20:45:00",
+    "category": [
+     "sports"
+    ]
+   },
+   {
+    "title": "‘Women Tearing Other Women Down’: Lydia Ko & LPGA Stars Rally Against Growing Backlash Over Women’s Golf Fashion",
+    "description": "A golf fashion creator called LPGA outfits a “clearance rack.” The players’ response was swift and unified, and it revealed something deeper about the sport. At the center of their pushback was a clear principle:...",
+    "source": "Essentially Sports",
+    "link": "https://www.essentiallysports.com/golf-news-women-tearing-other-women-down-lydia-ko-lpga-stars-rally-against-growing-backlash-over-womens-golf-fashion/",
+    "pubDate": "2026-11-20 20:42:53",
     "category": [
      "sports"
     ]
    }
   ],
-  "entertainment": [
-   {
-    "title": "AVENGERS: DOOMSDAY Momentum Pushes Forecast Models Toward $400M+ Debut; JUMANJI: OPEN WORLD to Lead Christmas Counter-Programmers – Box Office Theory - Box Office Theory",
-    "description": "AVENGERS: DOOMSDAY Momentum Pushes Forecast Models Toward $400M+ Debut; JUMANJI: OPEN WORLD to Lead Christmas Counter-Programmers – Box Office Theory Box Office Theory 'Avengers: Doomsday' tracking USD 375...",
-    "source": "Google News",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcDk4YzJwUzBtOUkzTWNDWXdCU2MyNFBSS0Y0bDl0ZDlGaDN2aVVEY0M4X3NSLWhXMWQ5cGNGUHlVdFE1SEt6SjZfWF9jakdrNWhjUk1vRjU4ZTVMX0tmdFlmNUxUd0lCNGxnMC1Fa1RsQ3gxZ01DYTdqOGZyUEtPSURUNnFTRnd3U2lOWG90b0RJdEZFUjAwWGNIMi1hNGRUcUR3QzI2NmtIYTBrLTNidjJUSTI3TE9ZQ3UxYmhNUDhEVk5xZnN5Mk5uRDM5N2ZJQVprM2RnVEtsLS04XzBOdUk0aWd2T3NSdk9Jdkh2NA?oc=5",
-    "pubDate": "2026-11-20 19:47:54",
-    "category": [
-     "entertainment"
-    ]
-   }
-  ],
-  "tech": [
-   {
-    "title": "What 235 real domains taught us about bulk website technology lookups",
-    "description": "We ran the same 235 domains through StoreTechScan three times. In the first run, 69 were analyzable. In the paced run, 218 were. On a later pass with other changes, coverage dropped to 59. An enrichment job that...",
-    "source": "Dev Community",
-    "link": "https://dev.to/ydev1999/what-235-real-domains-taught-us-about-bulk-website-technology-lookups-10dj",
-    "pubDate": "2026-11-20 19:58:49",
-    "category": [
-     "technology"
-    ]
-   },
-   {
-    "title": "Black Friday streaming deals cut Apple TV to $6.99/mo, Paramount Plus to $2.99/mo",
-    "description": "Black Friday deals are cutting streaming costs by more than 50%, with Apple TV, Paramount+, and other popular services offering steep discounts for new and eligible returning subscribers. Apple TV The discounts are...",
-    "source": "Apple Insider",
-    "link": "https://appleinsider.com/articles/26/11/20/black-friday-streaming-deals-cut-apple-tv-to-699mo-paramount-plus-to-299mo",
-    "pubDate": "2026-11-20 19:58:08",
-    "category": [
-     "technology"
-    ]
-   },
-   {
-    "title": "Googlebook Dock and Monitor Guide: What You Can Keep and What to Check Before You Buy",
-    "description": "Compare video ports on five Googlebooks, learn what Google confirms about dual monitors and closed-lid use, and see what to test before replacing your dock. The post Googlebook Dock and Monitor Guide: What You Can...",
-    "source": "Techrepublic",
-    "link": "https://www.techrepublic.com/article/news-googlebook-dock-monitor-guide/",
-    "pubDate": "2026-11-20 19:57:54",
-    "category": [
-     "technology"
-    ]
-   },
-   {
-    "title": "Iraqi Airways attempts again to sell 747s stored in Tunisia",
-    "description": "Carrier issues formal notification in bid to offload pair of parked widebodies. Iraqi Airways is again attempting to sell a pair of Boeing 747s which have long been stored at the Tunisian airport of Tozeur-Nefta. The...",
-    "source": "Flightglobal",
-    "link": "https://www.flightglobal.com/fleets/2026/11/iraqi-airways-attempts-again-to-sell-747s-stored-in-tunisia/",
-    "pubDate": "2026-11-20 19:57:43",
-    "category": [
-     "technology"
-    ]
-   }
-  ]
+  "entertainment": [],
+  "tech": []
  }
 }

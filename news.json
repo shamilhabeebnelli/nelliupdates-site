@@ -1,98 +1,19 @@
 {
- "fetched_at": "2026-11-22 07:59 UTC",
+ "fetched_at": "2026-11-22 08:59 UTC",
  "groups": {
-  "india": [
+  "india": [],
+  "kerala": [
    {
-    "title": "Karnal: Studies in government schools hit as tutors tied up with non-teaching duties",
-    "description": "Regular studies in government schools are taking a back seat as teachers remain occupied with non-academic duties, leaving little time for classroom teaching. After being engaged in Census and Special Intensive...",
-    "source": "The Tribune India",
-    "link": "https://www.tribuneindia.com/news/haryana/karnal-studies-in-government-schools-hit-as-tutors-tied-up-with-non-teaching-duties",
-    "pubDate": "2026-11-21 19:58:38",
-    "category": [
-     "top",
-     "education"
-    ]
-   },
-   {
-    "title": "Bahraich cops launch Road Safety Wk; over 100 helmetless riders given free helmets",
-    "description": "Bahraich cops launch Road Safety Wk; over 100 helmetless riders given free helmets",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/city/lucknow/bahraich-cops-launch-road-safety-wk-over-100-helmetless-riders-given-free-helmets/articleshow/136062745.cms",
-    "pubDate": "2026-11-21 19:58:30",
-    "category": [
-     "top"
-    ]
-   },
-   {
-    "title": "Opinion | Underground Warfare: Why Militaries Are Preparing To Fight Beneath The Surface",
-    "description": "The main aim is the continuity of the command structure during an attack on surface infrastructure",
-    "source": "News 18",
-    "link": "https://www.news18.com/opinion/opinion-underground-warfare-why-militaries-are-preparing-to-fight-beneath-the-surface-ws-blr-10435748.html",
-    "pubDate": "2026-11-21 19:58:24",
-    "category": [
-     "top",
-     "politics"
-    ]
-   },
-   {
-    "title": "Gita Mahotsav to provide platform for global dialogue, says CM Saini",
-    "description": "Chief Minister Nayab Singh Saini on Saturday said the International Gita Mahotsav (IGM) was not only a celebration of India’s cultural and spiritual heritage but also an important opportunity to strengthen dialogue...",
-    "source": "The Tribune India",
-    "link": "https://www.tribuneindia.com/news/haryana/gita-mahotsav-to-provide-platform-for-global-dialogue-says-cm-saini",
-    "pubDate": "2026-11-21 19:58:03",
-    "category": [
-     "top",
-     "politics",
-     "lifestyle"
-    ]
-   },
-   {
-    "title": "NHPC Signs MoU with NSCI for External Safety Audits of Projects",
-    "description": "NHPC and the National Safety Council of India signed an MoU for external safety audits of all NHPC power stations and projects across the country.",
-    "source": "Psu Connect",
-    "link": "https://www.psuconnect.in/memorandum-of-understanding/nhpc-signs-mou-with-nsci-for-external-safety-audits-of-projects",
-    "pubDate": "2026-11-21 19:58:00",
-    "category": [
-     "top",
-     "business",
-     "technology"
-    ]
-   },
-   {
-    "title": "Leaders demand action over J&K recruitment exam scam",
-    "description": "Political leaders in the Valley have sought stringent action over alleged “recruitment irregularities” in Jammu and Kashmir, expressing concern over the impact of recurring examination scams on aspirants. Recently,...",
-    "source": "The Tribune India",
-    "link": "https://www.tribuneindia.com/news/j-k/leaders-demand-action-over-jk-recruitment-exam-scam",
-    "pubDate": "2026-11-21 19:57:57",
-    "category": [
-     "top",
-     "politics"
-    ]
-   },
-   {
-    "title": "AMRIT Pharmacy aims to ease patients’ financial burden in Yamunanagar, says health official",
-    "description": "Officiating Civil Surgeon Dr Divya Mangla said AMRIT Pharmacy was an initiative of the Ministry of Health and Family Welfare, Government of India, aimed at providing affordable medicines and reliable implants for...",
-    "source": "The Tribune India",
-    "link": "https://www.tribuneindia.com/news/haryana/amrit-pharmacy-aims-to-ease-patients-financial-burden-in-yamunanagar-says-health-official",
-    "pubDate": "2026-11-21 19:57:52",
-    "category": [
-     "top",
-     "health"
-    ]
-   },
-   {
-    "title": "Nvidia Market Cap Drop 35 Percent: Share Slide Knocks Chipmaker Below Alphabet Valuation To Fourth Most Valuable US Company",
-    "description": "A prolonged sell-off in Nvidia shares has pushed the artificial intelligence chipmaker behind Google parent Alphabet in market valuation, dropping it to the fourth most valuable US company for the first time in more...",
-    "source": "The Sunday Guardian",
-    "link": "https://sundayguardianlive.com/business/nvidia-market-cap-drop-35-percent-share-slide-knocks-chipmaker-below-alphabet-valuation-to-fourth-most-valuable-us-company-325630/",
-    "pubDate": "2026-11-21 19:57:16",
+    "title": "KAS to become Kerala Civil Service cadre; more posts to be created",
+    "description": "THIRUVANANTHAPURAM: The Kerala Administrative Service (KAS) will be developed into a Kerala Civil Service cadre by creating more posts in various departments and ensuring administrative experience for its officers.",
+    "source": "Kerala Kaumudi Online",
+    "link": "https://www.keralakaumudi.com/en/kerala/general/kas-to-become-kerala-civil-service-cadre-1828966",
+    "pubDate": "2026-11-21 20:49:30",
     "category": [
      "top",
      "business"
     ]
-   }
-  ],
-  "kerala": [
+   },
    {
     "title": "Attukal Pongala Trust Seeks CBSE Class 10 Exam Rescheduling",
     "description": "Attukal Pongala Trust appeals for the rescheduling of CBSE Class 10 exams due to the massive socio-cultural festival. Read the full update.",
@@ -169,36 +90,35 @@
      "business",
      "domestic"
     ]
-   },
-   {
-    "title": "Andhra Pradesh caps rice prices amid 30% surge, imposes stock limits to curb hoarding",
-    "description": "The restrictions, introduced amid prevailing El Niño conditions and concerns over supplies, will remain in force until Jan 31, 2027",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/city/vijayawada/andhra-pradesh-caps-rice-prices-amid-30-surge-imposes-stock-limits-to-curb-hoarding/articleshow/136062055.cms",
-    "pubDate": "2026-11-21 18:47:45",
-    "category": [
-     "environment",
-     "top"
-    ]
    }
   ],
   "world": [
    {
-    "title": "Waikato crash: SH3 partially closed after vehicle strikes power pole near Ōhaupō",
-    "description": "Police received reports of the single-vehicle collision at about 3.10am.",
-    "source": "Nzherald",
-    "link": "https://www.nzherald.co.nz/nz/waikato-crash-sh3-partially-closed-after-vehicle-strikes-power-pole-near-ohaupo/SS3Y5FN4PFG3TDJO6JLREY5M2E/",
-    "pubDate": "2026-11-21 19:55:54",
+    "title": "Bahrain renews threat alert amid Iranian attacks",
+    "description": "Iran’s Revolutionary Guards claim 2 US Patriot radars at Riffa and Awali destroyed in missile, drone attack",
+    "source": "Anadolu Agency",
+    "link": "https://www.aa.com.tr/en/middle-east/bahrain-renews-threat-alert-amid-iranian-attacks/4133247",
+    "pubDate": "2026-11-21 20:58:33",
     "category": [
      "world"
     ]
    },
    {
-    "title": "‘He is under pressure’: Putin's ‘miscalculation’ could trigger World War III, top UK intelligence official warns",
-    "description": "The UK's defense intelligence chief has warned that Putin could start World War Three by mistake, even though he does not think Russia wants war with Nato.",
-    "source": "Hindustan Times",
-    "link": "https://www.hindustantimes.com/world-news/he-is-under-pressure-putins-miscalculation-could-trigger-world-war-3-top-uk-intelligence-official-warns-101795287411987.html",
-    "pubDate": "2026-11-21 19:55:45",
+    "title": "Katie Price filmed spicy topless vid while handcuffed to MP in wild reality show",
+    "description": "Katie Price allegedly flashed her breasts while handcuffed to Reform UK MP Suella Braverman during filming of Channel 4's Celebrity Handcuffed leaving Braverman shocked",
+    "source": "Dailystar Co Uk",
+    "link": "https://www.dailystar.co.uk/showbiz/katie-price-filmed-spicy-topless-37902584",
+    "pubDate": "2026-11-21 20:57:52",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "Rohingya groups welcome Hague court’s genocide ruling against Myanmar, urge international action",
+    "description": "64 Rohingya organizations demand enforcement of ruling, sanctions, protection of refugees",
+    "source": "Anadolu Agency",
+    "link": "https://www.aa.com.tr/en/asia-pacific/rohingya-groups-welcome-hague-court-s-genocide-ruling-against-myanmar-urge-international-action/4133245",
+    "pubDate": "2026-11-21 20:57:32",
     "category": [
      "world"
     ]
@@ -206,84 +126,54 @@
   ],
   "sports": [
    {
-    "title": "MyVoice: Views of our readers 22nd November 2026",
-    "description": "The demand for multiple NEET-UG attempts and weightage to Class 12 board examination scores are genuine.",
-    "source": "The Hans India",
-    "link": "https://www.thehansindia.com/my-voice/myvoice-views-of-our-readers-22nd-november-2026-1144503",
-    "pubDate": "2026-11-21 19:52:06",
-    "category": [
-     "sports",
-     "top",
-     "education"
-    ]
-   },
-   {
-    "title": "Madan Lal denies discrimination in Mohammed Siraj’s Test exclusion",
-    "description": "Former Indian cricketer Madan Lal rejected allegations that Mohammed Siraj was excluded from the Test side against New Zealand because of religious bias.",
-    "source": "The News Mill",
-    "link": "https://thenewsmill.com/2026/11/madan-lal-denies-discrimination-in-mohammed-sirajs-test-exclusion/",
-    "pubDate": "2026-11-21 19:51:20",
-    "category": [
-     "sports"
-    ]
-   },
-   {
-    "title": "Assam Cricket Association to host Senior Women’s Inter-Zonal T20 2026",
-    "description": "Assam Cricket Association will host the Senior Women’s Inter-Zonal T20 Trophy 2026 in Guwahati from November 24 to December 4, featuring six zonal teams.",
-    "source": "The News Mill",
-    "link": "https://thenewsmill.com/2026/11/assam-cricket-association-to-host-senior-womens-inter-zonal-t20-2026/",
-    "pubDate": "2026-11-21 19:51:05",
-    "category": [
-     "sports"
-    ]
-   },
-   {
-    "title": "India beat South Korea 2–1 for second win at Women’s Asian Trophy",
-    "description": "India beat South Korea 2–1 at the Madhya Pradesh Women’s Asian Champions Trophy Bhopal 2026 for a second straight win, moving level with Japan on six points.",
-    "source": "The News Mill",
-    "link": "https://thenewsmill.com/2026/11/india-beat-south-korea-2-1-for-second-win-at-womens-asian-trophy/",
-    "pubDate": "2026-11-21 19:50:43",
-    "category": [
-     "sports"
-    ]
-   },
-   {
-    "title": "Stasya Pandya wins youth category at FEI Dressage World Challenge 2026",
-    "description": "Stasya Pandya won the youth category at the FEI Dressage World Challenge 2026 with 70.825%, becoming the youngest Indian to achieve the feat.",
-    "source": "The News Mill",
-    "link": "https://thenewsmill.com/2026/11/stasya-pandya-wins-youth-category-at-fei-dressage-world-challenge-2026/",
-    "pubDate": "2026-11-21 19:50:32",
-    "category": [
-     "sports"
-    ]
-   },
-   {
-    "title": "Nowhere to hide: Scandals, sportsmanship and the unsparing eye of the camera",
-    "description": "Nowhere to hide: Scandals and the unsparing camera",
-    "source": "Deccan Herald",
-    "link": "https://www.deccanherald.com/opinion/nowhere-to-hide-scandals-sportsmanship-and-the-unsparing-eye-of-the-camera-4227003",
-    "pubDate": "2026-11-21 19:50:21",
+    "title": "Mushfiqur Rahim Excluded from Second Test Against South Africa",
+    "description": "Bangladesh's Mushfiqur Rahim has been ruled out of the second Test against South Africa due to a groin injury sustained during the first Test. The Bangladesh Cricket Board confirmed that he requires immediate rest...",
+    "source": "Gyanhigyan",
+    "link": "https://gyanhigyan.com/national/mushfiqur-rahim-excluded-from-second-test-against-south/cid19561233.htm",
+    "pubDate": "2026-11-21 20:54:58",
     "category": [
      "sports",
      "top"
     ]
    },
    {
-    "title": "Mets and young center fielder A.J. Ewing agree to $95 million, 8-year contract",
-    "description": "Center fielder A.J. Ewing and the New York Mets have agreed to a $95 million, eight-year contract, a person familiar with the negotiations told The Associated Press on Saturday.",
-    "source": "The Washington Times",
-    "link": "https://www.washingtontimes.com/news/2026/nov/21/mets-young-center-fielder-aj-ewing-agree-95-million-8-year-contract/",
-    "pubDate": "2026-11-21 19:48:50",
+    "title": "FIFA 2026: Argentina Wins, Ticket Prices Rise",
+    "description": "",
+    "source": "Hospitalitynews",
+    "link": "https://hospitalitynews.in/news/fifa-world-cup-2026-argentina-beats-jordan-as-ticket-prices-soar",
+    "pubDate": "2026-11-21 20:54:03",
+    "category": [
+     "sports",
+     "top"
+    ]
+   },
+   {
+    "title": "Arteta sweats on Raya scan, rues missed chances at Newcastle",
+    "description": "NEWCASTLE, England, Nov 21 : Arsenal dropped two points in a 2-2 Premier League draw at Newcastle United on Saturday, and that disappointment may be compounded if goalkeeper David Raya has to miss significant time...",
+    "source": "Channel Newsasia",
+    "link": "https://www.channelnewsasia.com/sport/arteta-sweats-raya-scan-rues-missed-chances-newcastle-6572146",
+    "pubDate": "2026-11-21 20:52:57",
     "category": [
      "sports"
     ]
    },
    {
-    "title": "Bill Belichick’s UNC Joins ACC Rivals in Controversial Push Against Protect College Sports Act – Report",
-    "description": "When the House takes up the Protect College Sports Act in early December, it will be looking at a version that carries changes four ACC schools demanded in writing. One of them is the university Bill Belichick...",
+    "title": "George MacIntyre not playing vs LSU with injury as Faizon Brandon takes over Tennessee QB duties",
+    "description": "Although reports suggested George MacIntyre had been cleared and was expected to be available, the Vols opted for Faizon Brandon at the start.",
+    "source": "Hindustan Times",
+    "link": "https://www.hindustantimes.com/sports/us-sports/george-macintyre-not-playing-vs-lsu-with-injury-as-faizon-brandon-takes-over-tennessee-qb-duties-101795293153279.html",
+    "pubDate": "2026-11-21 20:51:38",
+    "category": [
+     "sports",
+     "top"
+    ]
+   },
+   {
+    "title": "Cameras Catch Grambling Star Shoving Standing Opponent to the Floor in Costly Flagrant 2",
+    "description": "Even a fraction of a second can change the fate of a close basketball game, and the Grambling-Southern Miss contest on Thursday taught that big lesson to Grambling. You have to see it to believe what happened at...",
     "source": "Essentially Sports",
-    "link": "https://www.essentiallysports.com/ncaa-college-football-news-bill-belichick-unc-joins-acc-rivals-in-controversial-push-against-protect-college-sports-act-report/",
-    "pubDate": "2026-11-21 19:47:50",
+    "link": "https://www.essentiallysports.com/ncaa-college-basketball-news-cameras-catch-grambling-star-shoving-standing-opponent-to-the-floor-in-costly-flagrant-2/",
+    "pubDate": "2026-11-21 20:50:51",
     "category": [
      "sports"
     ]
@@ -291,11 +181,31 @@
   ],
   "entertainment": [
    {
-    "title": "Khushi Kapoor's coral blush and Mrunal Thakur's smoky brown eyes were the highlights of this week's best beauty looks",
-    "description": "From voluminous blowouts to softly smoked eyes, this week was all about understated glamour",
-    "source": "Vogue",
-    "link": "https://www.vogue.in/content/khushi-kapoors-coral-blush-and-mrunal-thakurs-smoky-brown-eyes-were-the-highlights-of-this-weeks-best-beauty-looks",
-    "pubDate": "2026-11-21 19:51:13",
+    "title": "Audit Kanjurmarg dumping facility to address public grievances of odour, health risks and plastics, Bombay High Court tells monitoring committee",
+    "description": "Bombay High Court orders audit of Mumbai’s Kanjurmarg dumping site to curb odour, health risks and plastic pollution; seeks better segregation, tech upgrades, waste-to-energy.",
+    "source": "The Times Of India",
+    "link": "https://timesofindia.indiatimes.com/city/mumbai/audit-kanjurmarg-dumping-facility-to-address-public-grievances-of-odour-health-risks-and-plastics-bombay-high-court-tells-monitoring-committee/articleshow/136060606.cms",
+    "pubDate": "2026-11-21 20:57:00",
+    "category": [
+     "entertainment"
+    ]
+   },
+   {
+    "title": "Maharashtra Pollution Control Board directs Adani Renewable Energy One to halt excavation, construction work at Sawarghar",
+    "description": "Maharashtra PCB orders Adani Renewable Energy One to halt Sawarghar excavation for 1,500 MW Tarali pumped storage project over missing clearances, non-compliance.",
+    "source": "The Times Of India",
+    "link": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-pollution-control-board-directs-adani-renewable-energy-one-to-halt-excavation-construction-work-at-sawarghar/articleshow/136061327.cms",
+    "pubDate": "2026-11-21 20:57:00",
+    "category": [
+     "entertainment"
+    ]
+   },
+   {
+    "title": "Chasing blood: Mumbai’s annual race when banks run dry is on",
+    "description": "Mumbai faces an annual festive-season blood shortage as public hospital banks run dry, forcing families to travel far and use apps to source units.",
+    "source": "The Times Of India",
+    "link": "https://timesofindia.indiatimes.com/city/mumbai/chasing-blood-mumbais-annual-race-when-banks-run-dry-is-on/articleshow/136060637.cms",
+    "pubDate": "2026-11-21 20:56:00",
     "category": [
      "entertainment"
     ]
@@ -303,51 +213,51 @@
   ],
   "tech": [
    {
-    "title": "PM-to-Engineer Ratio: Typical Ranges, Benchmarks and the AI Shift",
-    "description": "Most software companies run one product manager per 4 to 10 engineers, from about 1:5 at small companies to 1:11 at large ones. Benchmarks by stage, how to calculate yours, and what AI coding tools change. The...",
+    "title": "Before Our Agent Pays, It Phones a Friend - and After It Pays, It Writes Down What Happened",
+    "description": "Canonical post lives at https://agentbadge.xyz/blog/arc-c58-counterparty-trust Before Our Agent Pays, It Phones a Friend - and After It Pays, It Writes Down What Happened Short answer: an AI agent paying for an API...",
     "source": "Dev Community",
-    "link": "https://dev.to/fathy_shalaby/pm-to-engineer-ratio-typical-ranges-benchmarks-and-the-ai-shift-5g2c",
-    "pubDate": "2026-11-21 19:58:48",
+    "link": "https://dev.to/spread2009/before-our-agent-pays-it-phones-a-friend-and-after-it-pays-it-writes-down-what-happened-2loj",
+    "pubDate": "2026-11-21 20:58:27",
     "category": [
      "technology"
     ]
    },
    {
-    "title": "Device Status Freshness: One Channel API Policy for Many IoT Devices",
-    "description": "Treat a device as recently observed only while its server-recorded heartbeat remains within an explicit freshness window, and let dashboard viewers subscribe to aggregated updates on one channel. Short answer:...",
+    "title": "5 mistakes AI coding agents make, and how to catch them before merge",
+    "description": "AI coding agents write code fast. They also make the same handful of mistakes over and over. None of them are exotic, which is exactly why they slip through review: the diff looks plausible, the summary sounds...",
     "source": "Dev Community",
-    "link": "https://dev.to/valtormist7692/device-status-freshness-one-channel-api-policy-for-many-iot-devices-13an",
-    "pubDate": "2026-11-21 19:58:36",
+    "link": "https://dev.to/lean-team-products/5-mistakes-ai-coding-agents-make-and-how-to-catch-them-before-merge-3092",
+    "pubDate": "2026-11-21 20:57:59",
     "category": [
      "technology"
     ]
    },
    {
-    "title": "Parse free-text policy fields without guessing",
-    "description": "A policy sentence can contain a useful number without becoming a structured policy. Consider \"30-day money-back guarantee\" and \"Unused credits refundable within 30 days of purchase\". Both contain a duration. The...",
+    "title": "Azure DevOps Crash Course (Part 1): What Azure DevOps Is and How to Set It Up for Free",
+    "description": "The first time I opened Azure DevOps, I just sat there looking at the left menu. Boards, Repos, Pipelines, Test Plans, Artifacts... where do I even start? I clicked around for a while, created a few things I did not...",
     "source": "Dev Community",
-    "link": "https://dev.to/stagingbench/parse-free-text-policy-fields-without-guessing-566c",
-    "pubDate": "2026-11-21 19:58:36",
+    "link": "https://dev.to/rehana_parveen_1b8844718a/azure-devops-crash-course-part-1-what-azure-devops-is-and-how-to-set-it-up-for-free-3f5e",
+    "pubDate": "2026-11-21 20:57:54",
     "category": [
      "technology"
     ]
    },
    {
-    "title": "Taking a screen break and exploring other things in life that is not a screen",
-    "description": "A fact Screens are such an important part of our lives. Everything you do or about you is on a screen. Personal or work related. My point of view (POV) I am a software engineer but this also relates to other walks of...",
+    "title": "How I Reverse-Engineered 2,193 YouTube Shorts Across 137 Channels to Build an Automated macOS Clipping Engine (STA 6)",
+    "description": "Most clipping channels spend 2–4 hours a day manually scrubbing streamer VODs, guessing which 30-second moment might pop, slapping random subtitles on top, and still getting stuck under 5,000 views. Instead of...",
     "source": "Dev Community",
-    "link": "https://dev.to/rb_cd15b6f28c67/taking-a-screen-break-and-exploring-other-things-in-life-that-is-not-a-screen-5d2p",
-    "pubDate": "2026-11-21 19:58:23",
+    "link": "https://dev.to/hrlpavan/how-i-reverse-engineered-2193-youtube-shorts-across-137-channels-to-build-an-automated-macos-6g",
+    "pubDate": "2026-11-21 20:57:20",
     "category": [
      "technology"
     ]
    },
    {
-    "title": "Keeping a 3B model honest: source-checked song facts for live streams",
-    "description": "BubbleFacts is a free, open-source desktop app for musicians and DJs who stream. While someone plays a song, it shows short facts about that song as bubbles in OBS. The facts are written by a small language model...",
+    "title": "How Podcasters Use AI to Create Multilingual Episodes",
+    "description": "The Rise of AI‑Powered Multilingual Podcasts Podcasting has exploded in popularity, but the real game‑changer is the ability to instantly localize content. Today’s listeners expect fresh episodes in their native...",
     "source": "Dev Community",
-    "link": "https://dev.to/frolicchris/keeping-a-3b-model-honest-source-checked-song-facts-for-live-streams-1564",
-    "pubDate": "2026-11-21 19:58:08",
+    "link": "https://dev.to/voice_developer/how-podcasters-use-ai-to-create-multilingual-episodes-1bl4",
+    "pubDate": "2026-11-21 20:56:16",
     "category": [
      "technology"
     ]

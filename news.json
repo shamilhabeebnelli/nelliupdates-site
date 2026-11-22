@@ -1,8 +1,64 @@
 {
- "fetched_at": "2026-11-22 08:59 UTC",
+ "fetched_at": "2026-11-22 09:59 UTC",
  "groups": {
-  "india": [],
+  "india": [
+   {
+    "title": "Over 10k PG medical seats in blocked category; govt may review float system",
+    "description": "NEW DELHI: More than 10,000 postgraduate medical seats were listed under the blocked category after Round 2 of NEET-PG 2026 counselling, with the data",
+    "source": "The Times Of India",
+    "link": "https://timesofindia.indiatimes.com/india/over-10k-postgraduate-medical-seats-in-blocked-category-govt-may-review-float-system/articleshow/136063107.cms",
+    "pubDate": "2026-11-21 21:58:17",
+    "category": [
+     "top",
+     "health"
+    ]
+   },
+   {
+    "title": "Joly’s Stellantis Gamble Completely Unravels After Both Threats and Bribes Fail",
+    "description": "Order Our Children’s Book English: https://a.co/d/1B1OxUf Order Our Children’s Book French: https://a.co/d/7m2dZQj/ We’re Now … The post Joly’s Stellantis Gamble Completely Unravels After Both Threats and Bribes Fail...",
+    "source": "Cbnc",
+    "link": "https://cbnc.com/jolys-stellantis-gamble-completely-unravels-after-both-threats-and-bribes-fail/",
+    "pubDate": "2026-11-21 21:55:09",
+    "category": [
+     "top",
+     "technology",
+     "entertainment"
+    ]
+   },
+   {
+    "title": "The Snakes & Ladders effect of falls on elderly well-being",
+    "description": "An Indian review of over 14,000 older adults found that nearly one in three had experienced a fall. Globally, falls caused an estimated 842,000 deaths in 2023, over… The post The Snakes & Ladders effect of falls on...",
+    "source": "The Sunday Guardian",
+    "link": "https://sundayguardianlive.com/feature/the-snakes-ladders-effect-of-falls-on-elderly-well-being-325726/",
+    "pubDate": "2026-11-21 21:55:00",
+    "category": [
+     "top",
+     "health"
+    ]
+   },
+   {
+    "title": "Bill Sahuliyat app glitches, consumers aghast",
+    "description": "Smart-meter users unable to check balance KPDCL officials say updating underway Srinagar, Nov 21: Consumers across different parts of Kashmir have complained of facing difficulties as the Bill Sahuliyat application...",
+    "source": "Rising Kashmir",
+    "link": "https://risingkashmir.com/top-stories/bill-sahuliyat-app-glitches-consumers-aghast-12830165",
+    "pubDate": "2026-11-21 21:54:37",
+    "category": [
+     "top",
+     "technology"
+    ]
+   }
+  ],
   "kerala": [
+   {
+    "title": "Rajit Kapur’s ‘Hamsa’: Paradise lost",
+    "description": "He learned kathakali in Kerala, taught children to dance, laugh and play on the meadows of Pahalgam, and brightened up the lives of local tea- stall owners with his ready laugh and antics. Hans Christian Ostro was a...",
+    "source": "The Tribune India",
+    "link": "https://www.tribuneindia.com/news/arts/rajit-kapurs-hamsa-paradise-lost",
+    "pubDate": "2026-11-21 21:33:37",
+    "category": [
+     "entertainment"
+    ]
+   },
    {
     "title": "KAS to become Kerala Civil Service cadre; more posts to be created",
     "description": "THIRUVANANTHAPURAM: The Kerala Administrative Service (KAS) will be developed into a Kerala Civil Service cadre by creating more posts in various departments and ensuring administrative experience for its officers.",
@@ -79,46 +135,26 @@
      "top",
      "entertainment"
     ]
-   },
-   {
-    "title": "Keralam Prepares for Summer Scorcher With MLA-Led Drought Panels",
-    "description": "Keralam government rolls out statutory MLA-led committees to tackle impending summer drought and drinking water crises. Read the economic impact here.",
-    "source": "Growmudra",
-    "link": "https://growmudra.com/news/details/ba0c22ae21290ef88181d910254d9ac8/keralam-prepares-for-summer-scorcher-with-mla-led-drought-panels",
-    "pubDate": "2026-11-21 18:50:27",
-    "category": [
-     "business",
-     "domestic"
-    ]
    }
   ],
   "world": [
    {
-    "title": "Bahrain renews threat alert amid Iranian attacks",
-    "description": "Iran’s Revolutionary Guards claim 2 US Patriot radars at Riffa and Awali destroyed in missile, drone attack",
-    "source": "Anadolu Agency",
-    "link": "https://www.aa.com.tr/en/middle-east/bahrain-renews-threat-alert-amid-iranian-attacks/4133247",
-    "pubDate": "2026-11-21 20:58:33",
+    "title": "Balmy November continues with another warm weekend in Ottawa",
+    "description": "By early afternoon, it was the warmest Nov. 21 in Ottawa in more than 90 years, but even that couldn't steal the thunder of the Help Santa Toy Parade.",
+    "source": "Ottawa Citizen",
+    "link": "https://ottawacitizen.com/news/balmy-november-ottawa",
+    "pubDate": "2026-11-21 21:57:24",
     "category": [
-     "world"
+     "world",
+     "health"
     ]
    },
    {
-    "title": "Katie Price filmed spicy topless vid while handcuffed to MP in wild reality show",
-    "description": "Katie Price allegedly flashed her breasts while handcuffed to Reform UK MP Suella Braverman during filming of Channel 4's Celebrity Handcuffed leaving Braverman shocked",
-    "source": "Dailystar Co Uk",
-    "link": "https://www.dailystar.co.uk/showbiz/katie-price-filmed-spicy-topless-37902584",
-    "pubDate": "2026-11-21 20:57:52",
-    "category": [
-     "world"
-    ]
-   },
-   {
-    "title": "Rohingya groups welcome Hague court’s genocide ruling against Myanmar, urge international action",
-    "description": "64 Rohingya organizations demand enforcement of ruling, sanctions, protection of refugees",
-    "source": "Anadolu Agency",
-    "link": "https://www.aa.com.tr/en/asia-pacific/rohingya-groups-welcome-hague-court-s-genocide-ruling-against-myanmar-urge-international-action/4133245",
-    "pubDate": "2026-11-21 20:57:32",
+    "title": "Saudi airstrikes hit Yemen's Hodeidah amid escalating cross-border attacks",
+    "description": "",
+    "source": "Xinhuanet",
+    "link": "https://english.news.cn/20261122/e873d385a5bb45b8832b89c53cd2ac98/c.html",
+    "pubDate": "2026-11-21 21:49:13",
     "category": [
      "world"
     ]
@@ -126,54 +162,86 @@
   ],
   "sports": [
    {
-    "title": "Mushfiqur Rahim Excluded from Second Test Against South Africa",
-    "description": "Bangladesh's Mushfiqur Rahim has been ruled out of the second Test against South Africa due to a groin injury sustained during the first Test. The Bangladesh Cricket Board confirmed that he requires immediate rest...",
-    "source": "Gyanhigyan",
-    "link": "https://gyanhigyan.com/national/mushfiqur-rahim-excluded-from-second-test-against-south/cid19561233.htm",
-    "pubDate": "2026-11-21 20:54:58",
+    "title": "Serie A: Lazio Extend Lead At Top With 3-0 Win Over Leece, Donyell Malen Scores 4 In Roma's Win",
+    "description": "Gennaro Gattuso's Lazio are two points ahead of their local rivals thanks to goals in each half from Tijjani Noslin and a late Davide Frattesi strike.",
+    "source": "News 18",
+    "link": "https://www.news18.com/sports/football/serie-a-lazio-extend-lead-at-top-with-3-0-win-over-leece-donyell-malen-scores-4-in-romas-win-ws-l-10435783.html",
+    "pubDate": "2026-11-21 21:54:09",
     "category": [
      "sports",
      "top"
     ]
    },
    {
-    "title": "FIFA 2026: Argentina Wins, Ticket Prices Rise",
-    "description": "",
-    "source": "Hospitalitynews",
-    "link": "https://hospitalitynews.in/news/fifa-world-cup-2026-argentina-beats-jordan-as-ticket-prices-soar",
-    "pubDate": "2026-11-21 20:54:03",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "Arteta sweats on Raya scan, rues missed chances at Newcastle",
-    "description": "NEWCASTLE, England, Nov 21 : Arsenal dropped two points in a 2-2 Premier League draw at Newcastle United on Saturday, and that disappointment may be compounded if goalkeeper David Raya has to miss significant time...",
-    "source": "Channel Newsasia",
-    "link": "https://www.channelnewsasia.com/sport/arteta-sweats-raya-scan-rues-missed-chances-newcastle-6572146",
-    "pubDate": "2026-11-21 20:52:57",
+    "title": "Matt Barnes Comes to MiLaysia Fulwiley's Defense After Police Altercation Case Takes Unexpected Turn With Felony Charges Dropped",
+    "description": "Former NBA player Matt Barnes came to MiLaysia Fulwiley's defense on Saturday after the felony charges against her were dropped.",
+    "source": "Sportskeeda",
+    "link": "https://www.sportskeeda.com/us/wnba/news-matt-barnes-comes-milaysia-fulwiley-s-defense-after-police-altercation-case-takes-unexpected-turn-with-felony-charges-dropped",
+    "pubDate": "2026-11-21 21:53:53",
     "category": [
      "sports"
     ]
    },
    {
-    "title": "George MacIntyre not playing vs LSU with injury as Faizon Brandon takes over Tennessee QB duties",
-    "description": "Although reports suggested George MacIntyre had been cleared and was expected to be available, the Vols opted for Faizon Brandon at the start.",
-    "source": "Hindustan Times",
-    "link": "https://www.hindustantimes.com/sports/us-sports/george-macintyre-not-playing-vs-lsu-with-injury-as-faizon-brandon-takes-over-tennessee-qb-duties-101795293153279.html",
-    "pubDate": "2026-11-21 20:51:38",
+    "title": "Six former Iowa State players accuse women’s basketball coach Bill Fennelly of ‘verbal and emotional abuse’ in letter",
+    "description": "Six former Iowa State women’s basketball players have accused Bill Fennelly of verbal, emotional and psychological abuse. They want an independent review of the program and how their complaints were handled. Their...",
+    "source": "The Times Of India",
+    "link": "https://timesofindia.indiatimes.com/sports/international-sports/six-former-iowa-state-players-accuse-womens-basketball-coach-bill-fennelly-of-verbal-and-emotional-abuse-in-letter/articleshow/136062962.cms",
+    "pubDate": "2026-11-21 21:53:16",
     "category": [
      "sports",
      "top"
     ]
    },
    {
-    "title": "Cameras Catch Grambling Star Shoving Standing Opponent to the Floor in Costly Flagrant 2",
-    "description": "Even a fraction of a second can change the fate of a close basketball game, and the Grambling-Southern Miss contest on Thursday taught that big lesson to Grambling. You have to see it to believe what happened at...",
+    "title": "Ex-UFC Champion Aljamain Sterling Blames Judges Being Influenced by Cornermen After Loss at Qatar",
+    "description": "Aljamain Sterling thought he did enough to get his hand raised at UFC Qatar. The judges clearly disagreed, and now the former UFC bantamweight champion is questioning whether something outside the cage may have...",
     "source": "Essentially Sports",
-    "link": "https://www.essentiallysports.com/ncaa-college-basketball-news-cameras-catch-grambling-star-shoving-standing-opponent-to-the-floor-in-costly-flagrant-2/",
-    "pubDate": "2026-11-21 20:50:51",
+    "link": "https://www.essentiallysports.com/ufc-mma-news-ex-ufc-champion-aljamain-sterling-blames-judges-being-influenced-by-cornermen-after-loss-at-qatar/",
+    "pubDate": "2026-11-21 21:52:35",
+    "category": [
+     "sports"
+    ]
+   },
+   {
+    "title": "Torreense vs Benfica Prediction and Betting Tips | November 22nd 2026",
+    "description": "Torreense get their Taça de Portugal title defense underway when they take on Benfica at the Estádio Nacional do Jamor on Sunday.",
+    "source": "Sportskeeda",
+    "link": "https://www.sportskeeda.com/football/torreense-vs-benfica-prediction-betting-tips-november-22nd-2026",
+    "pubDate": "2026-11-21 21:50:40",
+    "category": [
+     "sports"
+    ]
+   },
+   {
+    "title": "Tennis-Alcaraz digs deep to beat Shelton, will face world number one Zverev in final",
+    "description": "Seven-times Grand Slam champion Carlos Alcaraz battled back from a set down to beat American Ben Shelton 3-6 6-3 7-61 in their ATP Finals semi-final to charge into Sundays showcase for the second consecutive year",
+    "source": "Devdiscourse",
+    "link": "https://www.devdiscourse.com/article/international/4010465-tennis-alcaraz-digs-deep-to-beat-shelton-will-face-world-number-one-zverev-in-final",
+    "pubDate": "2026-11-21 21:50:30",
+    "category": [
+     "sports",
+     "top"
+    ]
+   },
+   {
+    "title": "Desire Doue Leaves Pitch In Tears After Knee Injury During PSG's Ligue 1 Match Vs Nice",
+    "description": "Doue went down after twisting awkwardly late in the first half as he tried to control the ball, shortly after scoring to put PSG 2-1 ahead.",
+    "source": "News 18",
+    "link": "https://www.news18.com/sports/football/desire-doue-leaves-pitch-in-tears-after-knee-injury-during-psgs-ligue-1-match-vs-nice-ws-l-10435781.html",
+    "pubDate": "2026-11-21 21:49:10",
+    "category": [
+     "sports",
+     "crime",
+     "top"
+    ]
+   },
+   {
+    "title": "ACC QB Leaves Game With Scary Arm Injury After Collision With Opponent Defender",
+    "description": "Syracuse quarterback Steve Angeli ended his day at Boston College on the sideline with his right arm in a sling. A Boston College defender had just hit him hard, and for a while nobody outside the Syracuse medical...",
+    "source": "Essentially Sports",
+    "link": "https://www.essentiallysports.com/ncaa-college-football-news-acc-qb-leaves-game-with-scary-arm-injury-after-collision-with-opponent-defender-steve-angeli-malachi-nelson/",
+    "pubDate": "2026-11-21 21:48:41",
     "category": [
      "sports"
     ]
@@ -181,31 +249,21 @@
   ],
   "entertainment": [
    {
-    "title": "Audit Kanjurmarg dumping facility to address public grievances of odour, health risks and plastics, Bombay High Court tells monitoring committee",
-    "description": "Bombay High Court orders audit of Mumbai’s Kanjurmarg dumping site to curb odour, health risks and plastic pollution; seeks better segregation, tech upgrades, waste-to-energy.",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/city/mumbai/audit-kanjurmarg-dumping-facility-to-address-public-grievances-of-odour-health-risks-and-plastics-bombay-high-court-tells-monitoring-committee/articleshow/136060606.cms",
-    "pubDate": "2026-11-21 20:57:00",
+    "title": "Rajit Kapur’s ‘Hamsa’: Paradise lost",
+    "description": "He learned kathakali in Kerala, taught children to dance, laugh and play on the meadows of Pahalgam, and brightened up the lives of local tea- stall owners with his ready laugh and antics. Hans Christian Ostro was a...",
+    "source": "The Tribune India",
+    "link": "https://www.tribuneindia.com/news/arts/rajit-kapurs-hamsa-paradise-lost",
+    "pubDate": "2026-11-21 21:33:37",
     "category": [
      "entertainment"
     ]
    },
    {
-    "title": "Maharashtra Pollution Control Board directs Adani Renewable Energy One to halt excavation, construction work at Sawarghar",
-    "description": "Maharashtra PCB orders Adani Renewable Energy One to halt Sawarghar excavation for 1,500 MW Tarali pumped storage project over missing clearances, non-compliance.",
+    "title": "'Gone Girl' to 'The Sixth Sense': 7 Hollywood suspense thrillers that are worth watching",
+    "description": "You know those films where you keep telling yourself you'll watch just another 10 minutes, but somehow end up sitting through the entire thing? That's usually a sign of a really good thriller. The best ones make you...",
     "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-pollution-control-board-directs-adani-renewable-energy-one-to-halt-excavation-construction-work-at-sawarghar/articleshow/136061327.cms",
-    "pubDate": "2026-11-21 20:57:00",
-    "category": [
-     "entertainment"
-    ]
-   },
-   {
-    "title": "Chasing blood: Mumbai’s annual race when banks run dry is on",
-    "description": "Mumbai faces an annual festive-season blood shortage as public hospital banks run dry, forcing families to travel far and use apps to source units.",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/city/mumbai/chasing-blood-mumbais-annual-race-when-banks-run-dry-is-on/articleshow/136060637.cms",
-    "pubDate": "2026-11-21 20:56:00",
+    "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/gone-girl-to-the-sixth-sense-7-hollywood-suspense-thrillers-that-are-worth-watching/photostory/136056409.cms",
+    "pubDate": "2026-11-21 21:30:00",
     "category": [
      "entertainment"
     ]
@@ -213,51 +271,51 @@
   ],
   "tech": [
    {
-    "title": "Before Our Agent Pays, It Phones a Friend - and After It Pays, It Writes Down What Happened",
-    "description": "Canonical post lives at https://agentbadge.xyz/blog/arc-c58-counterparty-trust Before Our Agent Pays, It Phones a Friend - and After It Pays, It Writes Down What Happened Short answer: an AI agent paying for an API...",
+    "title": "Upbeat: a choir that comes in on your breath",
+    "description": "This is a submission for the Presage SmartSpectra SDK Challenge What I Built Upbeat is a practice room for conductors, choir directors and chamber-group leaders, where a virtual choir comes in on your breath, at the...",
     "source": "Dev Community",
-    "link": "https://dev.to/spread2009/before-our-agent-pays-it-phones-a-friend-and-after-it-pays-it-writes-down-what-happened-2loj",
-    "pubDate": "2026-11-21 20:58:27",
+    "link": "https://dev.to/faris-khan/upbeat-a-choir-that-comes-in-on-your-breath-2b24",
+    "pubDate": "2026-11-21 21:58:58",
     "category": [
      "technology"
     ]
    },
    {
-    "title": "5 mistakes AI coding agents make, and how to catch them before merge",
-    "description": "AI coding agents write code fast. They also make the same handful of mistakes over and over. None of them are exotic, which is exactly why they slip through review: the diff looks plausible, the summary sounds...",
-    "source": "Dev Community",
-    "link": "https://dev.to/lean-team-products/5-mistakes-ai-coding-agents-make-and-how-to-catch-them-before-merge-3092",
-    "pubDate": "2026-11-21 20:57:59",
+    "title": "“It is a rollercoaster ride”: Angie Jones of the Agentic AI Foundation on keeping up with AI agents",
+    "description": "Only a few years ago, it would have been impossible to picture this scenario: A lead developer once gave 10 The post “It is a rollercoaster ride”: Angie Jones of the Agentic AI Foundation on keeping up with AI agents...",
+    "source": "The New Stack",
+    "link": "https://thenewstack.io/junior-developers-ai-agents-block/",
+    "pubDate": "2026-11-21 21:58:14",
     "category": [
      "technology"
     ]
    },
    {
-    "title": "Azure DevOps Crash Course (Part 1): What Azure DevOps Is and How to Set It Up for Free",
-    "description": "The first time I opened Azure DevOps, I just sat there looking at the left menu. Boards, Repos, Pipelines, Test Plans, Artifacts... where do I even start? I clicked around for a while, created a few things I did not...",
+    "title": "Anthropic's $81.3 Billion IPO Tests Its Safety Promise and Compute Bet",
+    "description": "Anthropic's $81.3 Billion IPO Tests Its Safety Promise and Compute Bet An $81.3 billion IPO, a $1.5 trillion valuation, and a safety mission now answerable to the public market. Anthropic just proved investors will...",
     "source": "Dev Community",
-    "link": "https://dev.to/rehana_parveen_1b8844718a/azure-devops-crash-course-part-1-what-azure-devops-is-and-how-to-set-it-up-for-free-3f5e",
-    "pubDate": "2026-11-21 20:57:54",
+    "link": "https://dev.to/kami_butt_69b922ade8de012/anthropics-813-billion-ipo-tests-its-safety-promise-and-compute-bet-31cm",
+    "pubDate": "2026-11-21 21:56:48",
     "category": [
      "technology"
     ]
    },
    {
-    "title": "How I Reverse-Engineered 2,193 YouTube Shorts Across 137 Channels to Build an Automated macOS Clipping Engine (STA 6)",
-    "description": "Most clipping channels spend 2–4 hours a day manually scrubbing streamer VODs, guessing which 30-second moment might pop, slapping random subtitles on top, and still getting stuck under 5,000 views. Instead of...",
+    "title": "TI-84 ERR:DIM MISMATCH? The Sizes Don't Line Up (3 Causes & Fixes)",
+    "description": "Your lists or matrices don't fit the operation you're asking for. Here's how to find which one is the wrong size — and fix it in under a minute. Your TI-84 just stopped you with ERR:DIM MISMATCH. Nothing is broken...",
     "source": "Dev Community",
-    "link": "https://dev.to/hrlpavan/how-i-reverse-engineered-2193-youtube-shorts-across-137-channels-to-build-an-automated-macos-6g",
-    "pubDate": "2026-11-21 20:57:20",
+    "link": "https://dev.to/freeti84calculator/ti-84-errdim-mismatch-the-sizes-dont-line-up-3-causes-fixes-3flm",
+    "pubDate": "2026-11-21 21:54:40",
     "category": [
      "technology"
     ]
    },
    {
-    "title": "How Podcasters Use AI to Create Multilingual Episodes",
-    "description": "The Rise of AI‑Powered Multilingual Podcasts Podcasting has exploded in popularity, but the real game‑changer is the ability to instantly localize content. Today’s listeners expect fresh episodes in their native...",
+    "title": "I Built an AI Safety Layer on a 4GB Phone",
+    "description": "Built by a broke travel agent on a Motorola with 4GB of RAM, for about $115 in total investment. No lab, no funding, no team — just a library chair and the conviction that AI needs a governor. If it can be built on...",
     "source": "Dev Community",
-    "link": "https://dev.to/voice_developer/how-podcasters-use-ai-to-create-multilingual-episodes-1bl4",
-    "pubDate": "2026-11-21 20:56:16",
+    "link": "https://dev.to/jon_dean-213/i-built-an-ai-safety-layer-on-a-4gb-phone-1cg2",
+    "pubDate": "2026-11-21 21:54:23",
     "category": [
      "technology"
     ]

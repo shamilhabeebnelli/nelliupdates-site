@@ -1,150 +1,203 @@
 {
- "fetched_at": "2026-11-22 00:58 UTC",
+ "fetched_at": "2026-11-22 01:59 UTC",
  "groups": {
   "india": [
    {
-    "title": "NHAI to standardise underpass and box culvert designs to cut costs, speed up projects",
-    "description": "The Authority has already started working on the evolution of standard designs and drawings, for which it may rope in a private consultant.",
-    "source": "The New Indian Express",
-    "link": "https://www.newindianexpress.com/india/2026/Nov/21/nhai-to-standardise-underpass-and-box-culvert-designs-to-cut-costs-speed-up-projects",
-    "pubDate": "2026-11-21 12:57:40",
+    "title": "Karthigai Deepam lamp lighting row: Tamil Nadu to take a call on Supreme Court order by Nov 21",
+    "description": "Law Minister C T R Nirmal Kumar told reporters, on Saturday, that the government was consulting legal experts on the sensitive issue.",
+    "source": "Deccan Herald",
+    "link": "https://www.deccanherald.com/india/tamil-nadu/karthigai-deepam-lamp-lighting-row-tamil-nadu-to-take-a-call-on-supreme-court-order-by-nov-21-4226742",
+    "pubDate": "2026-11-21 13:58:53",
+    "category": [
+     "top",
+     "politics"
+    ]
+   },
+   {
+    "title": "India targets $1 trillion bioeconomy by 2047: Minister",
+    "description": "New Delhi: India is aiming to expand its bioeconomy to $300 billion by 2030 and further to $1 trillion by 2047, Union Minister Dr. Jitendra Singh said on Saturday, calling for greater focus on scientific innovation,...",
+    "source": "Sambad English",
+    "link": "https://sambadenglish.com/economy/india-targets-1-trillion-bioeconomy-by-2047-minister-12829723",
+    "pubDate": "2026-11-21 13:58:49",
+    "category": [
+     "top",
+     "science",
+     "business"
+    ]
+   },
+   {
+    "title": "Tripura to deploy 39 security force companies for November 27 civic polls",
+    "description": "Agartala, Nov 21 : Tripura will deploy 39 companies of Central Armed Police Forces (CAPF) across 16 urban local bodies for the November 27 civic elections, with 25 additional CRPF companies sanctioned by the Union...",
+    "source": "Neindia",
+    "link": "https://neindia.com/tripura-to-deploy-39-security-force-companies-for-november-27-civic-polls/",
+    "pubDate": "2026-11-21 13:58:43",
+    "category": [
+     "top",
+     "politics"
+    ]
+   },
+   {
+    "title": "IIT Delhi graduate reveals how a Rs 1 crore debt helped him land a Google job and build Rs 2 crore business simultaneously: 'It took 100 hours a week...'",
+    "description": "An IIT Delhi alumnus assumed responsibility for his family's financial troubles after uncovering debts surpassing ₹1 crore. Despite recruitment setbacks, he obtained a position at Google and launched a mobile gaming...",
+    "source": "The Economic Times",
+    "link": "https://economictimes.indiatimes.com/magazines/panache/iit-delhi-graduate-reveals-how-a-rs-1-crore-debt-helped-him-land-a-google-job-and-build-rs-2-crore-business-simultaneously-it-took-100-hours-a-week-/articleshow/136055871.cms",
+    "pubDate": "2026-11-21 13:58:34",
+    "category": [
+     "top",
+     "business"
+    ]
+   },
+   {
+    "title": "Parel Marian Pilgrimage Centre in Keralam’s Kottayam declared basilica amid large gathering",
+    "description": "Parel Marian Pilgrimage Centre is declared a basilica, the second in the Changanassery Archdiocese, amid a large faithful gathering.",
+    "source": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/parel-marian-pilgrimage-centre-in-keralams-kottayam-declared-basilica-amid-large-gathering/article71728497.ece",
+    "pubDate": "2026-11-21 13:58:20",
+    "category": [
+     "top",
+     "lifestyle"
+    ]
+   }
+  ],
+  "kerala": [
+   {
+    "title": "School students from Wayanad, Kozhikode attend IIM-K workshop on disaster preparedness",
+    "description": "120 students from Kozhikode and Wayanad complete IIM-K workshop on climate risks, disaster preparedness, and community resilience.",
+    "source": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/school-students-from-wayanad-kozhikode-attend-iim-k-workshop-on-disaster-preparedness/article71728398.ece",
+    "pubDate": "2026-11-21 13:54:40",
+    "category": [
+     "environment",
+     "top"
+    ]
+   },
+   {
+    "title": "Anirudh Ravichander And Kavya Maran Bring Royal Elegance In Red And Black At Chennai Wedding Reception",
+    "description": "Anirudh Ravichander and Kavya Maran exuded royal elegance in red and black at their reception.",
+    "source": "Ndtv",
+    "link": "https://www.ndtv.com/lifestyle/anirudh-ravichander-and-kavya-maran-bring-royal-elegance-in-red-and-black-at-chennai-wedding-reception-12358538",
+    "pubDate": "2026-11-21 13:54:28",
+    "category": [
+     "top",
+     "lifestyle",
+     "entertainment"
+    ]
+   },
+   {
+    "title": "Author Ravi Hanj detained at Cochin Airport",
+    "description": "BENGALURU/KOCHI: Non-Resident Indian author Ravi Hanj was detained by security officials at Cochin International Airport in Kerala on Saturday while attempting to fly abroad, acting on a Look Out Circular issued by...",
+    "source": "Ibcworldnews",
+    "link": "https://www.ibcworldnews.com/news/author-ravi-hanj-detained-at-cochin-airport",
+    "pubDate": "2026-11-21 13:51:44",
+    "category": [
+     "crime",
+     "politics",
+     "top"
+    ]
+   },
+   {
+    "title": "NorthEast United vs FC Goa LIVE SCORE — Viadero eyes first win as Gaurs’ coach; ISL 2026-27 updates",
+    "description": "NEUFC vs FCG — Enjoy the live updates, score and highlights of the Indian Super League 2026-27 match between NorthEast United FC and FC Goa on November 21.",
+    "source": "Sport Star The Hindu",
+    "link": "https://sportstar.thehindu.com/football/indian-football/northeast-united-fc-vs-fc-goa-live-score-isl-2026-27-indian-super-league-neufc-v-fcg-goals-highlights/article71728632.ece",
+    "pubDate": "2026-11-21 13:51:27",
+    "category": [
+     "sports"
+    ]
+   },
+   {
+    "title": "AI cameras, thermal drone to track elephant movement in Keralam’s Vadasserikkara",
+    "description": "Kerala plan uses AI cameras, thermal drone, seismic sensors and multi-department coordination to curb recurring elephant incursions in Vadasserikkara.",
+    "source": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/ai-cameras-thermal-drone-to-track-elephant-movement-in-keralams-vadasserikkara/article71728555.ece",
+    "pubDate": "2026-11-21 13:46:14",
     "category": [
      "top",
      "technology"
     ]
    },
    {
-    "title": "Nvidia HR flagged ‘Huang’s abusive treatment’; employee was fired: Report",
-    "description": "Two former Nvidia executives reportedly raised complaints about Jensen Huang's alleged treatment of employees nearly two decades ago.",
-    "source": "Financial Express , Read To Lead",
-    "link": "https://www.financialexpress.com/world-news/nvidia-hr-flagged-huangs-abusive-treatment-employee-was-fired-report/4390665/",
-    "pubDate": "2026-11-21 12:57:35",
+    "title": "Kerala Pooja Bumper BR-112 Lottery Result for Rs 12 Cr: Draw Date, Time, Full Prize List, Ticket Price & All",
+    "description": "Kerala Pooja Bumper BR-112 Lottery Result for Rs 12 Cr: Draw Date, Time, Full Prize List, Ticket Price & All",
+    "source": "Goodreturns",
+    "link": "https://www.goodreturns.in/personal-finance/kerala-pooja-bumper-br-112-lottery-result-for-rs-12-cr-draw-date-time-full-prize-list-ticket-pri-1548765.html",
+    "pubDate": "2026-11-21 13:36:04",
     "category": [
      "top",
-     "business"
-    ]
-   },
-   {
-    "title": "Nitish Setu Inauguration: PM Modi Waves Gamcha, Revives Memories Of NDA’s 2025 Victory | News18",
-    "description": "Prime Minister Narendra Modi waved a traditional gamcha during his visit to Vaishali, Bihar, today, as he inaugurated the six-lane Nitish Setu bridge over the Ganga River. The gesture caught attention as it appeared...",
-    "source": "News 18",
-    "link": "https://www.news18.com/videos/breaking-news/nitish-setu-inauguration-pm-modi-waves-gamcha-revives-memories-of-nda-s-2025-victory-news18-10435561.html",
-    "pubDate": "2026-11-21 12:57:11",
-    "category": [
-     "top",
-     "politics",
-     "lifestyle"
-    ]
-   },
-   {
-    "title": "VHP Outraged Over Ramayana Film’s Fabricated Narrative, Demands Ban",
-    "description": "VHP objects to the film’s alleged distortion of the Ramayana. Bajrang Bagda questions the portrayal of Lord Ram and Ravana. Organisation flags omission of key episodes and characters. VHP demands cancellation of the...",
-    "source": "Global Governanace News",
-    "link": "https://globalgovernancenews.com/vhp-outraged-over-ramayana-films-fabricated-narrative-demands-ban/",
-    "pubDate": "2026-11-21 12:57:07",
-    "category": [
-     "top",
-     "politics",
+     "business",
      "entertainment"
     ]
-   }
-  ],
-  "kerala": [
+   },
    {
-    "title": "India administers over 1 crore HPV vaccine doses in less than nine months",
-    "description": "The milestone represents nearly 87% of the annual target cohort of approximately 1.2 crore 14-year-old girls, based on the Registrar General of India’s 2021 population estimates",
-    "source": "The Hindu - Business Line",
-    "link": "https://www.thehindubusinessline.com/news/national/india-administers-over-1-crore-hpv-vaccine-doses-in-less-than-nine-months/article71728245.ece",
-    "pubDate": "2026-11-21 12:56:52",
+    "title": "CPI M Demands Census Delimitation Delay Amid Political Tensions in KE",
+    "description": "CPI(M) leader MA Baby demands a 25-year pause on census-related delimitation, citing lack of transparency. Simultaneously, Kerala politics faces volatility with shifts involving Padmaja Venugopal and former BJP...",
+    "source": "Asianet Newsable",
+    "link": "https://newsable.asianetnews.com/india/cpi-m-demands-census-delimitation-delay-amid-political-tensions-in-ke-articleshow-5muvuls",
+    "pubDate": "2026-11-21 13:30:07",
     "category": [
      "top",
-     "health"
+     "politics"
     ]
    },
    {
-    "title": "Evening newswrap: BJP targets Rahul as Trump hails India's GDP growth; PM Modi recreates 'gamcha' wave in Bihar and more",
-    "description": "Donald Trump lauded India's remarkable 7 percent GDP growth recently, allowing the BJP to take jabs at Rahul Gandhi. Meanwhile, PM Narendra Modi unveiled the Nitish Setu in Bihar, evoking memories of past election...",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/india/evening-newswrap-bjp-targets-rahul-as-trump-hails-indias-gdp-growth-pm-modi-recreates-gamcha-wave-in-bihar-and-more/articleshow/136054621.cms",
-    "pubDate": "2026-11-21 12:56:12",
-    "category": [
-     "top",
-     "business"
-    ]
-   },
-   {
-    "title": "Sabarimala Virtual Queue Scam: Bulk Bookings, Coupon Resale By Travel Agencies Behind Low Pilgrim Turnout",
-    "description": "An investigation into low turnout at Sabarimala temple has revealed suspected bulk bookings and resale of Virtual Queue coupons by travel agencies from other states.",
-    "source": "Etv Bharat",
-    "link": "https://www.etvbharat.com/en/bharat/sabarimala-temple-virtual-queue-scam-probe-reveals-bulk-bookings-coupon-resale-behind-low-pilgrim-turnout-enn26112104059",
-    "pubDate": "2026-11-21 12:53:54",
-    "category": [
-     "politics",
-     "business"
-    ]
-   },
-   {
-    "title": "Rape, forced abortion, criminal intimidation: SIT readies draft charge-sheets against Rahul Mamkootathil",
-    "description": "Kerala Police's SIT has finalised draft chargesheets in two sexual assault cases against former Congress leader Rahul Mamkootathil, invoking charges of rape, forced abortion, and cheating ahead of a planned...",
-    "source": "Mathrubhumi English",
-    "link": "https://english.mathrubhumi.com/news/crime/rape-forced-abortion-criminal-intimidation-sit-readies-draft-charge-sheets-against-rahul-mamkootathil-xbjmfyee",
-    "pubDate": "2026-11-21 12:53:21",
+    "title": "Kerala Police Follows MDMA Money Trail, Nabs Nigerian Man, Wife",
+    "description": "The arrested have been identified as Ikechukwu Paul Ogbonna, a Nigerian national, and his wife Aarthi",
+    "source": "Deccan Chronicle",
+    "link": "https://www.deccanchronicle.com/southern-states/kerala/kerala-police-follows-mdma-money-trail-nabs-nigerian-man-wife-2006637",
+    "pubDate": "2026-11-21 13:25:24",
     "category": [
      "crime",
-     "top"
-    ]
-   },
-   {
-    "title": "Padmaja Venugopal Apologizes to Congress Workers Amidst Return Bid, Faces Internal Resistance",
-    "description": "Padmaja Venugopal Apologizes to Congress Workers Amidst Return Bid, Faces Internal Resistance - Thiruvananthapuram, November 21: Padmaja Venugopal, daughter of former Kerala Chief Minister K. Karunakaran, has issued...",
-    "source": "Lokmat Times",
-    "link": "https://www.lokmattimes.com/national/padmaja-venugopal-apologizes-to-congress-workers-amidst-return-bid-faces-internal-resistance-a001-w02/",
-    "pubDate": "2026-11-21 12:50:23",
-    "category": [
-     "domestic"
-    ]
-   },
-   {
-    "title": "MPPSC Reveals Complete Schedule For State Service Exams Of 2027",
-    "description": "The MPPSC State Service main exams are scheduled for May and August and candidates preparing for recruitment will have two examination cycles",
-    "source": "Ndtv",
-    "link": "https://www.ndtvprofit.com/education/mppsc-reveals-complete-list-of-state-service-exams-schedule-for-2027-12358962",
-    "pubDate": "2026-11-21 12:49:46",
-    "category": [
-     "top",
-     "education"
-    ]
-   },
-   {
-    "title": "Mangaluru medical student traced to Kerala, refuses to return home",
-    "description": "A medical student allegedly abducted from a Mangaluru college campus has told the Konaje police that she does not wish to return to her family. Traced to Kerala, she is a legal adult, and police are investigating the...",
-    "source": "Telangana Today",
-    "link": "https://telanganatoday.com/mangaluru-medical-student-traced-to-kerala-refuses-to-return-home",
-    "pubDate": "2026-11-21 12:49:21",
-    "category": [
-     "crime",
-     "politics",
      "top"
     ]
    }
   ],
   "world": [
    {
-    "title": "Princess Kate describes three big changes she faced after cancer fight",
-    "description": "The Princess of Wales has shared the deeply personal insight into the terrifying diagnosis as part of a new documentary being aired soon.",
-    "source": "Dailystar Co Uk",
-    "link": "https://www.dailystar.co.uk/news/latest-news/princess-kate-describes-three-big-37901947",
-    "pubDate": "2026-11-21 12:56:14",
+    "title": "Hainan gibbon population recovery highlights China's progress in tropical rainforest conservation",
+    "description": "HAIKOU, Nov. 21 (Xinhua) -- For Alexandra Ogden, visiting Hainan's tropical rainforests was a sharp departure from the island's typical beach scenery, and a first-hand look at a conservation story she was especially...",
+    "source": "China National News",
+    "link": "http://www.chinanationalnews.com/news/279447201/hainan-gibbon-population-recovery-highlights-china-progress-in-tropical-rainforest-conservation",
+    "pubDate": "2026-11-21 13:58:34",
     "category": [
      "world"
     ]
    },
    {
-    "title": "Putin’s National Guard division near Moscow gets heavy armor",
-    "description": "Russia’s National Guard, a force that answers directly to Vladimir Putin, has handed tanks to its best-known division outside Moscow. Rosgvardia said Friday that the Dzerzhinsky Division had received more than 220...",
-    "source": "Defence Blog",
-    "link": "https://defence-blog.com/putins-national-guard-division-near-moscow-gets-heavy-armor/",
-    "pubDate": "2026-11-21 12:51:40",
+    "title": "Christian nationalists eye MAGA’s crown after Republican midterm rout",
+    "description": "They are pushing a theocratic US that will bar women and religious minorities from voting.",
+    "source": "Straitstimes",
+    "link": "https://www.straitstimes.com/world/united-states/christian-nationalists-eye-magas-crown-after-republican-midterm-rout",
+    "pubDate": "2026-11-21 13:58:19",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "Ebola’s Death Toll Tops 5,700. Can the Outbreak Be Contained?",
+    "description": "Ebola is spreading faster than Congo’s health workers can respond. To save lives, they need stronger frontline clinics, community trust, and a vaccine.",
+    "source": "Time",
+    "link": "https://time.com/article/2026/11/21/ebola-s-death-toll-tops-5-700-can-the-outbreak-be-contained-/",
+    "pubDate": "2026-11-21 13:56:46",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "Israeli strike kills three in vehicle distributing aid in Gaza, witnesses say",
+    "description": "JERUSALEM, Nov 21 - An Israeli strike killed three Palestinians in a vehicle carrying papers and food for the World Central Kitchen charity in Gaza City on Saturday, according to Gaza's health ministry and eyewitnesses.",
+    "source": "Straitstimes",
+    "link": "https://www.straitstimes.com/world/middle-east/israeli-strike-kills-three-in-vehicle-distributing-aid-in-gaza-witnesses-say",
+    "pubDate": "2026-11-21 13:55:44",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "Israeli forces assassinate three Palestinians who were distributing food in Gaza",
+    "description": "",
+    "source": "Middle East Monitor",
+    "link": "https://www.middleeastmonitor.com/20261121-israeli-forces-assassinated-three-palestinians-who-were-distributing-food-in-gaza/",
+    "pubDate": "2026-11-21 13:55:40",
     "category": [
      "world"
     ]
@@ -152,130 +205,133 @@
   ],
   "sports": [
    {
-    "title": "‘Class player’: David Miller, Heinrich Klaasen pay tribute to the ‘finisher’ MS Dhoni",
-    "description": "David Miller and Heinrich Klaasen pay tribute to MS Dhoni, reflecting on the legendary Indian cricketer’s remarkable career and his reputation as one of the greatest finishers in the game. The Gulf Giants stars hail...",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/short-videos/briefs/class-player-david-miller-heinrich-klaasen-pay-tribute-to-the-finisher-ms-dhoni/videoshow/136054887.cms",
-    "pubDate": "2026-11-21 12:57:06",
+    "title": "Chelsea vs Leeds Live Streaming: Kick-Off Time, Team News, Prediction And Where To Watch Premier League 2026-27 Match",
+    "description": "Chelsea welcome Leeds United to Stamford Bridge as they look to strengthen their top-four hopes and recover from recent dropped points. Leeds will aim to capitalise on Chelsea’s inconsistency, with both sides seeking...",
+    "source": "The Sunday Guardian",
+    "link": "https://sundayguardianlive.com/sports/chelsea-vs-leeds-live-streaming-kick-off-time-team-news-prediction-and-where-to-watch-premier-league-2026-27-match-325531/",
+    "pubDate": "2026-11-21 13:58:21",
+    "category": [
+     "sports",
+     "top",
+     "entertainment"
+    ]
+   },
+   {
+    "title": "Khaled backs Bangladesh to bounce back after Johannesburg defeat",
+    "description": "With Hasan Mahmud ruled out, Bangladesh are looking to regroup and address their bowling shortcomings ahead of the second Test",
+    "source": "Cricbuzz",
+    "link": "https://www.cricbuzz.com/cricket-news/141007/bangladesh-tour-of-south-africa-2026-khaled-ahmed-backs-bangladesh-to-bounce-back-after-johannesburg-defeat",
+    "pubDate": "2026-11-21 13:58:09",
     "category": [
      "sports",
      "top"
     ]
    },
    {
-    "title": "Jose Mourinho makes decision on Real Madrid star amid rumours of January exit - Reports",
-    "description": "Real Madrid manager Jose Mourinho will reportedly not stop Endrick if the Brazilian decides to leave. The young striker is open to a move as he seeks more game time.",
+    "title": "Who Said What: Top 3 expert reactions to KL Rahul's gritty 136 in NZ vs IND 2026 1st Test ft. Ajay Jadeja",
+    "description": "KL Rahul's first Test innings in New Zealand ran to 290 balls and ended when a wide Nathan Smith delivery took the bottom of his glove and rolled onto the stumps.",
     "source": "Sportskeeda",
-    "link": "https://www.sportskeeda.com/football/rumor-jose-mourinho-makes-decision-real-madrid-star-amid-rumours-january-exit-reports",
-    "pubDate": "2026-11-21 12:56:58",
+    "link": "https://www.sportskeeda.com/cricket/who-said-what-top-3-expert-reactions-kl-rahul-s-gritty-136-nz-vs-ind-2026-1st-test-ft-ajay-jadeja",
+    "pubDate": "2026-11-21 13:57:27",
     "category": [
      "sports"
     ]
    },
    {
-    "title": "How India batters gave complete control on Day 3",
-    "description": "India’s batters took charge on Day 3, dominating the proceedings and putting the team in complete control. Here’s how the Indian batting unit turned the game around with a commanding performance.",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/short-videos/briefs/how-india-batters-gave-complete-control-on-day-3/videoshow/136054851.cms",
-    "pubDate": "2026-11-21 12:56:13",
+    "title": "Alpine skiing-Colturi lands breakthrough World Cup win, delivers Albania's first triumph",
+    "description": "GURGL, Austria, Nov 21 : Lara Colturi finally broke through for the first World Cup victory of her career on Saturday, holding her nerve on the second run down the Kirchenkar course after twice finishing runner-up...",
+    "source": "Channel Newsasia",
+    "link": "https://www.channelnewsasia.com/sport/alpine-skiing-colturi-lands-breakthrough-world-cup-win-delivers-albanias-first-triumph-6571686",
+    "pubDate": "2026-11-21 13:57:26",
     "category": [
-     "sports",
-     "top"
+     "sports"
     ]
    },
    {
-    "title": "AIMIM says Mohammed Siraj’s selection should depend on performance",
-    "description": "AIMIM spokesperson Waris Pathan has questioned Mohammed Siraj’s exclusion from India’s playing XI against New Zealand, saying selection should be based on talent and performance. The remarks follow allegations by...",
-    "source": "Telangana Today",
-    "link": "https://telanganatoday.com/aimim-says-mohammed-sirajs-selection-should-depend-on-performance",
-    "pubDate": "2026-11-21 12:55:53",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "Brentford vs Everton Prediction and Betting Tips | November 23rd 2026",
-    "description": "The Gtech Community Stadium hosts an English Premier League clash between Brentford and Everton on Monday. The encounter is the final game of the 11th matchday in the EPL.",
+    "title": "How to get the secret NOS muscle car and a sawed-off shotgun in GTA 6 ($3000 Cash location)",
+    "description": "Players can get a secret NOS muscle car and a sawed-off shotgun from a gang hideout in GTA 6. Looting the place also grants you an additional $3,000 plus worth of cash and contraband.",
     "source": "Sportskeeda",
-    "link": "https://www.sportskeeda.com/football/brentford-vs-everton-prediction-betting-tips-november-23rd-2026",
-    "pubDate": "2026-11-21 12:55:52",
+    "link": "https://www.sportskeeda.com/gta/how-get-secret-nos-muscle-car-sawed-off-shotgun-gta-6-3000-cash-location",
+    "pubDate": "2026-11-21 13:57:26",
     "category": [
      "sports"
     ]
    },
    {
-    "title": "How Judy Murray helped shape Andy Murray's journey from a young tennis talent into one of Britain's greatest Wimbledon champions through coaching, family support, and early sporting lessons",
-    "description": "Andy Murray’s road to becoming one of Britain’s greatest tennis champions began a long time before his Wimbledon triumphs. He was born in Glasgow, Scotland. His mother, Judy Murray, was also instrumental in his early...",
+    "title": "When are Fortnite Treasure Hours today? (November 21): Timings for all regions and how to get Pirate Shop Token",
+    "description": "Today, on November 21, 2026, players will immerse themselves in two exhilarating Treasure Hours sessions. Starting their adventure with weapons inherited from last week's Captains, the competition intensifies. Expect...",
     "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/sports/international-sports/how-judy-murray-helped-shape-andy-murrays-journey-from-a-young-tennis-talent-into-one-of-britains-greatest-wimbledon-champions-through-coaching-family-support-and-early-sporting-lessons/articleshow/136054767.cms",
-    "pubDate": "2026-11-21 12:55:47",
+    "link": "https://timesofindia.indiatimes.com/sports/esports/fortnite/when-are-fortnite-treasure-hours-today-november-21-timings-for-all-regions-and-how-to-get-pirate-shop-token/articleshow/136055918.cms",
+    "pubDate": "2026-11-21 13:55:31",
     "category": [
      "sports",
-     "top"
+     "top",
+     "entertainment"
     ]
    },
    {
-    "title": "Ayush Badoni Out, Prabhsimran Singh In? India A’s Predicted XI Vs Pakistan A In Asia Cup Rising Stars",
-    "description": "Check out India A's predicted playing XI for their clash against Pakistan A in the ACC Men's Asia Cup Rising Stars tournament at the West End Park International Cricket Stadium in Doha on Sunday, November 22",
-    "source": "Outlook",
-    "link": "https://www.outlookindia.com/sports/cricket/india-a-vs-pakistan-a-acc-asia-cup-rising-stars-predicted-xi-vaibhav-sooryavanshi-abhishek-sharma-tilak-varma-prabhsimran-singh-ayush-badoni",
-    "pubDate": "2026-11-21 12:55:39",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "Man City vs Fulham LIVE Score, Premier League 2026-27 — MCI 0-1 FUL; Follow real-time goal updates, highlights",
-    "description": "MCI vs FUL LIVE: Catch the live score and updates from the Premier League 2026-27 match between Manchester City and Fulham being played at the Etihad Stadium on Saturday.",
-    "source": "Sport Star The Hindu",
-    "link": "https://sportstar.thehindu.com/football/epl/manchester-city-vs-fulham-live-score-premier-league-2026-27-highlights-goals/article71728301.ece",
-    "pubDate": "2026-11-21 12:54:29",
+    "title": "LIV Golf’s 6-Figure Debt to Golf’s Governing Body Comes to Light After Bankruptcy",
+    "description": "When LIV Golf announced in February 2026 that it was teaming up with the R&A and the USGA, it felt like a truce in a long, bitter fight over the game’s future. It certainly read as the two bodies that run the Open...",
+    "source": "Essentially Sports",
+    "link": "https://www.essentiallysports.com/golf-news-liv-golfs-six-figure-debt-to-golfs-governing-body-comes-to-light-after-bankruptcy/",
+    "pubDate": "2026-11-21 13:55:26",
     "category": [
      "sports"
+    ]
+   },
+   {
+    "title": "Rare Maratha-Era Weapons Exhibition Showcases Historical Swords, Dandpatta, Matchlock Guns And Rhinoceros Hide Shields",
+    "description": "Prachyavidya Abhyas Sanstha has opened a special exhibition of rare Maratha-era weapons at its museum in Thane. The collection features matchlock guns, swords, rhinoceros-hide shields and the Dandpatta, Maharashtra's...",
+    "source": "The Free Press Journal",
+    "link": "https://www.freepressjournal.in/mumbai/rare-maratha-era-weapons-exhibition-showcases-historical-swords-dandpatta-matchlock-guns-and-rhinoceros-hide-shields",
+    "pubDate": "2026-11-21 13:55:18",
+    "category": [
+     "sports",
+     "tourism",
+     "top"
     ]
    }
   ],
   "entertainment": [
    {
-    "title": "Suriya thanks audience for making 2026 a special year with Karuppu, Vishwanath & Sons and Scene turning out to be box office successes",
-    "description": "Suriya's Diwali release Scene starred Nazriya Nazim and Naslen. It received positive reviews and went on to become a big success.",
-    "source": "Hindustan Times",
-    "link": "https://www.hindustantimes.com/entertainment/tamil-cinema/suriya-thanks-audience-for-making-2026-a-special-year-with-karuppu-vishwanath-sons-and-scene-turning-out-to-be-box-office-successes-101795263538588.html",
-    "pubDate": "2026-11-21 12:56:15",
+    "title": "Anirudh Ravichander And Kavya Maran Bring Royal Elegance In Red And Black At Chennai Wedding Reception - NDTV",
+    "description": "Anirudh Ravichander And Kavya Maran Bring Royal Elegance In Red And Black At Chennai Wedding Reception NDTV Political rivals, cinema veterans share spotlight at Anirudh-Kavya wedding reception The Hindu Inside...",
+    "source": "Google News",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUk8wVXVXVXZQUXhuOERMaDhRU2o2Z01RUkdxOHlXejgzTnFnZlJaM1JtRWROR3kteUtJdVhpVjJUVnVzQXR4blRzM2lMSDBZZVNEZVlvMUFZRzF0X0lzTW1xOUQwMXQ3RXpjVm9XdGhPcHd6V3oyZFVQTF9tdlBzMi1pNDNTaGhLNUhmWUtuMEZ6Um5WZm5xNUg3UGFsZU5qbXlWMVNvb0pfSzA0dnRWVTJtV3RHMkZlcWJFZzRBVzJoWDBNMzVTcWlJOFNwMFpKeHdWX3MzWDN0dw?oc=5",
+    "pubDate": "2026-11-21 13:54:22",
     "category": [
      "entertainment"
     ]
    },
    {
-    "title": "Ramayana Hindi Box Office Day 16: Becomes Only 4th Hindi Film In History To Enter The 700 Crore Club! - IMDb",
-    "description": "Ramayana Hindi Box Office Day 16: Becomes Only 4th Hindi Film In History To Enter The 700 Crore Club! IMDb Ramayana: Part 1 Review: How Fear Makes Ravana the Second Hero Frontline Magazine 'Ramayana: Part 1' box...",
-    "source": "Google News",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BZElHZTFXd3ZYLXVVYXpwbUFYWWtBV3hjbnRhT1JtczJuMlA0c21DbjBaVDhMTWpWS0pHMjMzdFFPd1pja0JaTEdrUmhjQUV0Z2Q2d2hseFhWSUZhdTBMUDgzcEpzNjg?oc=5",
-    "pubDate": "2026-11-21 12:51:39",
+    "title": "Anirudh Ravichander and Kavya Maran are all smiles as they pose with family and guests at Chennai reception",
+    "description": "Renowned music composer Anirudh Ravichander and businesswoman Kavya Maran made their first appearance together as newlyweds at their star-studded wedding reception in Chennai on November 21. The couple posed for...",
+    "source": "India Tv",
+    "link": "https://www.indiatvnews.com/entertainment/regional-cinema/anirudh-ravichander-and-kavya-maran-are-all-smiles-as-they-pose-with-family-and-guests-at-chennai-reception-2026-11-21-1060038",
+    "pubDate": "2026-11-21 13:53:55",
     "category": [
-     "entertainment"
+     "entertainment",
+     "breaking"
     ]
    }
   ],
   "tech": [
    {
-    "title": "GTA VI earns estimated $3.79 billion in record-breaking launch - Indian Television Dot Com",
-    "description": "GTA VI earns estimated $3.79 billion in record-breaking launch Indian Television Dot Com GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history BBC Grand Theft Auto VI Shatters...",
-    "source": "Google News",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObjZmNzA3RFdsUUdZczNNUXZfRkFvd0Y0Q1FVakRBcUJ3ZDIzVXV1MUpQSGtscUN6Q1pOeFI4dzkwc2tOVWxyQnoxOUFTaDZibG9MT2dyZXFaN0NyOU1oUFZoLU5qd2lwRF81NnJvYkpEaHpOS1NlVmU1cFhJamRuX0lTa1M1VkdUdVdPMEpPeXE4T0FDNENlM2RNU0JMdnc?oc=5",
-    "pubDate": "2026-11-21 12:57:58",
+    "title": "A Session Key From a Timestamp: Inside vCenter CVE-2026-123890 and the Chain to Full Directory Theft",
+    "description": "This is the English edition of a Korean report published on 21 November 2026. The original is at dohyeontech.github.io. On 20 November 2026, CISA added four entries to the KEV catalog in one day: an authentication...",
+    "source": "Dev Community",
+    "link": "https://dev.to/dohyeontech/a-session-key-from-a-timestamp-inside-vcenter-cve-2026-123890-and-the-chain-to-full-directory-theft-3b99",
+    "pubDate": "2026-11-21 13:58:59",
     "category": [
      "technology"
     ]
    },
    {
-    "title": "How Habit-Tracking and Focus Apps Help Young Minds",
-    "description": "Welcome back to the Narcotics Is A Dirty Business series, we are back with a new article that will help you to stay away from the unwanted cravings. We know that today’s young minds are having the smartphones as...",
-    "source": "Technobugg",
-    "link": "https://www.technobugg.com/how-habit-tracking-and-focus-apps-help-young-minds/",
-    "pubDate": "2026-11-21 12:55:43",
+    "title": "2028 Toyota Grand Highlander Gets Updated Inside and Outside, Plus There's a Colors Galore in CGI",
+    "description": "The Japanese automaker – the largest and most valuable automotive company in the world – has recently decided to give its Toyota Motor North America division another brand under its care. Actually, they’re giving it...",
+    "source": "Auto Evolution",
+    "link": "https://www.autoevolution.com/news/2028-toyota-grand-highlander-gets-updated-inside-and-outside-plus-there-s-a-colors-galore-in-cgi-278596.html",
+    "pubDate": "2026-11-21 13:58:01",
     "category": [
      "technology"
     ]

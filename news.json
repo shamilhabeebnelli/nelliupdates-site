@@ -1,46 +1,13 @@
 {
- "fetched_at": "2026-11-23 10:12 UTC",
+ "fetched_at": "2026-11-23 11:12 UTC",
  "groups": {
   "india": [
    {
-    "title": "GCCs drive 65% of Bengaluru office leasing as IT demand slows",
-    "description": "At 36.1 million sq ft, Bengaluru has India's largest office development pipeline, equivalent to about 16% of its existing office stock. Developers continue to build large office parks in anticipation of sustained demand.",
-    "source": "The Economic Times",
-    "link": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/gccs-drive-65-of-bengaluru-office-leasing-as-it-demand-slows/articleshow/136088333.cms",
-    "pubDate": "2026-11-22 22:11:21",
-    "category": [
-     "top",
-     "business"
-    ]
-   },
-   {
-    "title": "Tech Icon Palmer Luckey Takes Down NYTimes Columnist and Media Bias by Using Hillary Clinton – RedState",
-    "description": "Tech titan Palmer Luckey is a fascinating character. The founder of Anduril, a defense technology firm, gave a great interview to Andrew Ross Sorkin at the New York Times DealBook Summit this past week, and there are...",
-    "source": "Cbnc",
-    "link": "https://cbnc.com/tech-icon-palmer-luckey-takes-down-nytimes-columnist-and-media-bias-by-using-hillary-clinton-redstate/",
-    "pubDate": "2026-11-22 22:11:00",
-    "category": [
-     "top",
-     "technology"
-    ]
-   },
-   {
-    "title": "NMC seeks views on stricter lab animal rules in medical colleges",
-    "description": "Srinagar, Nov 22: National Medical Commission (NMC) has sought comments and suggestions from medical colleges and institutions across the country on draft rules proposing stricter regulation of the use, breeding,...",
-    "source": "Rising Kashmir",
-    "link": "https://risingkashmir.com/top-stories/nmc-seeks-views-on-stricter-lab-animal-rules-in-medical-colleges-12832393",
-    "pubDate": "2026-11-22 22:10:37",
-    "category": [
-     "top",
-     "health"
-    ]
-   },
-   {
-    "title": "CM Revanth to inaugurate Sant Sevalal Maharaj’s statue on Thursday",
-    "description": "Leaders review arrangements ahead of CM’s visit to Achampet",
-    "source": "The Hans India",
-    "link": "https://www.thehansindia.com/news/cities/khammam/cm-revanth-to-inaugurate-sant-sevalal-maharajs-statue-on-thursday-1144820",
-    "pubDate": "2026-11-22 22:10:15",
+    "title": "A hundred years ago | Plea for gold currency",
+    "description": "From The Hindu Archives, November 20, 1926: The Hon. Mr. Manmohandas Ramjee, member of the Council of State, has explained his views on the proposals for currency reform in his letter to the Bombay Government on the...",
+    "source": "The Hindu",
+    "link": "https://www.thehindu.com/archives/from-the-hindu-archives-november-20-1926-plea-for-gold-currency/article71731963.ece",
+    "pubDate": "2026-11-22 23:10:00",
     "category": [
      "top",
      "politics",
@@ -48,23 +15,33 @@
     ]
    },
    {
-    "title": "Ccpa Fines Airone Robotics Rs 10 Lakh Over Anti-drone Gun Listing",
-    "description": "The CCPA fined AirOne Robotics Rs 10 lakh for listing an anti-drone gun on IndiaMART without required disclosures or approvals.",
-    "source": "Business Times India",
-    "link": "https://www.btin.co.in/ccpa-fines-airone-robotics-rs-10-lakh-over-anti-drone-gun-listing-123220",
-    "pubDate": "2026-11-22 22:10:00",
+    "title": "Nepal PM arrives in New Delhi",
+    "description": "Nepal Prime Minister Balendra Shah arrived in New Delhi on a two-day visit—his first since taking office in March—for talks with PM Narendra Modi, President Droupadi Murmu, and EAM S Jaishankar.",
+    "source": "The Hans India",
+    "link": "https://www.thehansindia.com/news/cities/new-delhi/nepal-pm-arrives-in-new-delhi-1144838",
+    "pubDate": "2026-11-22 23:08:32",
     "category": [
      "top",
-     "business",
+     "politics"
+    ]
+   },
+   {
+    "title": "Conquering Skies",
+    "description": "Bharat’s quest for technological self-reliance is entering an exciting new frontier — the skies. The country’s ambition to design and develop its own fifth-generation stealth fighter aircraft is not merely about...",
+    "source": "Orangenews9",
+    "link": "https://orangenews9.com/conquering-skies/",
+    "pubDate": "2026-11-22 23:08:12",
+    "category": [
+     "top",
      "technology"
     ]
    },
    {
-    "title": "Adani Energy Solutions stock to be in focus after signing deal to acquire Vikramshila Power",
-    "description": "Adani Energy Solutions shares are likely to remain in focus after the company signed an agreement to acquire a 100% stake in Vikramshila Power Transmission. The cash-based acquisition is linked to a 2,400 MW power...",
+    "title": "Sensex surges over 8,200 pts in Nov. Should you book partial profits & move to safer assets or stay invested?",
+    "description": "With the BSE Sensex surging significantly in November, investors are contemplating profit booking or continued investment. Experts advise those needing funds soon to shift to safer assets, while long-term investors...",
     "source": "The Economic Times",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-energy-solutions-stock-to-be-in-focus-after-signing-deal-to-acquire-vikramshila-power/articleshow/136088334.cms",
-    "pubDate": "2026-11-22 22:09:01",
+    "link": "https://economictimes.indiatimes.com/mf/analysis/sensex-surges-over-8200-pts-in-nov-should-you-book-partial-profits-move-to-safer-assets-or-stay-invested/articleshow/136089320.cms",
+    "pubDate": "2026-11-22 23:06:27",
     "category": [
      "top",
      "business"
@@ -72,6 +49,37 @@
    }
   ],
   "kerala": [
+   {
+    "title": "Sabrimala administration imposes strict ban on dumping clothes, waste in Pamba river; violators to be fined Rs 5000 on spot",
+    "description": "Under the order, pilgrims are prohibited from discarding used clothes, textiles and other personal belongings in the Pamba River, its tributaries or bathing ghats. Dumping plastic, solid and biodegradable waste in...",
+    "source": "Ani (asian News International)",
+    "link": "https://www.aninews.in/news/national/general-news/sabrimala-administration-imposes-strict-ban-on-dumping-clothes-waste-in-pamba-river-violators-to-be-fined-rs-5000-on-spot20261123013806/",
+    "pubDate": "2026-11-22 23:04:07",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "Kerala CM Satheesan Expresses Concern Over Attacks on Christians, Places of Worship",
+    "description": "Kerala CM Satheesan Expresses Concern Over Attacks on Christians, Places of Worship - Kochi: Kerala Chief Minister V.D. Satheesan has voiced deep concern regarding the increasing incidents of attacks targeting...",
+    "source": "Lokmat Times",
+    "link": "https://www.lokmattimes.com/politics/kerala-cm-satheesan-expresses-concern-over-attacks-on-christians-places-of-worship-a001-w01/",
+    "pubDate": "2026-11-22 22:50:11",
+    "category": [
+     "domestic"
+    ]
+   },
+   {
+    "title": "Kerala CM Hails Muslim Brothers for Hindu Woman's Last Rites",
+    "description": "Kerala CM Satheesan praises Muslim brothers for performing Hindu rites. A rare display of social cohesion in a polarising political climate.",
+    "source": "Growmudra",
+    "link": "https://growmudra.com/news/details/2407dc29cf2ab352752d288c15d812b2/kerala-cm-hails-muslim-brothers-for-hindu-womans-last-rites",
+    "pubDate": "2026-11-22 22:47:08",
+    "category": [
+     "domestic",
+     "business"
+    ]
+   },
    {
     "title": "Renahan Vamakesan Vs. Anish Lawrence and Ors. – NCLT, Kochi Bench",
     "description": "Login Access Default, Dispute, and Debt Resolution Laws Password Email OTP WhatsApp OTP Google Username or Email Password 👁 Remember this device Log In Forgot Password? Email Send OTP Enter OTP Verify & Login Resend...",
@@ -126,79 +134,75 @@
      "business",
      "technology"
     ]
-   },
-   {
-    "title": "‘Ramayana’ Sets New U.S. Box Office Record for Indian Films - TheWrap",
-    "description": "‘Ramayana’ Sets New U.S. Box Office Record for Indian Films TheWrap Ramayana (Hindi) Won't Enter 800 Crore Club Rediff Nitesh Tiwari’s ‘Ramayana’ crosses Rs 1,600 crore mark worldwide on third Saturday Telegraph...",
-    "source": "Google News",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUHdlUTE5NGNvcm85T245aUtiRm5GZzZTVGRmNTExS2hPdTgxUnhRYzFOZmVZS3A5UEFUNmphQjZGM3MxaWpfOGpmaWdYMnRIN0pqalNQMkJoX0wtUDdwMk1tUWZIdEdfc2k0RFVTbUJyOWxWRVQ3c01scHlfdEVYQkxjQ01HS1VEYTA5NnlNSHdTVUZLb0RSSDBHVE56VHZlMm1oWUp6ODk?oc=5",
-    "pubDate": "2026-11-22 19:32:22",
-    "category": [
-     "entertainment"
-    ]
-   },
-   {
-    "title": "Bride shortage? Second Karanthur matchmaking drive draws 2,000 more applications; fewer than 400 women seek grooms",
-    "description": "KOZHIKODE / KUNNAMANGALAM: The second registration camp organised by the temple committee received another 2,000 applications, most of them from men seeking brides.",
-    "source": "Kerala Kaumudi Online",
-    "link": "https://www.keralakaumudi.com/en/kerala/general/kozhikode-karanthur-mahadeva-temple-marriage-camp-men-outnumber-women-1829265",
-    "pubDate": "2026-11-22 19:13:25",
-    "category": [
-     "top",
-     "politics",
-     "lifestyle"
-    ]
-   },
-   {
-    "title": "Aakasamlo Oka Tara Box Office Crosses ₹12.90 Crore In 2 Days",
-    "description": "Aakasamlo Oka Tara has collected ₹12.90 crore worldwide in 2 days, driven by a strong Saturday jump and solid Telugu-language business.",
-    "source": "Business Times India",
-    "link": "https://www.btin.co.in/aakasamlo-oka-tara-box-office-crosses-rs-12-90-crore-in-2-days-123221",
-    "pubDate": "2026-11-22 19:09:00",
-    "category": [
-     "top",
-     "business",
-     "entertainment"
-    ]
    }
   ],
   "world": [
    {
-    "title": "Mayor Wayne Brown’s rant on China was reckless and he isn’t qualified to opine on Five Eyes – Phil Goff",
-    "description": "OPINION: People who hold public positions deserve respect but need to earn it.",
+    "title": "Russian Ships Struck in Attacks Far From Ukraine as War’s Fallout Spreads",
+    "description": "A Russian warship was sunk at a Libyan port after a cargo vessel was hit in the Baltic Sea.",
+    "source": "Wsj",
+    "link": "https://www.wsj.com/world/europe/russian-ships-struck-in-attacks-far-from-ukraine-as-wars-fallout-spreads-a51964cb?mod=rss_worldnews",
+    "pubDate": "2026-11-22 23:09:00",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "Pāpāmoa man Lawrence Millington wins National Billiards Championships",
+    "description": "Lawrence Millington's goal next year is to win the National Snooker Championships.",
     "source": "Nzherald",
-    "link": "https://www.nzherald.co.nz/nz/mayor-wayne-browns-rant-on-china-was-reckless-and-he-isnt-qualified-to-opine-on-five-eyes-phil-goff/premium/7727ZUEGEZD4JGRLUUPFUKBNKU/",
-    "pubDate": "2026-11-22 22:11:56",
+    "link": "https://www.nzherald.co.nz/bay-of-plenty-times/news/papamoa-man-lawrence-millington-wins-national-billiards-championships/D75VKYFHKVDJ7CWXMC2AB26QHA/",
+    "pubDate": "2026-11-22 23:09:00",
     "category": [
      "world"
     ]
    },
    {
-    "title": "Guyana announces 50 per cent electricity bill reduction following prolonged outage",
-    "description": "GEORGETOWN, Guyana, CMC – President Irfaan Ali on Sunday announced a 50 per cent reduction in electricity bills for thousands of residents in Berbice affected by a 45-hour power outage between Friday and Saturday. In...",
-    "source": "Jamaica Gleaner",
-    "link": "http://jamaica-gleaner.com/article/world-news/20261122/guyana-announces-50-cent-electricity-bill-reduction-following-prolonged",
-    "pubDate": "2026-11-22 22:03:03",
+    "title": "Whanganui hill climb crash: Police refer fatal incident to WorkSafe",
+    "description": "Powerco crews were working to restore the power pole on Monday morning.",
+    "source": "Nzherald",
+    "link": "https://www.nzherald.co.nz/whanganui-chronicle/news/whanganui-hill-climb-crash-police-refer-fatal-incident-to-worksafe/RNC43A7TBBFZLA56AP3OAU4TEA/",
+    "pubDate": "2026-11-22 23:07:58",
     "category": [
      "world"
     ]
    },
    {
-    "title": "Senate prez: US wants PH to resolve Pax Silica issues",
-    "description": "MANILA, Philippines — The United States wants the Philippines to address concerns surrounding the controversial Pax Silica initiative before proceeding with an agreement, Senate President Sherwin Gatchalian said,...",
-    "source": "Inquirer",
-    "link": "https://globalnation.inquirer.net/349526/senate-prez-us-wants-ph-to-resolve-pax-silica-issues",
-    "pubDate": "2026-11-22 22:02:40",
+    "title": "Over 1 Million Jetstar Customers to Receive Court Notices in Class Action",
+    "description": "The Federal Court of Australia has ordered that notices be sent to over 1.1 million people informing them that they may be eligible to participate in",
+    "source": "Mirage News",
+    "link": "https://www.miragenews.com/over-1-million-jetstar-customers-to-receive-1781714/",
+    "pubDate": "2026-11-22 23:06:54",
     "category": [
      "world"
     ]
    },
    {
-    "title": "Full disclosure of US deals with PH sought",
-    "description": "MANILA, Philippines — The Marcos administration should disclose details of the deals that were negotiated with the United States, a minority lawmaker said on Sunday, raising concerns that any potential agreements...",
-    "source": "Inquirer",
-    "link": "https://globalnation.inquirer.net/349521/full-disclosure-of-us-deals-with-ph-sought",
-    "pubDate": "2026-11-22 22:02:40",
+    "title": "Europe and Indonesia Open a New Door With Landmark Trade Deal",
+    "description": "After nearly a decade of negotiations, the European Union and Indonesia, the world’s largest island nation, have signed a sweeping free trade agreement along with a separate investment protection pact, according to...",
+    "source": "Voice Of Vienna",
+    "link": "https://voiceofvienna.org/europe-and-indonesia-open-a-new-door-with-landmark-trade-deal/",
+    "pubDate": "2026-11-22 23:05:00",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "Sabrimala administration imposes strict ban on dumping clothes, waste in Pamba river; violators to be fined Rs 5000 on spot",
+    "description": "Under the order, pilgrims are prohibited from discarding used clothes, textiles and other personal belongings in the Pamba River, its tributaries or bathing ghats. Dumping plastic, solid and biodegradable waste in...",
+    "source": "Ani (asian News International)",
+    "link": "https://www.aninews.in/news/national/general-news/sabrimala-administration-imposes-strict-ban-on-dumping-clothes-waste-in-pamba-river-violators-to-be-fined-rs-5000-on-spot20261123013806/",
+    "pubDate": "2026-11-22 23:04:07",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "“We expect this visit to be historic”: Nepal FM on PM Balendra Shah’s India visit",
+    "description": "Nepal Prime Minister Balendra Shah arrived in New Delhi on Sunday for a two-day visit to India at the invitation of Prime Minister Narendra Modi.",
+    "source": "Ani (asian News International)",
+    "link": "https://www.aninews.in/news/world/asia/8220we-expect-this-visit-to-be-historic8221-nepal-fm-on-pm-balendra-shah8217s-india-visit20261123013843/",
+    "pubDate": "2026-11-22 23:04:07",
     "category": [
      "world"
     ]
@@ -206,84 +210,91 @@
   ],
   "sports": [
    {
-    "title": "Lady Trophy Champion Shines On NASCAR’s Red Carpet at Charlotte After Breakout 2026 EuroNASCAR Debut",
-    "description": "At age five, Beitske Visser couldn’t be pulled away from her kart. More than two decades later, the Dutch racer is still finding reasons to stay behind the wheel. But her pursuit of a racing career has always come at...",
-    "source": "Essentially Sports",
-    "link": "https://www.essentiallysports.com/nascar-news-lady-trophy-champion-shines-on-nascars-red-carpet-at-charlotte-after-breakout-twenty-twenty-six-euronascar-debut/",
-    "pubDate": "2026-11-22 22:11:36",
-    "category": [
-     "sports"
-    ]
-   },
-   {
-    "title": "'Never a red': Bruno Fernandes questions refereeing in Utd defeat to Liverpool",
-    "description": "Manchester United captain Bruno Fernandes was not happy with the officiating in Sunday's 4-0 drubbing at Liverpool.",
-    "source": "Entertainment And Sports Programming Network",
-    "link": "https://www.espn.in/football/story/_/id/50565229/bruno-fernandes-man-united-liverpool",
-    "pubDate": "2026-11-22 22:11:16",
-    "category": [
-     "sports"
-    ]
-   },
-   {
-    "title": "Weather Impact on India-New Zealand Test: Key Insights Ahead of Day 5",
-    "description": "As the first Test between India and New Zealand approaches its final day, weather conditions are set to play a crucial role. Former cricketer Grant Elliott emphasizes the potential impact of overcast skies on the...",
-    "source": "Gyanhigyan",
-    "link": "https://gyanhigyan.com/sports/weather-impact-on-india-new-zealand-test-key-insights-ahead/cid19564251.htm",
-    "pubDate": "2026-11-22 22:09:32",
-    "category": [
-     "sports",
-     "environment",
-     "top"
-    ]
-   },
-   {
-    "title": "Alexander Zverev Celebrates Carlos Alcaraz's First ATP Finals Victory",
-    "description": "In a heartfelt tribute, Alexander Zverev commended Carlos Alcaraz following the latter's first ATP Finals victory in Turin. Zverev, who finished as the runner-up, celebrated Alcaraz's remarkable achievements this...",
-    "source": "Gyanhigyan",
-    "link": "https://gyanhigyan.com/sports/alexander-zverev-celebrates-carlos-alcarazs-first-atp/cid19564249.htm",
-    "pubDate": "2026-11-22 22:09:15",
+    "title": "Patrick and Brittany Mahomes' $325M stadium investment fuels NWSL title success",
+    "description": "Kansas City Current's first NWSL Championship rewarded its owners' long-term investment in women's soccer infrastructure. Patrick and Brittany Mahomes were part of the ownership group that backed the club's...",
+    "source": "The Times Of India",
+    "link": "https://timesofindia.indiatimes.com/sports/nfl/news/a-sense-of-permanence-how-patrick-mahomes-and-brittany-mahomes-325-million-kansas-city-currents-purpose-built-stadium-helped-shape-its-championship-journey/articleshow/136072662.cms",
+    "pubDate": "2026-11-22 23:12:00",
     "category": [
      "sports",
      "top"
     ]
    },
    {
-    "title": "Steve Sarkisian’s Wife Loreal Turns Heads at Texas vs. Arkansas With an $890 Finishing Touch on Her Classic Game Day Look",
-    "description": "The crowd at Darrell K Royal-Texas Memorial Stadium was still settling into its seats when the cameras found Loreal Sarkisian walking the sideline. Texas was about to face Arkansas, the Longhorns sitting at 8-2 and...",
-    "source": "Essentially Sports",
-    "link": "https://www.essentiallysports.com/ncaa-college-football-news-steve-sarkisians-wife-loreal-turns-heads-at-texas-vs-arkansas-with-an-eight-nine-zero-finishing-touch-on-her-classic-game-day-look/",
-    "pubDate": "2026-11-22 22:07:51",
+    "title": "Diego Simeone Sets New LaLiga Record with 345 Wins as Atletico Madrid Triumphs",
+    "description": "Diego Simeone has made history by becoming the manager with the most wins in LaLiga, achieving 345 victories after Atletico Madrid's 3-0 win over Getafe. This remarkable milestone not only surpasses the legendary...",
+    "source": "Gyanhigyan",
+    "link": "https://gyanhigyan.com/sports/cricket/diego-simeone-sets-new-laliga-record-with-345-wins-as/cid19564257.htm",
+    "pubDate": "2026-11-22 23:11:18",
     "category": [
-     "sports"
+     "sports",
+     "top",
+     "lifestyle"
     ]
    },
    {
-    "title": "“Disrespected an Entire City”: Ravens Legend Blasts Marlon Humphrey Over Controversial Baltimore Comment",
-    "description": "An expletive a fan directed at Marlon Humphrey during the Baltimore Ravens’ loss to the Los Angeles Chargers recently became a talking point on the cornerback’s podcast. Humphrey said it gave him some satisfaction to...",
-    "source": "Essentially Sports",
-    "link": "https://www.essentiallysports.com/nfl-active-news-disrespected-an-entire-city-ravens-legend-blasts-marlon-humphrey-over-controversial-baltimore-comment/",
-    "pubDate": "2026-11-22 22:07:16",
+    "title": "Nightmare start for Mauricio Pochettino as Manchester United lose 4-0 to Liverpool",
+    "description": "Mauricio Pochettino had to watch from the sidelines as his new team quickly capitulated after kickoff.",
+    "source": "Hindustan Times",
+    "link": "https://www.hindustantimes.com/sports/football/nightmare-start-for-mauricio-pochettino-as-manchester-united-lose-4-0-to-liverpool-101795388895411.html",
+    "pubDate": "2026-11-22 23:11:18",
     "category": [
-     "sports"
+     "sports",
+     "top"
     ]
    },
    {
-    "title": "St. Louis City vs Los Angeles FC Prediction and Betting Tips | November 23rd 2026",
-    "description": "St. Louis City and Los Angeles FC kick off their MLS playoff run when they go head-to-head at Energizer Park in the first of their best-of-three clash on Monday.",
-    "source": "Sportskeeda",
-    "link": "https://www.sportskeeda.com/football/st-louis-city-vs-los-angeles-fc-prediction-betting-tips-november-23rd-2026",
-    "pubDate": "2026-11-22 22:05:20",
+    "title": "Meowsical Nights: Cat Music Puzzles - Official Announcement Trailer",
+    "description": "Check out the announcement trailer for Meowsical Nights: Cat Music Puzzles, an indie puzzle game developed by AVGAM. Meowsical Nights: Cat Music Puzzles is a cozy music puzzle and sandbox game where your ears lead...",
+    "source": "In Ign",
+    "link": "https://in.ign.com/video/277688/meowsical-nights-cat-music-puzzles-official-announcement-trailer",
+    "pubDate": "2026-11-22 23:08:08",
     "category": [
-     "sports"
+     "sports",
+     "top",
+     "entertainment"
     ]
    },
    {
-    "title": "Fifa to confirm UK bid for 2035 Women’s World Cup",
-    "description": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966. Fifa to confirm UK bid for 2035 Women’s World Cup",
+    "title": "The boy who became the storm: How Stefon Diggs turned childhood loss and family struggles into an NFL career",
+    "description": "Stefon Diggs’ journey from a young boy in Maryland to an established NFL star was shaped by his father’s death, his mother’s hard work and several career setbacks. After proving himself with the Vikings and Bills, he...",
+    "source": "The Times Of India",
+    "link": "https://timesofindia.indiatimes.com/sports/nfl/news/the-boy-who-became-the-storm-how-stefon-diggs-turned-childhood-loss-and-family-struggles-into-an-nfl-career/articleshow/136081735.cms",
+    "pubDate": "2026-11-22 23:04:52",
+    "category": [
+     "sports",
+     "top"
+    ]
+   },
+   {
+    "title": "Black Friday Nintendo Switch 2 bundles and games on sale",
+    "description": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games. Black Friday Nintendo Switch 2 bundles and games on sale",
     "source": "Indiavision India News & Information",
-    "link": "https://www.indiavision.com/sports/fifa-to-confirm-uk-bid-for-2035-womens-world-cup/610176/",
-    "pubDate": "2026-11-22 22:03:05",
+    "link": "https://www.indiavision.com/business/black-friday-nintendo-switch-2-bundles-and-games-on-sale/610180/",
+    "pubDate": "2026-11-22 23:02:51",
+    "category": [
+     "sports",
+     "top"
+    ]
+   },
+   {
+    "title": "Lenovo Legion Pro 7i Gen 11 Review: Familiar Body, Ferocious Power",
+    "description": "Featuring blistering speeds, this year's Lenovo Legion Pro 7i is about as powerful a gaming laptop as you'll find on the market, but its high price may put it out of reach for many gamers.",
+    "source": "Pcmag",
+    "link": "https://www.pcmag.com/reviews/lenovo-legion-pro-7i-gen-11-2026",
+    "pubDate": "2026-11-22 23:00:00",
+    "category": [
+     "sports",
+     "top",
+     "technology"
+    ]
+   },
+   {
+    "title": "iShowSpeed loses 98% GTA 6 progress after 52-hour marathon while attempting to unlock a different ending",
+    "description": "iShowSpeed completed GTA 6 after an exhausting 52-hour gaming marathon without sleep, despite previously promising to pace himself. However, he became emotional after receiving an unwanted story ending involving...",
+    "source": "The Times Of India",
+    "link": "https://timesofindia.indiatimes.com/world/us-streamers/ishowspeed-loses-98-gta-6-progress-after-52-hour-marathon-while-attempting-to-unlock-a-different-ending/articleshow/136085545.cms",
+    "pubDate": "2026-11-22 22:59:55",
     "category": [
      "sports",
      "top"
@@ -292,47 +303,56 @@
   ],
   "entertainment": [
    {
-    "title": "Jennifer Lopez teases possible sequel to “Monster‑in‑Law” on talk show",
-    "description": "Jennifer Lopez hinted at a sequel to the 2005 rom‑com “Monster‑in‑Law” during an appearance on “The Drew Barrymore Show.” She also discussed her upcoming concert film, “The JLo Show,” set to premiere on CBS. The post...",
-    "source": "Informal News",
-    "link": "https://www.informalnewz.com/jennifer-lopez-teases-possible-sequel-to-monster-in-law-on-talk-show/",
-    "pubDate": "2026-11-22 22:05:09",
+    "title": "A birdwatcher in Canada spotted a rare songbird absent from his county for over five years",
+    "description": "In September, Canadian birdwatcher Paul Jones made a remarkable discovery in Ontario when he spotted an endangered loggerhead shrike. This bird, known for its striking appearance, had journeyed 30 miles from where it...",
+    "source": "The Times Of India",
+    "link": "https://timesofindia.indiatimes.com/science/nature/a-birdwatcher-in-canada-spotted-a-rare-songbird-absent-from-his-county-for-over-five-years-its-leg-bands-revealed-it-hatched-at-a-smithsonian-centre-in-virginia-and-was-released-in-ontario/articleshow/135938685.cms",
+    "pubDate": "2026-11-22 23:10:00",
+    "category": [
+     "entertainment"
+    ]
+   },
+   {
+    "title": "Zelenskyy Confirms Ukraine Struck Russian Warship Near Benghazi",
+    "description": "Ukrainian President Volodymyr Zelenskyy has said that the country's security services struck two Russian vessels off the coast of Libya, a warship that sunk in habor in Benghazi and a cargo ship carrying arms and...",
+    "source": "Bignewsnetwork",
+    "link": "http://bignewsnetwork.com/news/279450114/zelenskyy-confirms-ukraine-struck-russian-warship-near-benghazi",
+    "pubDate": "2026-11-22 23:01:07",
+    "category": [
+     "entertainment"
+    ]
+   },
+   {
+    "title": "Yeh Prem Mol Liya: Ayushmann Khurrana says joint families offer emotional grounding in a fast-paced world; Sooraj Barjatya explains Prem’s progressive outlook : Bollywood News",
+    "description": "With Yeh Prem Mol Liya set to arrive in theatres on November 27, director Sooraj R. Barjatya and lead actors Ayushmann Khurrana and Sharvari have shared insights into the film’s…",
+    "source": "Swapupdate",
+    "link": "https://www.swapupdate.in/yeh-prem-mol-liya-ayushmann-khurrana-says-joint-families-offer-emotional-grounding-in-a-fast-paced-world-sooraj-barjatya-explains-prems-progressive-outlook-bollywood-news/",
+    "pubDate": "2026-11-22 23:00:42",
+    "category": [
+     "entertainment"
+    ]
+   },
+   {
+    "title": "A new snake found near the China-Nepal border looks like an earthworm",
+    "description": "A new species of blind snake named Indotyphlops gyirongensis has been identified in Gyirong County, China. The specimen was found at a high elevation under a stone in August 2025. This snake is adapted to a life...",
+    "source": "The Times Of India",
+    "link": "https://timesofindia.indiatimes.com/science/wildlife/a-new-snake-found-near-the-china-nepal-border-looks-like-an-earthworm-and-has-eyes-hidden-beneath-its-scales-named-indotyphlops-gyirongensis-it-spends-most-of-its-life-burrowing-underground/articleshow/136055672.cms",
+    "pubDate": "2026-11-22 23:00:00",
+    "category": [
+     "entertainment"
+    ]
+   },
+   {
+    "title": "'The Hunger Games: Sunrise on the Reaping' scores huge USD 120 million opening; 'Ramayana' still among to - The Times of India",
+    "description": "'The Hunger Games: Sunrise on the Reaping' scores huge USD 120 million opening; 'Ramayana' still among to The Times of India Box Office: 'Hunger Games: Sunrise on Reaping' Opening to $120M, 4th Best Series Deadline...",
+    "source": "Google News",
+    "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPa2FFanItZlhKUGhmYlNzbURYUW9icHRpZU1LQW9FNUVybXBBaGNFMHlrd1dXZUxIaF9LLWthSW5XSVpiM1dVekhFSUd5amlDd3A1SGFWck40RG44dlA0RVNzS1V1X2d6aDNFcEtFZUxwTUFRUjVhZllvQjlscjJGdDdZVGxETDd2WDFwb2R2U2hiSDdJWFpPdjM1WjN5TExfTHJaX0RURERCS1BYXzJpVENIaW11c0NsakpWam5JYUdSbF9Ic1dEMVpkM0czOHRvSzlGTnNCQ1Z6Y3UxcHBJeWdVbmotNkNiQk15cGtLRHJRMENrOU5QYlNMSkxWejhtazB2aWpEbUNvZFd4NkVFXzc3WUpmbXZOV2p4NUw5cXhkVGFUQ2lPRHFYN1UyOUhWaHdvZmJyMzk1Zw?oc=5",
+    "pubDate": "2026-11-22 22:53:00",
     "category": [
      "entertainment"
     ]
    }
   ],
-  "tech": [
-   {
-    "title": "Lendlease claims ‘ample liquidity’; ASX to slip amid global AI rout",
-    "description": "",
-    "source": "The Australian",
-    "link": "https://www.theaustralian.com.au/business/markets/asx-to-fall-amid-nvidias-free-fall-anthropic-near-ipo-price/live-coverage/8352d00fc840d074af3df62ee775f3c9",
-    "pubDate": "2026-11-22 22:12:00",
-    "category": [
-     "technology"
-    ]
-   },
-   {
-    "title": "Deal | RTX 5080 gaming PC with 32GB of DDR5 RAM gets a $400 discount for a limited time - Notebookcheck",
-    "description": "Deal | RTX 5080 gaming PC with 32GB of DDR5 RAM gets a $400 discount for a limited time Notebookcheck Alienware Aurora PC with RTX 5070, 32GB of RAM drops to $1,899 in Amazon Black Friday offer — Core Ultra 7...",
-    "source": "Google News",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdVppaGFZMlFRd3JXRWpjZVp6YklCWXA1SzVGX3VRVTMwQmZOSHhPOW04eWhWSGpDd3JaN0JnVjZMdWMzN2VoZy15R3A1MHBRSEw1dnlsXzZIVE1vZUdETnNoNzZ2VEdyUjh2c3JZRU95cjBPQk5UU1IxNjBEUzRLSzBXVFp3V01Ca3UxRFZ0b1FtVEpDTkdtc0xzV1h2V0dUcWREcnVDY2poNXp0TzJxM3VPWnM5QkM1b3lobXVqSWwyQQ?oc=5",
-    "pubDate": "2026-11-22 22:12:00",
-    "category": [
-     "technology"
-    ]
-   },
-   {
-    "title": "Black Friday 2026 Deals On The Camera And Travel Gear We Use",
-    "description": "Every product in this Black Friday guide is something we use to do our jobs at BMWBLOG, from the pocket camera that pushed a lot of mirrorless bodies out of our kit to one of... First published by https://www.bmwblog.com",
-    "source": "Bmw Blog Automotive News",
-    "link": "https://www.bmwblog.com/2026/11/22/black-friday-2026-deals-camera-gear-car-enthusiasts/",
-    "pubDate": "2026-11-22 22:10:04",
-    "category": [
-     "technology"
-    ]
-   }
-  ]
+  "tech": []
  }
 }

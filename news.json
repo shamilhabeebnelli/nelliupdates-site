@@ -1,43 +1,99 @@
 {
- "fetched_at": "2026-11-24 11:07 UTC",
+ "fetched_at": "2026-11-24 12:08 UTC",
  "groups": {
   "india": [
    {
-    "title": "Schindler Escalators Improve Access To China's Longtoushan Mountain",
-    "description": "(MENAFN - Robotics & Automation News) Installed more than 2,300 meters above sea level, six Schindler escalators have provided reliable access to Longtoushan's scenic peaks for seven years, despite ...",
-    "source": "Menafn",
-    "link": "https://menafn.com/1112011618/Schindler-Escalators-Improve-Access-To-Chinas-Longtoushan-Mountain",
-    "pubDate": "2026-11-23 23:06:19",
+    "title": "Health education in schools: Why knowledge must translate into behaviour",
+    "description": "Health education in schools must go beyond awareness to encourage lasting behavioural change. Aligned with NEP 2020 and NCF-SE 2023, the focus should be on equipping teachers to help students practise healthy habits,...",
+    "source": "The Hans India",
+    "link": "https://www.thehansindia.com/hans/young-hans/health-education-in-schools-why-knowledge-must-translate-into-behaviour-1145182",
+    "pubDate": "2026-11-24 00:07:43",
     "category": [
      "top",
-     "technology"
+     "education",
+     "health"
     ]
    },
    {
-    "title": "Dhanush’s ‘OM: Operation Mole’ Hits Rs1 Billion in Three Days",
-    "description": "The film OM: Operation Mole earned over Rs1 billion globally in just three days after its November 20 release. The success follows Dhanush’s earlier setback with Kara and gives Mammootty a notable commercial...",
-    "source": "Informal News",
-    "link": "https://www.informalnewz.com/dhanushs-om-operation-mole-hits-rs1-billion-in-three-days/",
-    "pubDate": "2026-11-23 23:05:49",
-    "category": [
-     "top",
-     "entertainment"
-    ]
-   },
-   {
-    "title": "Lawsuits dropped by Texas that accused doctors of illegally providing transgender youth care",
-    "description": "DALLAS — Outgoing Texas Attorney General Ken Paxton is ending efforts to punish two doctors who were among the first in the U.S. to face accusations of violating bans on providing care to transgender youth, dropping...",
-    "source": "The Washington Times",
-    "link": "https://www.washingtontimes.com/news/2026/nov/23/lawsuits-dropped-texas-accused-doctors-illegally-providing/",
-    "pubDate": "2026-11-23 23:05:47",
+    "title": "IMF approves $417 million in funding arrangements with Guinea",
+    "description": "The International Monetary Fund said on Monday its executive board had concluded the 2026 Article IV consultation and approved 417 million in credit and fund arrangements with Guinea",
+    "source": "Devdiscourse",
+    "link": "https://www.devdiscourse.com/article/international/4011047-imf-approves-417-million-in-funding-arrangements-with-guinea",
+    "pubDate": "2026-11-24 00:07:05",
     "category": [
      "top",
      "politics",
-     "lifestyle"
+     "business"
+    ]
+   },
+   {
+    "title": "The Far-Left DSA Won Most of Its Midterm Mayoral Races.",
+    "description": "Eight of the 13 mayoral candidates endorsed by the far-left Democratic Socialists of America (DSA) were elected during the midterm elections earlier this month. Winners. However, the most prominent victory was that...",
+    "source": "Cbnc",
+    "link": "https://cbnc.com/the-far-left-dsa-won-most-of-its-midterm-mayoral-races/",
+    "pubDate": "2026-11-24 00:07:00",
+    "category": [
+     "top",
+     "politics"
+    ]
+   },
+   {
+    "title": "6-month medicine plan to end shortages in state",
+    "description": "State govt shifts to six-month medicine procurement cycle Rs 275 cr advance purchase planned for Jan-June needs Move follows CAG findings on past supply gaps and shortages",
+    "source": "The Hans India",
+    "link": "https://www.thehansindia.com/news/cities/amaravati/6-month-medicine-plan-to-end-shortages-in-state-1145181",
+    "pubDate": "2026-11-24 00:06:52",
+    "category": [
+     "top",
+     "health"
     ]
    }
   ],
   "kerala": [
+   {
+    "title": "\"Only when the nation survives can its culture survive...\": Mohanlal praises Kesari Weekly for promoting patriotism and national consciousness",
+    "description": "Malayalam actor Mohanlal on Monday, November 23, praised the RSS-linked Malayalam weekly 'Kesari' for promoting patriotism and national consciousness, describing its efforts as a cultural responsibility while...",
+    "source": "Ani (asian News International)",
+    "link": "https://www.aninews.in/news/entertainment/out-of-box/only-when-the-nation-survives-can-its-culture-survive-mohanlal-praises-kesari-weekly-for-promoting-patriotism-and-national-consciousness20261124120144/",
+    "pubDate": "2026-11-24 00:00:00",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "How Chai Became India's Everyday Drink After Starting as a Plantation Export",
+    "description": "India runs on chai, but the drink as most people know it, milky, sweet, spiced, is barely a century old. The story behind it involves British colonial tea plantations, a deliberate marketing push to create domestic...",
+    "source": "Www.newspointapp.com",
+    "link": "https://www.newspointapp.com/english/lifestyle/the-rise-of-chai-from-colonial-export-to-indias-beloved-daily-ritual/articleshow/136118783.cms",
+    "pubDate": "2026-11-23 23:37:30",
+    "category": [
+     "top",
+     "food"
+    ]
+   },
+   {
+    "title": "Wetter winter forecast for the Himalaya region",
+    "description": "Snow depth is an important marker for sustaining river flows and deciding the water budget for the coming year.",
+    "source": "The Hans India",
+    "link": "https://www.thehansindia.com/news/cities/new-delhi/wetter-winter-forecast-for-the-himalaya-region-1145151",
+    "pubDate": "2026-11-23 23:34:02",
+    "category": [
+     "environment",
+     "top",
+     "business"
+    ]
+   },
+   {
+    "title": "IMD weather update: Heavy rain alert for Kerala, Tamil Nadu; dense fog likely in UP, Assam",
+    "description": "Tamil Nadu, Kerala and Puducherry are likely to receive heavy rainfall on November 24, while parts of Andhra Pradesh may experience strong winds. IMD has also warned of dense fog in several northern and northeastern...",
+    "source": "Cnbctv18",
+    "link": "https://www.cnbctv18.com/india/imd-weather-forecast-november-24-heavy-rain-tamil-nadu-kerala-dense-fog-up-assam-20040111.htm",
+    "pubDate": "2026-11-23 23:30:43",
+    "category": [
+     "environment",
+     "top"
+    ]
+   },
    {
     "title": "Milma Opens Thiruvananthapuram Dairy to Public for 2026 National Milk Day Celebrations",
     "description": "Milma opens its Thiruvananthapuram Dairy at Ambalathara to the public on Nov. 24–25 for National Milk Day, showcasing milk processing and value-added dairy lines.",
@@ -71,82 +127,75 @@
      "top",
      "entertainment"
     ]
-   },
-   {
-    "title": "Power outage during Minister’s programme in Kannur: KSEB staff rally behind suspended sub-engineer",
-    "description": "KSEB staff protest suspension of sub-engineer over brief outage during minister’s Kannur programme urged withdrawal and state-wide action.",
-    "source": "The Hindu",
-    "link": "https://www.thehindu.com/news/national/kerala/power-outage-during-ministers-programme-in-kannur-kseb-staff-rally-behind-suspended-sub-engineer/article71733750.ece",
-    "pubDate": "2026-11-23 19:45:26",
-    "category": [
-     "crime",
-     "top"
-    ]
-   },
-   {
-    "title": "Hans Realcon Pvt. Ltd. Vs. Indore Municipal Corporation and Ors. – Madhya Pradesh High Court",
-    "description": "Login Access Default, Dispute, and Debt Resolution Laws Password Email OTP WhatsApp OTP Google Username or Email Password 👁 Remember this device Log In Forgot Password? Email Send OTP Enter OTP Verify & Login Resend...",
-    "source": "Ibclaw",
-    "link": "https://ibclaw.in/hans-realcon-pvt-ltd-vs-indore-municipal-corporation-and-ors-madhya-pradesh-high-court/",
-    "pubDate": "2026-11-23 19:36:00",
-    "category": [
-     "top",
-     "business"
-    ]
-   },
-   {
-    "title": "V Nagesh Vs. M.S. Savitha – Karnataka High Court",
-    "description": "Login Access Default, Dispute, and Debt Resolution Laws Password Email OTP WhatsApp OTP Google Username or Email Password 👁 Remember this device Log In Forgot Password? Email Send OTP Enter OTP Verify & Login Resend...",
-    "source": "Ibclaw",
-    "link": "https://ibclaw.in/v-nagesh-vs-m-s-savitha-karnataka-high-court/",
-    "pubDate": "2026-11-23 19:33:00",
-    "category": [
-     "top",
-     "business",
-     "technology"
-    ]
-   },
-   {
-    "title": "KCBC Temperance Commission urges Kerala govt to prioritise public health in liquor policy",
-    "description": "KCBC Temperance Commission urges Kerala govt to prioritise public health in liquor policy",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/city/kochi/kcbc-temperance-commission-urges-kerala-govt-to-prioritise-public-health-in-liquor-policy/articleshow/136113252.cms",
-    "pubDate": "2026-11-23 19:13:44",
-    "category": [
-     "top",
-     "politics",
-     "health"
-    ]
-   },
-   {
-    "title": "France Ready To Deepen Make In India Push In Space Sector: Envoy Thierry Mathou",
-    "description": "ISpA flags the need for patient private investment, domestic risk-financing mechanisms and stronger industrial capacity to scale India's space sector",
-    "source": "Bw Businessworld",
-    "link": "https://www.businessworld.in/article/france-ready-to-deepen-make-in-india-push-in-space-sector-envoy-thierry-mathou-634879",
-    "pubDate": "2026-11-23 19:10:35",
-    "category": [
-     "top",
-     "technology"
-    ]
    }
   ],
   "world": [
    {
-    "title": "Peru’s third-quarter GDP grows 3.1% as private investment surges",
-    "description": "Peru’s third-quarter GDP grows 3.1% as private investment surges",
-    "source": "Investing South Africa",
-    "link": "https://za.investing.com/news/world-news/perus-thirdquarter-gdp-grows-31-as-private-investment-surges-4593145",
-    "pubDate": "2026-11-23 23:06:13",
+    "title": "Donald Trump hails Nvidia's reinstatement of CEO Jensen Huang after affair scandal",
+    "description": "Nvidia shares jumped 33 per cent after the US tech company announced Huang's reappointment.",
+    "source": "Sbs News",
+    "link": "https://www.sbs.com.au/news/article/trump-hails-nvidias-reinstatement-of-ceo-jensen-huang-after-affair-scandal/buiqulon6",
+    "pubDate": "2026-11-24 00:06:49",
     "category": [
      "world"
     ]
    },
    {
-    "title": "EU sanctions former US government contractor turned neo-Nazi terror group leader",
-    "description": "Rinaldo Nazzaro is the founder and leader of The Base, an organization of right-wing extremists involved in terrorist acts, that has been on the EU Terrorist List since 2024.",
-    "source": "Jpost",
-    "link": "https://www.jpost.com/international/islamic-terrorism/article-915901",
-    "pubDate": "2026-11-23 23:05:38",
+    "title": "New Research Tackles Honey Bee Industry Challenges",
+    "description": "OverviewNew research projects under the AgriFutures Honey Bee & Pollination RD&E Plan 2026-31 are addressing key challenges and opportunities",
+    "source": "Mirage News",
+    "link": "https://www.miragenews.com/new-research-tackles-honey-bee-industry-1782447/",
+    "pubDate": "2026-11-24 00:06:23",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "Drug Cartel Leader Meza Flores Capture Creates Power Vacuum Where Violence Was Possible: Threat Analyst",
+    "description": "Mexican special forces captured cartel leader Meza Flores in Mexico.",
+    "source": "Ntd",
+    "link": "https://www.ntd.com/ntdplus/drug-cartel-leader-meza-flores-capture-creates-power-vacuum-where-violence-was-possible-threat-analyst_1187007.html",
+    "pubDate": "2026-11-24 00:05:48",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "Empty pharmacy shelves are haunting patients: Prolonged legal battles halted medicine supply in Portugal",
+    "description": "Portugal is facing a shortage of generic dapagliflozin, a critical medication for type 2 diabetes, as legal disputes over patent rights block market entry for new suppliers. The Association of Generic Medicine Users...",
+    "source": "Pravda",
+    "link": "https://english.pravda.ru/news/world/174020-portugal-dapagliflozin-generic-shortage-legal-delay/",
+    "pubDate": "2026-11-24 00:05:00",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "Senior Libyan official wants Zelensky on terrorism watchlist over drone strikes",
+    "description": "Libya’s Presidential Council deputy chairman Musa al-Koni has called for a terrorism designation for Zelensky over naval drone strikes. Read Full Article at RT.com",
+    "source": "Rt",
+    "link": "https://rt-english.com/news/649272-libya-zelensky-terrorism-watchlist/",
+    "pubDate": "2026-11-24 00:04:19",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "Griffith Marks International Day of People With Disability",
+    "description": "Griffith residents are invited to come together for a free, colourful community celebration marking International Day of People with Disability on",
+    "source": "Mirage News",
+    "link": "https://www.miragenews.com/griffith-marks-international-day-of-people-with-1782445/",
+    "pubDate": "2026-11-24 00:04:17",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "Hegseth's Former Chief of Staff Calls on Him to Resign, Citing Loss of 'Any Ability to be Effective'",
+    "description": "Joe Kasper, Hegseth's ex-chief of staff, said the defense secretary should resign over the Iran war, his firings and his work with Congress.",
+    "source": "Military.com",
+    "link": "https://www.military.com/pete-hegseth-former-chief-of-staff-calls-on-him-to-resign-citing-loss-any-aibility-to-be-effective",
+    "pubDate": "2026-11-24 00:04:10",
     "category": [
      "world"
     ]
@@ -154,107 +203,112 @@
   ],
   "sports": [
    {
-    "title": "F1 hails Las Vegas success after record overtakes and sold-out crowd",
-    "description": "LAS VEGAS, Nov 23 : Formula One said record overtaking and wheel-to-wheel racing helped make its Las Vegas Grand Prix a sold-out success, overcoming early concerns about ticket demand as Max Verstappen won a...",
+    "title": "New Zealand lose Tickner to hamstring injury for second India test",
+    "description": "Nov 24 : Black Caps seamer Blair Tickner has been ruled out of the second test against India, which starts in Christchurch on Friday, by a hamstring injury, New Zealand Cricket said on Tuesday.• The 33-year-old...",
     "source": "Channel Newsasia",
-    "link": "https://www.channelnewsasia.com/sport/f1-hails-las-vegas-success-after-record-overtakes-and-sold-out-crowd-6576191",
-    "pubDate": "2026-11-23 23:05:31",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "Motor racing-F1 hails Las Vegas success after record overtakes and sold-out crowd",
-    "description": "Formula One said record overtaking and wheel-to-wheel racing helped make its Las Vegas Grand Prix a sold-out success overcoming early concerns about ticket demand as Max Verstappen won a slipstreaming thriller ahead...",
-    "source": "Devdiscourse",
-    "link": "https://www.devdiscourse.com/article/international/4011031-motor-racing-f1-hails-las-vegas-success-after-record-overtakes-and-sold-out-crowd",
-    "pubDate": "2026-11-23 23:02:22",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "November 24th November Complete Sports Schedule: Where, When, and How to Watch Your Favorite Sport’s Event",
-    "description": "Tuesday, November 24, is a big one with a raft of events across the international tennis scene, European football, college basketball, and the North American pro leagues. The NFL will be off after Monday night’s...",
-    "source": "Essentially Sports",
-    "link": "https://www.essentiallysports.com/tennis-nhl-basketball-nba-college-football-soccer-news-november-twenty-forth-november-complete-sports-schedule-where-when-and-how-to-watch-your-favorite-sports-event/",
-    "pubDate": "2026-11-23 23:01:18",
+    "link": "https://www.channelnewsasia.com/sport/new-zealand-lose-tickner-hamstring-injury-second-india-test-6576331",
+    "pubDate": "2026-11-24 00:02:29",
     "category": [
      "sports"
     ]
    },
    {
-    "title": "The Best Cheap Gaming Laptops for 2026",
-    "description": "We've seen the lion's share of the latest GeForce- and Radeon-equipped gaming laptops—and our experts have tested all of the top options in PC Labs. Here's how to get the best machine on a budget.",
-    "source": "Pcmag",
-    "link": "https://www.pcmag.com/picks/the-best-cheap-gaming-laptops",
-    "pubDate": "2026-11-23 23:00:09",
-    "category": [
-     "sports",
-     "top",
-     "technology"
-    ]
-   },
-   {
-    "title": "GTA 6 receives mixed review from Twitch streamer Lacy as he rates the story 6.5 out of 10",
-    "description": "Twitch streamer Nick \"Lacy\" rated GTA 6's gameplay a perfect 10/10 but gave its story just 6.5/10 after completing the game. He criticised the slow opening, saying the narrative improved around the 65-70% mark. Lacy...",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/world/us-streamers/gta-6-receives-mixed-review-from-twitch-streamer-lacy-as-he-rates-the-story-6-5-out-of-10/articleshow/136116077.cms",
-    "pubDate": "2026-11-23 22:59:49",
-    "category": [
-     "sports",
-     "top",
-     "entertainment"
-    ]
-   },
-   {
-    "title": "Travis Kelce drops four-word hint about retirement after breaking Rob Gronkowski's NFL record",
-    "description": "Travis Kelce sparked fresh retirement speculation after hinting at his NFL future following the Chiefs' 34-7 win over the Cardinals. The 37-year-old surpassed Rob Gronkowski with 110 career touchdowns, moving into...",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/sports/nfl/news/travis-kelce-drops-four-word-hint-about-retirement-after-breaking-rob-gronkowskis-nfl-record/articleshow/136116018.cms",
-    "pubDate": "2026-11-23 22:51:56",
+    "title": "Cricket-New Zealand lose Tickner to hamstring injury for second India test",
+    "description": "Black Caps seamer Blair Tickner has been ruled out of the second test against India which starts in Christchurch on Friday by a hamstring injury New Zealand Cricket said on Tuesday",
+    "source": "Devdiscourse",
+    "link": "https://www.devdiscourse.com/article/international/4011045-cricket-new-zealand-lose-tickner-to-hamstring-injury-for-second-india-test",
+    "pubDate": "2026-11-24 00:00:39",
     "category": [
      "sports",
      "top"
     ]
    },
    {
-    "title": "Indore Sports Roundup: Triple Tons Power Cricket Rout, Golf Duo Triumph, Young Champions Shine, Wrestling Showdown Awaits",
-    "description": "Indore witnessed exciting sporting action as SS Commune smashed 452/6 to crush SVCA by 281 runs, while Bharat and Arjun Chauhan won the Buddy's Cup golf title. Young champions emerged in chess, table tennis and...",
-    "source": "The Free Press Journal",
-    "link": "https://www.freepressjournal.in/indore/indore-sports-roundup-triple-tons-power-cricket-rout-golf-duo-triumph-young-champions-shine-wrestling-showdown-awaits",
-    "pubDate": "2026-11-23 22:50:00",
+    "title": "KFC enter 20th DSA Trophy final",
+    "description": "KFC, Kakching edged out FC Lamjao 2 1 at the DSA Kakching playground today to book their berth in the final of the 20th DSA Trophy Football Tournament KFC, who finished as Group B runners up, dominated the early...",
+    "source": "E-pao",
+    "link": "https://e-pao.net/ge.asp?heading=Sport12&src=241126",
+    "pubDate": "2026-11-23 23:59:11",
     "category": [
-     "sports",
-     "top"
+     "sports"
     ]
    },
    {
-    "title": "Brittany Mahomes consoles Trinity Rodman after Kansas City Current end Washington Spirit’s title hopes",
-    "description": "Brittany Mahomes showed support for Trinity Rodman after the Washington Spirit suffered another NWSL Championship defeat. The Kansas City Current co-owner comforted the emotional forward following a 2-1 win. Rodman...",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/sports/international-sports/brittany-mahomes-consoles-trinity-rodman-after-kansas-city-current-end-washington-spirits-title-hopes/articleshow/136116033.cms",
-    "pubDate": "2026-11-23 22:48:43",
+    "title": "State Junior Girls Kabaddi team flagged off for 52nd National C'ship",
+    "description": "The Manipur state junior girls kabaddi team were officially flagged off from Bir Tikendrajit International Airport Imphal International Airport this morning ahead of the 52nd Junior Girls National Kabaddi...",
+    "source": "E-pao",
+    "link": "https://e-pao.net/ge.asp?heading=Sport11&src=241126",
+    "pubDate": "2026-11-23 23:59:11",
     "category": [
-     "sports",
-     "top"
+     "sports"
+    ]
+   },
+   {
+    "title": "YK College, Standard College reach MU Men's Inter College Football semi finals",
+    "description": "YK College and Standard College set up a semi final clash in the ongoing Ayekpam Pratap Singh Memorial Manipur University Men's Inter College Football Tournament 2026 27 at Chajing Kangjeibung today In the first...",
+    "source": "E-pao",
+    "link": "https://e-pao.net/ge.asp?heading=Sport9&src=241126",
+    "pubDate": "2026-11-23 23:59:11",
+    "category": [
+     "sports"
+    ]
+   },
+   {
+    "title": "69 Bn CRPF inaugurates Open Gym at Malom",
+    "description": "The 69 Battalion CRPF, Mantripukhri, under the aegis of the Manipur Nagaland M N Sector CRPF, organized a Civic Action Programme today at Malom in Imphal West District During the event, a newly installed Open Gym was...",
+    "source": "E-pao",
+    "link": "https://e-pao.net/ge.asp?heading=Sport8&src=241126",
+    "pubDate": "2026-11-23 23:59:11",
+    "category": [
+     "sports"
+    ]
+   },
+   {
+    "title": "19th Players' Trophy Women's Kang Tournament underway",
+    "description": "The 19th edition of the Players' Trophy League cum Knockout Kang Tournament 2026 Nupi Khut Women kicked off today at Shree Shree Ram Gopaldev Mandap Yaiskul Kangshang Organized by Yaiskul Kangkhut in dedication to...",
+    "source": "E-pao",
+    "link": "https://e-pao.net/ge.asp?heading=Sport7&src=241126",
+    "pubDate": "2026-11-23 23:59:11",
+    "category": [
+     "sports"
+    ]
+   },
+   {
+    "title": "YOG medallists L Ambekar and RK Lanchenbi felicitated",
+    "description": "Lairenlakpam Ambekar Meetei who won gold in Boxing, and Rajkumari Lanchenbi Chanu who secured a bronze in Wushu at the 2026 Youth Olympic Games held in Dakar, Senegal, were felicitated at the Police Headquarters...",
+    "source": "E-pao",
+    "link": "https://e-pao.net/ge.asp?heading=Sport6&src=241126",
+    "pubDate": "2026-11-23 23:59:11",
+    "category": [
+     "sports"
     ]
    }
   ],
   "entertainment": [
    {
-    "title": "Brad Pitt CANCELS appearance at London premier after falling ill",
-    "description": "Brad Pitt was scheduled to attend the London premiere of his new film but fell ill with the flu. As a result, he was advised against travelling and had to withdraw from the event. He was last seen publicly at the Los...",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitt-cancels-appearance-at-london-premiere-the-further-mis-adventures-of-cliff-booth-after-falling-ill/articleshow/136116102.cms",
-    "pubDate": "2026-11-23 23:03:50",
+    "title": "Wave of Hollywood home invasions has security experts urging less social media use and more privacy",
+    "description": "As the holidays approach, a string of break-ins targeting the homes of actors, singers and... The post Wave of Hollywood home invasions has security experts urging less social media use and more privacy appeared...",
+    "source": "Democratic Accent",
+    "link": "https://www.democraticaccent.com/wave-of-hollywood-home-invasions-has-security-experts-urging-less-social-media-use-and-more-privacy/",
+    "pubDate": "2026-11-24 00:00:33",
     "category": [
-     "entertainment"
+     "entertainment",
+     "top",
+     "technology"
     ]
    }
   ],
-  "tech": []
+  "tech": [
+   {
+    "title": "Cathie Wood Swapped Nvidia for SpaceX Over the Risk of “Losing Jensen.” Now Jensen’s Back",
+    "description": "ARK dumped Nvidia because one man might walk away to join Elon Musk. Then the board did the unthinkable, and the trade started to look very different. What did Wood's bet miss, and what risks still hang over Nvidia...",
+    "source": "24/7 Wall St",
+    "link": "https://247wallst.com/investing/2026/11/23/cathie-wood-swapped-nvidia-for-spacex-over-the-risk-of-losing-jensen-now-jensens-back/",
+    "pubDate": "2026-11-24 00:07:46",
+    "category": [
+     "technology"
+    ]
+   }
+  ]
  }
 }

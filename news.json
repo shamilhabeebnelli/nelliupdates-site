@@ -1,215 +1,163 @@
 {
- "fetched_at": "2026-11-24 13:09 UTC",
+ "fetched_at": "2026-11-24 14:10 UTC",
  "groups": {
   "india": [
    {
-    "title": "AdepuVenkatesh turns challenges into opportunities through IT entrepreneurship",
-    "description": "From humble beginnings to international business expansion, his vision combines technology, employment generation and social welfare",
-    "source": "The Hans India",
-    "link": "https://www.thehansindia.com/news/cities/warangal/adepuvenkatesh-turns-challenges-into-opportunities-through-it-entrepreneurship-1145229",
-    "pubDate": "2026-11-24 01:08:48",
-    "category": [
-     "top",
-     "business"
-    ]
-   },
-   {
-    "title": "Can India and Bangladesh Handle Sheikh Hasina’s Extradition Request Without Deepening the Crisis?",
-    "description": "What happened? Bangladesh has renewed pressure on India to extradite former Prime Minister Sheikh Hasina. State Minister for Foreign Affairs Shama Obaed Islam told Reuters in an interview published November 23 that...",
-    "source": "Sansani",
-    "link": "https://sansani.com/sheikh-hasina-extradition-india-bangladesh/",
-    "pubDate": "2026-11-24 01:08:43",
-    "category": [
-     "top",
-     "politics"
-    ]
-   },
-   {
-    "title": "Mizoram Tests Over 85,000 for HIV, Shows Decline in New Cases",
-    "description": "Between April and October 2026, Mizoram screened 85,479 individuals for HIV. The data reveal a steady reduction in new cases and a sharp decline in AIDS‑related mortality. The post Mizoram Tests Over 85,000 for HIV,...",
-    "source": "Informal News",
-    "link": "https://www.informalnewz.com/mizoram-tests-over-85000-for-hiv-shows-decline-in-new-cases/",
-    "pubDate": "2026-11-24 01:08:27",
-    "category": [
-     "top",
-     "health"
-    ]
-   },
-   {
-    "title": "Jensen Huang gets cheers and hugs from employees on return to Nvidia HQ, promises to be 'better CEO' | Watch",
-    "description": "Nvidia CEO Jensen Huang received a warm welcome from employees as he returned to the company's headquarters in Santa Clara, California, following his reinstatement, with staff cheering, chanting his name, and hugging...",
-    "source": "India Tv",
-    "link": "https://www.indiatvnews.com/news/world/jensen-huang-gets-cheers-hugs-from-employees-on-return-to-nvidia-hq-promises-to-be-better-ceo-video-latest-updates-2026-11-24-1060199",
-    "pubDate": "2026-11-24 01:08:19",
-    "category": [
-     "top",
-     "lifestyle",
-     "business"
-    ]
-   },
-   {
-    "title": "Equity Market Outlook 2027: Why India could be poised for a stronger year",
-    "description": "Equity Market Outlook 2027: The challenges began with the tariff uncertainty that had carried over from 2025. The threat of higher trade barriers, uncertainty around global supply chains and the possibility of a...",
-    "source": "Et Now",
-    "link": "https://www.etnownews.com/markets/equity-market-outlook-2027-why-india-could-be-poised-for-a-stronger-year-article-156556934",
-    "pubDate": "2026-11-24 01:07:58",
-    "category": [
-     "top",
-     "business"
-    ]
-   },
-   {
-    "title": "Oil prices hit a three-month low. Will petrol and diesel get cheaper in India?",
-    "description": "What happened in the oil market? On November 23, international oil prices fell more than 3 percent to roughly three-month lows. Brent crude futures settled at $89.37 per barrel and US West Texas Intermediate futures...",
-    "source": "Sansani",
-    "link": "https://sansani.com/oil-prices-india-petrol-diesel-november-2026/",
-    "pubDate": "2026-11-24 01:07:47",
-    "category": [
-     "top",
-     "business"
-    ]
-   },
-   {
-    "title": "Sonowal attributes Assam’s development to PM Modi’s policies",
-    "description": "Union Minister Sarbananda Sonowal credited PM Narendra Modi’s initiatives for Assam and the Northeast’s development over the past 12 years at Assam Day.",
-    "source": "The News Mill",
-    "link": "https://thenewsmill.com/2026/11/sonowal-attributes-assams-development-to-pm-modis-policies/",
-    "pubDate": "2026-11-24 01:07:19",
+    "title": "Thadou Inpi Manipur Calls for Probe into Kuki-Named Online Platforms and Alleged Propaganda",
+    "description": "TIM accuses several Kuki-named online platforms of targeting the Thadou community and urges KIM to disclose their operators' identities.",
+    "source": "The Sentinel",
+    "link": "https://www.sentinelassam.com/north-east-india-news/manipur/thadou-inpi-manipur-calls-for-probe-into-kuki-named-online-platforms-and-alleged-propaganda",
+    "pubDate": "2026-11-24 02:09:47",
     "category": [
      "top",
      "politics",
+     "technology"
+    ]
+   },
+   {
+    "title": "Jensen Huang's fortune jumps $33 billion in a day after Nvidia comeback; net worth hits $143 billion",
+    "description": "US stocks staged a stunning rally on Monday, bouncing back from last week’s brutal technology-led selloff as the surprise return of Jensen Huang to lead Nvidia Corp. propelled Wall Street to its best day since April...",
+    "source": "Moneycontrol",
+    "link": "https://www.moneycontrol.com/world/jensen-huang-s-fortune-jumps-33-billion-in-a-day-after-nvidia-comeback-net-worth-hits-143-billion-article-14087559.html",
+    "pubDate": "2026-11-24 02:09:46",
+    "category": [
+     "top",
      "business"
+    ]
+   },
+   {
+    "title": "NDMC plans shift to unit area method for property tax by March",
+    "description": "New Delhi: The New Delhi Municipal Council plans to shift its property tax assessment to the unit area method (UAM) by the end of the current financial year, NDMC officials said on Monday",
+    "source": "Hindustan Times",
+    "link": "https://www.hindustantimes.com/cities/delhi-news/ndmc-plans-shift-to-unit-area-method-for-property-tax-by-march-101795459582364.html",
+    "pubDate": "2026-11-24 02:09:40",
+    "category": [
+     "top",
+     "business"
+    ]
+   },
+   {
+    "title": "Delhi BJP files complaint over AI-generated video featuring Nabin",
+    "description": "New Delhi: The Delhi BJP filed a police complaint on Monday after alleged AI-generated videos featuring national president Nitin Nabin surfaced online",
+    "source": "Hindustan Times",
+    "link": "https://www.hindustantimes.com/cities/delhi-news/delhi-bjp-files-complaint-over-ai-generated-video-featuring-nabin-101795459522488.html",
+    "pubDate": "2026-11-24 02:09:20",
+    "category": [
+     "top",
+     "politics",
+     "technology"
     ]
    }
   ],
   "kerala": [
    {
-    "title": "Thalaivasal vegetable market thrives on trade but lacks basic facilities",
-    "description": "The market currently functions on on 10 acres of land belonging to the Hindu Religious and Charitable Endowments (HR&CE) Department.",
-    "source": "The New Indian Express",
-    "link": "https://www.newindianexpress.com/states/tamil-nadu/2026/Nov/24/thalaivasal-vegetable-market-thrives-on-trade-but-lacks-basic-facilities-2",
-    "pubDate": "2026-11-24 01:03:34",
-    "category": [
-     "top",
-     "lifestyle"
-    ]
-   },
-   {
-    "title": "Can southern India turn a heavy-rain forecast into neighbourhood-level action?",
-    "description": "What happened? The India Meteorological Department’s November 23 material and reporting on its forecast pointed to a spell of heavy rain in parts of southern India, including areas in Tamil Nadu and Kerala, in the...",
-    "source": "Sansani",
-    "link": "https://sansani.com/south-india-heavy-rain-imd-alerts/",
-    "pubDate": "2026-11-24 00:49:02",
-    "category": [
-     "environment",
-     "top"
-    ]
-   },
-   {
-    "title": "Dharma Productions Enters Odia Cinema With Babushaan Mohanty’s ‘Navrup’",
-    "description": "Bhubaneswar: Famed Bollywood actor Ashutosh Rana and The Kerala Story 2 actor Ulka Gupta will be seen alongside Odia actor Babushaan Mohanty in an upcoming tri-lingual film—with the original language being...",
-    "source": "Odisha Bytes News",
-    "link": "https://odishabytes.com/dharma-productions-enters-odia-cinema-with-babushaan-mohantys-navrup/",
-    "pubDate": "2026-11-24 00:47:06",
+    "title": "Vijay Sethupathi Looks Dapper In A Black Suit At International Emmys In New York",
+    "description": "Vijay Sethupathi attended the 54th International Emmy Awards Gala in New York as a presenter.",
+    "source": "Ndtv",
+    "link": "https://www.ndtv.com/lifestyle/vijay-sethupathi-looks-dapper-in-a-black-suit-at-international-emmys-in-new-york-12368569",
+    "pubDate": "2026-11-24 02:08:35",
     "category": [
      "top",
      "entertainment"
     ]
    },
    {
-    "title": "Vizhinjam to Develop Fujairah-Style Offshore Service Harbour Under Mission Samudra",
-    "description": "Vizhinjam is set to get an offshore service harbour modelled on the Fujairah facility in the UAE under Mission Samudra, a government initiative aimed at transforming Kerala into a major maritime and port hub. The...",
-    "source": "India Seatrade News",
-    "link": "https://indiaseatradenews.com/vizhinjam-to-develop-fujairah-style-offshore-service-harbour-under-mission-samudra/",
-    "pubDate": "2026-11-24 00:36:28",
+    "title": "Rubber prices fall by Rs 50 in 18 days in Keralam; small farmers face fresh setback",
+    "description": "Rubber prices in Kerala have fallen by Rs 50 per kg in 18 days after hitting Rs 300 on November 2, leaving small-scale farmers worried.",
+    "source": "Mathrubhumi English",
+    "link": "https://english.mathrubhumi.com/news/money/rubber-prices-fall-by-rs-50-in-18-days-in-keralam-small-farmers-face-fresh-setback-gianp46n",
+    "pubDate": "2026-11-24 02:07:29",
+    "category": [
+     "top",
+     "business"
+    ]
+   },
+   {
+    "title": "Highrich financial fraud case: PMLA court issues non-bailable warrant against accused",
+    "description": "The ED challenged the order before the Kerala High Court, contending that the period of incarceration alone could not be a ground for granting him bail.",
+    "source": "The New Indian Express",
+    "link": "https://www.newindianexpress.com/cities/kochi/2026/Nov/24/highrich-financial-fraud-case-pmla-court-issues-non-bailable-warrant-against-accused",
+    "pubDate": "2026-11-24 02:06:47",
+    "category": [
+     "crime",
+     "top"
+    ]
+   },
+   {
+    "title": "Rahul’s pitch for stronger Israel ties irks Jamaat, CPM",
+    "description": "The controversy has put the IUML in a politically delicate position.",
+    "source": "The New Indian Express",
+    "link": "https://www.newindianexpress.com/states/kerala/2026/Nov/24/rahuls-pitch-for-stronger-israel-ties-irks-jamaat-cpm",
+    "pubDate": "2026-11-24 01:59:03",
+    "category": [
+     "top",
+     "politics"
+    ]
+   },
+   {
+    "title": "Malayalam actor Sreejith Ravi sentenced to one year in jail in POSCO case for allegedly flashing minors",
+    "description": "Actor Sreejith Ravi was sentenced to one year in POCSO case, and also fined ₹50,000 by a court in Kerala's Thrissur.",
+    "source": "Hindustan Times",
+    "link": "https://www.hindustantimes.com/entertainment/others/malayalam-actor-sreejith-ravi-sentenced-to-one-year-in-jail-in-posco-case-for-allegedly-flashing-minors-101795484678085.html",
+    "pubDate": "2026-11-24 01:50:41",
+    "category": [
+     "crime",
+     "top"
+    ]
+   },
+   {
+    "title": "Coimbatore steps up border vigil after bird flu outbreak in Kerala",
+    "description": "Amid the avian influenza outbreak in neighbouring Kerala, the Animal Husbandry Department has stepped up surveillance along the Coimbatore-Kerala border, deploying special veterinary teams at 12 checkposts to screen...",
+    "source": "Dt Next",
+    "link": "https://www.dtnext.in/news/tamilnadu/coimbatore-steps-up-border-vigil-after-bird-flu-outbreak-in-kerala",
+    "pubDate": "2026-11-24 01:47:46",
     "category": [
      "environment",
+     "top"
+    ]
+   },
+   {
+    "title": "Vigilance yet to establish bribery charges against CEC Gyanesh Kumar",
+    "description": "Sources told TNIE the sleuths have now sought documents related to Kerala State Transport Project (KSTP) from the public works department for scrutiny and this could be the final stage of the enquiry, sources added.",
+    "source": "The New Indian Express",
+    "link": "https://www.newindianexpress.com/states/kerala/2026/Nov/24/vigilance-yet-to-establish-bribery-charges-against-cec-gyanesh-kumar",
+    "pubDate": "2026-11-24 01:43:54",
+    "category": [
+     "crime",
      "top",
      "business"
     ]
    },
    {
-    "title": "Special Story: Kerala Woman Wins ₹30 Crore Lottery, Plans to Pay Off Home Loan First",
-    "description": "#୩୦_କୋଟି_ଜିତିଲେ_ମହିଳା ୩୦ କୋଟିର ଲଟେରୀ ଜିତିଲେ ମହିଳା। ପଇସା ମିଳିବା ପରେ ମହିଳାଙ୍କ ୨ଟି ବଡ଼ ପ୍ଲାନ୍। ଜାଣିଲା ପରେ ଆପଣଙ୍କ ଉଡ଼ିଯିବ ହୋସ୍ । Sneha Jay, a Kerala woman living in Edmonton, Canada, has won 5 million Canadian dollars,...",
-    "source": "Otv News",
-    "link": "https://otvkhabar.in/videosodisha/society/special-story-kerala-woman-wins-30-crore-lottery-plans-to-pay-off-home-loan-first-12836421",
-    "pubDate": "2026-11-24 00:30:18",
+    "title": "Kerala high-speed rail project can be completed in 5 years if DMRC takes charge; Metro Man E Sreedharan says state govt's delay is holding it back",
+    "description": "Metro Man E Sreedharan has expressed disappointment over the Kerala government's delay in taking a decision on his proposed high-speed rail project. He has suggested alternative funding options, including...",
+    "source": "The Economic Times",
+    "link": "https://economictimes.indiatimes.com/industry/transportation/railways/kerala-high-speed-rail-project-can-be-completed-in-5-years-if-dmrc-takes-charge-metro-man-e-sreedharan-says-state-govts-delay-is-holding-it-back/articleshow/136122457.cms",
+    "pubDate": "2026-11-24 01:37:41",
     "category": [
      "top",
-     "lifestyle",
-     "business"
-    ]
-   },
-   {
-    "title": "SBI PO Result 2026 Out: Mains Result PDF, Phase III & Final Result Updates",
-    "description": "SBI PO Result 2026: Mains result PDF out for 1,500 PO posts. Check your roll number, Phase III dates, call letter, cut-off and final result updates.",
-    "source": "Entri",
-    "link": "https://entri.app/blog/sbi-po-result/",
-    "pubDate": "2026-11-24 00:16:22",
-    "category": [
-     "top",
-     "business"
-    ]
-   },
-   {
-    "title": "\"Only when the nation survives can its culture survive...\": Mohanlal praises Kesari Weekly for promoting patriotism and national consciousness",
-    "description": "Malayalam actor Mohanlal on Monday, November 23, praised the RSS-linked Malayalam weekly 'Kesari' for promoting patriotism and national consciousness, describing its efforts as a cultural responsibility while...",
-    "source": "Ani (asian News International)",
-    "link": "https://www.aninews.in/news/entertainment/out-of-box/only-when-the-nation-survives-can-its-culture-survive-mohanlal-praises-kesari-weekly-for-promoting-patriotism-and-national-consciousness20261124120144/",
-    "pubDate": "2026-11-24 00:00:00",
-    "category": [
-     "world"
-    ]
-   },
-   {
-    "title": "How Chai Became India's Everyday Drink After Starting as a Plantation Export",
-    "description": "India runs on chai, but the drink as most people know it, milky, sweet, spiced, is barely a century old. The story behind it involves British colonial tea plantations, a deliberate marketing push to create domestic...",
-    "source": "Www.newspointapp.com",
-    "link": "https://www.newspointapp.com/english/lifestyle/the-rise-of-chai-from-colonial-export-to-indias-beloved-daily-ritual/articleshow/136118783.cms",
-    "pubDate": "2026-11-23 23:37:30",
-    "category": [
-     "top",
-     "food"
+     "business",
+     "technology"
     ]
    }
   ],
   "world": [
    {
-    "title": "Opinion: Don't Let Dark Forces Destroy Black Friday",
-    "description": "Black Friday falls on November 27, though you'd hardly know it from your inbox. A sale that used to last a day can now occupy most of the month. I'm",
-    "source": "Mirage News",
-    "link": "https://www.miragenews.com/opinion-dont-let-dark-forces-destroy-black-1782498/",
-    "pubDate": "2026-11-24 01:08:49",
+    "title": "Jensen Huang Returns To Nvidia Headquarters To Cheers After CEO Reinstatement | Trump | News18",
+    "description": "Nvidia founder Jensen Huang returned to the chipmaker's Santa Clara headquarters in California on Monday to cheers and applause from a large crowd of employees, hours after the board announced his reinstatement...",
+    "source": "News 18",
+    "link": "https://www.news18.com/videos/world/jensen-huang-returns-to-nvidia-headquarters-to-cheers-after-ceo-reinstatement-trump-news18-10438114.html",
+    "pubDate": "2026-11-24 02:09:19",
     "category": [
      "world"
     ]
    },
    {
-    "title": "Townsville Launches New Early Intervention Program",
-    "description": "The Crisafulli Government is delivering effective early intervention with new providers under its Proven Initiatives program. Community Gro will",
-    "source": "Mirage News",
-    "link": "https://www.miragenews.com/townsville-launches-new-early-intervention-1782497/",
-    "pubDate": "2026-11-24 01:08:24",
-    "category": [
-     "world"
-    ]
-   },
-   {
-    "title": "After Overton, CNS milestones, COINS complexities — a BioCentury podcast",
-    "description": "BIOCENTURY | POLITICS, POLICY & LAWAFTER OVERTON, CNS MILESTONES, COINS COMPLEXITIES — A BIOCENTURY PODCASTWhat White House’s withdrawal of nominee means for FDA and the challenges ahead for the agency",
-    "source": "Biocentury",
-    "link": "https://www.biocentury.com/article/661728/after-overton-cns-milestones-coins-complexities-a-biocentury-podcast",
-    "pubDate": "2026-11-24 01:08:13",
-    "category": [
-     "world"
-    ]
-   },
-   {
-    "title": "Africa: Africa's Mining Ministers Back Historic Drive to Turn Artisanal Mining Into a Continental Economic Powerhouse",
-    "description": "[Nile Post] Africa is entering a new chapter in mineral governance, as mining ministers and senior government representatives rally behind a continental initiative to transform artisanal and small-scale mining (ASM)...",
-    "source": "All Africa",
-    "link": "https://allafrica.com/stories/202611240026.html",
-    "pubDate": "2026-11-24 01:05:23",
+    "title": "Israeli Contestant Danielle Yablonka Allegedly Booed At Miss Universe 2026",
+    "description": "Yablonka denies booing claims, says footage may have been digitally altered.",
+    "source": "Ndtv",
+    "link": "https://www.ndtv.com/world-news/israeli-contestant-danielle-yablonka-allegedly-booed-at-miss-universe-2026-12368567",
+    "pubDate": "2026-11-24 02:07:55",
     "category": [
      "world"
     ]
@@ -217,146 +165,150 @@
   ],
   "sports": [
    {
-    "title": "New Contender Emerges For Iyo Sky's WWE Women's Intercontinental Championship",
-    "description": "Iyo Sky has some serious competition as top stars from WWE's women's roster are fighting for the chance to face her.",
+    "title": "\"Pretty Significant Difference\": NBA Teams See Tyler Herro as a Sixth-Man Scorer",
+    "description": "ESPN's Tim MacMahon believes NBA teams view Milwaukee Bucks guard Tyler Herro as a bench scorer, potentially creating a significant gap between his free-agency expectations and the league's valuation.",
+    "source": "Ndtv",
+    "link": "https://sports.ndtv.com/us/nba/pretty-significant-difference-nba-teams-reportedly-view-milwaukee-bucks-guard-tyler-herro-as-a-sixth-man-scorer-12368187",
+    "pubDate": "2026-11-24 02:09:56",
+    "category": [
+     "sports"
+    ]
+   },
+   {
+    "title": "Patrick Mahomes' Unique Bond With Son Bronze Comes Through In Their Secret Handshake",
+    "description": "Patrick Mahomes shares a special handshake with son Bronze, revealing a unique father-son tradition that differs from the greetings he has with his daughters.",
+    "source": "Ndtv",
+    "link": "https://sports.ndtv.com/us/nfl/patrick-mahomes-unique-bond-with-son-bronze-comes-through-in-their-secret-handshake-12368424",
+    "pubDate": "2026-11-24 02:09:09",
+    "category": [
+     "sports"
+    ]
+   },
+   {
+    "title": "\"Genuinely embarrassing\": NHL fans react to Canadian national anthem blunder before Maple Leafs vs Islanders",
+    "description": "The anthem singer at Long Island's UBS Arena tonight for the Maple Leafs vs Islanders clash made a blunder during the Canadian national anthem.",
     "source": "Sportskeeda",
-    "link": "https://www.sportskeeda.com/wwe/news-new-contender-emerges-for-iyo-sky-s-wwe-women-s-intercontinental-championship",
-    "pubDate": "2026-11-24 01:08:34",
+    "link": "https://www.sportskeeda.com/us/nhl/news-genuinely-embarrassing-nhl-fans-react-canadian-national-anthem-blunder-maple-leafs-vs-islanders",
+    "pubDate": "2026-11-24 02:09:01",
     "category": [
      "sports"
     ]
    },
    {
-    "title": "LeBron James’ Wife Savannah Files for Restraining Orders Against Two Men After Spine-Chilling Incident at LA Home",
-    "description": "Just two weeks after a man was arrested at LeBron James’ property, another troubling situation has emerged. His wife, Savannah James, is now seeking restraining orders against two men, fearing for her family’s...",
+    "title": "NFL Makes History As Super Bowl LXI Gets First-Ever IMAX Theater Release",
+    "description": "The NFL, Disney and ESPN are bringing Super Bowl LXI to hundreds of IMAX theaters for the first time, expanding the 2027 championship game's viewing experience.",
+    "source": "Ndtv",
+    "link": "https://sports.ndtv.com/us/nfl/nfl-makes-history-as-super-bowl-lxi-gets-first-ever-imax-theater-release-12368428",
+    "pubDate": "2026-11-24 02:08:38",
+    "category": [
+     "sports"
+    ]
+   },
+   {
+    "title": "From $5 Million In Disaster Relief To Youth Education, How Taylor Swift And Travis Kelce Give Back",
+    "description": "Taylor Swift and Kelce reveal their charity priorities",
+    "source": "Ndtv",
+    "link": "https://sports.ndtv.com/us/nfl/from-5-million-in-disaster-relief-to-youth-education-how-taylor-swift-and-travis-kelce-give-back-12368446",
+    "pubDate": "2026-11-24 02:08:08",
+    "category": [
+     "sports"
+    ]
+   },
+   {
+    "title": "“Our Residents Are Not PR Tools”: Cleveland Council Members Slam Deshaun Watson’s Thanksgiving Turkey Giveaway Plan Amid Browns’ Bye Week",
+    "description": "The Cleveland Browns quarterback Deshaun Watson is facing a bit of trouble despite his philanthropic approach on Thanksgiving Day. He planned to give away 2,000 turkeys at the Zelma George Watson and Fairfax...",
     "source": "Essentially Sports",
-    "link": "https://www.essentiallysports.com/nba-active-basketball-news-lebron-james-wife-savannah-files-for-restraining-orders-against-two-men-after-spine-chilling-incident-at-la-home/",
-    "pubDate": "2026-11-24 01:08:13",
+    "link": "https://www.essentiallysports.com/nfl-active-news-our-residents-are-not-pr-tools-cleveland-council-members-slam-deshaun-watsons-thanksgiving-turkey-giveaway-plan-amid-browns-bye-week/",
+    "pubDate": "2026-11-24 02:07:44",
     "category": [
      "sports"
     ]
    },
    {
-    "title": "Washington Spirit Part Ways With Adrián González: NWSL Coach Departs After Third Consecutive Championship Final Defeat",
-    "description": "The Washington Spirit have mutually parted ways with head coach Adrián González following their third consecutive NWSL Championship defeat. Despite guiding the club to consistent top-three finishes and three straight...",
-    "source": "The Sunday Guardian",
-    "link": "https://sundayguardianlive.com/sports/washington-spirit-part-ways-with-adrin-gonzlez-nwsl-coach-departs-after-third-consecutive-championship-final-defeat-326789/",
-    "pubDate": "2026-11-24 01:05:51",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "Michael Vaughan Takes A Dig At Shubman Gill Over India's Decision To Settle For Draw",
-    "description": "Vaughan took a dig at Gill over India's decision to settle for a draw against New Zealand, questioning the skipper's reasoning for not pushing for a win with 15 overs remaining.",
-    "source": "News 18",
-    "link": "https://www.news18.com/cricket/michael-vaughan-takes-a-dig-at-shubman-gill-over-indias-decision-to-settle-for-draw-10438082.html",
-    "pubDate": "2026-11-24 01:04:34",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "Dodgers Promote Hard-Throwing Prospect to Bolster Bullpen Depth",
-    "description": "A 6-foot-5 lefty who once topped out near 90 mph now sits at 92-96 and always touches the upper 90s. His slider drew whiffs on 43% of swings, yet a 5.31 ERA across 127 Double-A innings muddies the picture. The Los...",
-    "source": "Essentially Sports",
-    "link": "https://www.essentiallysports.com/mlb-baseball-news-dodgers-promote-hard-throwing-prospect-to-bolster-bullpen-depth/",
-    "pubDate": "2026-11-24 01:04:07",
+    "title": "From Green Bay To Malibu: Aaron Rodgers Puts $58.2 Million In Properties Up For Sale",
+    "description": "Aaron Rodgers puts $58.2 million property portfolio up for sale",
+    "source": "Ndtv",
+    "link": "https://sports.ndtv.com/us/nfl/from-green-bay-to-malibu-aaron-rodgers-puts-58-2-million-in-properties-up-for-sale-12368449",
+    "pubDate": "2026-11-24 02:07:36",
     "category": [
      "sports"
     ]
    },
    {
-    "title": "State level U-17 volleyball tourney begins in Charla",
-    "description": "Addressing the gathering, SP Rohit Raju said the youth in remote tribal areas of Charla mandal possessed considerable sporting talent and could excel at state and national levels if provided with proper opportunities...",
-    "source": "The Hans India",
-    "link": "https://www.thehansindia.com/telangana/state-level-u-17-volleyball-tourney-begins-in-charla-1145226",
-    "pubDate": "2026-11-24 01:03:46",
+    "title": "New Zealand Suffer Big Blow! Star Pacer Ruled Out Of 2nd Test Against India",
+    "description": "Blair Tickner, the New Zealand fast bowler, is ruled out of the second Test against India due to a right hamstring injury sustained during practice. He had previously missed the first Test and will undergo further...",
+    "source": "Times Now News",
+    "link": "https://www.timesnownews.com/sports/wwe/new-zealand-suffer-big-blow-star-pacer-ruled-out-of-2nd-test-against-india-article-156557084",
+    "pubDate": "2026-11-24 02:06:17",
     "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "India ranks 3rd in Asia Power Index",
-    "description": "",
-    "source": "Hindustan Times",
-    "link": "https://www.hindustantimes.com/infographic/india-ranks-3rd-in-asia-power-index-101795481954162.html",
-    "pubDate": "2026-11-24 01:00:33",
-    "category": [
-     "sports",
-     "business",
-     "top"
-    ]
-   },
-   {
-    "title": "The Game is Afoot",
-    "description": "An East Delhi cafe is bringing gaming, food, art and community together under one roof",
-    "source": "The New Indian Express",
-    "link": "https://www.newindianexpress.com/cities/delhi/2026/Nov/24/the-game-is-afoot",
-    "pubDate": "2026-11-24 00:59:00",
-    "category": [
-     "sports",
-     "top",
-     "business"
+     "sports"
     ]
    }
   ],
   "entertainment": [
    {
-    "title": "Shah Rukh Khan once revealed his fear of someone chopping off his hands",
-    "description": "Shah Rukh Khan revealed his greatest fear of having his hands chopped off during a talk show appearance. This unusual fear surprised actress Anushka Sharma and the show's hosts, Sajid Khan and Riteish Deshmukh. He...",
+    "title": "‘Aakasamlo Oka Tara’ BO day 4: Dulquer Salmaan’s film earns Rs. 3.20 crore",
+    "description": "Dulquer Salmaan's latest venture, 'Aakasamlo Oka Tara,' has been well-received by viewers and has seen respectable box office earnings. Despite a commendable start, the film witnessed a sharp decline of 44.3% in...",
     "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-am-famous-for-this-pose-but-shah-rukh-khan-once-revealed-his-fear-of-someone-chopping-off-his-hands/articleshow/136116832.cms",
-    "pubDate": "2026-11-24 01:00:34",
+    "link": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/box-office/aakasamlo-oka-tara-box-office-collection-day-4-dulquer-salmaans-film-sees-44-drop-earns-rs-3-20-crore-on-monday/articleshow/136117383.cms",
+    "pubDate": "2026-11-24 02:09:12",
     "category": [
      "entertainment"
     ]
    },
    {
-    "title": "Dev Deepawali 2026: Beautiful wishes, messages, status lines and quotes to share with family and friends",
-    "description": "Dev Deepawali 2026 falls on November 24, the festival of lights of the Gods. Take a look at wishes, messages, status lines and quotes in English to send loved ones.",
-    "source": "News9live",
-    "link": "https://www.news9live.com/lifestyle/events/dev-deepawali-2026-wishes-messages-status-quotes-3026964",
-    "pubDate": "2026-11-24 01:00:00",
+    "title": "Vijay Sethupathi Looks Dapper In A Black Suit At International Emmys In New York - NDTV",
+    "description": "Vijay Sethupathi Looks Dapper In A Black Suit At International Emmys In New York NDTV Vijay Sethupathi presents at the 54th International Emmy Awards in New York The Times of India International Emmys 2026: Vir Das'...",
+    "source": "Google News",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOazFldEtlYk9lTHBIN2JJQ21pVF9SNVBxWjUtblNsQ1AxZ0NiMjRVaS11Z0Y2Mm5pWFVFYkZGTUhfTVlPTWpWZ2xfMEZLOEZ4blJySUFrR3JQQVdBcld0aWhJWEhGQmRydFpNR1M0TWVLdldzOGQ3aDNIQ05aYTlFcXI2N1RKUzRJYTFwMEFmVWlqQU1PVFBIV0VRNXZMaUhpd1NodmZXREVreFJXZjFBOVk1aEFDaEFITXJCdtIBxAFBVV95cUxPczVtZnVtZ0ZIM1NXT2MxYVVlWlNqRURhOFNyXzBTeW1mTl90X2J4ZTZkY2UxTnhqZXRaWU5rdjhDQ2RkSGxUd1VDMWJic0xqVUdndXpHN2k2NTFVZXVTd052SS10bTlPcTFQWktZeDRkV2ZWRDJEajNSNXBwLVdaOS1EaXlHVjZQTVZkOFhMZXBseTVvQVhQTnczcDl5bnRqMzlqZGtCSUZ1Vm1ra0w0XzNwOXRLeTlSenJ5SFZkNlFhMmUx?oc=5",
+    "pubDate": "2026-11-24 02:08:35",
     "category": [
      "entertainment"
     ]
    },
    {
-    "title": "Guru Nanak Jayanti 2026: Wishes, messages, status and quotes to share on Gurpurab with loved ones",
-    "description": "Guru Nanak Jayanti 2026 falls on November 24, marking the 557th birth anniversary of the first Sikh Guru. Read on for English wishes, messages, status lines and quotes to share.",
-    "source": "News9live",
-    "link": "https://www.news9live.com/lifestyle/events/guru-nanak-jayanti-2026-wishes-messages-status-quotes-3026979",
-    "pubDate": "2026-11-24 01:00:00",
+    "title": "After Dhurandhar success, Sara Arjun to star in Maneesh Sharma's love story",
+    "description": "Sara Arjun has reportedly bagged her maiden Yash Raj Films project. The yet-untitled musical love story will be directed by Maneesh Sharma, with Ambrish Verma also said to be part of the cast. Shooting is expected to...",
+    "source": "Mid-day",
+    "link": "https://www.mid-day.com/entertainment/bollywood-news/article/after-dhurandhar-success-sara-arjun-to-star-in-maneesh-sharmas-love-story-23661073",
+    "pubDate": "2026-11-24 02:07:41",
     "category": [
      "entertainment"
+    ]
+   },
+   {
+    "title": "Vir Das on his upcoming movie: ‘Currently writing a film with Sumukhi Suresh’",
+    "description": "After his directorial debut Happy Patel, Vir Das is developing five small-budget, high-concept films under his banner, Niche Films. The slate includes a found-footage horror film, while he is also writing a project...",
+    "source": "Mid-day",
+    "link": "https://www.mid-day.com/entertainment/bollywood-news/article/vir-das-on-his-upcoming-movie-currently-writing-a-film-with-sumukhi-suresh-23661074",
+    "pubDate": "2026-11-24 02:07:41",
+    "category": [
+     "entertainment"
+    ]
+   },
+   {
+    "title": "Suzy’s “Portraits Of Delusion” Announces Premiere Date With Haunting Poster - Soompi",
+    "description": "Suzy’s “Portraits Of Delusion” Announces Premiere Date With Haunting Poster Soompi Suzy X Kim Seon-ho, Vampire Film… 'Temptation' Released January 6 Next Year DIPE.CO.KR Suzy's Vampire Role Unveiled in Disney+ Series...",
+    "source": "Google News",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNG5WZWxiTlR2Yzludl9BUzI4djdsTC1sMy0yM09zTDM0Tl9YV2MyNVFKcmp0MWwycTk3TXl6ZHg4MkI2dUZtRGNVc1kyRnhzZGtMcGJya2pNMkNqbGJlZmpsaTQ4OXFtTTRZRGhQR2V2STV5NVNQNDZ0M1BVbnBLX1BBalBhUWdKY2xMOFJLSU44Ynd5c3AxNmNJYVYtRDk2UlpCNGNvNXM5R3FFUzBMVE9WYWo?oc=5",
+    "pubDate": "2026-11-24 02:05:01",
+    "category": [
+     "entertainment"
+    ]
+   },
+   {
+    "title": "They Wanted You Back: Jensen Huang Gets Rousing Welcome at Nvidia HQ; Elon Musk Reacts",
+    "description": "Nvidia CEO Jensen Huang received a roaring welcome from employees upon returning to the company's headquarters. Reacting to the moment, Elon Musk noted that the staff clearly wanted him back.",
+    "source": "Republic World",
+    "link": "https://www.republicworld.com/world-news/they-wanted-you-back-jensen-huang-gets-rousing-welcome-at-nvidia-hq-elon-musk-reacts-2026-11-24-141713",
+    "pubDate": "2026-11-24 02:03:31",
+    "category": [
+     "entertainment",
+     "top",
+     "technology"
     ]
    }
   ],
-  "tech": [
-   {
-    "title": "GTA 6 had 39 million players on PS5 with high penetration rate, Sony confirms",
-    "description": "Sony reveals numbers behind GTA 6's astronomical launch on PlayStation 5, confirming the game had more than 39 million players with 684 million hours spent. Continue reading at TweakTown",
-    "source": "Tweak Town",
-    "link": "https://www.tweaktown.com/rss/click/news/114846/?c=news-mf",
-    "pubDate": "2026-11-24 01:07:14",
-    "category": [
-     "technology"
-    ]
-   },
-   {
-    "title": "Trump claims credit for Jensen Huang's return to Nvidia, posts meme depicting Huang holding up a bra victoriously",
-    "description": "US politicians on both sides of the aisle are reeling.",
-    "source": "Pc Gamer",
-    "link": "https://www.pcgamer.com/software/ai/trump-claims-credit-for-jensen-huangs-return-to-nvidia-posts-meme-depicting-huang-holding-up-a-bra-victoriously/",
-    "pubDate": "2026-11-24 01:06:57",
-    "category": [
-     "technology"
-    ]
-   }
-  ]
+  "tech": []
  }
 }

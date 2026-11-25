@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "first-industry-built-pslv-n1-launch-early-2027-isro-nov25",
+   "cats": [
+    "Tech"
+   ],
+   "title": "ആദ്യ വ്യവസായ നിർമിത PSLV-N1 2027 ആദ്യ പാദത്തിൽ വിക്ഷേപിക്കാൻ ലക്ഷ്യമെന്ന് ISRO ചെയർമാൻ",
+   "en": "First industry-built PSLV-N1 targeted for launch in first quarter of 2027, ISRO chief says",
+   "sum": "HAL - L&T കൺസോർഷ്യം നിർമിക്കുന്ന ആദ്യ വ്യവസായ നിർമിത PSLV (PSLV-N1) 2027 ആദ്യ പാദത്തിൽ വിക്ഷേപിക്കാൻ ലക്ഷ്യമിടുന്നതായി ISRO ചെയർമാൻ വി നാരായണൻ പറഞ്ഞതായി റിപ്പോർട്ടുകൾ.",
+   "date": "25 Nov 2026",
+   "body": [
+    "HAL - L&T കൺസോർഷ്യം നിർമിക്കുന്ന ഇന്ത്യയിലെ ആദ്യ വ്യവസായ നിർമിത പോളാർ സാറ്റലൈറ്റ് ലോഞ്ച് വെഹിക്കിൾ (PSLV-N1) 2027 ആദ്യ പാദത്തിൽ വിക്ഷേപിക്കാൻ ലക്ഷ്യമിടുന്നതായി ISRO ചെയർമാൻ വി നാരായണൻ നവംബർ 24-ന് ഡൽഹിയിലെ ഇന്ത്യ ഇന്റർനാഷണൽ സ്പേസ് കോൺക്ലേവിൽ പറഞ്ഞതായി റിപ്പോർട്ടുകൾ.",
+    "മുമ്പ് ISRO ആയിരുന്നു വ്യവസായ പിന്തുണയോടെ PSLV നിർമിച്ചിരുന്നത്. ഇപ്പോൾ അഞ്ച് PSLV നിർമിക്കാനുള്ള ചുമതല HAL - L&T കൺസോർഷ്യത്തിനാണ്. ISRO-യുടെ വാണിജ്യ വിഭാഗമായ NSIL 2022 സെപ്റ്റംബറിൽ 860 കോടി രൂപയുടെ കരാർ നൽകിയിരുന്നതായും റിപ്പോർട്ടുകൾ പറയുന്നു.",
+    "ഗഗൻയാൻ ദൗത്യത്തിന്റെ ജോലികൾ അവസാന ഘട്ടത്തിലാണെന്നും ഓർബിറ്റൽ മോഡലിന്റെ പണി നടക്കുകയാണെന്നും ചെയർമാൻ പറഞ്ഞതായി റിപ്പോർട്ടുകൾ."
+   ],
+   "srcs": [
+    [
+     "CNBC TV18: industry-built PSLV-N1 ready early 2027",
+     "https://www.cnbctv18.com/india/science/india-first-industry-built-pslv-n1-ready-for-launch-in-early-2027-isro-chief-20040799.htm"
+    ],
+    [
+     "Times of India: 1st privately built PSLV early next year",
+     "https://timesofindia.indiatimes.com/india/1st-privately-built-pslv-set-for-launch-early-next-year-isro-chief/articleshow/136143686.cms"
+    ],
+    [
+     "Moneycontrol: first industry-built PSLV Q1 2027",
+     "https://www.moneycontrol.com/news/business/first-industry-built-pslv-to-be-ready-for-maiden-launch-in-q1-2027-says-isro-chief-14088107.html"
+    ],
+    [
+     "Hindu BusinessLine: first industry-built PSLV 2027",
+     "https://www.thehindubusinessline.com/news/science/first-industry-built-pslv-ready-for-launch-in-early-2027-says-dr-v-narayanan/article71737688.ece"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgKgFqmheag/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 5:42 PM IST on 25 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-25T17:42:10+05:30"
+  },
+  {
    "id": "union-cabinet-11000-crore-cie-manufacturing-scheme-nov25",
    "cats": [
     "India"

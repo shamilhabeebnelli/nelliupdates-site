@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "chariot-1-indiaai-foundation-model-launch-nov25",
+   "cats": [
+    "Tech"
+   ],
+   "title": "ചാരിയറ്റ്-1: ഇന്ത്യഎഐ മിഷന് കീഴിൽ ഇന്ത്യയിൽ വികസിപ്പിച്ച ഫൗണ്ടേഷൻ എഐ മോഡൽ പുറത്തിറക്കി, ഇംഗ്ലീഷും 10 ഇന്ത്യൻ ഭാഷകളും",
+   "en": "Chariot-1: MeitY secretary launches India-built foundation AI model under the IndiaAI Mission, supports English and 10 Indian languages",
+   "sum": "ഇന്ത്യഎഐ മിഷന് കീഴിൽ ചാരിയറ്റ് ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസ് വികസിപ്പിച്ച ഫൗണ്ടേഷൻ മോഡൽ ചാരിയറ്റ്-1 മീറ്റ്‌വൈ സെക്രട്ടറി എസ്. കൃഷ്ണൻ ബുധനാഴ്ച (നവംബർ 25) പുറത്തിറക്കി. ഇംഗ്ലീഷും 10 ഇന്ത്യൻ ഭാഷകളും പിന്തുണയ്ക്കുമെന്ന് റിപ്പോർട്ട്.",
+   "date": "26 Nov 2026",
+   "body": [
+    "ഇന്ത്യഎഐ മിഷന് കീഴിൽ ഇന്ത്യയിൽ വികസിപ്പിച്ച ഫൗണ്ടേഷൻ എഐ മോഡൽ \"ചാരിയറ്റ്-1\" ഇലക്ട്രോണിക്സ് ആൻഡ് ഇൻഫർമേഷൻ ടെക്നോളജി മന്ത്രാലയം (മീറ്റ്‌വൈ) സെക്രട്ടറി എസ്. കൃഷ്ണൻ ബുധനാഴ്ച (നവംബർ 25) പുറത്തിറക്കിയെന്ന് ഇടിവി ഭാരത്, ഇടി എന്റർപ്രൈസ് എഐ, ദി ഹിന്ദു ബിസിനസ്‌ലൈൻ എന്നിവ റിപ്പോർട്ട് ചെയ്തു. ചാരിയറ്റ് ആർട്ടിഫിഷ്യൽ ഇന്റലിജൻസ് പ്രൈവറ്റ് ലിമിറ്റഡ് ആണ് മോഡൽ വികസിപ്പിച്ചത്; ദൗത്യത്തിന് കീഴിൽ ആദ്യം തിരഞ്ഞെടുത്ത നാല് ടീമുകളിൽ ഒന്നാണ് കമ്പനി.",
+    "ഇംഗ്ലീഷും 10 ഇന്ത്യൻ ഭാഷകളും മോഡൽ പിന്തുണയ്ക്കുന്നു. ഇന്ത്യൻ ലിപികൾക്ക് പൊതുവായ അക്ഷരമാല ഒരുക്കുന്ന \"ഇൻഡിക്‌ഷിഫ്റ്റ്\" വഴി ഇന്ത്യൻ ഭാഷാ ടെക്സ്റ്റിന് ആവശ്യമായ ടോക്കണുകൾ 2.5 മടങ്ങ് വരെ കുറയ്ക്കാമെന്നും, ഒറ്റ പരിശീലനത്തിൽ മൂന്ന് വലുപ്പത്തിലുള്ള മോഡലുകൾ ഉണ്ടാക്കുന്ന രീതി പരിശീലന സമയം 62 ശതമാനം കുറയ്ക്കുമെന്നും കമ്പനി അവകാശപ്പെടുന്നു. ഉച്ചാരണ കൃത്യത ബെഞ്ച്മാർക്കിൽ 97 ശതമാനത്തിലധികം ലഭിച്ചെന്നും കമ്പനി പറയുന്നു.",
+    "ഈ കണക്കുകൾ കമ്പനിയുടെ അവകാശവാദങ്ങളാണ്, സ്വതന്ത്രമായി പരിശോധിച്ചതല്ല. ചിത്രം പ്രതിനിധാന സ്റ്റോക്ക് ഫോട്ടോയാണ്."
+   ],
+   "srcs": [
+    [
+     "ETV Bharat: Chariot-1 launched",
+     "https://www.etvbharat.com/en/bharat/indias-ai-push-chariot-1-foundation-model-launched-supports-10-indian-languages-enn26112507442"
+    ],
+    [
+     "ET EnterpriseAI: MeitY launches Chariot-1",
+     "https://enterpriseai.economictimes.indiatimes.com/news/industry/meity-secy-krishnan-launches-chariot-1-foundation-models-to-advance-indias-sovereign-ai-capabilities/136162402"
+    ],
+    [
+     "Hindu BusinessLine: Chariot-1 model",
+     "https://www.thehindubusinessline.com/info-tech/indiaai-backed-chariot-1-combines-text-speech-and-recognition-in-one-model/article71743519.ece"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgLqi3EhCvo/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 4:32 AM IST on 26 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-26T04:32:48+05:30"
+  },
+  {
    "id": "sabarimala-204-special-train-trips-southern-railway-nov25",
    "cats": [
     "Kerala"

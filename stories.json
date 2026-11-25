@@ -1,6 +1,42 @@
 {
  "stories": [
   {
+   "id": "mission-chakkakomban-chinnakanal-nov25",
+   "cats": [
+    "Kerala"
+   ],
+   "title": "മിഷൻ ചക്കക്കൊമ്പൻ: ആന ആനയിറങ്കൽ ഡാം ഭാഗത്ത്, ദൗത്യം ഉച്ചവരെ നിർത്തി",
+   "en": "Mission Chakkakomban: tusker near Anayirankal dam, tranquilliser operation paused until after noon",
+   "sum": "ചിന്നക്കനാലിൽ ചക്കക്കൊമ്പനെ മയക്കുവെടിവച്ച് റേഡിയോ കോളർ ഘടിപ്പിക്കാനുള്ള ദൗത്യം പുലർച്ചെ 4ന് തുടങ്ങി. ആന ഡാം ഭാഗത്തായതിനാൽ ഉച്ചവരെ നിർത്തിവച്ചു.",
+   "date": "25 Nov 2026",
+   "body": [
+    "ഇടുക്കി ചിന്നക്കനാലിൽ കാട്ടാന ചക്കക്കൊമ്പനെ മയക്കുവെടിവച്ച് റേഡിയോ കോളർ ഘടിപ്പിക്കാനുള്ള ദൗത്യം നവംബർ 25 ബുധനാഴ്ച പുലർച്ചെ 4 മണിക്ക് തുടങ്ങി.",
+    "ആന ആനയിറങ്കൽ ഡാം ഭാഗത്ത് തുടർന്നതിനാൽ മയക്കുവെടി വയ്ക്കാനായില്ലെന്നും ഉച്ചയ്ക്കുശേഷം ദൗത്യം തുടരാനാണ് തീരുമാനമെന്നും റിപ്പോർട്ടുകൾ പറയുന്നു.",
+    "ആറ് വാർഡുകളിൽ നിരോധനാജ്ഞ പ്രഖ്യാപിച്ചു, വിദ്യാഭ്യാസ സ്ഥാപനങ്ങൾക്ക് അവധിയാണ്. കുങ്കി ആനകളായ വിക്രമും ഭരതും സ്ഥലത്തുണ്ട്.",
+    "ഇത് ഉച്ചയോടെയുള്ള സ്ഥിതിയാണ്; ദൗത്യത്തിന്റെ ഫലം പിന്നീട് മാറിയിരിക്കാം."
+   ],
+   "srcs": [
+    [
+     "Onmanorama: Chakkakomban mission live",
+     "https://www.onmanorama.com/news/kerala/2026/11/25/chakkakomban-mission-radio-collar-tranquilise-chinnakanal-live.html"
+    ],
+    [
+     "NDTV: officials begin search for Chakkakomban",
+     "https://www.ndtv.com/india-news/kerala-officials-begin-search-for-wild-tusker-chakkakomban-deploy-2-elephants-12373563"
+    ],
+    [
+     "Asianet: Mission Chakkakomban rescheduled",
+     "https://www.asianetnews.com/kerala-news/mission-chakkakomban-operation-rescheduled-for-afternoon-chinnakkanal-idukki-articleshow-k486fuq"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgKG0NRBqRv/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 2:00 PM IST on 25 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-25T14:00:00+05:30"
+  },
+  {
    "id": "kerala-yellow-alert-heavy-rain-nov25-27",
    "cats": [
     "Kerala"

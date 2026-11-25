@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "entire-sarvam-india-hosted-ai-coding-partnership-nov25",
+   "cats": [
+    "Tech"
+   ],
+   "title": "കോഡും AI ഇൻഫറൻസും ഇന്ത്യയിൽ തന്നെ: Entire - Sarvam പങ്കാളിത്തം പ്രഖ്യാപിച്ചു",
+   "en": "Entire and Sarvam partner to host code and run AI coding agents inside India",
+   "sum": "ഗിറ്റ്ഹബ് മുൻ സിഇഒ തോമസ് ഡോംകെ സ്ഥാപിച്ച Entire, ഇന്ത്യൻ AI സ്റ്റാർട്ടപ്പ് Sarvam-മായി ചേർന്ന് കോഡ് ഹോസ്റ്റിങ്ങും AI കോഡിങ് ഏജന്റുകളും ഇന്ത്യയ്ക്കുള്ളിൽ ലഭ്യമാക്കും.",
+   "date": "25 Nov 2026",
+   "body": [
+    "ഗിറ്റ്ഹബ് മുൻ സിഇഒ തോമസ് ഡോംകെ സ്ഥാപിച്ച ഡെവലപ്പർ പ്ലാറ്റ്ഫോം Entire, ഇന്ത്യൻ AI സ്റ്റാർട്ടപ്പ് Sarvam-മായി പങ്കാളിത്തം പ്രഖ്യാപിച്ചു. ഡെവലപ്പർമാർക്ക് കോഡ് ഇന്ത്യയിൽ ഹോസ്റ്റ് ചെയ്യാനും Sarvam മോഡലുകൾ ഉപയോഗിച്ച് AI കോഡിങ് ഏജന്റുകൾ പ്രവർത്തിപ്പിക്കാനും ഇതിലൂടെ കഴിയുമെന്ന് കമ്പനികൾ പറയുന്നു.",
+    "കോഡും AI ഇൻഫറൻസും ഡാറ്റ പ്രോസസിങ്ങും രാജ്യത്തിനകത്ത് തന്നെ നിൽക്കുമെന്നും, നിയന്ത്രിത മേഖലകളിലെ സ്ഥാപനങ്ങൾക്ക് ഇത് ഉപകാരപ്പെടുമെന്നും കമ്പനികൾ അറിയിച്ചു. ഇന്ത്യയെ പ്രാഥമിക മേഖലയാക്കി സ്വകാര്യ റിപ്പോസിറ്ററികൾ സൃഷ്ടിക്കാനും മാറ്റാനും ഹോസ്റ്റ് ചെയ്യാനും കഴിയും.",
+    "'ഇന്ത്യയിലെ ആദ്യത്തെ' എന്ന വിശേഷണം കമ്പനികളുടെ അവകാശവാദമാണ്. Entire-ന്റെ Trails വർക്ക്ഫ്ലോ ടൂളിൽ Sarvam മോഡലുകൾ ലഭ്യമാകും; Trails പ്രിവ്യൂ ഘട്ടത്തിലാണെന്ന് റിപ്പോർട്ടുകൾ പറയുന്നു."
+   ],
+   "srcs": [
+    [
+     "ET EnterpriseAI: Entire partners with Sarvam",
+     "https://enterpriseai.economictimes.indiatimes.com/news/industry/entire-partners-with-sarvam-to-bring-sovereign-ai-coding-to-india/136148694"
+    ],
+    [
+     "IANS: Entire-Sarvam tie-up",
+     "https://ianslive.in/india-gets-agent-native-git-forge-with-local-data-residency-via-entire-sarvam-tie-up--20261125132125"
+    ],
+    [
+     "Moneycontrol: Sarvam ties up with Entire",
+     "https://www.moneycontrol.com/artificial-intelligence/sarvam-ties-up-with-code-hosting-platform-entire-to-keep-ai-reviews-in-india-article-14088437.html"
+    ],
+    [
+     "Analytics India Mag: Entire partners with Sarvam",
+     "https://analyticsindiamag.com/ai-news/thomas-dohmkes-entire-partners-with-sarvam-to-bring-ai-coding-agents-to-india"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgKRipWhuL8/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 3:35 PM IST on 25 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-25T15:35:00+05:30"
+  },
+  {
    "id": "hail-mary-malayalam-film-release-nov26-advance-booking",
    "cats": [
     "Entertainment"

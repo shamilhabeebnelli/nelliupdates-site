@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "kerala-gold-price-falls-pavan-90400-nov25",
+   "cats": [
+    "Kerala"
+   ],
+   "title": "കേരളത്തിൽ സ്വർണവില ഇടിഞ്ഞു: പവന് 90,400 രൂപ, ഇന്ന് മാത്രം 3,320 രൂപയുടെ കുറവ്",
+   "en": "Kerala gold price falls to Rs 90,400 per pavan after two cuts on Nov 25, down Rs 3,320 on the day",
+   "sum": "നവംബർ 25-ന് രാവിലെ പവന് 2,360 രൂപ കുറഞ്ഞ് 91,360-ലെത്തിയ സ്വർണവില ഉച്ചയ്ക്ക് ശേഷം 960 രൂപ കൂടി കുറഞ്ഞ് 90,400 രൂപയായതായി റിപ്പോർട്ടുകൾ. ഇന്ന് ആകെ 3,320 രൂപയുടെ കുറവ്.",
+   "date": "25 Nov 2026",
+   "body": [
+    "സംസ്ഥാനത്ത് 22 കാരറ്റ് സ്വർണവില നവംബർ 25-ന് രാവിലെ ഗ്രാമിന് 295 രൂപ കുറഞ്ഞ് 11,420 രൂപയും പവന് 2,360 രൂപ കുറഞ്ഞ് 91,360 രൂപയുമായതായി റിപ്പോർട്ടുകൾ.",
+    "ഉച്ചയ്ക്ക് ശേഷം പവന് 960 രൂപ കൂടി കുറഞ്ഞ് 90,400 രൂപയായി. രാവിലെയും ഉച്ചയ്ക്കുമായി ഒറ്റ ദിവസം പവന് 3,320 രൂപയുടെ കുറവുണ്ടായതായും റിപ്പോർട്ടുകൾ പറയുന്നു.",
+    "സ്വർണവില ദിവസത്തിൽ പലതവണ മാറാമെന്നതിനാൽ വാങ്ങുന്നതിന് മുമ്പ് അന്നത്തെ നിരക്ക് ജ്വല്ലറിയിൽ പരിശോധിക്കുക."
+   ],
+   "srcs": [
+    [
+     "Manorama News: gold down Rs 960 to Rs 90,400",
+     "https://www.manoramanews.com/business/economy/retail/2026/11/25/gold-price-drops-again-in-kerala-sovereign-down-by-rs-960-to-rs-90400.html"
+    ],
+    [
+     "Kvartha: gold price falls again, Rs 90,400",
+     "https://www.kvartha.com/business/kerala-gold-price-decreased-afternoon-nov-25/cid19581835.htm"
+    ],
+    [
+     "Deshabhimani: pavan down Rs 2,360 in the morning",
+     "https://www.deshabhimani.com/money-business/news-80965/kerala-gold-price-today-november-25-2026-bv4"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgKpmjbBBSb/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 7:05 PM IST on 25 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-25T19:05:20+05:30"
+  },
+  {
    "id": "motorola-edge-70-neo-india-launch-7000mah-nov25",
    "cats": [
     "Tech"

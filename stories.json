@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "chakkakomban-radio-collar-mission-day1-chinnakanal-nov25",
+   "cats": [
+    "Kerala"
+   ],
+   "title": "ചക്കക്കൊമ്പൻ ദൗത്യം: ചിന്നക്കനാലിൽ ആദ്യ ദിനം പൂർത്തിയായില്ല, മയക്കുവെടിയേറ്റ ആന കാട്ടിലേക്ക്",
+   "en": "Chakkakomban mission: radio-collar operation at Chinnakanal called off on day one after elephant not fully sedated; to resume Thursday",
+   "sum": "ഇടുക്കി ചിന്നക്കനാലിൽ കാട്ടാന ചക്കക്കൊമ്പനെ മയക്കുവെടി വച്ച് റേഡിയോ കോളർ ഘടിപ്പിക്കാനുള്ള ദൗത്യം ബുധനാഴ്ച പൂർത്തിയായില്ല. വെടിയേറ്റിട്ടും ആന പൂർണമായി മയങ്ങാതെ കാട്ടിലേക്ക് ഓടി; മഴയും മൂടൽമഞ്ഞും കാരണം ദൗത്യം നിർത്തിവച്ചു. വ്യാഴാഴ്ച തുടരും.",
+   "date": "26 Nov 2026",
+   "body": [
+    "ഇടുക്കി ചിന്നക്കനാലിൽ ജനവാസ മേഖലയിലിറങ്ങുന്ന കാട്ടാന ചക്കക്കൊമ്പനെ മയക്കുവെടി വച്ച് റേഡിയോ കോളർ ഘടിപ്പിക്കാനുള്ള വനംവകുപ്പിന്റെ ദൗത്യം ബുധനാഴ്ച (നവംബർ 25) പൂർത്തിയായില്ലെന്ന് ദി ഹിന്ദു, ഒന്മനോരമ, ടൈംസ് ഓഫ് ഇന്ത്യ, പിടിഐ എന്നിവ റിപ്പോർട്ട് ചെയ്തു.",
+    "വനംവകുപ്പിന്റെ 140 അംഗ സംഘം പുലർച്ചെ ദൗത്യം തുടങ്ങിയെന്നും ഡ്രോണുകളും ബോട്ടും ഉപയോഗിച്ച് ആനയെ നിരീക്ഷിച്ചെന്നും റിപ്പോർട്ടുകളിൽ പറയുന്നു. ആദ്യ മയക്കുവെടി വൈകിട്ട് ഏകദേശം 3.45ന് ഓമനക്കുഴി ഭാഗത്ത് വച്ചു. എന്നാൽ ആന പൂർണമായി മയങ്ങിയില്ല, കാട്ടിലേക്ക് ഓടിപ്പോയി. മഴയും മൂടൽമഞ്ഞും കാരണം ഉദ്യോഗസ്ഥർ ദൗത്യം അന്നത്തേക്ക് നിർത്തി.",
+    "ദൗത്യം വ്യാഴാഴ്ച തുടരുമെന്ന് ഉദ്യോഗസ്ഥർ അറിയിച്ചു. ചിന്നക്കനാലിലെ ചില വാർഡുകളിൽ സ്കൂളുകൾക്ക് അവധി പ്രഖ്യാപിച്ചിരുന്നതായും റിപ്പോർട്ടുണ്ട്. ചിത്രം പ്രതിനിധാന സ്റ്റോക്ക് ഫോട്ടോയാണ്, സംഭവസ്ഥലത്തെ ആനയല്ല."
+   ],
+   "srcs": [
+    [
+     "The Hindu: Mission Chakkakompan fails on day 1",
+     "https://www.thehindu.com/news/national/kerala/in-keralams-chinnakanal-mission-chakkakompan-fails-on-day-1/article71742634.ece"
+    ],
+    [
+     "Onmanorama: Chakkakomban mission live",
+     "https://www.onmanorama.com/news/kerala/2026/11/25/chakkakomban-mission-radio-collar-tranquilise-chinnakanal-live.html"
+    ],
+    [
+     "Times of India: Rain, fog disrupt mission",
+     "https://timesofindia.indiatimes.com/city/kochi/rain-fog-disrupt-chakkakomban-mission-at-chinnakanal/articleshow/136165776.cms"
+    ],
+    [
+     "PTI via News18: Mission put off",
+     "https://www.news18.com/agency-feeds/chakkakomban-slips-back-into-forest-mission-to-radio-collar-elephant-put-off-10440891.html"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgLioolB9Fk/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 3:23 AM IST on 26 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-26T03:23:41+05:30"
+  },
+  {
    "id": "kochi-metro-jln-stadium-pink-line-interchange-nov24",
    "cats": [
     "Kerala"

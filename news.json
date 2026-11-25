@@ -1,13 +1,125 @@
 {
- "fetched_at": "2026-11-25 11:18 UTC",
+ "fetched_at": "2026-11-25 12:20 UTC",
  "groups": {
   "india": [
    {
-    "title": "Guru Nanak’s message of peace, harmony echo in Hyderabad",
-    "description": "Preachers call for following Guru Nanak’s ideals of peace, equality and brotherhood",
+    "title": "Sonia Gandhi’s agonising moments over an alliance with the DMK",
+    "description": "Sonia Gandhi describes the difficult 2004 DMK alliance, weighing Rajiv’s memory against political necessity and Tamil Nadu dynamics.",
+    "source": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/tamil-nadu/sonia-gandhis-agonising-moments-over-an-alliance-with-the-dmk/article71733744.ece",
+    "pubDate": "2026-11-25 00:20:00",
+    "category": [
+     "top",
+     "politics"
+    ]
+   },
+   {
+    "title": "Sharwanand hans delivered stunning performance in ‘Bhogi’: Director Sampath Nandi",
+    "description": "Director Sampath Nandi talks up Sharwanand’s Telangana accent, a 15-acre Boggula Gutta set, and zero censor cuts for Bhogi ahead of its November 27 release.",
     "source": "The Hans India",
-    "link": "https://www.thehansindia.com/news/cities/hyderabad/guru-nanaks-message-of-peace-harmony-echo-in-hyderabad-1145526",
-    "pubDate": "2026-11-24 23:17:21",
+    "link": "https://www.thehansindia.com/cinema/tollywood/sharwanand-hans-delivered-stunning-performance-in-bhogi-director-sampath-nandi-1145558",
+    "pubDate": "2026-11-25 00:19:01",
+    "category": [
+     "top",
+     "entertainment"
+    ]
+   },
+   {
+    "title": "Fitch sets global sovereign ratings outlook at 'Neutral' for 2027 amid debt concerns",
+    "description": "Fitch Ratings maintained a neutral outlook for global sovereign ratings in 2027, expecting resilient economic growth to offset rising borrowing costs. However, record government debt, geopolitical tensions, higher...",
+    "source": "The Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fitch-sets-global-sovereign-ratings-outlook-at-neutral-for-2027-amid-debt-concerns/articleshow/136149724.cms",
+    "pubDate": "2026-11-25 00:18:57",
+    "category": [
+     "top",
+     "business"
+    ]
+   },
+   {
+    "title": "'I Hurt All Of You': What Jensen Huang Told Staff In 1st Meeting After Returning As Nvidia CEO",
+    "description": "Nvidia CEO Jensen Huang on Tuesday struck a remorseful tone in his first employee meeting after being reinstated as the head of the artificial intelligence (AI) giant",
+    "source": "News 18",
+    "link": "https://www.news18.com/world/i-hurt-all-of-you-what-jensen-huang-told-staff-in-1st-meeting-after-returning-as-nvidia-ceo-10439565.html",
+    "pubDate": "2026-11-25 00:18:48",
+    "category": [
+     "top",
+     "business"
+    ]
+   },
+   {
+    "title": "Cristina Porta has become the rival to win in Spain’s “Grand Brother VIP 9”",
+    "description": "The Spanish is being attacked by everybody. excuses are looking to discredit her in everything...",
+    "source": "News247plus - Only News That Matters",
+    "link": "https://www.news247plus.com/news/Entertainment/cristina-porta-has-become-the-rival-to-win-in-spain-s-grand-brother-vip-9-64820",
+    "pubDate": "2026-11-25 00:18:44",
+    "category": [
+     "top",
+     "politics",
+     "entertainment"
+    ]
+   },
+   {
+    "title": "Stocks to watch today, November 25: Tata Steel, Adani Enterprises, RVNL, NLC India, and others",
+    "description": "Tata Steel, Adani Enterprises, RVNL, Lupin and several other stocks will remain in focus amid acquisitions, order wins, regulatory approvals and major investment announcements. Investors will also track developments...",
+    "source": "Et Now",
+    "link": "https://www.etnownews.com/markets/stocks-to-watch-today-november-25-tata-steel-adani-enterprises-rvnl-nlc-india-and-others-article-156562026",
+    "pubDate": "2026-11-25 00:18:23",
+    "category": [
+     "top",
+     "business"
+    ]
+   },
+   {
+    "title": "True devotion is not about blindly following rituals: Niki Walia",
+    "description": "Niki Walia shares childhood memories of three-day Gurpurab prayers and langar, highlighting Ik Onkar, seva, equality, and modesty in everyday life.",
+    "source": "The Hans India",
+    "link": "https://www.thehansindia.com/featured/women/true-devotion-is-not-about-blindly-following-rituals-niki-walia-1145557",
+    "pubDate": "2026-11-25 00:17:03",
+    "category": [
+     "top",
+     "lifestyle"
+    ]
+   }
+  ],
+  "kerala": [
+   {
+    "title": "'O.M Operation Mole' BO day 5: Crosses Rs 100 cr worldwide",
+    "description": "'O.M Operation Mole' has soared to box office fame by crossing the Rs 100 crore milestone globally soon after its debut. Starring the talented Mammootty, Dhanush, and Sai Pallavi, the film amassed an impressive Rs...",
+    "source": "The Times Of India",
+    "link": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/o-m-operation-mole-box-office-collection-day-5-mammootty-dhanush-film-crosses-rs-100-cr-worldwide-ap-telangana-leads-state-wise-gross-tamil-nadu-follows-closely/articleshow/136144576.cms",
+    "pubDate": "2026-11-25 00:12:13",
+    "category": [
+     "entertainment"
+    ]
+   },
+   {
+    "title": "Keralam govt. forms search committee to find experts for fresh Vizhinjam erosion study",
+    "description": "Kerala forms a four-member panel to select independent experts for a fresh Vizhinjam erosion study after the High Court voided prior findings over conflicts of interest.",
+    "source": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/keralam-govt-forms-search-committee-to-find-experts-for-fresh-vizhinjam-erosion-study/article71738692.ece",
+    "pubDate": "2026-11-25 00:10:00",
+    "category": [
+     "crime",
+     "environment",
+     "top"
+    ]
+   },
+   {
+    "title": "Sanford Strengthens Its Indian Presence with Plans for Pan-India Expansion and Manufacturing Growth",
+    "description": "Ernakulam (Kerala) [India], November 25: Sanford, an international electronics and home appliances brand established in the Middle East in 2004, is strengthening its presence in the Indian market with ambitious plans...",
+    "source": "Ani (asian News International)",
+    "link": "https://www.aninews.in/news/business/sanford-strengthens-its-indian-presence-with-plans-for-pan-india-expansion-and-manufacturing-growth20261125111921/",
+    "pubDate": "2026-11-25 00:00:00",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "The Leela Gandhinagar Hosts Onam Sadya at Citrus Junction",
+    "description": "",
+    "source": "Hospitalitynews",
+    "link": "https://hospitalitynews.in/events/the-leela-gandhinagar-celebrates-onam-with-regal-kerala-sadya-at-citrus-junction",
+    "pubDate": "2026-11-25 00:00:00",
     "category": [
      "top",
      "politics",
@@ -15,30 +127,26 @@
     ]
    },
    {
-    "title": "In a first, credit card spends pip ATM withdrawals",
-    "description": "In a significant milestone for India’s financial landscape, October 2026 marked the first month where credit card spending overtook ATM withdrawals. With credit card transactions soaring to over Rs 2.4 lakh crore...",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/business/india-business/in-a-first-credit-card-spends-pip-atm-withdrawals/articleshow/136144292.cms",
-    "pubDate": "2026-11-24 23:16:45",
+    "title": "Tamil Nadu: Tiruvannamalai railway station handles 46,000-pilgrim surge on Karthigai Deepam",
+    "description": "Southern Railway has stepped up crowd-control measures and deployed dozens of special train services at Tiruvannamalai railway station to handle a massive surge of pilgrims who arrived for the annual Karthigai Deepam...",
+    "source": "Ani (asian News International)",
+    "link": "https://www.aninews.in/news/national/general-news/tamil-nadu-tiruvannamalai-railway-station-handles-46000-pilgrim-surge-on-karthigai-deepam20261125115111/",
+    "pubDate": "2026-11-25 00:00:00",
     "category": [
-     "top",
-     "business"
+     "world"
     ]
    },
    {
-    "title": "Kate Jenkins's Knitted Italian Deli Opens At Air Contemporary",
-    "description": "(MENAFN - USA Art News) Artist Kate Jenkins has opened–Kate's Knitalian,– an immersive exhibition at Air Contemporary in London, transforming the gallery into a knitted Italian delicatessen. ...",
-    "source": "Menafn",
-    "link": "https://menafn.com/1112018166/Kate-Jenkinss-Knitted-Italian-Deli-Opens-At-Air-Contemporary",
-    "pubDate": "2026-11-24 23:16:15",
+    "title": "Weather forecast today: Tamil Nadu, Kerala brace for heavy rain; IMD warns of dense fog in Northeast",
+    "description": "Tamil Nadu, Kerala, Lakshadweep and parts of Andhra Pradesh are likely to see rain, lightning and strong winds, while dense fog may disrupt travel across several states.",
+    "source": "Cnbctv18",
+    "link": "https://www.cnbctv18.com/india/tamil-nadu-kerala-brace-for-heavy-rain-thunderstorms-imd-warns-of-dense-fog-in-northeast-20040433.htm",
+    "pubDate": "2026-11-24 23:30:32",
     "category": [
-     "top",
-     "lifestyle",
-     "entertainment"
+     "environment",
+     "top"
     ]
-   }
-  ],
-  "kerala": [
+   },
    {
     "title": "Indore Sports Roundup 2026: Tennis Duo Ends Nine-Year Gold Drought, City Athletes Shine In Judo, Wrestling And Snooker",
     "description": "Indore celebrated sporting achievements as Divyalakshay Chauhan and Dhananjay Dubey ended Madhya Pradesh’s nine-year tennis gold drought at the Deaf National Games. Sadhvi Roshan won state judo gold, while Ketan...",
@@ -61,100 +169,45 @@
      "politics",
      "lifestyle"
     ]
-   },
-   {
-    "title": "Kerala Student Carrying Gun To 'Show Off' Accidentally Shoots Classmate",
-    "description": "The weapon was allegedly brought to the school by the injured student's classmate.",
-    "source": "Ndtv",
-    "link": "https://www.ndtv.com/india-news/kerala-student-carrying-gun-to-show-off-accidentally-shoots-classmate-12372885",
-    "pubDate": "2026-11-24 22:34:31",
-    "category": [
-     "crime",
-     "top"
-    ]
-   },
-   {
-    "title": "From Tibet to Bengaluru: Lhamo Kyab serves stories with laphing",
-    "description": "Tibetan street food: Lhamo Kyab, an assistant professor and MP in exile, shares tales of his homeland while selling laphing in Bengaluru.",
-    "source": "Deccan Herald",
-    "link": "https://www.deccanherald.com/india/karnataka/bengaluru/from-tibet-to-bengaluru-lhamo-kyab-serves-stories-with-laphing-4229942",
-    "pubDate": "2026-11-24 22:31:48",
-    "category": [
-     "tourism",
-     "top",
-     "food"
-    ]
-   },
-   {
-    "title": "Rasanai Presents Flavours from the Marina Coast",
-    "description": "",
-    "source": "Hospitalitynews",
-    "link": "https://hospitalitynews.in/events/rasanai-brings-coastal-tamil-nadu-flavours-to-three-cities-with-new-food-festival",
-    "pubDate": "2026-11-24 22:08:13",
-    "category": [
-     "top",
-     "food"
-    ]
-   },
-   {
-    "title": "ISL 2026-27: Moyano cancels out Aimen’s opener as NorthEast United and SC Delhi share spoils",
-    "description": "A match that had one disallowed goal for each side, Antonio Moyano and Mohammed Aimen found the net to secure a point for NorthEast United and SC Delhi.",
-    "source": "Sport Star The Hindu",
-    "link": "https://sportstar.thehindu.com/football/indian-football/isl-2026-27-northeast-united-vs-sporting-club-delhi-1-1-draw-antonio-moyano-mohammed-aimen/article71740186.ece",
-    "pubDate": "2026-11-24 21:44:17",
-    "category": [
-     "sports"
-    ]
-   },
-   {
-    "title": "IWL 2026-27: Garhwal United holds heavyweight Gokulam Kerala FC to 1-1 draw in Kalyani",
-    "description": "The result saw Gokulam register its first point of the campaign, while Garhwal United took its tally to four points in the 2026-27 season of the Indian Women’s League.",
-    "source": "Sport Star The Hindu",
-    "link": "https://sportstar.thehindu.com/football/womens-football/iwl-2026-27-gokulam-kerala-fc-vs-garhwal-united-1-1-draw-lhingdeikim-kipgen-priyadharshini-kalyani-stadium-news/article71740066.ece",
-    "pubDate": "2026-11-24 21:34:08",
-    "category": [
-     "sports"
-    ]
-   },
-   {
-    "title": "Sujith Kumar K.P. Vs. Masterbuilt Infra Structures and Ors. – Kerala High Court",
-    "description": "Login Access Default, Dispute, and Debt Resolution Laws Password Email OTP WhatsApp OTP Google Username or Email Password 👁 Remember this device Log In Forgot Password? Email Send OTP Enter OTP Verify & Login Resend...",
-    "source": "Ibclaw",
-    "link": "https://ibclaw.in/sujith-kumar-k-p-vs-masterbuilt-infra-structures-and-ors-kerala-high-court/",
-    "pubDate": "2026-11-24 20:43:00",
-    "category": [
-     "top",
-     "business"
-    ]
    }
   ],
   "world": [
    {
-    "title": "Lavrov to attend joint meeting of Russian, Belarusian foreign ministries boards in Gomel",
-    "description": "The upcoming meeting will review the implementation of the 2024-2026 program of coordinated foreign policy actions by the states party to the Treaty on the Establishment of the Union State, Maria Zakharova said",
+    "title": "Species down to the last 50 animals can recover, but rarely without help",
+    "description": "In 1974, the Mauritius kestrel was down to four birds in the wild. In 1979, Norman Myers, a prominent environmentalist, argued that the money might be better spent protecting birds with better prospects....",
+    "source": "Conservation News",
+    "link": "https://news.mongabay.com/short-article/2026/11/species-down-to-the-last-50-animals-can-recover-but-rarely-without-help/",
+    "pubDate": "2026-11-25 00:17:59",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "Hungary agrees to open final chapters of Ukraine’s EU accession talks — Magyar",
+    "description": "At the same time, Hungarian Prime Minister stressed that \"accession to the European Union must be based on an assessment of actual achievements, and this is an incredibly difficult path\"",
     "source": "Russian News Agency Tass",
-    "link": "https://tass.com/politics/2224301",
-    "pubDate": "2026-11-24 23:15:01",
+    "link": "https://tass.com/world/2224305",
+    "pubDate": "2026-11-25 00:17:00",
     "category": [
      "world"
     ]
    },
    {
-    "title": "Right tool, wrong timeline: The incentive Keytruda biosimilars are set to miss",
-    "description": "BIOCENTURY | GUEST COMMENTARYRIGHT TOOL, WRONG TIMELINE: THE INCENTIVE KEYTRUDA BIOSIMILARS ARE SET TO MISSCongress should extend Medicare’s enhanced payment beyond 2027 to encourage practices to choose lower-cost...",
-    "source": "Biocentury",
-    "link": "https://www.biocentury.com/article/661715/right-tool-wrong-timeline-the-incentive-keytruda-biosimilars-are-set-to-miss",
-    "pubDate": "2026-11-24 23:12:15",
+    "title": "Iran to execute 2 anti-regime protesters at dawn after 3 days in death row holding cells",
+    "description": "Iran Human Rights urges UN intervention as two political prisoners await execution at Ghezel Hesar Prison in Iran's high-profile \"Ekbatan case.\"",
+    "source": "Fox News",
+    "link": "https://www.foxnews.com/world/iran-execute-2-anti-regime-protesters-dawn-3-days-death-row-holding-cells",
+    "pubDate": "2026-11-25 00:16:46",
     "category": [
      "world"
     ]
    },
    {
-    "title": "Rubio condemns Houthi strikes on Saudi Arabia in talks with Saudi foreign minister",
-    "description": "Eleven people were injured after one of the towers of the Financial Centre in Riyadh was targeted in an attack allegedly carried out by Yemen's Houthis.",
-    "source": "Hindustan Times",
-    "link": "https://www.hindustantimes.com/world-news/us-news/rubio-condemns-houthi-strikes-on-saudi-arabia-in-talks-with-saudi-foreign-minister-101795560129271.html",
-    "pubDate": "2026-11-24 23:11:18",
+    "title": "Why Jensen Huang’s return calmed markets, for now",
+    "description": "Jensen Huang has returned. The next few weeks could determine whether Nvidia’s decision to reinstate him as CEO was the prudent one that cheering employees, shareholders and President Donald Trump made it out to be —...",
+    "source": "Macau Daily Times",
+    "link": "https://macaudailytimes.com.mo/why-jensen-huangs-return-calmed-markets-for-now.html",
+    "pubDate": "2026-11-25 00:12:24",
     "category": [
      "world"
     ]
@@ -162,51 +215,34 @@
   ],
   "sports": [
    {
-    "title": "Cherki magic denies Napoli win but Man City's struggles continue",
-    "description": "Rayan Cherki scored a fine late equalizer as Manchester City snatched a 2-2 draw against Napoli in the Champions League.",
-    "source": "Entertainment And Sports Programming Network",
-    "link": "https://www.espn.in/football/report/_/gameId/401915379",
-    "pubDate": "2026-11-24 23:14:12",
+    "title": "Bhagyashree highlights benefits of balance training; shares workout tips",
+    "description": "Bhagyashree demonstrates a Swiss ball balance workout for core and posture strength and shares a warm halim seed, nut, and spice drink for winter wellness.",
+    "source": "The Hans India",
+    "link": "https://www.thehansindia.com/featured/women/bhagyashree-highlights-benefits-of-balance-training-shares-workout-tips-1145556",
+    "pubDate": "2026-11-25 00:15:23",
     "category": [
-     "sports"
+     "sports",
+     "top",
+     "health"
     ]
    },
    {
-    "title": "Ronaldo nets 987th goal to lead Al Nassr to AFC Champions League win",
-    "description": "Cristiano Ronaldo was on target again for Al Nassr in their 2-1 AFC Champions League Elite win against Qatari side Al Sadd at Alawwal Park on Tuesday.",
-    "source": "Entertainment And Sports Programming Network",
-    "link": "https://www.espn.in/football/story/_/id/50585740/cristiano-ronaldo-career-goals-al-nassr-afc-champions-league",
-    "pubDate": "2026-11-24 23:14:12",
+    "title": "Vaibhav Sooryavanshi: ‘Asambhav, Asambhav’, ‘Ek Bihari sab par bhari’ and more: X erupts in memes After Vaibhav Sooryavanshi’s record-breaking knock",
+    "description": "Vaibhav Sooryavanshi (Photo- X/BCCI) Vaibhav Sooryavanshi just played an innings that has cricket fans completely struggling to process what they saw. On Tuesday, the 15-year-old batter tore up the record…",
+    "source": "Swapupdate",
+    "link": "https://www.swapupdate.in/vaibhav-sooryavanshi-asambhav-asambhav-ek-bihari-sab-par-bhari-and-more-x-erupts-in-memes-after-vaibhav-sooryavanshis-record-breaking-knock/",
+    "pubDate": "2026-11-25 00:00:41",
     "category": [
-     "sports"
+     "sports",
+     "entertainment"
     ]
    },
    {
-    "title": "Sources: Man United to raise concerns after refs' chief backs Yoro red card",
-    "description": "Manchester United are set to raise concerns after referee's chief Howard Webb backed the decision to send off Leny Yoro against Liverpool, sources told ESPN.",
-    "source": "Entertainment And Sports Programming Network",
-    "link": "https://www.espn.in/football/story/_/id/50585934/man-united-leny-yoro-red-card-howard-webb-premier-league",
-    "pubDate": "2026-11-24 23:14:12",
-    "category": [
-     "sports"
-    ]
-   },
-   {
-    "title": "Leaked FIFA documents show 96-year plan for stakes in World Cup sell-off",
-    "description": "Gianni Infantino's failed private equity plan that started the biggest crisis of his FIFA presidency intended to sell stakes in the FIFA World Cup for 96 years.",
-    "source": "Entertainment And Sports Programming Network",
-    "link": "https://www.espn.in/football/story/_/id/50585622/leaked-fifa-documents-96-year-world-cup-selloff",
-    "pubDate": "2026-11-24 23:14:12",
-    "category": [
-     "sports"
-    ]
-   },
-   {
-    "title": "Bengals star Tee Higgins pays heartfelt tribute to Fiona the hippo after her heartbreaking death",
-    "description": "Cincinnati Bengals wide receiver Tee Higgins honoured Fiona the hippo with a special sweatshirt before the team's November 23 game against Washington. The nine-year-old Cincinnati Zoo favourite died on November 19...",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/sports/nfl/news/bengals-star-tee-higgins-pays-heartfelt-tribute-to-fiona-the-hippo-after-her-heartbreaking-death/articleshow/136144277.cms",
-    "pubDate": "2026-11-24 23:13:33",
+    "title": "Albania Wins IIHM Young Chef Olympiad 2026",
+    "description": "",
+    "source": "Hospitalitynews",
+    "link": "https://hospitalitynews.in/news/albania-crowned-world-champion-at-iihm-international-young-chef-olympiad-2026",
+    "pubDate": "2026-11-25 00:00:00",
     "category": [
      "sports",
      "top",
@@ -214,32 +250,45 @@
     ]
    },
    {
-    "title": "PT Usha out of IOA presidential race; stage set for 3-way contest for top post on Dec 5",
-    "description": "As expected, PT Usha will not continue as president of the Indian Olympic Association (IOA). She did not file her nomination papers before the 4.30 pm deadline on Tuesday, setting the stage for a change of guard when...",
-    "source": "The Tribune India",
-    "link": "https://www.tribuneindia.com/news/sports/pt-usha-out-of-ioa-presidential-race-stage-set-for-3-way-contest-for-top-post-on-dec-5",
-    "pubDate": "2026-11-24 23:13:17",
+    "title": "Pan Asian Dining Experience: Nirula's New Venture on Golf Course Road",
+    "description": "",
+    "source": "Hospitalitynews",
+    "link": "https://hospitalitynews.in/news/pan-asian-dining-experience-nirulas-new-venture-on-golf-course-road",
+    "pubDate": "2026-11-25 00:00:00",
     "category": [
      "sports",
      "top"
     ]
    },
    {
-    "title": "Sooryavanshi, 15, blasts 204 off 53 balls for India A - Reuters",
-    "description": "Sooryavanshi, 15, blasts 204 off 53 balls for India A Reuters 204 in 53 balls, 28 sixes: The numbers behind Sooryavanshi's record-breaking epic Cricbuzz Sooryavanshi leads list of fastest hundreds in List A cricket...",
-    "source": "Google News",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekZyYkNiWlh4RzFIOW9BRkFJaHdTSzhxcERlbmlkZS1NSzdqS3R6WmwxWEJzd21adkE4MEJKMTA5aG0zUVZUT1NxNmdXX2NqR2p4SHV1emRMYXdyaHI5ekYyTFlWelZyb1B4M2hGQkZtUUh5VGVJRWRrU1pCRnRjYTNiM213MTAzQVhWeVFhNERSZnQtc0dEUVNMTGg?oc=5",
-    "pubDate": "2026-11-24 23:11:43",
+    "title": "Sanjay Kumar Jain Assumes Leadership Role at IRCTC",
+    "description": "",
+    "source": "Hospitalitynews",
+    "link": "https://hospitalitynews.in/news/sanjay-kumar-jain-assumes-leadership-role-at-irctc",
+    "pubDate": "2026-11-25 00:00:00",
     "category": [
-     "sports"
+     "sports",
+     "top",
+     "business"
     ]
    },
    {
-    "title": "Champions League, Real Madrid thrash PSV Eindhoven 5-1: Key stats",
-    "description": "Real Madrid maintained their perfect record in the UEFA Champions League with a resounding 5-1 victory over PSV Eindhoven.",
-    "source": "Newsbytes",
-    "link": "https://www.newsbytesapp.com/news/sports/real-madrid-down-psv-5-1-in-champions-league/story",
-    "pubDate": "2026-11-24 23:09:44",
+    "title": "Grand Mercure Bengaluru Appoints Zeba Hasan",
+    "description": "",
+    "source": "Hospitalitynews",
+    "link": "https://hospitalitynews.in/news/grand-mercure-bengaluru-at-gopalan-mall-appoints-zeba-hasan-as-rooms-division-manager",
+    "pubDate": "2026-11-25 00:00:00",
+    "category": [
+     "sports",
+     "top"
+    ]
+   },
+   {
+    "title": "Little Andaman Pro 2026 winners announced",
+    "description": "",
+    "source": "Hospitalitynews",
+    "link": "https://hospitalitynews.in/news/sivaraj-babu-and-kamali-moorthy-win-big-at-little-andaman-pro-2026",
+    "pubDate": "2026-11-25 00:00:00",
     "category": [
      "sports",
      "top"
@@ -248,22 +297,81 @@
   ],
   "entertainment": [
    {
-    "title": "GTA 6 - How to Find the PS2 Vice City Easter Egg",
-    "description": "Miss the old PS2 era Vice City? You can visit it in GTA 6 if you solve of its most elaborate secrets. Here's a guide showing how to open up the portal back to the PS2 era and return with Tommy Vercetti's shirt....",
-    "source": "In Ign",
-    "link": "https://in.ign.com/video/277879/gta-6-how-to-find-the-ps2-vice-city-easter-egg",
-    "pubDate": "2026-11-24 23:04:14",
+    "title": "Leo Horoscope Today: November 25, 2026 - Vogue India",
+    "description": "Leo Horoscope Today: November 25, 2026 Vogue India Leo Shani Horoscope Today, 25 November 2026: Moon Moves Into Mrigashira This Evening as Shani Wants You to Plan for a Pending Course The Times of India Leo Horoscope...",
+    "source": "Google News",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RNnlrNUZWc211RWZJZDQxTEJqbFhvaGRTSVhyQ19qMTVjMUxzbUFkbGxiTkZ3YndZVWtyb01nMloteWJlQUFPSHRBdXU1aHg4dHpGMTBqaWNVTmN5Y0FOTmRyQi0yWjM4RnZBOFdFUVh2Ymc?oc=5",
+    "pubDate": "2026-11-25 00:20:00",
     "category": [
-     "entertainment",
-     "technology"
+     "entertainment"
     ]
    },
    {
-    "title": "Qatar urges restraint, dialogue amid US-Iran tensions, says diplomacy only viable path",
-    "description": "Doha [Qatar], November 25 (ANI): Qatar has called on all parties to exercise restraint and pursue diplomacy amid tensions between the United States and Iran, reiterating that dialogue remains the only viable path to...",
-    "source": "Bignewsnetwork",
-    "link": "http://bignewsnetwork.com/news/279452813/qatar-urges-restraint-dialogue-amid-us-iran-tensions-says-diplomacy-only-viable-path",
-    "pubDate": "2026-11-24 22:58:12",
+    "title": "Aquarius Horoscope Today: November 25, 2026 - Vogue India",
+    "description": "Aquarius Horoscope Today: November 25, 2026 Vogue India Aquarius Shani Horoscope Today, 25 November 2026: Shani Retrograde in Uttara-Bhadrapada Pushes You to Fix a Pending Document The Times of India Aquarius...",
+    "source": "Google News",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvM1h5c0hFR2lWd2dSbnZGdnJnTm90UTJnWU9HUlhfN2dUZDBoRWxvT0llWWNLc0M0QUxiNFpjazNVSzBYVjJWWldLQkp6WmVCNFJlQTBfX0JJWnhGc0VfazR2Q25nZm1lSVp4VE1vbk5BdEltdGZJclp3?oc=5",
+    "pubDate": "2026-11-25 00:20:00",
+    "category": [
+     "entertainment"
+    ]
+   },
+   {
+    "title": "Taurus Horoscope Today: November 25, 2026 - Vogue India",
+    "description": "Taurus Horoscope Today: November 25, 2026 Vogue India Taurus Shani Horoscope Today, 25 November 2026: Mars in Magha as Shani Asks for Honesty About a Costly Comfort The Times of India Taurus Horoscope Today, November...",
+    "source": "Google News",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5MTUtadjMxTUxEcDlKeFZPZjFPellTQzZrYWs0eWxXdHlReHNNQmp2RUNNZHJVMDFON1NNTWZXNmQ3OENybDZ5X2lHYWRpYWxfM3F1T3kwUHZQRi1FekFsa2pfZ2psY3hpS0Z2VDZPSW1XVDFDOEVF?oc=5",
+    "pubDate": "2026-11-25 00:20:00",
+    "category": [
+     "entertainment"
+    ]
+   },
+   {
+    "title": "Capricorn Horoscope Today: November 25, 2026",
+    "description": "",
+    "source": "Vogue",
+    "link": "https://www.vogue.in/content/capricorn-horoscope-today-november-25-2026",
+    "pubDate": "2026-11-25 00:20:00",
+    "category": [
+     "entertainment"
+    ]
+   },
+   {
+    "title": "Virgo Horoscope Today: November 25, 2026",
+    "description": "",
+    "source": "Vogue",
+    "link": "https://www.vogue.in/content/virgo-horoscope-today-november-25-2026",
+    "pubDate": "2026-11-25 00:20:00",
+    "category": [
+     "entertainment"
+    ]
+   },
+   {
+    "title": "Aquarius Horoscope Today: November 25, 2026",
+    "description": "",
+    "source": "Vogue",
+    "link": "https://www.vogue.in/content/aquarius-horoscope-today-november-25-2026",
+    "pubDate": "2026-11-25 00:20:00",
+    "category": [
+     "entertainment"
+    ]
+   },
+   {
+    "title": "Pisces Horoscope Today: November 25, 2026",
+    "description": "",
+    "source": "Vogue",
+    "link": "https://www.vogue.in/content/pisces-horoscope-today-november-25-2026",
+    "pubDate": "2026-11-25 00:20:00",
+    "category": [
+     "entertainment"
+    ]
+   },
+   {
+    "title": "Sagittarius Horoscope Today: November 25, 2026",
+    "description": "",
+    "source": "Vogue",
+    "link": "https://www.vogue.in/content/sagittarius-horoscope-today-november-25-2026",
+    "pubDate": "2026-11-25 00:20:00",
     "category": [
      "entertainment"
     ]
@@ -271,21 +379,11 @@
   ],
   "tech": [
    {
-    "title": "How doctors are changing the way student athletes recover from concussions",
-    "description": "Doctors are shifting from extreme rest to active recovery plans for young athletes suffering from concussions.",
-    "source": "Wsb-tv Channel 2 - Atlanta",
-    "link": "https://www.wsbtv.com/news/local/atlanta/how-doctors-are-changing-way-student-athletes-recover-concussions/FB4PJNFLMZHJLNLWCBGZ65VLSE/",
-    "pubDate": "2026-11-24 23:17:47",
-    "category": [
-     "technology"
-    ]
-   },
-   {
-    "title": "VA secretary: EHR was not fully compliant with accessibility law ‘at the time of acquisition’",
-    "description": "Doug Collins said the VA knew the then-Cerner product did not meet federal requirements for IT accessibility when the original electronic health record modernization contract was struck. The post VA secretary: EHR...",
-    "source": "Federal Scoop",
-    "link": "https://fedscoop.com/va-secretary-ehr-section-508-compliance-oracle-cerner/",
-    "pubDate": "2026-11-24 23:17:45",
+    "title": "Foxconn faces payment delays to Indian vendors; contractor seeks $15.3 million in dues",
+    "description": "At least four other vendors have also been waiting months or longer for payments, according to people familiar with the matter.",
+    "source": "The Hindu - Business Line",
+    "link": "https://www.thehindubusinessline.com/info-tech/foxconn-faces-payment-delays-to-indian-vendors-contractor-seeks-153-million-in-dues/article71740885.ece",
+    "pubDate": "2026-11-25 00:19:48",
     "category": [
      "technology"
     ]

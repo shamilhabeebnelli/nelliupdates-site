@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "irctc-trims-menu-three-vande-bharat-sleeper-trains-nov25",
+   "cats": [
+    "India"
+   ],
+   "title": "മൂന്ന് വന്ദേ ഭാരത് സ്ലീപ്പറുകളിൽ IRCTC ചുരുക്കിയ മെനു പരീക്ഷിക്കുന്നു",
+   "en": "IRCTC pilots trimmed, flight-style menu on three Vande Bharat sleeper trains, as reported",
+   "sum": "മുംബൈ-ബെംഗളൂരു, ഹൗറ-കാമാഖ്യ, ഡൽഹി-വാരണാസി വന്ദേ ഭാരത് സ്ലീപ്പറുകളിൽ നവംബർ 1 മുതൽ IRCTC ചുരുക്കിയ മെനു പൈലറ്റായി നടപ്പാക്കുന്നതായി റിപ്പോർട്ടുകൾ. ഭക്ഷണത്തിന്റെ തൂക്കം 450-500 ഗ്രാമായി കുറഞ്ഞു.",
+   "date": "25 Nov 2026",
+   "body": [
+    "മുംബൈ-ബെംഗളൂരു, ഹൗറ-കാമാഖ്യ, ന്യൂഡൽഹി-വാരണാസി റൂട്ടുകളിലെ മൂന്ന് വന്ദേ ഭാരത് സ്ലീപ്പർ ട്രെയിനുകളിൽ IRCTC നവംബർ 1 മുതൽ വിമാനങ്ങളിലേതിന് സമാനമായ ചുരുക്കിയ മെനു പൈലറ്റ് പദ്ധതിയായി നടപ്പാക്കുന്നതായി റിപ്പോർട്ടുകൾ. ഭക്ഷണ ഗുണനിലവാരം, ശുചിത്വം എന്നിവയെക്കുറിച്ചുള്ള പരാതികൾ പരിഹരിക്കാനാണ് നടപടിയെന്ന് ഉദ്യോഗസ്ഥരെ ഉദ്ധരിച്ച് റിപ്പോർട്ട്.",
+    "ഒരു ഭക്ഷണത്തിന്റെ തൂക്കം 700-750 ഗ്രാമിൽ നിന്ന് 450-500 ഗ്രാമായി കുറഞ്ഞു. ഓരോ ഇനത്തിന്റെയും അളവ് മാറിയിട്ടില്ലെന്ന് IRCTC പറയുന്നതായും റിപ്പോർട്ടുകൾ. വലിയ ക്ലൗഡ് കിച്ചണുകളാണ് ഭക്ഷണം തയ്യാറാക്കുന്നത്.",
+    "മുംബൈ-ബെംഗളൂരു റൂട്ടിൽ പ്രഭാതഭക്ഷണത്തിന് ഇഡ്ഡലി-വട, പോഹ, ഉപ്പുമാവ് എന്നിവയിൽ ഒന്നും, ഉച്ചഭക്ഷണത്തിനും അത്താഴത്തിനും ചപ്പാത്തി, ചോറ്, ദാൽ, ഒരു മെയിൻ വിഭവവുമാണ് നൽകുക. പ്രതികരണം അനുകൂലമെങ്കിൽ കൂടുതൽ ട്രെയിനുകളിലേക്ക് വ്യാപിപ്പിക്കുമെന്നാണ് റിപ്പോർട്ട്."
+   ],
+   "srcs": [
+    [
+     "Hindustan Times: IRCTC trials smaller menus",
+     "https://www.hindustantimes.com/india-news/irctctrials-smaller-menus-on-long-haul-trains-in-quality-push-101795482066179.html"
+    ],
+    [
+     "NDTV: flight-style meals on 3 Vande Bharat sleepers",
+     "https://www.ndtv.com/travel/indian-railways-introduces-flight-style-meals-on-3-vande-bharat-sleeper-trains-12374243"
+    ],
+    [
+     "News18: IRCTC trials shorter menus on 3 trains",
+     "https://www.news18.com/lifestyle/food/irctc-trials-shorter-menus-on-3-vande-bharat-trains-what-dishes-will-passengers-be-served-10439279.html"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgKtXkohSAW/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 7:38 PM IST on 25 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-25T19:38:13+05:30"
+  },
+  {
    "id": "ksrtc-airavat-bengaluru-nilakkal-bus-from-nov28-nov25",
    "cats": [
     "Kerala"

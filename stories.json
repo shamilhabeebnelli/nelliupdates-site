@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "sabarimala-virtual-queue-cancelled-slots-8-hour-gap-nov25",
+   "cats": [
+    "Kerala"
+   ],
+   "title": "ശബരിമല വെർച്വൽ ക്യൂ: റദ്ദാക്കിയ സ്ലോട്ടുകൾ 8 മണിക്കൂറിന് ശേഷം മാത്രം",
+   "en": "Sabarimala: cancelled virtual queue slots to reopen only after an 8-hour gap",
+   "sum": "കൂട്ട ബുക്കിങ് തടയാൻ, റദ്ദാക്കിയ ശബരിമല വെർച്വൽ ക്യൂ സ്ലോട്ടുകൾ എട്ട് മണിക്കൂറിന് ശേഷം മാത്രമേ പുതിയ ബുക്കിങ്ങിന് തുറക്കൂ എന്ന് തിരുവിതാംകൂർ ദേവസ്വം ബോർഡ് അറിയിച്ചതായി റിപ്പോർട്ടുകൾ.",
+   "date": "25 Nov 2026",
+   "body": [
+    "റദ്ദാക്കിയ ശബരിമല ദർശന വെർച്വൽ ക്യൂ സ്ലോട്ടുകൾ എട്ട് മണിക്കൂറിന് ശേഷം മാത്രമേ പുതിയ ബുക്കിങ്ങിന് തുറക്കൂ എന്ന് തിരുവിതാംകൂർ ദേവസ്വം ബോർഡ് പ്രസിഡന്റ് കെ ജയകുമാർ പറഞ്ഞതായി പിടിഐയെ ഉദ്ധരിച്ച് റിപ്പോർട്ടുകൾ. പുതിയ രീതി ചൊവ്വാഴ്ച രാത്രി മുതൽ പ്രാബല്യത്തിൽ വന്നു.",
+    "സ്ലോട്ടുകൾ കൂട്ടത്തോടെ ബുക്ക് ചെയ്ത് റദ്ദാക്കി ആസൂത്രിതമായി മറ്റുള്ളവർക്ക് നൽകുന്ന ശ്രമങ്ങൾ തടയാനാണ് ഈ മാറ്റമെന്ന് ബോർഡ് വ്യക്തമാക്കിയതായും റിപ്പോർട്ടുകൾ പറയുന്നു.",
+    "സ്പോട്ട് ബുക്കിങ് സ്ലോട്ടുകൾ 5,000 വർധിപ്പിച്ചിട്ടുണ്ടെന്നും ആവശ്യമെങ്കിൽ 5,000 കൂടി ചേർക്കാമെന്നും, വെർച്വൽ ക്യൂ അല്ലെങ്കിൽ സ്പോട്ട് ബുക്കിങ് വഴി ബുക്ക് ചെയ്ത് എത്തുന്ന ഒരു ഭക്തനെയും മടക്കി അയക്കില്ലെന്നും ബോർഡ് പ്രസിഡന്റ് പറഞ്ഞതായി റിപ്പോർട്ടുകൾ."
+   ],
+   "srcs": [
+    [
+     "The Hindu: 8-hour freeze on cancelled Sabarimala slots",
+     "https://www.thehindu.com/news/national/kerala/8-hour-freeze-on-cancelled-sabarimala-slots-to-check-bulk-booking/article71739237.ece"
+    ],
+    [
+     "Times of India: TDB 8-hr lock on cancelled slots",
+     "https://timesofindia.indiatimes.com/city/kochi/tdb-imposes-8-hr-lock-on-cancelled-virtual-queue-slots/articleshow/136137300.cms"
+    ],
+    [
+     "India Today: cancelled darshan slots reopen after 8 hours",
+     "https://www.indiatoday.in/india/kerala/story/sabarimala-virtual-queue-cancelled-darshan-slots-eight-hour-rebooking-gap-ptag-3046130-2026-11-25"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgKZ5svB0VD/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 4:48 PM IST on 25 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-25T16:48:09+05:30"
+  },
+  {
    "id": "kochi-metro-jln-stadium-interchange-pink-line-nov25",
    "cats": [
     "Kerala"

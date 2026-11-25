@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "alappuzha-jail-chickenpox-16-of-126-kerala-cases-nov25",
+   "cats": [
+    "Kerala"
+   ],
+   "title": "ആലപ്പുഴ ജില്ലാ ജയിലിൽ 126 തടവുകാരിൽ 16 പേർക്ക് ചിക്കൻപോക്സ്",
+   "en": "Chickenpox: 16 of 126 inmates at Alappuzha district jail infected, isolated; state-wide figures reported separately",
+   "sum": "ആലപ്പുഴ ജില്ലാ ജയിലിലെ 126 തടവുകാരിൽ 16 പേർക്ക് ചിക്കൻപോക്സ് സ്ഥിരീകരിച്ചതായി റിപ്പോർട്ട്. രോഗബാധിതരെ പ്രത്യേക സെല്ലുകളിലേക്ക് മാറ്റി. സംസ്ഥാനത്ത് ഈ വർഷം 34,852 കേസുകളും 12 മരണവുമെന്ന് ഒരു മാധ്യമം ആരോഗ്യ വകുപ്പ് കണക്കായി റിപ്പോർട്ട് ചെയ്തു.",
+   "date": "26 Nov 2026",
+   "body": [
+    "ആലപ്പുഴ ജില്ലാ ജയിലിൽ 126 തടവുകാരിൽ 16 പേർക്ക് ചിക്കൻപോക്സ് സ്ഥിരീകരിച്ചതായി News12 India, Pathanamthitta Media എന്നിവ നവംബർ 25-ന് റിപ്പോർട്ട് ചെയ്തു. രോഗം ബാധിച്ചവരെ പ്രത്യേക സെല്ലുകളിലേക്ക് മാറ്റിയിട്ടുണ്ട്.",
+    "ജയിലിലെ സ്ഥലപരിമിതിയും വായുസഞ്ചാരക്കുറവും രോഗവ്യാപന ആശങ്ക കൂട്ടുന്നതായി Pathanamthitta Media റിപ്പോർട്ടിൽ പറയുന്നു.",
+    "സംസ്ഥാനതലത്തിൽ ഈ വർഷം ജനുവരി മുതൽ 34,852 പേർക്ക് ചിക്കൻപോക്സ് ബാധിച്ചെന്നും 12 പേർ മരിച്ചെന്നും ആരോഗ്യ വകുപ്പിന്റെ കണക്കുകൾ പ്രകാരം Suprabhaatham റിപ്പോർട്ട് ചെയ്തു. നവംബറിൽ ഇതുവരെ 1,821 കേസുകളാണ് ഇതേ റിപ്പോർട്ടിലുള്ളത്. ഈ സംസ്ഥാന കണക്കുകൾ ഒരു മാധ്യമത്തിൽ മാത്രമാണ് കണ്ടത്, സ്ഥിരീകരണം പ്രതീക്ഷിക്കുന്നു."
+   ],
+   "srcs": [
+    [
+     "News12 India: 16 of 126 inmates have chickenpox",
+     "https://news12india.com/latest-news/25/11/2026/3057/"
+    ],
+    [
+     "Pathanamthitta Media: chickenpox in Alappuzha jail",
+     "https://pathanamthittamedia.com/chickenpox-spreads-in-alappuzha-district-jail/"
+    ],
+    [
+     "Suprabhaatham: Kerala 12 deaths, 34,852 cases this year",
+     "https://www.suprabhaatham.com/details/477434/chickenpox-spreads-across-the-state-12-deaths-and-34852-cases-reported-this-year"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgLUpsJB71j/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 1:21 AM IST on 26 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-26T01:21:30+05:30"
+  },
+  {
    "id": "ucl-sabah-1-4-barcelona-mickels-baku-nov26",
    "cats": [
     "Sports"

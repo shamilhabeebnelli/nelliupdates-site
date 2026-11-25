@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "microsoft-code-red-after-exchange-online-outage-nov25",
+   "cats": [
+    "Tech"
+   ],
+   "title": "വലിയ ഔട്ടേജിന് പിന്നാലെ മൈക്രോസോഫ്റ്റ് \"കോഡ് റെഡ്\" പ്രഖ്യാപിച്ചു",
+   "en": "Microsoft declares \"Code Red\" after Exchange Online outage, internal memos show, as reported",
+   "sum": "നവംബർ 12-13-ലെ ഏകദേശം 24 മണിക്കൂർ നീണ്ട Exchange Online, Outlook ഔട്ടേജിന് പിന്നാലെ മൈക്രോസോഫ്റ്റ് ആഭ്യന്തരമായി \"കോഡ് റെഡ്\" പ്രഖ്യാപിച്ചതായി ആഭ്യന്തര മെമ്മോകളെ ഉദ്ധരിച്ച് റിപ്പോർട്ടുകൾ.",
+   "date": "25 Nov 2026",
+   "body": [
+    "നവംബർ 12-13-ന് ഏകദേശം 24 മണിക്കൂർ നീണ്ട ഔട്ടേജിന് പിന്നാലെ വലിയ സേവന തകരാറുകൾ തടയാനും പരിഹരിക്കാനുമുള്ള രീതി മാറ്റാൻ മൈക്രോസോഫ്റ്റ് \"കോഡ് റെഡ്\" പ്രഖ്യാപിച്ചതായി റോയിട്ടേഴ്സ് കണ്ട ആഭ്യന്തര മെമ്മോകളെ ഉദ്ധരിച്ച് റിപ്പോർട്ടുകൾ.",
+    "Exchange Online, Outlook, Teams, Copilot ഉൾപ്പെടെ Microsoft 365 സേവനങ്ങളെ ഔട്ടേജ് ബാധിച്ചു. ജൂലൈയിൽ അവതരിപ്പിച്ച, കണ്ടെത്താനാകാതിരുന്ന ഒരു വിൻഡോസ് സ്കെയിലബിലിറ്റി തകരാറാണ് കാരണമെന്ന് കമ്പനി പറഞ്ഞതായും, സൈബർ ആക്രമണവുമായി ബന്ധമില്ലെന്ന് അറിയിച്ചതായും റിപ്പോർട്ട്.",
+    "ഭാവിയിലെ ഔട്ടേജുകൾ ഒരു മണിക്കൂറിനുള്ളിൽ പരിഹരിക്കുകയാണ് ലക്ഷ്യമെന്നും Microsoft 365 എൻജിനീയറിങ് ടീമുമായി ദിവസേനയും ആഴ്ചതോറും അവലോകന യോഗങ്ങൾ നടത്തുന്നുണ്ടെന്നും റിപ്പോർട്ടുകൾ പറയുന്നു."
+   ],
+   "srcs": [
+    [
+     "The Hindu (Reuters): Microsoft declares Code Red",
+     "https://www.thehindu.com/sci-tech/technology/microsoft-declares-code-red-after-historic-outage-internal-memos-show/article71740915.ece"
+    ],
+    [
+     "The Verge: Code Red after Outlook outage",
+     "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgK2StrBruA/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 8:56 PM IST on 25 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-25T20:56:13+05:30"
+  },
+  {
    "id": "riyadh-tower-attack-two-indians-injured-india-condemns-nov25",
    "cats": [
     "World"

@@ -1,6 +1,49 @@
 {
  "stories": [
   {
+   "id": "us-proposes-up-to-25-pct-tariff-on-india-nov25",
+   "cats": [
+    "India"
+   ],
+   "title": "ഇന്ത്യയ്ക്ക് 25 ശതമാനം വരെ തീരുവ: 14 സമ്പദ്‌വ്യവസ്ഥകൾക്കെതിരെ അമേരിക്കയുടെ നിർദേശം",
+   "en": "US proposes tariffs of up to 25 per cent on India among 14 economies under Section 301, as reported",
+   "sum": "അധിക ഉൽപാദന ശേഷി സംബന്ധിച്ച സെക്ഷൻ 301 അന്വേഷണങ്ങളിൽ 14 സമ്പദ്‌വ്യവസ്ഥകൾക്കെതിരെ തീരുവ നിർദേശിച്ചതായി USTR. ഇന്ത്യയുടെ എല്ലാ ഉൽപന്നങ്ങൾക്കും 25 ശതമാനം വരെ നിർദേശം; ഇത് നിർദേശം മാത്രമാണെന്ന് റിപ്പോർട്ടുകൾ.",
+   "date": "25 Nov 2026",
+   "body": [
+    "യുഎസ് ട്രേഡ് റെപ്രസന്റേറ്റീവ് ജാമിസൺ ഗ്രീർ നവംബർ 25-ന് (ബുധൻ) 14 സമ്പദ്‌വ്യവസ്ഥകളുടെ നിർമാണമേഖലയിലെ \"ഘടനാപരമായ അധിക ഉൽപാദന ശേഷി\" സംബന്ധിച്ച സെക്ഷൻ 301 അന്വേഷണങ്ങളിൽ തീരുമാനങ്ങൾ പ്രഖ്യാപിച്ചതായി USTR അറിയിച്ചു. ചൈന, യൂറോപ്യൻ യൂണിയൻ, ജപ്പാൻ, ദക്ഷിണ കൊറിയ, ഇന്ത്യ എന്നിവ ഉൾപ്പെടെയാണ് പട്ടികയിൽ.",
+    "ഇന്ത്യയുടെ കാര്യത്തിൽ, ചില ഉൽപന്നങ്ങളെ ഒഴിവാക്കി എല്ലാ ഉൽപന്നങ്ങൾക്കും 25 ശതമാനം വരെ അധിക തീരുവ ചുമത്താനാണ് നിർദേശം. നിലവിലുള്ള സെക്ഷൻ 301 തീരുവകൾ കഴിച്ചുള്ള നിരക്കാണിത്. മറ്റ് നടപടികൾ പ്രകാരമുള്ള തീരുവകളും ഇന്ത്യ അമേരിക്കയുമായി പരസ്പര വ്യാപാര കരാറിലെത്തുന്നതും പരിഗണിച്ച് നിരക്ക് ക്രമീകരിക്കുന്നത് പരിഗണിക്കുമെന്നും USTR പറയുന്നു.",
+    "ഇത് നിർദേശം മാത്രമാണ്. പൊതുജനാഭിപ്രായവും ഹിയറിങ്ങുകളും കഴിഞ്ഞശേഷമേ അന്തിമമാകൂ എന്ന് റിപ്പോർട്ടുകൾ പറയുന്നു."
+   ],
+   "srcs": [
+    [
+     "USTR: determinations in 14 Section 301 investigations",
+     "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural"
+    ],
+    [
+     "Reuters: US proposes new tariffs on 14 trading partners",
+     "https://www.reuters.com/3fec1b0a85a0/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/"
+    ],
+    [
+     "BBC News: US announces new tariffs on host of countries",
+     "https://www.bbc.com/news/articles/c893r9ke5p97o"
+    ],
+    [
+     "Washington Post: Trump proposes new tariffs",
+     "https://www.washingtonpost.com/politics/2026/11/25/trump-proposes-new-tariffs-china-europe-other-trade-partners/"
+    ],
+    [
+     "Economic Times: US targets India, six other economies",
+     "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-targets-india-six-other-economies-with-proposed-tariffs-of-up-to-25-in-fresh-trade-offensive-report/articleshow/136163453.cms"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgLF5o2BOGz/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 11:12 PM IST on 25 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-25T23:12:20+05:30"
+  },
+  {
    "id": "cabinet-approves-11000-crore-cie-manufacturing-scheme-nov25",
    "cats": [
     "India"

@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "chalakudy-left-bank-canal-breach-ezhattumukham-nov24",
+   "cats": [
+    "Kerala"
+   ],
+   "title": "ചാലക്കുടി ഇടതുകര കനാൽ പൊട്ടി: 1,000 ഹെക്ടറിലേറെ കൃഷി ഭീഷണിയിൽ",
+   "en": "Chalakudy Left Bank Canal breaches at Ezhattumukham, over 1,000 ha of farmland at risk",
+   "sum": "ഏഴാറ്റുമുഖത്ത് ചാലക്കുടി ഇടതുകര കനാലിന്റെ ബണ്ട് തകർന്ന് വെള്ളം വിതരണം നിലച്ചു. അറ്റകുറ്റപ്പണി തുടങ്ങി; തീരാൻ കുറഞ്ഞത് 10 ദിവസം മുതൽ 2 ആഴ്ച വരെ.",
+   "date": "25 Nov 2026",
+   "body": [
+    "ചാലക്കുടി പുഴയിൽനിന്നുള്ള ഇടതുകര കനാലിന്റെ പ്രധാന ബണ്ട് ഏഴാറ്റുമുഖത്ത് തകർന്നതിനെ തുടർന്ന് കനാലിലൂടെയുള്ള ജലവിതരണം പൂർണമായി നിർത്തിവച്ചു. തൃശ്ശൂർ, എറണാകുളം ജില്ലകളിലെ 1,000 ഹെക്ടറിലേറെ കൃഷി ഭീഷണിയിലാണെന്ന് ഓൺമനോരമ റിപ്പോർട്ട് ചെയ്യുന്നു. മഴ ഇല്ലാത്തതിനാൽ പല സ്ഥലങ്ങളിലും വിളകൾ ഇതിനകം വാടിത്തുടങ്ങിയിരുന്നു.",
+    "കനാൽ യന്ത്രസഹായത്തോടെ വൃത്തിയാക്കിയശേഷം നവംബർ 18 മുതൽ 20 വരെ വെള്ളം തുറന്നുവിട്ടിരുന്നു. ബണ്ട് തകർന്ന ഭാഗത്തിനടുത്തുള്ള അണ്ടർപാസിൽ നേരത്തേ ചോർച്ചയുണ്ടായിരുന്നുവെന്ന് ജലസേചന വകുപ്പ് ഉദ്യോഗസ്ഥർ പറഞ്ഞതായി റിപ്പോർട്ടിൽ പറയുന്നു.",
+    "അറ്റകുറ്റപ്പണി തുടങ്ങിയിട്ടുണ്ട്. തീരാൻ കുറഞ്ഞത് 10 ദിവസം മുതൽ രണ്ടാഴ്ച വരെ വേണ്ടിവരുമെന്നാണ് റിപ്പോർട്ടുകൾ. ഡിസംബർ 10 വരെ നീളാമെന്ന് മേലൂർ പഞ്ചായത്ത് പ്രസിഡന്റ് പറഞ്ഞതായി ഒരു റിപ്പോർട്ടിൽ പറയുന്നു."
+   ],
+   "srcs": [
+    [
+     "Onmanorama: canal breach threatens farmland (Nov 24)",
+     "https://www.onmanorama.com/news/kerala/2026/11/24/chalakudy-river-canal-breach-threatens-farmland-across-two-districts.html"
+    ],
+    [
+     "Onmanorama: repair work begins (Nov 25)",
+     "https://www.onmanorama.com/news/kerala/2026/11/24/repair-work-begins-on-damaged-chalakudy-left-bank-canal.html"
+    ],
+    [
+     "Deshabhimani: canal bund broken (Nov 24)",
+     "https://www.deshabhimani.com/district-news/-85521/canal-bund-broken77-8-mr1"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgKDuqVhhTK/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 1:34 PM IST on 25 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-25T13:34:00+05:30"
+  },
+  {
    "id": "sabarimala-virtual-queue-8-hour-rebooking-gap-nov24",
    "cats": [
     "Kerala"

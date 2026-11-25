@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "ksrtc-airavat-bengaluru-nilakkal-bus-from-nov28-nov25",
+   "cats": [
+    "Kerala"
+   ],
+   "title": "ബെംഗളൂരു-നിലയ്ക്കൽ ഐരാവത് വോൾവോ ബസ് സർവീസ് നവംബർ 28 മുതൽ എന്ന് കർണാടക KSRTC",
+   "en": "Karnataka KSRTC announces Airavat Volvo bus from Bengaluru to Nilakkal from November 28",
+   "sum": "കർണാടക KSRTC ബെംഗളൂരുവിൽ നിന്ന് നിലയ്ക്കലിലേക്ക് (പമ്പ-ശബരിമല) ഐരാവത് വോൾവോ ബസ് സർവീസ് നവംബർ 28 മുതൽ ആരംഭിക്കുമെന്ന് പ്രഖ്യാപിച്ചതായി റിപ്പോർട്ടുകൾ. ഓൺലൈൻ നിരക്ക് Rs 1,980.",
+   "date": "25 Nov 2026",
+   "body": [
+    "കർണാടക KSRTC ബെംഗളൂരുവിനും നിലയ്ക്കലിനും (പമ്പ-ശബരിമല) ഇടയിൽ പുതിയ ഐരാവത് വോൾവോ ബസ് സർവീസ് നവംബർ 28 (ശനി) മുതൽ ആരംഭിക്കുമെന്ന് പ്രഖ്യാപിച്ചതായി റിപ്പോർട്ടുകൾ. മൈസൂരു, കോഴിക്കോട്, തൃശൂർ, കോട്ടയം, എരുമേലി വഴിയാണ് സർവീസ്.",
+    "ബെംഗളൂരു ശാന്തിനഗർ ബസ് സ്റ്റാൻഡിൽ നിന്ന് ഉച്ചയ്ക്ക് 1.50-ന് പുറപ്പെടുന്ന ബസ് പിറ്റേന്ന് രാവിലെ 6.45-ന് നിലയ്ക്കലിൽ എത്തും. മടക്കയാത്ര നിലയ്ക്കലിൽ നിന്ന് വൈകിട്ട് 6-ന്; രാവിലെ 7.15-ന് മൈസൂരുവിലും 10-ന് ബെംഗളൂരുവിലും എത്തും.",
+    "ഓൺലൈനിൽ മുതിർന്നവർക്കുള്ള നിരക്ക് ബെംഗളൂരുവിൽ നിന്ന് Rs 1,980, മൈസൂരുവിൽ നിന്ന് Rs 1,880 ആണെന്നും റിപ്പോർട്ടുകൾ പറയുന്നു."
+   ],
+   "srcs": [
+    [
+     "New Indian Express: KSRTC Airavat service to Sabarimala",
+     "https://www.newindianexpress.com/states/karnataka/2026/Nov/24/ksrtc-to-launch-airavat-bus-service-to-sabarimala"
+    ],
+    [
+     "Bangalore Mirror: KSRTC Bengaluru-Nilakkal bus service",
+     "https://bangaloremirror.indiatimes.com/bangalore/others/in-brief/articleshow/136144875.cms"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgKsIRvh6Ul/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 7:27 PM IST on 25 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-25T19:27:25+05:30"
+  },
+  {
    "id": "supreme-court-cbse-three-language-students-continue-nov25",
    "cats": [
     "India"

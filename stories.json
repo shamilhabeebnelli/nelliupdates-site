@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "kerala-expert-panel-air-quality-kochi-tvm-nov25",
+   "cats": [
+    "Kerala"
+   ],
+   "title": "കൊച്ചി, തിരുവനന്തപുരം വായു ഗുണനിലവാരം പഠിക്കാൻ മൂന്നംഗ വിദഗ്ധ സമിതി",
+   "en": "Kerala forms three-member expert panel to assess air quality in Kochi and Thiruvananthapuram, as reported",
+   "sum": "കൊച്ചിയിലെയും തിരുവനന്തപുരത്തെയും വായു ഗുണനിലവാരം വിലയിരുത്താനും മലിനീകരണം നിയന്ത്രിക്കാനുള്ള നടപടികൾ ശുപാർശ ചെയ്യാനും മൂന്നംഗ വിദഗ്ധ സമിതിയെ സർക്കാർ നിയോഗിച്ചതായി റിപ്പോർട്ടുകൾ.",
+   "date": "25 Nov 2026",
+   "body": [
+    "കൊച്ചിയിലെയും തിരുവനന്തപുരത്തെയും വായു ഗുണനിലവാരം വിലയിരുത്താനും മലിനീകരണം നിയന്ത്രിക്കാനുള്ള നടപടികൾ ശുപാർശ ചെയ്യാനും മൂന്നംഗ വിദഗ്ധ സമിതിയെ മുഖ്യമന്ത്രിയുടെ ഓഫീസ് നിയോഗിച്ചതായി റിപ്പോർട്ടുകൾ (നവംബർ 24).",
+    "വിവിധ ഏജൻസികൾ നൽകുന്ന വായു ഗുണനിലവാര സൂചിക (AQI) കണക്കുകളിലെ വ്യത്യാസത്തെക്കുറിച്ചുള്ള ആശങ്കകളെ തുടർന്നാണ് തീരുമാനമെന്ന് റിപ്പോർട്ട്.",
+    "കഴിഞ്ഞ അഞ്ച് വർഷത്തിനിടെ നഗരങ്ങളിലെ വായു ഗുണനിലവാരത്തിലുണ്ടായ മാറ്റങ്ങളും കാലാവസ്ഥ, ഭൂപ്രകൃതി എന്നിവ മൂലമുള്ള വ്യതിയാനങ്ങളും സമിതി പഠിക്കുമെന്നും റിപ്പോർട്ടുകൾ പറയുന്നു."
+   ],
+   "srcs": [
+    [
+     "India Today: Expert panel to assess Kochi, TVM air",
+     "https://www.indiatoday.in/india/story/kerala-air-quality-panel-kochi-thiruvananthapuram-aqi-pollution-ptag-3045818-2026-11-24"
+    ],
+    [
+     "Mathrubhumi English: Expert panel on air quality",
+     "https://english.mathrubhumi.com/news/kerala/expert-panel-to-study-air-quality-in-kochi-and-thiruvananthapuram-wno2iby6"
+    ],
+    [
+     "ThePrint (PTI): Keralam sets up air quality panel",
+     "https://theprint.in/india/keralam-sets-up-expert-panel-to-assess-air-quality-in-kochi-thiruvananthapuram/3107452/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgKv7erhcrd/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 8:00 PM IST on 25 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-25T20:00:35+05:30"
+  },
+  {
    "id": "irctc-trims-menu-three-vande-bharat-sleeper-trains-nov25",
    "cats": [
     "India"

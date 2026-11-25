@@ -1,6 +1,44 @@
 {
  "stories": [
   {
+   "id": "doloo-assam-greenfield-airport-cabinet-approves-nov25",
+   "cats": [
+    "India"
+   ],
+   "title": "അസമിലെ ദോലുവിൽ പുതിയ ഗ്രീൻഫീൽഡ് വിമാനത്താവളത്തിന് കേന്ദ്ര മന്ത്രിസഭ അംഗീകാരം",
+   "en": "Union Cabinet approves greenfield airport at Doloo in Assam's Cachar district for Rs 2,014 crore",
+   "sum": "അസമിലെ കാച്ചർ ജില്ലയിൽ സിൽചാറിന് സമീപം ദോലുവിൽ ഏകദേശം 2,014 കോടി രൂപ ചെലവിൽ ഗ്രീൻഫീൽഡ് വിമാനത്താവളം നിർമിക്കാൻ കേന്ദ്ര മന്ത്രിസഭ അംഗീകാരം നൽകിയതായി റിപ്പോർട്ടുകൾ.",
+   "date": "25 Nov 2026",
+   "body": [
+    "അസമിലെ കാച്ചർ ജില്ലയിൽ സിൽചാറിന് സമീപമുള്ള ദോലുവിൽ ഗ്രീൻഫീൽഡ് വിമാനത്താവളം നിർമിക്കാൻ കേന്ദ്ര മന്ത്രിസഭയുടെ സാമ്പത്തികകാര്യ സമിതി നവംബർ 25-ന് അംഗീകാരം നൽകിയതായി റിപ്പോർട്ടുകൾ. ഏകദേശം 2,014 കോടി രൂപയാണ് പദ്ധതിച്ചെലവ്.",
+    "എയർപോർട്ട്സ് അതോറിറ്റി ഓഫ് ഇന്ത്യയാണ് വിമാനത്താവളം വികസിപ്പിക്കുക. 2,705 മീറ്റർ റൺവേയിൽ A-320 വിമാനങ്ങൾ ഇറക്കാനാകും. തിരക്കേറിയ സമയത്ത് 800 യാത്രക്കാരെ കൈകാര്യം ചെയ്യാൻ ശേഷിയുള്ള ടെർമിനലും ആറ് A-320 വിമാനങ്ങൾക്കുള്ള ആപ്രണും പദ്ധതിയിലുണ്ടെന്ന് റിപ്പോർട്ടുകൾ പറയുന്നു."
+   ],
+   "srcs": [
+    [
+     "The Hindu: Cabinet clears new airport at Silchar",
+     "https://www.thehindu.com/news/national/cabinet-clears-construction-of-new-airport-at-silchar-for-2014-crore/article71741967.ece"
+    ],
+    [
+     "India Today: Assam to get new greenfield airport",
+     "https://www.indiatoday.in/india/story/assam-to-get-new-greenfield-airport-doloo-silchar-cabinet-approves-rs-2014-crore-boost-northeast-connectivity-aai-fund-project-3046586-2026-11-25"
+    ],
+    [
+     "ET Infra: Rs 2,014 crore airport at Doloo",
+     "https://infra.economictimes.indiatimes.com/news/aviation/cabinet-approves-2014-crore-greenfield-airport-at-doloo-in-assam/136158565"
+    ],
+    [
+     "Times of India: Cabinet clears key decisions",
+     "https://timesofindia.indiatimes.com/business/india-business/from-construction-equipment-to-postal-services-cabinet-clears-rs-19934-crore-package-key-decisions/articleshow/136157105.cms"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgKiA0AhCQj/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 5:59 PM IST on 25 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-25T17:59:05+05:30"
+  },
+  {
    "id": "first-industry-built-pslv-n1-launch-early-2027-isro-nov25",
    "cats": [
     "Tech"

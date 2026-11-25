@@ -1,6 +1,36 @@
 {
  "stories": [
   {
+   "id": "kerala-yellow-alert-nine-districts-rain-till-nov27-nov25",
+   "cats": [
+    "Kerala"
+   ],
+   "title": "കേരളത്തിൽ ഒൻപത് ജില്ലകളിൽ യെല്ലോ അലർട്ട്, മഴ നവംബർ 27 വരെ തുടരുമെന്ന് മുന്നറിയിപ്പ്",
+   "en": "IMD issues yellow alert for nine Kerala districts, rain forecast to continue until November 27",
+   "sum": "കാലാവസ്ഥാ വകുപ്പ് നവംബർ 25-ന് ഒൻപത് ജില്ലകളിൽ യെല്ലോ അലർട്ട് പ്രഖ്യാപിച്ചതായും നവംബർ 27 വരെ ചില ജില്ലകളിൽ അലർട്ട് തുടരുമെന്നും റിപ്പോർട്ടുകൾ.",
+   "date": "25 Nov 2026",
+   "body": [
+    "കാലാവസ്ഥാ വകുപ്പ് (IMD) നവംബർ 25-ന് തിരുവനന്തപുരം, കൊല്ലം, പത്തനംതിട്ട, ആലപ്പുഴ, കോട്ടയം, എറണാകുളം, ഇടുക്കി, മലപ്പുറം, കോഴിക്കോട് ജില്ലകളിൽ യെല്ലോ അലർട്ട് പ്രഖ്യാപിച്ചതായി റിപ്പോർട്ടുകൾ. ചിലയിടങ്ങളിൽ ശക്തമായ മഴയും ഇടിമിന്നലും മണിക്കൂറിൽ 30-40 കിലോമീറ്റർ വേഗത്തിലുള്ള കാറ്റും ഉണ്ടാകാമെന്നാണ് മുന്നറിയിപ്പ്.",
+    "നവംബർ 26, 27 തീയതികളിൽ തിരുവനന്തപുരം, കൊല്ലം, പത്തനംതിട്ട, ആലപ്പുഴ, കോട്ടയം, ഇടുക്കി, എറണാകുളം ജില്ലകളിൽ അലർട്ട് തുടരുമെന്നും റിപ്പോർട്ടുകൾ പറയുന്നു."
+   ],
+   "srcs": [
+    [
+     "Mathrubhumi English: yellow alert in nine districts",
+     "https://english.mathrubhumi.com/news/kerala/kerala-weather-yellow-alert-heavy-rain-november-27-pte3osj8"
+    ],
+    [
+     "Indian Express Malayalam: Kerala weather update",
+     "https://malayalam.indianexpress.com/kerala-news/kerala-weather-update-heavy-rain-yellow-alert-12840195"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgKkgboBVNl/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 6:21 PM IST on 25 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-25T18:21:15+05:30"
+  },
+  {
    "id": "kerala-drought-alert-27-stations-trigger-1-ksdma-nov25",
    "cats": [
     "Kerala"

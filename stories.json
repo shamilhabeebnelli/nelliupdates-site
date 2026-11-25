@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "kerala-drought-alert-27-stations-trigger-1-ksdma-nov25",
+   "cats": [
+    "Kerala"
+   ],
+   "title": "കേരളത്തിൽ വരൾച്ചാ മുന്നറിയിപ്പ്: 59 മഴ കേന്ദ്രങ്ങളിൽ 27 എണ്ണം ട്രിഗർ-1 പരിധിയിൽ",
+   "en": "Kerala drought watch: 27 of 59 rainfall stations cross Trigger-1 threshold, KSDMA assessment reported",
+   "sum": "സംസ്ഥാന ദുരന്ത നിവാരണ അതോറിറ്റിയുടെ വിലയിരുത്തൽ പ്രകാരം IMD-യുടെ 59 മഴ നിരീക്ഷണ കേന്ദ്രങ്ങളിൽ 27 എണ്ണം വരൾച്ചാ നിരീക്ഷണത്തിലെ ട്രിഗർ-1 പരിധിയിലെത്തിയതായി റിപ്പോർട്ടുകൾ.",
+   "date": "25 Nov 2026",
+   "body": [
+    "സംസ്ഥാന ദുരന്ത നിവാരണ അതോറിറ്റി (KSDMA) നടത്തിയ വരൾച്ചാ വിലയിരുത്തൽ പ്രകാരം IMD ദീർഘകാല വിവരങ്ങൾ നൽകിയ 59 മഴ നിരീക്ഷണ കേന്ദ്രങ്ങളിൽ 27 എണ്ണം 'ട്രിഗർ-1' പരിധിയിലെത്തിയതായി റിപ്പോർട്ടുകൾ. 11 ജില്ലകളിലെ കേന്ദ്രങ്ങൾ ഇതിൽ ഉൾപ്പെടുന്നു.",
+    "നവംബർ 21 വരെ കാലവർഷത്തിൽ 28 ശതമാനവും തുലാവർഷത്തിൽ 26 ശതമാനവും മഴക്കുറവ് രേഖപ്പെടുത്തിയതായി റിപ്പോർട്ടുകൾ പറയുന്നു.",
+    "വരുന്ന വേനലിൽ ജലലഭ്യതയിൽ ഗണ്യമായ കുറവുണ്ടായേക്കാമെന്നും ജനുവരി അവസാനത്തോടെ വേനൽ സമാന സാഹചര്യം എത്താൻ സാധ്യതയുണ്ടെന്നുമാണ് വിലയിരുത്തലെന്ന് റിപ്പോർട്ടുകൾ. ജലകിയോസ്കുകൾ പുനരുജ്ജീവിപ്പിക്കാനും വകുപ്പുകൾ മുൻകരുതൽ തുടങ്ങാനും സംസ്ഥാന റിലീഫ് കമ്മീഷണർ അധ്യക്ഷനായ യോഗം നിർദേശിച്ചതായും റിപ്പോർട്ടുകളുണ്ട്."
+   ],
+   "srcs": [
+    [
+     "The Hindu: 27 rainfall stations cross Trigger-1",
+     "https://www.thehindu.com/news/national/kerala/drought-threat-looms-over-keralam-as-27-rainfall-stations-cross-trigger-1-drought-threshold/article71741904.ece"
+    ],
+    [
+     "Indian Express Malayalam: Kerala weather update",
+     "https://malayalam.indianexpress.com/kerala-news/kerala-weather-update-heavy-rain-yellow-alert-12840195"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgKjWIbh0Tm/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 6:10 PM IST on 25 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-25T18:10:35+05:30"
+  },
+  {
    "id": "doloo-assam-greenfield-airport-cabinet-approves-nov25",
    "cats": [
     "India"

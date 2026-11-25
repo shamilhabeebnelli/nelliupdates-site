@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "kerala-yellow-alert-heavy-rain-nov25-27",
+   "cats": [
+    "Kerala"
+   ],
+   "title": "കേരളത്തിൽ നവംബർ 27 വരെ യെല്ലോ അലർട്ട്: ഏതൊക്കെ ജില്ലകളിൽ, ഏതൊക്കെ ദിവസം",
+   "en": "Kerala: IMD yellow alerts for isolated heavy rain through Nov 27, district by district",
+   "sum": "നവംബർ 25 മുതൽ 27 വരെ ഒറ്റപ്പെട്ടയിടങ്ങളിൽ ശക്തമായ മഴയ്ക്ക് സാധ്യതയെന്ന് കാലാവസ്ഥാ വകുപ്പ്. ദിവസം തിരിച്ചുള്ള ജില്ലകളുടെ പട്ടിക.",
+   "date": "25 Nov 2026",
+   "body": [
+    "കേന്ദ്ര കാലാവസ്ഥാ വകുപ്പ് (ഐ.എം.ഡി) കേരളത്തിലെ വിവിധ ജില്ലകളിൽ നവംബർ 27 വരെ യെല്ലോ അലർട്ട് പ്രഖ്യാപിച്ചു. ഒറ്റപ്പെട്ടയിടങ്ങളിൽ ശക്തമായ മഴയ്ക്കുള്ള സാധ്യതയാണ് പ്രവചിച്ചിരിക്കുന്നത്; 24 മണിക്കൂറിൽ 64.5 മുതൽ 115.5 മില്ലിമീറ്റർ വരെ മഴ പ്രതീക്ഷിക്കുന്നു.",
+    "നവംബർ 25 (ബുധൻ): പത്തനംതിട്ട, ആലപ്പുഴ, കോട്ടയം, ഇടുക്കി, എറണാകുളം. നവംബർ 26 (വ്യാഴം): ഇതേ ജില്ലകൾക്കൊപ്പം തൃശ്ശൂർ, പാലക്കാട്. നവംബർ 27 (വെള്ളി): ആലപ്പുഴ, കോട്ടയം, എറണാകുളം.",
+    "മറ്റിടങ്ങളിൽ ഇടിമിന്നലോടുകൂടിയ മഴയ്ക്കും ശക്തമായ കാറ്റിനും സാധ്യതയുണ്ടെന്ന് റിപ്പോർട്ടുകൾ പറയുന്നു. ജില്ലാ അടിസ്ഥാനത്തിലുള്ള മുന്നറിയിപ്പുകൾ മാറിവരാമെന്നതിനാൽ ഏറ്റവും പുതിയ അറിയിപ്പ് പരിശോധിക്കുക."
+   ],
+   "srcs": [
+    [
+     "Mathrubhumi English: Kerala rain update, yellow alert till Nov 27",
+     "https://english.mathrubhumi.com/news/kerala/kerala-rain-alert-imd-issues-yellow-warning-in-multiple-districts-as-heavy-showers-likely-till-november-27-xnra74iw"
+    ],
+    [
+     "Indian Express Malayalam: Kerala news live, Nov 25",
+     "https://malayalam.indianexpress.com/kerala-news/kerala-news-today-live-updates-november-25-latest-local-political-breaking-news-updates-in-malayalam-12839164"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgKGT_9BdmJ/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 1:56 PM IST on 25 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-25T13:56:00+05:30"
+  },
+  {
    "id": "kerala-school-bag-weight-cap-pilot-nov25",
    "cats": [
     "Kerala"

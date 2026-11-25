@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "galaxeye-bellatrix-30-satellite-propulsion-deal-nov24",
+   "cats": [
+    "Tech"
+   ],
+   "title": "ഗാലക്സ്ഐയുടെ 30 ഉപഗ്രഹങ്ങൾക്ക് ബെല്ലട്രിക്സ് പ്രൊപ്പൽഷൻ നൽകും: സ്വകാര്യ ബഹിരാകാശ കമ്പനികൾ തമ്മിലെ വലിയ കരാർ",
+   "en": "Bellatrix Aerospace to supply propulsion for GalaxEye's next 30 satellites in what the firms call India's largest B2B order between private space companies",
+   "sum": "ബെംഗളൂരു കമ്പനികളായ ഗാലക്സ്ഐയും ബെല്ലട്രിക്സ് എയറോസ്പേസും ചൊവ്വാഴ്ച (നവംബർ 24) ന്യൂഡൽഹിയിൽ കരാർ ഒപ്പുവച്ചു. ഗാലക്സ്ഐയുടെ അടുത്ത 30 ഉപഗ്രഹങ്ങൾക്ക് ബെല്ലട്രിക്സ് പ്രൊപ്പൽഷൻ നൽകും.",
+   "date": "26 Nov 2026",
+   "body": [
+    "ബെംഗളൂരു ആസ്ഥാനമായ ഗാലക്സ്ഐ, മറ്റൊരു ബെംഗളൂരു കമ്പനിയായ ബെല്ലട്രിക്സ് എയറോസ്പേസുമായി ചൊവ്വാഴ്ച (നവംബർ 24) ബഹു വർഷ കരാർ ഒപ്പുവച്ചെന്ന് ടൈംസ് ഓഫ് ഇന്ത്യയും ദി ഹിന്ദുവും റിപ്പോർട്ട് ചെയ്തു. ഗാലക്സ്ഐ നിർമിക്കുന്ന അടുത്ത 30 ഉപഗ്രഹങ്ങൾക്കുള്ള ഇൻ-സ്പേസ് പ്രൊപ്പൽഷൻ സംവിധാനങ്ങൾ ബെല്ലട്രിക്സ് നൽകും. ന്യൂഡൽഹിയിൽ നടന്ന അഞ്ചാമത് ഇന്ത്യ ഇന്റർനാഷണൽ സ്പേസ് കോൺക്ലേവിലാണ് കരാർ പ്രഖ്യാപിച്ചത്.",
+    "സ്വകാര്യ ബഹിരാകാശ കമ്പനികൾ തമ്മിലെ ഇതുവരെയുള്ള ഏറ്റവും വലിയ ബിസിനസ്-ടു-ബിസിനസ് ഓർഡറാണിതെന്ന് കമ്പനികൾ അവകാശപ്പെടുന്നു. കരാർ തുക വെളിപ്പെടുത്തിയിട്ടില്ല.",
+    "ചിത്രം പ്രതിനിധാന സ്റ്റോക്ക് ഫോട്ടോയാണ്."
+   ],
+   "srcs": [
+    [
+     "Times of India: GalaxEye taps Bellatrix",
+     "https://timesofindia.indiatimes.com/science/galaxeye-taps-bellatrix-to-power-30-satellites-in-private-space-deal/articleshow/136130808.cms"
+    ],
+    [
+     "The Hindu: Indian space companies sign deal",
+     "https://www.thehindu.com/business/Industry/indian-space-companies-sign-largest-of-its-kind-deal-on-satellite-systems/article71739125.ece"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgLsqLvhpbJ/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 4:51 AM IST on 26 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-26T04:51:16+05:30"
+  },
+  {
    "id": "chariot-1-indiaai-foundation-model-launch-nov25",
    "cats": [
     "Tech"

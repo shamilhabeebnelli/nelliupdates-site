@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "ucl-sabah-0-4-barcelona-jesus-baku-nov26",
+   "cats": [
+    "Sports"
+   ],
+   "title": "ചാമ്പ്യൻസ് ലീഗ്: സബാഹ് 0-4 ബാഴ്സലോണ, ഗബ്രിയേൽ ജീസസിന്റെ ഗോൾ",
+   "en": "Champions League: Sabah 0-4 Barcelona in Baku, Gabriel Jesus scores around the 60th minute (live score at time of post)",
+   "sum": "ബാക്കുവിൽ സബാഹ്-ബാഴ്സലോണ മത്സരത്തിൽ ഗബ്രിയേൽ ജീസസ് ഏകദേശം 60-ാം മിനിറ്റിൽ ഗോൾ നേടി ബാഴ്സയുടെ ലീഡ് 4-0 ആക്കിയതായി റിപ്പോർട്ട്. ഗോർഡൻ രണ്ട്, അഡെയെമി ഒന്ന്. തത്സമയ സ്കോർ, മാറാം.",
+   "date": "26 Nov 2026",
+   "body": [
+    "സബാഹ് എഫ്കെ-ബാഴ്സലോണ ചാമ്പ്യൻസ് ലീഗ് മത്സരത്തിൽ ഗബ്രിയേൽ ജീസസ് ഏകദേശം 60-ാം മിനിറ്റിൽ ഗോൾ നേടി ബാഴ്സയുടെ ലീഡ് 4-0 ആക്കിയതായി AS, En Son Dakika എന്നിവയുടെ ലൈവ് റിപ്പോർട്ടുകൾ പറയുന്നു.",
+    "ആന്റണി ഗോർഡൻ രണ്ട് ഗോളും (31-ാം മിനിറ്റിലും ഏകദേശം 50-51-ാം മിനിറ്റിലും) കരീം അഡെയെമി ഏകദേശം 55-ാം മിനിറ്റിലും നേരത്തേ ഗോൾ നേടിയിരുന്നു.",
+    "ഇത് പോസ്റ്റ് ചെയ്ത സമയത്തെ തത്സമയ സ്കോറാണ്. മത്സരം തുടരുകയാണ്, സ്കോർ മാറാം. ചിത്രം പ്രതിനിധാന സ്റ്റോക്ക് ഫോട്ടോയാണ്."
+   ],
+   "srcs": [
+    [
+     "AS: Sabah vs Barcelona live",
+     "https://en.as.com/soccer/sabah-vs-barcelona-live-online-score-stats-goals-updates-champions-league-202627-f202611-n/"
+    ],
+    [
+     "En Son Dakika: Gabriel Jesus goal",
+     "https://www.ensondakika.com.tr/sabah-fc-barcelona-macinda-gol-gabriel-jesus-60-dakika/748252/"
+    ],
+    [
+     "El Pais: Sabah-Barcelona live",
+     "https://elpais.com/deportes/futbol/2026-11-25/sabah-fc-barcelona-en-directo-el-partido-de-la-champions-league-en-vivo.html"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgLQ7SJBhWW/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 12:48 AM IST on 26 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-26T00:48:55+05:30"
+  },
+  {
    "id": "ucl-sabah-0-2-barcelona-gordon-second-baku-nov26",
    "cats": [
     "Sports"

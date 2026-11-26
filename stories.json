@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "sabarimala-23000-virtual-queue-no-shows-nov25",
+   "cats": [
+    "Kerala"
+   ],
+   "title": "ശബരിമല: വെർച്വൽ ക്യൂ ബുക്കിങ് കഴിഞ്ഞ് ഏകദേശം 23,000 പേർ നവംബർ 25-ന് എത്തിയില്ലെന്ന് റിപ്പോർട്ട്",
+   "en": "Sabarimala: about 23,000 virtual-queue bookers did not turn up on Nov 25, as reported; board yet to find the reason",
+   "sum": "നവംബർ 25-ന് വെർച്വൽ ക്യൂ ബുക്ക് ചെയ്ത ഏകദേശം 23,000 പേർ ശബരിമലയിൽ എത്തിയില്ലെന്ന് മനോരമ ന്യൂസ് റിപ്പോർട്ട് ചെയ്യുന്നു. ആദ്യ ആഴ്ചയിൽ തീർഥാടകർ 44 ശതമാനം കുറഞ്ഞെന്ന് ദേവസ്വം എംപ്ലോയീസ് ഫ്രണ്ട് അവകാശപ്പെട്ടതായി ദ ഹിന്ദുവും.",
+   "date": "27 Nov 2026",
+   "body": [
+    "നവംബർ 25-ന് വെർച്വൽ ക്യൂ വഴി ബുക്ക് ചെയ്തിട്ടും ഏകദേശം 23,000 തീർഥാടകർ ദർശനത്തിന് എത്തിയില്ലെന്ന് മനോരമ ന്യൂസ് റിപ്പോർട്ട് ചെയ്യുന്നു. അന്ന് പമ്പയിൽ ആകെ 59,601 പേർ എത്തിയെന്നും അവരിൽ ഏകദേശം 47,000 പേർ വെർച്വൽ ക്യൂ ബുക്കിങ് ഉള്ളവരായിരുന്നെന്നും റിപ്പോർട്ടിലുണ്ട്.",
+    "ഇതിന്റെ കാരണം ദേവസ്വം ബോർഡിന് ഇതുവരെ കണ്ടെത്താനായിട്ടില്ലെന്നും പൊലീസ്, വിജിലൻസ്, ദേവസ്വം വിജിലൻസ്, സൈബർ പൊലീസ് സംഘങ്ങൾ അന്വേഷിച്ചിട്ടും വിവരം ലഭിച്ചില്ലെന്നും മനോരമ ന്യൂസ് പറയുന്നു. ചെന്നൈയിലും കോയമ്പത്തൂരിലും കൂട്ട ബുക്കിങ് കണ്ടെത്തിയിരുന്നതായും കേരളത്തിലും ഇത് സംശയിക്കുന്നുണ്ടെന്നും റിപ്പോർട്ടിൽ പറയുന്നു.",
+    "സീസണിന്റെ ആദ്യ ആഴ്ചയിൽ തീർഥാടകരുടെ എണ്ണം കഴിഞ്ഞ വർഷത്തെക്കാൾ 44 ശതമാനത്തിലേറെ കുറഞ്ഞെന്നും ഏകദേശം 12 കോടി രൂപയുടെ വരുമാനക്കുറവുണ്ടെന്നും ട്രാവൻകൂർ ദേവസ്വം എംപ്ലോയീസ് ഫ്രണ്ട് അവകാശപ്പെട്ടതായി ദ ഹിന്ദു റിപ്പോർട്ട് ചെയ്യുന്നു. ഇത് ആ സംഘടനയുടെ അവകാശവാദമാണ്; ദിവസേന 20,000-ലേറെ പേർ ബുക്ക് ചെയ്ത് എത്തുന്നില്ലെന്നും സംഘടന പറയുന്നു."
+   ],
+   "srcs": [
+    [
+     "Manorama News: 23,000 bookers did not turn up",
+     "https://www.manoramanews.com/kerala/latest/2026/11/26/23000-sabarimala-pilgrims-fail-to-turn-up-despite-virtual-queue-bookings.html"
+    ],
+    [
+     "The Hindu: Sabarimala revenue dip, employees union",
+     "https://www.thehindu.com/news/national/kerala/sabarimala-revenue-dip-could-hit-1200-temples-warns-employees-union/article71742606.ece"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgOMlEshh4x/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 4:08 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T04:08:40+05:30"
+  },
+  {
    "id": "euclid-jwst-earliest-quasar-630-myr-after-big-bang-nov24",
    "cats": [
     "Tech"

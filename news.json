@@ -1,68 +1,81 @@
 {
- "fetched_at": "2026-11-26 02:25 UTC",
+ "fetched_at": "2026-11-26 03:26 UTC",
  "groups": {
   "india": [
    {
-    "title": "Pharma, steel, solar and ICT: Why Trump has singled out four key Indian manufacturing sectors",
-    "description": "The Office of the United States Trade Representative (USTR) on November 25 identified five areas of concern in India’s economic and industrial policies following an investigation under Section 301 of the Trade Act of...",
-    "source": "Business News India",
-    "link": "https://www.businesstoday.in/latest/economy/story/pharma-steel-solar-and-ict-why-trump-has-singled-out-four-key-indian-manufacturing-sectors-569532-2026-11-25",
-    "pubDate": "2026-11-25 14:24:44",
+    "title": "Cross-Border Consulting And The Argument For Integrating Mexico and US Energy Regulations",
+    "description": "Óscar Liévano Moreno is positioning his new consultancy, O6 Energy LLC, to help U.S. energy companies navigate Mexico's changing regulations, legal uncertainties, and cross-border investment opportunities despite...",
+    "source": "Dna",
+    "link": "https://www.dnaindia.com/insights/report-cross-border-consulting-and-the-argument-for-integrating-mexico-and-us-energy-regulations-3224624",
+    "pubDate": "2026-11-25 15:26:00",
     "category": [
      "top",
-     "business"
+     "business",
+     "technology"
     ]
    },
    {
-    "title": "NHAI to commence toll collection on B.C. Road-Addahole NH 75 from November 26",
-    "description": "NHAI will commence toll collection from November 26 on NH 75’s B.C. Road-Addahole section, with varied rates and local concession schemes.",
-    "source": "The Hindu",
-    "link": "https://www.thehindu.com/news/cities/Mangalore/nhai-to-commence-toll-collection-on-bc-road-addahole-nh-75-from-november-26/article71742478.ece",
-    "pubDate": "2026-11-25 14:24:43",
+    "title": "Pakistan's First Astronaut Reaches Tiangong Space Station Aboard China's Shenzhou-24 Mission",
+    "description": "China has launched the Shenzhou-24 crewed spacecraft, carrying three astronauts to the Tiangong space station, including Pakistani astronaut Muhammad Zeeshan Ali. The mission marks the first time a foreign astronaut...",
+    "source": "Indiandefensenews",
+    "link": "https://www.indiandefensenews.in/2026/11/pakistans-first-astronaut-reaches.html",
+    "pubDate": "2026-11-25 15:26:00",
     "category": [
      "top",
      "technology"
     ]
    },
    {
-    "title": "TG RERA fines GKH Properties Rs 6.10 lakh for hiding pending litigation in Kapra",
-    "description": "HYDERABAD: The Telangana Real Estate Regulatory Authority (TG RERA) has imposed a penalty of Rs 6.10 lakh on GKH Properties Private Limited for failing to disclose pending civil litigation concerning the land on...",
-    "source": "Hyderabad Mail",
-    "link": "https://hyderabadmail.com/tg-rera-fines-gkh-properties-pravish-abode-litigation/",
-    "pubDate": "2026-11-25 14:24:42",
+    "title": "China To Showcase Z-20F Anti-Submarine Warfare Helicopter For First Time At Zhuhai Air Show 2026",
+    "description": "China's Z-20F is evidentially a design copy of America's legendary UH-60 Black HawkChina’s People’s Liberation Army Navy (PLAN) has confirmed that the Z-20F anti-submarine warfare (ASW) helicopter will make its first...",
+    "source": "Indiandefensenews",
+    "link": "https://www.indiandefensenews.in/2026/11/china-to-showcase-z-20f-anti-submarine.html",
+    "pubDate": "2026-11-25 15:26:00",
     "category": [
      "top",
+     "technology"
+    ]
+   },
+   {
+    "title": "India's Space Economy Set To Reach $40-45 Billion Within A Decade Says Minister Dr Jitendra Singh",
+    "description": "India's space economy is on course to expand from nearly $9 billion today to between USD 40 billion and $45 billion within the next decade, according to Union Minister Jitendra Singh. Speaking at the India...",
+    "source": "Indiandefensenews",
+    "link": "https://www.indiandefensenews.in/2026/11/indias-space-economy-set-to-reach-40-45.html",
+    "pubDate": "2026-11-25 15:26:00",
+    "category": [
+     "top",
+     "science",
      "business"
     ]
    },
    {
-    "title": "GTRI cites customs rules, court rulings to seek CETA tariff concessions for bulk Scotch whisky",
-    "description": "The Global Trade Research Initiative (GTRI) urged the Central Board of Indirect Taxes and Customs (CBIC) to issue formal guidelines on the classification of bulk Scotch and other spirits.",
-    "source": "Moneycontrol",
-    "link": "https://www.moneycontrol.com/news/business/gtri-cites-customs-rules-court-rulings-to-seek-ceta-tariff-concessions-for-bulk-scotch-whisky-14089039.html",
-    "pubDate": "2026-11-25 14:24:37",
-    "category": [
-     "top",
-     "business"
-    ]
-   },
-   {
-    "title": "'I'm Too Tired; I Want To Sleep': Congress Leader Hanumantha Rao Recalls Rajiv Gandhi's Final Hours",
-    "description": "Senior Congress leader V. Hanumantha Rao recalled his final conversation with Rajiv Gandhi during the 1991 election campaign, remembering how the former Prime Minister expressed exhaustion and promised him Andhra...",
-    "source": "The Free Press Journal",
-    "link": "https://www.freepressjournal.in/india/im-too-tired-i-want-to-sleep-congress-leader-hanumantha-rao-recalls-rajiv-gandhis-final-hours",
-    "pubDate": "2026-11-25 14:24:31",
+    "title": "1,700 Indian nationals deported from US since start of 2026: MEA",
+    "description": "MEA spokesperson Randhir Jaiswal says India verifies the nationality of individuals before accepting deportees, reiterating New Delhi’s cooperation with Washington on migration while opposing illegal immigration.",
+    "source": "Firstpost",
+    "link": "https://www.firstpost.com/india/1700-indian-nationals-deported-from-us-since-start-of-2026-mea-14062602.html",
+    "pubDate": "2026-11-25 15:25:52",
     "category": [
      "top",
      "politics"
     ]
    },
    {
-    "title": "Ashoka, BWCC chief review hospital works",
-    "description": "Leader of the Opposition in the Karnataka Legislative Assembly and Padmanabhanagar MLA R. Ashoka joined Bengaluru West City Corporation Commissioner Shilpa Nag to review public health projects and waste management...",
-    "source": "Ibcworldnews",
-    "link": "https://www.ibcworldnews.com/news/ashoka-bwcc-chief-review-hospital-works",
-    "pubDate": "2026-11-25 14:24:23",
+    "title": "PM Modi’s Mantra of ‘Sabka Saath, Sabka Vikas, Sabka Vishwas and Sabka Prayas’ a Modern and Practical Manifestation of Guru Ravidas Ji’s Philosophy of Social Harmony and Equality- CM",
+    "description": "PM Modi’s Mantra of ‘Sabka Saath, Sabka Vikas, Sabka Vishwas and Sabka Prayas’ a Modern and Practical Manifestation of Guru Ravidas Ji’s Philosophy of Social Harmony and Equality- CM",
+    "source": "Atalhind",
+    "link": "https://www.atalhind.com/pm-modis-mantra-of-sabka-saath-sabka-vikas-sabka-vishwas-and-sabka-prayas-a-mode/",
+    "pubDate": "2026-11-25 15:25:30",
+    "category": [
+     "top",
+     "lifestyle"
+    ]
+   },
+   {
+    "title": "INDI alliance’s chapter is closed in UP, says state BJP chief Pankaj Chaudhary",
+    "description": "Chaudhary said that in the politics of the SP and Congress, plunder has replaced public interest, division has replaced development, and nepotism has replaced public service.",
+    "source": "The Statesman",
+    "link": "https://www.thestatesman.com/cities/lucknow/indi-alliances-chapter-is-closed-in-up-says-state-bjp-chief-pankaj-chaudhary-1503666979.html",
+    "pubDate": "2026-11-25 15:25:30",
     "category": [
      "top",
      "politics"
@@ -71,11 +84,23 @@
   ],
   "kerala": [
    {
-    "title": "KSEB, NTPC sign MoU to explore green energy projects in Keralam",
-    "description": "",
-    "source": "Ptinews",
-    "link": "https://www.ptinews.com/story/national/kseb-ntpc-sign-mou-to-explore-green-energy-projects-in-keralam/4293232",
-    "pubDate": "2026-11-25 14:23:03",
+    "title": "Chennithala accuses Centre of prioritising ethanol production over food security",
+    "description": "Home Minister Ramesh Chennithala has criticised Prime Minister Narendra Modi, alleging that he is more interested in ethanol production than in distributing food grains to the poor.",
+    "source": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/chennithala-accuses-centre-of-prioritising-ethanol-production-over-food-security/article71743054.ece",
+    "pubDate": "2026-11-25 15:25:28",
+    "category": [
+     "environment",
+     "politics",
+     "top"
+    ]
+   },
+   {
+    "title": "Tribals Build Makeshift Bamboo Bridge To Abujhmad Waterfall In C’garh",
+    "description": "An eight-km stretch to Handawada waterfall awaits a permanent road, with a Rs 10-crore plan proposed.",
+    "source": "Deccan Chronicle",
+    "link": "https://www.deccanchronicle.com/nation/tribals-build-makeshift-bamboo-bridge-to-abujhmad-waterfall-in-cgarh-2007911",
+    "pubDate": "2026-11-25 15:25:05",
     "category": [
      "environment",
      "top",
@@ -83,110 +108,140 @@
     ]
    },
    {
-    "title": "No More Heavy Loads: Kerala Launches Pilot Project To Lighten School Bags",
-    "description": "Kerala General Education Department will begin a pilot scheme next year that limits school bag weight to no more than 10 percent of a child's body weight.",
-    "source": "Deccan Chronicle",
-    "link": "https://www.deccanchronicle.com/southern-states/kerala/no-more-heavy-loads-kerala-launches-pilot-project-to-lighten-school-bags-2007892",
-    "pubDate": "2026-11-25 14:19:03",
+    "title": "Joju George's 'Paripadi': Shreejith Appu's Character Unveiled",
+    "description": "Joju George's 'Paripadi': Shreejith Appu's Character Unveiled - Chennai, 25 November: The creators behind popular Malayalam actor and director Joju George's much-anticipated film 'Paripadi' have officially revealed...",
+    "source": "Lokmat Times",
+    "link": "https://www.lokmattimes.com/entertainment/joju-georges-paripadi-shreejith-appus-character-unveiled-a001-w02/",
+    "pubDate": "2026-11-25 15:21:17",
     "category": [
-     "top",
-     "education"
+     "domestic"
     ]
    },
    {
-    "title": "‘Whenever govt is formed, it will be BJP govt under Modi’: Rajnath Singh challenges Congress to contest elections through ballot",
-    "description": "KALABURAGI: Defence Minister Rajnath Singh on Wednesday expressed confidence that whenever a government is formed in the country, it will be a BJP government under the leadership of Prime Minister Narendra Modi. He...",
-    "source": "Public Tv English",
-    "link": "https://english.publictv.in/whenever-govt-is-formed-it-will-be-bjp-govt-under-modi-rajnath-singh-challenges-congress-to-contest-elections-through-ballot/",
-    "pubDate": "2026-11-25 14:16:00",
-    "category": [
-     "top",
-     "politics"
-    ]
-   },
-   {
-    "title": "Keralam Cabinet clears Siddharthan Anti-Ragging and Student Welfare Bill, Private Universities Bill",
-    "description": "The two bills will be introduced during the Keralam Assembly session beginning November 30.",
-    "source": "Edex Live",
-    "link": "https://www.edexlive.com/news/keralam-cabinet-clears-siddharthan-anti-ragging-and-student-welfare-bill-private-universities-bill",
-    "pubDate": "2026-11-25 14:15:00",
-    "category": [
-     "top",
-     "politics"
-    ]
-   },
-   {
-    "title": "Meta officials met Congress amid its Youth wing’s campaign against online censorship",
-    "description": "In the 40-min meeting held at the Congress headquarters, the Meta executives said some removals stemmed from its AI content policy and blamed India's amended IT rules requiring faster proactive takedowns which is...",
-    "source": "Medianama",
-    "link": "https://www.medianama.com/2026/11/223-meta-congress-youth-wing-online-censorship-campaign/",
-    "pubDate": "2026-11-25 14:12:55",
-    "category": [
-     "technology"
-    ]
-   },
-   {
-    "title": "CBI closes corruption case against Kerala minister Ramesh Chennithala",
-    "description": "The matter related to the alleged irregularities in setting up of an effluent treatment plant at the premises of a state-owned company.",
-    "source": "Scroll.in",
-    "link": "https://scroll.in/latest/1097314/cbi-closes-corruption-case-against-kerala-minister-ramesh-chennithala",
-    "pubDate": "2026-11-25 14:12:01",
-    "category": [
-     "crime",
-     "top"
-    ]
-   },
-   {
-    "title": "Constitution Day: Warning given by Dr Ambedkar resonates in present times",
-    "description": "Had it been any other man of lesser mettle, he’d have rejoiced at this historic moment of India’s adoption of its Constitution as the zenith of an already illustrious career. Instead of choosing a triumphant tone, on...",
-    "source": "Organiser Weekly",
-    "link": "https://organiser.org/2026/11/25/428810/bharat/constitution-day-warning-given-by-dr-ambedkar-resonates-in-present-times/",
-    "pubDate": "2026-11-25 14:10:54",
-    "category": [
-     "top",
-     "politics",
-     "lifestyle"
-    ]
-   },
-   {
-    "title": "A three-month long drive that made Keralam's Wayanad e-waste free",
-    "description": "Spearheaded by state government agency Suchitwa Mission, the drive was initially carried out at around 180 government institutions in the district.",
-    "source": "Deccan Herald",
-    "link": "https://www.deccanherald.com/india/keralam/a-three-month-long-drive-that-made-keralams-wayanad-e-waste-free-4231070",
-    "pubDate": "2026-11-25 14:09:00",
+    "title": "KSEB inks pact with NTPC Ltd, NGEL for green projects",
+    "description": "The Kerala State Electricity Board (KSEB) has inked a memorandum of understanding with NTPC Ltd and NTPC Green Energy Ltd (NGEL) for establishing ‘green’ power projects in Keralam.",
+    "source": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/kseb-inks-pact-with-ntpc-ltd-ngel-for-green-projects/article71742831.ece",
+    "pubDate": "2026-11-25 15:20:29",
     "category": [
      "environment",
-     "top"
+     "top",
+     "business"
+    ]
+   },
+   {
+    "title": "Joju George's 'Paripadi' makers reveal Shreejith Appu's character in film",
+    "description": "Digital Desk | Chennai, Nov 25 (IANS) The makers of popular Malayalam actor and director Joju George's eagerly awaited upcoming film 'Paripadi' on Wednesday revealed the character that actor...",
+    "source": "Bhaskarlive",
+    "link": "https://bhaskarlive.in/others/joju-georges-paripadi-makers-reveal-shreejith-appus-character-in-film-2170136",
+    "pubDate": "2026-11-25 15:20:11",
+    "category": [
+     "top",
+     "entertainment"
+    ]
+   },
+   {
+    "title": "Keralam’s nursing brain drain",
+    "description": "Migration has long been part of Keralam’s nursing story, but the pace has increased. Low pay, forced overtime, and a widening shortage of experienced nurses have left hospitals in one of the world’s oldest nursing...",
+    "source": "Frontline Thehindu",
+    "link": "https://frontline.thehindu.com/the-nation/kerala-nursing-crisis-nurse-migration/article71741880.ece",
+    "pubDate": "2026-11-25 15:20:10",
+    "category": [
+     "business",
+     "top",
+     "health"
+    ]
+   },
+   {
+    "title": "CM holds his most 'emotionally troubled' post-Cabinet briefing. Is infighting catching up with Satheesan?",
+    "description": "V D Satheesan alleged that fake online posts targeting him came from a single centre, amid growing tensions within the Kerala Congress.",
+    "source": "Onmanorama",
+    "link": "https://www.onmanorama.com/kerala/top-news/2026/11/25/is-infighting-catching-up-with-cm-satheesan-conducts-his-most-emotionally-troubled-post-cabinet-briefing.html",
+    "pubDate": "2026-11-25 15:20:07",
+    "category": [
+     "crime",
+     "top",
+     "technology"
     ]
    }
   ],
   "world": [
    {
-    "title": "Jailed Istanbul mayor’s degree permanently annulled after final appeal rejected",
-    "description": "The annulment of jailed Istanbul mayor Ekrem Imamoglu’s degree, which was initially cancelled as the Turkish authorities did not recognise the Turkish Cypriot university at which he completed a proportion of his...",
-    "source": "Cyprus Mail",
-    "link": "https://cyprus-mail.com/2026/11/25/jailed-istanbul-mayors-degree-permanently-annulled-after-final-appeal-rejected",
-    "pubDate": "2026-11-25 14:23:48",
+    "title": "2025 Gallery",
+    "description": "",
+    "source": "Biv",
+    "link": "https://www.biv.com/galleries/forty-under-40-magazine-launch/2025-gallery-13057406",
+    "pubDate": "2026-11-25 15:25:57",
     "category": [
      "world"
     ]
    },
    {
-    "title": "Pope Leo calls COP31 collapse 'Troubling'; Urges climate push",
-    "description": "Pope Leo calls COP31 collapse 'Troubling'; Urges climate pushPope Leo XIV expressed deep concern on Wednesday, November 25, 2026, following the collapse of the COP31 UN climate summit in Antalya, Turkey, calling it...",
-    "source": "The News International",
-    "link": "https://www.thenews.com.pk/latest/1425071-pope-leo-calls-cop31-collapse-troubling-urges-swift-climate-push",
-    "pubDate": "2026-11-25 14:23:00",
+    "title": "Rosatom offers Brunei cooperation in nuclear sector — CEO",
+    "description": "Alexey Likhachev noted that this does not necessarily entail the immediate construction of a nuclear power plant",
+    "source": "Russian News Agency Tass",
+    "link": "https://tass.com/economy/2224815",
+    "pubDate": "2026-11-25 15:25:02",
     "category": [
      "world"
     ]
    },
    {
-    "title": "Vernon Kay says 'give us a break' as he admits jibe aimed at BBC colleague Anton Du Beke",
-    "description": "Vernon Kay told his colleague, Ellie Brennan - who delivers the travel updates on BBC Radio 2 - that when his pal is \"ripping it\", he has a tactic for getting under his skin",
+    "title": "Huawei Convicted in US Court on 10 Counts of Fraud & Trade Theft",
+    "description": "In one of the most consequential corporate criminal verdicts in modern technology and international trade history, a federal jury in Brooklyn, New York, on Tuesday, November 24, 2026, convicted Chinese...",
+    "source": "Suspense Crime",
+    "link": "https://suspensecrime.com/world/huawei-convicted-in-us-court-on-10-counts-of-fraud-trade-theft",
+    "pubDate": "2026-11-25 15:24:57",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "Stowaway raccoon makes miraculous 6,000 mile journey and then 'invades Nigeria'",
+    "description": "A stowaway raccoon has astonished dockworkers after reportedly travelling 6,000 miles from Canada to Lagos inside a 40ft shipping container, surviving for six weeks",
     "source": "Dailystar Co Uk",
-    "link": "https://www.dailystar.co.uk/showbiz/vernon-kay-says-give-break-37914208",
-    "pubDate": "2026-11-25 14:22:54",
+    "link": "https://www.dailystar.co.uk/news/latest-news/stowaway-raccoon-makes-miraculous-6000-37914961",
+    "pubDate": "2026-11-25 15:24:11",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "Payments in national currencies help to protect trade from politics — Putin",
+    "description": "The head of state said that Russia is proactively building up resilient channels of credit and banking cooperation",
+    "source": "Russian News Agency Tass",
+    "link": "https://tass.com/economy/2224813",
+    "pubDate": "2026-11-25 15:24:01",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "BOE’s Bailey Sees Lower Peak For Inflation If Energy Prices Stay Where They Are",
+    "description": "The U.K.’s annual rate of inflation would peak at a lower level than the Bank of England had forecast if prices of oil and natural gas were to stay where they are, Governor Andrew Bailey said.",
+    "source": "Wsj",
+    "link": "https://www.wsj.com/pro/central-banking/boes-bailey-sees-lower-peak-for-inflation-if-energy-prices-stay-where-they-are-8678fd4f?mod=rss_worldnews",
+    "pubDate": "2026-11-25 15:24:00",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "Trump Proposes Up to 25% Tariffs on 14 Nations, Including India",
+    "description": "Undeterred by his Republican Party's setback in the US midterm elections, President Donald Trump has once again sent ripples through global supply chains and financial markets. On Wednesday, November 25, 2026, the...",
+    "source": "Suspense Crime",
+    "link": "https://suspensecrime.com/world/trump-proposes-up-to-25-tariffs-on-14-nations-including-india",
+    "pubDate": "2026-11-25 15:23:42",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "Covid cases are rising ahead of the holidays. Here’s where it’s spreading",
+    "description": "The number of infections are growing or likely growing in 34 states",
+    "source": "The Independent",
+    "link": "https://www.independent.co.uk/news/health/covid-levels-us-holiday-travel-vaccine-b3091449.html",
+    "pubDate": "2026-11-25 15:22:59",
     "category": [
      "world"
     ]
@@ -194,88 +249,89 @@
   ],
   "sports": [
    {
-    "title": "'That is why I walked out': Suvendu Adhikari says Pranab Mukherjee advised him to quit TMC",
-    "description": "'That is why I walked out': Suvendu Adhikari says Pranab Mukherjee advised him to quit TMC",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/india/that-is-why-i-walked-out-suvendu-adhikari-says-pranab-mukherjee-advised-him-to-quit-tmc/articleshow/136164875.cms",
-    "pubDate": "2026-11-25 14:24:18",
+    "title": "India Aims for Historic Test Series Win Against New Zealand",
+    "description": "As India prepares to face New Zealand in the second Test at Hagley Oval, they aim to end a 17-year wait for a series victory in the country. The first match ended in a draw, with both teams eager to secure a win. Key...",
+    "source": "Gyanhigyan",
+    "link": "https://gyanhigyan.com/national/india-aims-for-historic-test-series-win-against-new-zealand/cid19583807.htm",
+    "pubDate": "2026-11-25 15:25:23",
+    "category": [
+     "sports",
+     "top"
+    ]
+   },
+   {
+    "title": "PHL 2026: Odisha Naval Tata extend winning run to four as race for top spot tightens",
+    "description": "Digital Desk | Mohali, Nov 25 (IANS) Odisha Naval Tata Hockey High Performance Centre (HPC) continued their fine start, posting a comfortable 8-0 win over the Sports Development Authority of Tamil...",
+    "source": "Bhaskarlive",
+    "link": "https://bhaskarlive.in/others/phl-2026-odisha-naval-tata-extend-winning-run-to-four-as-race-for-top-spot-tightens-2170139",
+    "pubDate": "2026-11-25 15:24:33",
+    "category": [
+     "sports",
+     "top"
+    ]
+   },
+   {
+    "title": "Phoenix YMCA: What the $60M Plan Could Deliver",
+    "description": "The $60 million Phoenix YMCA proposal would bring basketball courts, recreation programs and affordable housing to the site of the former Lincoln Family Downtown YMCA. The Phoenix Suns, Phoenix Mercury and Valley of...",
+    "source": "Ambikapur City - Your Guide To Local Sports",
+    "link": "https://ambikapurcity.com/phoenix-ymca-what-the-60m-plan-could/",
+    "pubDate": "2026-11-25 15:24:23",
     "category": [
      "sports",
      "top",
-     "politics"
+     "lifestyle"
     ]
    },
    {
-    "title": "Pep Guardiola: I will only return as a national team coach",
-    "description": "When the former Manchester City manager was approached by the Italian football federation, he felt it was not the right time to return to management so soon after leaving the Cityzens.",
-    "source": "Sport Star The Hindu",
-    "link": "https://sportstar.thehindu.com/football/pep-guardiola-return-national-team-coach-after-break-declined-italy/article71743104.ece",
-    "pubDate": "2026-11-25 14:23:28",
-    "category": [
-     "sports"
-    ]
-   },
-   {
-    "title": "WATCH: Deandra Dottin dismissed for golden duck without facing a ball in Women’s Big Bash League match",
-    "description": "Dottin became the first player in Big Bash history to fall foul of the league's modified \"Timed Out\" playing condition.",
-    "source": "Circleofcricket",
-    "link": "https://circleofcricket.com/category/Latest_news/106798/watch-deandra-dottin-dismissed-for-golden-duck-without-facing-a-ball-in-womens-big-bash-league-match",
-    "pubDate": "2026-11-25 14:22:23",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "Cricket-Tardy batter bowled out without facing a ball",
-    "description": "Deandra Dottin could only watch as Brisbane Heats Sarah Glenns delivery hit her unattended stumps after the Melbourne Renegades all-rounder failed to reach the crease in time in Australias Womens Big Bash League on...",
+    "title": "Soccer-Real Madrid players enjoying life under Mourinho",
+    "description": "Real Madrid blew them away in the second half of their 5-1 Champions League win over PSV Eindhoven as Jude Bellingham put it and the England midfielders words will please manager Jose Mourinho as much as his performance",
     "source": "Devdiscourse",
-    "link": "https://www.devdiscourse.com/article/international/4012095-cricket-tardy-batter-bowled-out-without-facing-a-ball",
-    "pubDate": "2026-11-25 14:22:02",
+    "link": "https://www.devdiscourse.com/article/international/4012138-soccer-real-madrid-players-enjoying-life-under-mourinho",
+    "pubDate": "2026-11-25 15:24:12",
     "category": [
      "sports",
      "top"
     ]
    },
    {
-    "title": "CM Revanth Reddy Reviews Khelo India 2026 Preparations, ₹120 Crore Sports Boost",
-    "description": "Telangana Ministers appointed as incharges to oversee arrangements in districts hosting sports events",
-    "source": "Deccan Chronicle",
-    "link": "https://www.deccanchronicle.com/southern-states/telangana/khelo-india-2026-games-to-lay-a-strong-foundation-for-sports-development-in-telangana-2007893",
-    "pubDate": "2026-11-25 14:21:56",
+    "title": "TOISA 2026: Meet the nominees for Chess Player of the Year (Male)",
+    "description": "The Times of India Sports Awards (TOISA) 2026 will recognise the nominees for Chess Player of the Year (Male) at the ninth edition in Dehradun on December 6. The shortlist includes R PRAGGNANANDHAA, ARJUN ERIGAISI...",
+    "source": "The Times Of India",
+    "link": "https://timesofindia.indiatimes.com/sports/toisa/toisa-2026-meet-the-nominees-for-chess-player-of-the-year-male/articleshow/136166262.cms",
+    "pubDate": "2026-11-25 15:24:01",
     "category": [
      "sports",
-     "top"
+     "top",
+     "lifestyle"
     ]
    },
    {
-    "title": "Braga vs KuPS Prediction and Betting Tips | November 26th 2026",
-    "description": "Braga will welcome KuPS at Estádio Municipal in the UEFA Conference League on Thursday.",
-    "source": "Sportskeeda",
-    "link": "https://www.sportskeeda.com/football/braga-vs-kups-prediction-betting-tips-november-26th-2026",
-    "pubDate": "2026-11-25 14:21:30",
+    "title": "Wiaan Mulder Creates History, Becomes First Player In Test Cricket's 149-Year History To Achieve Rare Double",
+    "description": "Wiaan Mulder etched his name in the history books by becoming the first player in Test cricket to achieve a rare double. The South African scored a century and took a seven-wicket haul as the Proteas thrashed...",
+    "source": "Times Now News",
+    "link": "https://www.timesnownews.com/sports/cricket/wiaan-mulder-creates-history-becomes-first-player-in-test-crickets-149-year-history-to-achieve-rare-double-article-156565806",
+    "pubDate": "2026-11-25 15:23:32",
     "category": [
      "sports"
     ]
    },
    {
-    "title": "Raheem Sterling handed suspended prison sentence after crashing £270,000 Lamborghini while inhaling laughing gas from balloon while driving",
-    "description": "Former England international Raheem Sterling has received a 12-month suspended prison sentence after admitting dangerous driving and nitrous oxide offences. The 31-year-old was caught inhaling the substance while...",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/raheem-sterling-handed-suspended-prison-sentence-after-crashing-270000-lamborghini-while-inhaling-laughing-gas-from-balloon-while-driving/articleshow/136163063.cms",
-    "pubDate": "2026-11-25 14:21:26",
+    "title": "NZ v IND 2026: “Not to get carried away with trying to read pitches,” says Matt Henry ahead of Christchurch Test",
+    "description": "The pitch served for the series opener in Wellington faced backlash.",
+    "source": "Circleofcricket",
+    "link": "https://circleofcricket.com/category/NZ_v_IND_2026/106800/nz-v-ind-2026-not-to-get-carried-away-with-trying-to-read-pitches-says-matt-henry-ahead-of-christchurch-test",
+    "pubDate": "2026-11-25 15:23:08",
     "category": [
      "sports",
-     "crime",
      "top"
     ]
    },
    {
-    "title": "Playing XI - DBC vs DV 6th Match | International League T20 Squad - Cricinfo",
-    "description": "Playing XI - DBC vs DV 6th Match | International League T20 Squad Cricinfo",
-    "source": "Google News",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLXd4RFVtckFhVmE4T2dPN3VNQjlTUnZDWTdVM2ZLN2xMUC01UUptelNZUlVIcnd4Qm91OVBUSm9BZjhEdVZ5c3FjaUNRLUt1a2pweUFOdUV3eHFJWVJYeHNsaFllZjhjY0tOd3BtamdYUmM4YUQ4ZC0zY3JmX0R0S0FrQjhUNk85TVNoZE9nT2ZxUm4tQkx1T0xXREtTSE9BR2lmY0tGZW00X19fYzdQcV9yRDFpekluejZlTnBvbFVmVVJBNVRYNnRhUHkzdjlMNWNxLW5B?oc=5",
-    "pubDate": "2026-11-25 14:21:24",
+    "title": "‘I Had a Full-Blown Panic Attack’: Paige Spiranac Opens Up on Severe Anxiety Over Letting Teammates Down in Internet Invitational",
+    "description": "Hitting a golf shot in front of millions is stressful enough. Hitting it with $4 million on the line and a partner counting on you is something else entirely. Paige Spiranac has now revealed how heavy that...",
+    "source": "Essentially Sports",
+    "link": "https://www.essentiallysports.com/golf-news-i-had-a-full-blown-panic-attack-paige-spiranac-opens-up-on-severe-anxiety-over-letting-teammates-down-in-internet-invitational/",
+    "pubDate": "2026-11-25 15:22:48",
     "category": [
      "sports"
     ]
@@ -283,11 +339,21 @@
   ],
   "entertainment": [
    {
-    "title": "POV: Why Panchayat’s Binod is the need of the hour in an increasingly polarised world",
-    "description": "As Panchayat Season 5 approaches, Binod reminds us that you can stand firmly by your political beliefs without turning those who disagree with you into enemies.",
-    "source": "Social Ketchup",
-    "link": "https://www.socialketchup.in/binge/panchayat-12841055",
-    "pubDate": "2026-11-25 14:19:40",
+    "title": "Bigg Boss 20: Qazi Touqeer-Kanika Mann row escalates as Qazi’s team accuses actress of hypocrisy",
+    "description": "Qazi Touqeer's team has responded to the actress's comments with a strongly worded statement, adding another twist to their ongoing disagreement.",
+    "source": "India",
+    "link": "https://www.india.com/entertainment/tv/bigg-boss-20-qazi-touqeer-kanika-mann-row-escalates-as-qazis-team-accuses-actress-of-hypocrisy-8547954/",
+    "pubDate": "2026-11-25 15:25:35",
+    "category": [
+     "entertainment"
+    ]
+   },
+   {
+    "title": "Ramya Krishnan reveals how a major leg fracture changed her life",
+    "description": "At just 14 years old, Ramya Krishnan faced a daunting challenge when she endured a severe leg fracture while filming. Yet, her resilience shone through as she continued to perform intricate dance routines, defying...",
+    "source": "The Times Of India",
+    "link": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ramya-krishnan-reveals-how-a-major-leg-fracture-changed-her-life-says-doctors-called-it-a-medical-wonder/articleshow/136164441.cms",
+    "pubDate": "2026-11-25 15:23:17",
     "category": [
      "entertainment"
     ]
@@ -295,31 +361,11 @@
   ],
   "tech": [
    {
-    "title": "Stop Leaking PII to LLMs: A Deterministic Laravel 13 Redaction Pipeline",
-    "description": "When Laravel teams embed AI into support desks, error triage, or back-office intake, the most dangerous production bug rarely looks like an obvious hallucination. It looks like a normal customer ticket silently...",
-    "source": "Dev Community",
-    "link": "https://dev.to/warren_boswell_uk/stop-leaking-pii-to-llms-a-deterministic-laravel-13-redaction-pipeline-3d6g",
-    "pubDate": "2026-11-25 14:24:45",
-    "category": [
-     "technology"
-    ]
-   },
-   {
-    "title": "Two free browser games I built: a trivia climber and a desert-digging incremental",
-    "description": "I built two free browser games, and both are ready to play right now — no downloads and no login required. Peakle Unlimited Free Daily & Endless Trivia Climbing Game Play Peakle Unlimited free in your browser. An...",
-    "source": "Dev Community",
-    "link": "https://dev.to/bearden_ricky_1309c041673/two-free-browser-games-i-built-a-trivia-climber-and-a-desert-digging-incremental-4445",
-    "pubDate": "2026-11-25 14:24:28",
-    "category": [
-     "technology"
-    ]
-   },
-   {
-    "title": "UnitedHealthcare’s Commitment To Easing Prior Authorization",
-    "description": "Learn how UnitedHealthcare is reducing prior authorization requirements, simplifying healthcare access and improving transparency for patients and providers.",
-    "source": "Forbes",
-    "link": "https://www.forbes.com/sites/united-healthcare/2026/11/25/unitedhealthcares-commitment-to-easing-prior-authorization/",
-    "pubDate": "2026-11-25 14:24:23",
+    "title": "GTA 6 PC ports reach gameplay despite Take-Two's GitHub DMCA - Notebookcheck",
+    "description": "GTA 6 PC ports reach gameplay despite Take-Two's GitHub DMCA Notebookcheck Take-Two Hits GTA 6 PC Port Leonida With DMCA, Taking Down 3,007 GitHub Repos Decrypt Unauthorized 'GTA 6' PC port shut down by Rockstar...",
+    "source": "Google News",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUZ5SGdMV2V2RFNJdjhrSVplaE1TN2VyRHphTmdkUk5CdVQ1dmNGb012amtNdmNka3ZJV3V0OHhrR2poN1dQaWJaUjlLQzZNcEVxNFk3dlNNZnlJZ1FENHZybnE0Ym1XU0tSSGxNckNqS1FzUFhkZ01qdHdvTDVSU0ZtbDZuRnV4NGZ6Q3cwbHBYLURtVWl1NGpvd0dsYXcxV1dmU2Z4ZU4?oc=5",
+    "pubDate": "2026-11-25 15:26:00",
     "category": [
      "technology"
     ]

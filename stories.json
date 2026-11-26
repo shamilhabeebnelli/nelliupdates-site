@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "toyota-innova-hycross-flex-fuel-hybrid-launch-nov25",
+   "cats": [
+    "Tech"
+   ],
+   "title": "ഇന്നോവ ഹൈക്രോസ് ഫ്ലെക്സ്-ഫ്യുവൽ ഹൈബ്രിഡ് പുറത്തിറങ്ങി: E20 മുതൽ E85 വരെ, വില 19.99 ലക്ഷം രൂപ മുതൽ",
+   "en": "Toyota launches Innova HyCross flex-fuel hybrid in India from Rs 19.99 lakh (ex-showroom); runs on E20 to E85",
+   "sum": "ടൊയോട്ട കിർലോസ്കർ മോട്ടോർ പുതിയ ഇന്നോവ ഹൈക്രോസ് ഫ്ലെക്സ് ഹൈബ്രിഡ് ഇന്ത്യയിൽ അവതരിപ്പിച്ചു. എക്സ്-ഷോറൂം വില 19.99 ലക്ഷം രൂപ മുതൽ. E20 മുതൽ E85 വരെ എഥനോൾ മിശ്രിത പെട്രോളിൽ ഓടും.",
+   "date": "26 Nov 2026",
+   "body": [
+    "ടൊയോട്ട കിർലോസ്കർ മോട്ടോർ (ടികെഎം) പുതിയ ഇന്നോവ ഹൈക്രോസ് ഫ്ലെക്സ് ഹൈബ്രിഡ് ഇലക്ട്രിക് വാഹനം ബുധനാഴ്ച (നവംബർ 25) ഇന്ത്യയിൽ അവതരിപ്പിച്ചെന്ന് ബിസിനസ് ടുഡേയും ഇടി ഓട്ടോയും റിപ്പോർട്ട് ചെയ്തു. എക്സ്-ഷോറൂം വില 19.99 ലക്ഷം രൂപ മുതൽ. ബുക്കിങ് നവംബർ 26ന് തുടങ്ങും.",
+    "ഇന്ത്യയിൽ നിർമിക്കുന്ന 2.0 ലിറ്റർ ഫ്ലെക്സ്-ഫ്യുവൽ എൻജിനും ടൊയോട്ടയുടെ സെൽഫ് ചാർജിങ് സ്ട്രോങ് ഹൈബ്രിഡ് സംവിധാനവും ചേർന്ന വാഹനം E20 മുതൽ E85 വരെ എഥനോൾ കലർന്ന പെട്രോളിൽ ഓടും. E20 ഇന്ധനത്തിൽ ലിറ്ററിന് 22.58 കിലോമീറ്റർ മൈലേജ് ലഭിക്കുമെന്ന് ടൊയോട്ട അവകാശപ്പെടുന്നു. E85 മൈലേജിന്റെ കണക്ക് കമ്പനി നൽകിയിട്ടില്ല.",
+    "ജി, ജിഎക്സ്, വിഎക്സ്, ഇസഡ്എക്സ് എന്നീ നാല് ഹൈബ്രിഡ് ഗ്രേഡുകളിൽ ഏഴ്, എട്ട് സീറ്റ് മോഡലുകളുണ്ട്. ടോപ് മോഡലായ ഇസഡ്എക്സ് ഹൈബ്രിഡ് ഏഴ് സീറ്ററിന് 31.99 ലക്ഷം രൂപയാണ് എക്സ്-ഷോറൂം വില. E85 പമ്പുകൾ കുറവാണെന്ന ആശങ്കയെക്കുറിച്ച് ചോദിച്ചപ്പോൾ E20 പെട്രോളിലും വാഹനം ഓടിക്കാമെന്ന് ടികെഎം പ്രതിനിധി വിക്രം ഗുലാത്തി പറഞ്ഞതായി ബിസിനസ് ടുഡേ റിപ്പോർട്ട് ചെയ്യുന്നു."
+   ],
+   "srcs": [
+    [
+     "Business Today: Innova HyCross flex-fuel hybrid launched",
+     "https://www.businesstoday.in/auto/story/toyota-innova-hycross-flex-fuel-hybrid-launched-at-rs-19-99-lakh-can-run-on-e20-to-e85-569568-2026-11-26"
+    ],
+    [
+     "ETAuto: Toyota launches flex-fuel Innova HyCross",
+     "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/toyota-launches-flex-fuel-innova-hycross-hybrid-prices-start-at-19-99-lakh/136169919"
+    ],
+    [
+     "Mint: Innova HyCross Flex Hybrid launched at Rs 19.99 lakh",
+     "https://www.livemint.com/auto-news/toyota-innova-hycross-flex-hybrid-launched-at-19-99-lakh-e20-to-e85-fuel-197-hp-power-22-58-km-l-mileage-11795630540971.html"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgMiEtThyuH/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 12:38 PM IST on 26 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-26T12:38:01+05:30"
+  },
+  {
    "id": "president-murmu-kalady-guruvayur-visit-traffic-curbs-nov27",
    "cats": [
     "Kerala"

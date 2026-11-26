@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "vattavada-koviloor-caste-discrimination-cm-action-nov26",
+   "cats": [
+    "Kerala"
+   ],
+   "title": "ഇടുക്കി വട്ടവടയിൽ ജാതിവിവേചന ആരോപണം: അടിയന്തര നടപടിക്ക് മുഖ്യമന്ത്രിയുടെ നിർദേശം",
+   "en": "Idukki Vattavada caste discrimination allegation: CM directs urgent action and a collector report, as reported",
+   "sum": "ഇടുക്കി വട്ടവട കോവിലൂരിൽ ചക്ലിയ സമുദായത്തിലെ കുടുംബങ്ങൾക്ക് പൊതു ജലസ്രോതസ്സ് ഉപയോഗിക്കാൻ അനൗദ്യോഗിക വിലക്കുണ്ടെന്ന മാധ്യമ റിപ്പോർട്ടുകളെ തുടർന്ന് അടിയന്തര നടപടിക്കും കലക്ടറുടെ റിപ്പോർട്ടിനും മുഖ്യമന്ത്രി വി.ഡി. സതീശൻ നിർദേശിച്ചതായി ഒൺമനോരമ, മംഗളം എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "26 Nov 2026",
+   "body": [
+    "ഇടുക്കി വട്ടവട പഞ്ചായത്തിലെ കോവിലൂരിൽ ചക്ലിയ സമുദായത്തിലെ കുടുംബങ്ങൾ ജാതിവിവേചനവും സാമൂഹിക ബഹിഷ്കരണവും നേരിടുന്നുവെന്ന മാധ്യമ റിപ്പോർട്ടുകളെ തുടർന്ന് മുഖ്യമന്ത്രി വി.ഡി. സതീശൻ അടിയന്തര നടപടിക്ക് നിർദേശം നൽകിയതായി ഒൺമനോരമയും മംഗളം ടിവിയും റിപ്പോർട്ട് ചെയ്യുന്നു.",
+    "പൊതു ജലസ്രോതസ്സുകളിൽ ഇറങ്ങാനും വസ്ത്രങ്ങൾ അലക്കാനും ഈ കുടുംബങ്ങൾക്ക് അനൗദ്യോഗിക വിലക്കുണ്ടെന്നാണ് മാധ്യമ റിപ്പോർട്ടുകളിലെ ആരോപണം. വീടുകളിൽ കുടിവെള്ള സൗകര്യം പോരെന്നും റിപ്പോർട്ടുകൾ പറയുന്നു. ഇവ ആരോപണങ്ങളാണ്.",
+    "പട്ടികജാതി, പട്ടികവർഗ, പിന്നാക്ക ക്ഷേമ മന്ത്രി കെ.എ. തുളസിയോട് ഉടൻ നടപടി സ്വീകരിക്കാനും ജില്ലാ കലക്ടറോട് വിഷയം അന്വേഷിച്ച് റിപ്പോർട്ട് നൽകാനും മുഖ്യമന്ത്രി നിർദേശിച്ചതായി മുഖ്യമന്ത്രിയുടെ ഓഫീസിന്റെ പ്രസ്താവനയെ ഉദ്ധരിച്ച് ഒൺമനോരമ റിപ്പോർട്ട് ചെയ്യുന്നു. സംസ്ഥാനത്ത് ഒരിടത്തും ജാതിവിവേചനം ഉണ്ടാകരുതെന്ന് ഉറപ്പാക്കണമെന്നും നിർദേശിച്ചു."
+   ],
+   "srcs": [
+    [
+     "Onmanorama: CM orders action, Idukki caste bias",
+     "https://www.onmanorama.com/news/kerala/2026/11/26/cm-satheesan-orders-action-over-caste-discrimination-allegations-in-idukki.html"
+    ],
+    [
+     "Mangalam TV: CM intervenes in Koviloor case",
+     "https://mangalamtv.in/cm-vd-satheesan-intervenes-in-idukki-koviloor-caste-discrimination-case-directs-minister-ka-thulasi-to-take-immediate-action-and-seeks-report-from-district-collector/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgNkhTcBjGQ/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 10:18 PM IST on 26 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-26T22:18:39+05:30"
+  },
+  {
    "id": "openai-gpt-6-2-sol-chatgpt-chat-tab-free-go-excluded-nov26",
    "cats": [
     "Tech"

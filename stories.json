@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "nse-rbi-nod-corporate-bond-index-futures-nov26",
+   "cats": [
+    "India"
+   ],
+   "title": "കോർപ്പറേറ്റ് ബോണ്ട് ഇൻഡക്സ് ഫ്യൂച്ചേഴ്സ് അവതരിപ്പിക്കാൻ NSE-ക്ക് RBI അനുമതി",
+   "en": "NSE gets RBI nod to introduce corporate bond index futures, as reported",
+   "sum": "കോർപ്പറേറ്റ് ബോണ്ട് ഇൻഡക്സുകളിലെ ഫ്യൂച്ചേഴ്സ് കരാറുകൾ അവതരിപ്പിക്കാൻ നാഷണൽ സ്റ്റോക്ക് എക്സ്ചേഞ്ചിന് (NSE) റിസർവ് ബാങ്കിന്റെ അനുമതി ലഭിച്ചതായി ബിസിനസ് സ്റ്റാൻഡേർഡ്, ബിസിനസ് ലൈൻ, സിഎൻബിസി ടിവി18 എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "26 Nov 2026",
+   "body": [
+    "കോർപ്പറേറ്റ് ബോണ്ട് ഇൻഡക്സുകളിലെ ഫ്യൂച്ചേഴ്സ് കരാറുകൾ അവതരിപ്പിക്കാൻ റിസർവ് ബാങ്ക് ഓഫ് ഇന്ത്യയുടെ അനുമതി (NOC) ലഭിച്ചതായി നാഷണൽ സ്റ്റോക്ക് എക്സ്ചേഞ്ച് വ്യാഴാഴ്ച അറിയിച്ചതായി ബിസിനസ് സ്റ്റാൻഡേർഡ് റിപ്പോർട്ട് ചെയ്യുന്നു. സെബിയുടെ NOC ലഭിച്ചതിന് പിന്നാലെയാണ് ആർബിഐ അനുമതി.",
+    "പലിശ നിരക്ക്, ക്രെഡിറ്റ് സ്പ്രെഡ് എന്നിവയിലെ ചലനങ്ങൾ മൂലമുള്ള അപകടസാധ്യത കൈകാര്യം ചെയ്യാൻ സുതാര്യവും സ്റ്റാൻഡേർഡുമായ എക്സ്ചേഞ്ച് ഉപകരണം ഇതിലൂടെ ലഭിക്കുമെന്ന് NSE പറയുന്നു. പോർട്ട്ഫോളിയോ ഹെഡ്ജിങ്ങിനും കോർപ്പറേറ്റ് ബോണ്ട് വിപണിയിൽ നിലപാടെടുക്കാനും ഇത് സഹായിക്കുമെന്നാണ് റിപ്പോർട്ടുകൾ.",
+    "കരാറിന്റെ വിശദാംശങ്ങളും ആരംഭ തീയതിയും പിന്നീട് പ്രഖ്യാപിക്കുമെന്ന് എക്സ്ചേഞ്ച് അറിയിച്ചു."
+   ],
+   "srcs": [
+    [
+     "Business Standard: NSE gets RBI nod",
+     "https://www.business-standard.com/markets/news/nse-receives-rbi-s-approval-to-launch-corporate-bond-index-futures-126112601165_1.html"
+    ],
+    [
+     "BusinessLine: NSE secures RBI approval",
+     "https://www.thehindubusinessline.com/markets/nse-secures-rbi-approval-for-corporate-bond-index-futures/article71747109.ece"
+    ],
+    [
+     "CNBC-TV18: NSE gets RBI nod",
+     "https://www.cnbctv18.com/market/nse-gets-rbi-nod-to-introduce-corporate-bond-index-futures-20042319.htm"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgNvNl7BU0J/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 11:52 PM IST on 26 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-26T23:52:04+05:30"
+  },
+  {
    "id": "tamil-nadu-15-day-paternity-leave-govt-employees-nov26",
    "cats": [
     "India"

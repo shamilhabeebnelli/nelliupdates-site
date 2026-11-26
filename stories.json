@@ -1,6 +1,42 @@
 {
  "stories": [
   {
+   "id": "whatsapp-scheduled-messages-10-minutes-14-days-rollout-nov26",
+   "cats": [
+    "Tech"
+   ],
+   "title": "വാട്സ്ആപ്പിൽ ഇനി സന്ദേശങ്ങൾ ഷെഡ്യൂൾ ചെയ്യാം: 10 മിനിറ്റ് മുതൽ 14 ദിവസം വരെ",
+   "en": "WhatsApp introduces scheduled messages, send up to 14 days later, as reported",
+   "sum": "ഒരു സന്ദേശം മുൻകൂട്ടി എഴുതി 10 മിനിറ്റ് മുതൽ 14 ദിവസം വരെ കഴിഞ്ഞ് അയക്കാവുന്ന ഷെഡ്യൂൾഡ് മെസേജസ് ഫീച്ചർ വാട്സ്ആപ്പ് അവതരിപ്പിച്ചതായി വാട്സ്ആപ്പ് ബ്ലോഗ്, ടെക്ക്രഞ്ച്, ഇന്ത്യൻ എക്സ്പ്രസ് എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "ഷെഡ്യൂൾഡ് മെസേജസ് എന്ന പുതിയ ഫീച്ചർ വാട്സ്ആപ്പ് ബുധനാഴ്ച (നവംബർ 25) അവതരിപ്പിച്ചതായി കമ്പനിയുടെ ബ്ലോഗും ടെക്ക്രഞ്ചും റിപ്പോർട്ട് ചെയ്യുന്നു. ഉപയോക്താക്കളുടെ ഏറ്റവും കൂടുതൽ ആവശ്യപ്പെട്ട ഫീച്ചറുകളിലൊന്നാണിതെന്ന് വാട്സ്ആപ്പ് പറയുന്നു.",
+    "സെൻഡ് ബട്ടൺ അമർത്തിപ്പിടിച്ച് തീയതിയും സമയവും തിരഞ്ഞെടുക്കാം. 10 മിനിറ്റ് മുതൽ 14 ദിവസം വരെ കഴിഞ്ഞുള്ള സമയം നൽകാം. വ്യക്തിഗത ചാറ്റുകളിലും ഗ്രൂപ്പ് ചാറ്റുകളിലും ടെക്സ്റ്റ്, ഫോട്ടോ, വീഡിയോ എന്നിവ ഷെഡ്യൂൾ ചെയ്യാനാകും.",
+    "ഷെഡ്യൂൾ ചെയ്ത സന്ദേശങ്ങൾ ഫോൺ ഓഫായാലും നിശ്ചയിച്ച സമയത്ത് എത്തുമെന്നും എൻഡ്-ടു-എൻഡ് എൻക്രിപ്റ്റഡ് ആയിരിക്കുമെന്നും വാട്സ്ആപ്പ് അറിയിച്ചു. അയക്കുംമുൻപ് ഇവ കാണാനും ഡിലീറ്റ് ചെയ്യാനും സാധിക്കും.",
+    "വരുന്ന ആഴ്ചകളിൽ ലോകമെമ്പാടും ഘട്ടംഘട്ടമായാണ് ഫീച്ചർ ലഭ്യമാകുകയെന്നാണ് റിപ്പോർട്ടുകൾ. ടെലിഗ്രാം, സിഗ്നൽ പോലുള്ള എതിരാളികളിൽ ഈ സൗകര്യം നേരത്തേ ഉണ്ടായിരുന്നു."
+   ],
+   "srcs": [
+    [
+     "WhatsApp Blog: scheduled messages",
+     "https://blog.whatsapp.com/say-it-at-the-right-time-with-scheduled-messages"
+    ],
+    [
+     "TechCrunch: WhatsApp now lets you schedule",
+     "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/"
+    ],
+    [
+     "Indian Express: WhatsApp schedule messages",
+     "https://indianexpress.com/article/technology/tech-news-technology/whatsapp-rolls-out-long-awaited-schedule-messages-how-to-use-10979005/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgNwcUqhQk9/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 12:02 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T00:02:48+05:30"
+  },
+  {
    "id": "nse-rbi-nod-corporate-bond-index-futures-nov26",
    "cats": [
     "India"

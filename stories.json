@@ -1,6 +1,38 @@
 {
  "stories": [
   {
+   "id": "indiamart-openai-chatgpt-exclusion-dispute-settled-nov26",
+   "cats": [
+    "Tech"
+   ],
+   "title": "ഇന്ത്യാമാർട്ട്–ഓപ്പൺഎഐ തർക്കം കോടതിക്ക് പുറത്ത് ഒത്തുതീർപ്പായി; ഹൈക്കോടതി അപ്പീൽ തള്ളി",
+   "en": "IndiaMART and OpenAI settle ChatGPT exclusion dispute out of court; Calcutta High Court dismisses appeal as not pressed, as reported",
+   "sum": "ചാറ്റ്ജിപിടി ഫലങ്ങളിൽ നിന്ന് തങ്ങളുടെ വെബ്സൈറ്റ് ഒഴിവാക്കിയെന്ന് ആരോപിച്ച് ഇന്ത്യാമാർട്ട് നൽകിയ കേസ് ഓപ്പൺഎഐയുമായി കോടതിക്ക് പുറത്ത് ഒത്തുതീർപ്പായതായി റിപ്പോർട്ടുകൾ. കൽക്കട്ട ഹൈക്കോടതി ഡിവിഷൻ ബെഞ്ച് നവംബർ 17-ന് അപ്പീൽ തള്ളി.",
+   "date": "27 Nov 2026",
+   "body": [
+    "ചാറ്റ്ജിപിടി മറുപടികളിൽ തങ്ങളുടെ വെബ്സൈറ്റും സെല്ലർ ലിസ്റ്റിങ്ങുകളും തിരഞ്ഞെടുത്ത് ഒഴിവാക്കുന്നുവെന്ന് ആരോപിച്ച് ഇന്ത്യാമാർട്ട് ഇന്റർമെഷ് ലിമിറ്റഡ് ഓപ്പൺഎഐക്കെതിരെ നൽകിയ കേസ് കോടതിക്ക് പുറത്ത് ഒത്തുതീർപ്പായതായി മീഡിയനാമയും ഇൻക്42-ഉം റിപ്പോർട്ട് ചെയ്യുന്നു (as reported).",
+    "നവംബർ 17-ലെ ഉത്തരവിൽ, കക്ഷികൾ ഒത്തുതീർപ്പിലെത്തിയെന്നും അപ്പീൽ തുടരാൻ ഇന്ത്യാമാർട്ടിന് താൽപര്യമില്ലെന്നും അഭിഭാഷകർ അറിയിച്ചതായി കൽക്കട്ട ഹൈക്കോടതി ഡിവിഷൻ ബെഞ്ച് രേഖപ്പെടുത്തി. തുടർന്ന് അപ്പീൽ തള്ളി.",
+    "മേയ് 20-ന് ഇടക്കാല ആശ്വാസം നിഷേധിച്ച സിംഗിൾ ബെഞ്ച് ഉത്തരവിനെതിരെയായിരുന്നു അപ്പീൽ. ഒരു സേവനദാതാവിനെ തങ്ങളുടെ ലിങ്ക് കാണിക്കാൻ മറ്റൊരാൾക്ക് നിർബന്ധിക്കാനാവില്ലെന്ന് അന്ന് കോടതി നിരീക്ഷിച്ചതായി മീഡിയനാമ റിപ്പോർട്ട് ചെയ്യുന്നു.",
+    "ഒത്തുതീർപ്പിന്റെ വ്യവസ്ഥകൾ ഉത്തരവിൽ വെളിപ്പെടുത്തിയിട്ടില്ല. ചാറ്റ്ജിപിടിയിൽ ഇന്ത്യാമാർട്ടിന്റെ ദൃശ്യത തിരികെ ലഭിക്കുമോ എന്നതും വ്യക്തമല്ല."
+   ],
+   "srcs": [
+    [
+     "Medianama: IndiaMART settles dispute with OpenAI",
+     "https://www.medianama.com/2026/11/223-indiamart-settle-dispute-openai-outside-court-exclusion-chatgpt/"
+    ],
+    [
+     "Inc42: IndiaMART settles legal dispute with OpenAI",
+     "https://inc42.com/buzz/indiamart-settles-legal-dispute-with-openai/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgOSrIrB-4p/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 5:01 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T05:01:55+05:30"
+  },
+  {
    "id": "thrissur-medical-college-patient-death-washroom-probe-nov27",
    "cats": [
     "Kerala"

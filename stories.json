@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "ayodhya-janakpur-saryu-kamala-express-booking-opens-nov26",
+   "cats": [
+    "India"
+   ],
+   "title": "സരയൂ കമല എക്സ്പ്രസ്: അയോധ്യ-ജനക്പുർ ട്രെയിൻ ടിക്കറ്റ് ബുക്കിംഗ് തുടങ്ങി, ₹365 മുതൽ",
+   "en": "Ayodhya-Janakpur Saryu Kamala Express ticket booking opens, fares from Rs 365, as reported",
+   "sum": "അയോധ്യ-ജനക്പുർ സരയൂ കമല എക്സ്പ്രസിന്റെ ടിക്കറ്റ് ബുക്കിംഗ് തുടങ്ങിയതായി ഇന്ത്യൻ എക്സ്പ്രസ്, എൻഡിടിവി ഇന്ത്യ, നേപ്പാൾ ന്യൂസ് എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു. ഇന്ത്യക്കാർക്കും നേപ്പാളികൾക്കും മാത്രം യാത്ര.",
+   "date": "26 Nov 2026",
+   "body": [
+    "അയോധ്യ കാന്റ്-ജനക്പുർ ധാം സരയൂ കമല എക്സ്പ്രസിന്റെ ടിക്കറ്റ് ബുക്കിംഗ് തുടങ്ങിയതായി ഇന്ത്യൻ എക്സ്പ്രസ്, എൻഡിടിവി ഇന്ത്യ, നേപ്പാൾ ന്യൂസ് എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു. ഇന്ത്യൻ പ്രധാനമന്ത്രി നരേന്ദ്ര മോദിയും നേപ്പാൾ പ്രധാനമന്ത്രി ബാലേന്ദ്ര ഷായും ചേർന്ന് തിങ്കളാഴ്ച (നവംബർ 23) ട്രെയിൻ ഫ്ലാഗ് ഓഫ് ചെയ്തതായി ഇന്ത്യൻ എക്സ്പ്രസ് പറയുന്നു.",
+    "ഇന്ത്യൻ എക്സ്പ്രസ് പ്രകാരം 604 കിലോമീറ്റർ ദൂരം ഏകദേശം 19 മണിക്കൂറിൽ ഓടും. ഗോരഖ്പുർ, സീതാമഢി, മധുബനി എന്നിവ വഴിയാണ് യാത്ര. ഇന്ത്യയിൽ നിന്നുള്ളവർക്ക് ഓൺലൈനായോ പിആർഎസ് കൗണ്ടറിലോ, നേപ്പാളിൽ നിന്നുള്ളവർക്ക് ഐആർസിടിസി വഴിയും ടിക്കറ്റ് ബുക്ക് ചെയ്യാം; യാത്രാ തീയതി ഒഴികെ 60 ദിവസം മുമ്പ് വരെ ബുക്കിംഗ് ലഭിക്കും. ഇന്ത്യയിലും നേപ്പാളിലും പൗരന്മാർക്ക് മാത്രമാണ് യാത്രാനുമതി, തിരിച്ചറിയൽ രേഖ നിർബന്ധമാണ്.",
+    "ജനക്പുർ ധാമിൽ നിന്ന് ആഴ്ചതോറും ശനിയാഴ്ച (നവംബർ 28 മുതൽ) 15595 ട്രെയിനും, അയോധ്യ കാന്റിൽ നിന്ന് തിങ്കളാഴ്ച (നവംബർ 30 മുതൽ) 15596 ട്രെയിനും ഓടുമെന്ന് ഇന്ത്യൻ എക്സ്പ്രസ് പറയുന്നു. 17 കോച്ചുകളുണ്ട്. സ്ലീപ്പറിന് ₹365, എസി 3-ടയർ ഇക്കണോമി ₹885, എസി 3-ടയർ ₹965, എസി 2-ടയർ ₹1,360 എന്നിങ്ങനെയാണ് നിരക്ക്."
+   ],
+   "srcs": [
+    [
+     "Indian Express: booking begins, fares",
+     "https://indianexpress.com/article/india/saryu-kamala-express-ticket-booking-ayodhya-janakpur-fare-rules-10979384/"
+    ],
+    [
+     "NDTV India: Saryu Kamala Express booking rules",
+     "https://ndtv.in/utility-news/ayodhya-janakpur-saryu-kamala-express-booking-start-only-indian-nepali-citizens-can-travel-fare-starts-at-rs-365-know-booking-tatkal-rac-tickets-rules-12380183"
+    ],
+    [
+     "Nepal News: ticket booking opens",
+     "https://nepalnews.com/2026/11/26/preparations-for-railway-operations-from-saturday-ticket-booking-opens-from-today/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgNE7-xhTFF/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 5:42 PM IST on 26 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-26T17:42:39+05:30"
+  },
+  {
    "id": "hmd-rise-india-launch-5000mah-price-nov26",
    "cats": [
     "Tech"

@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "chakkakomban-day2-fresh-plan-revised-strategy-nov26",
+   "cats": [
+    "Kerala"
+   ],
+   "title": "ചക്കക്കൊമ്പൻ ദൗത്യം രണ്ടാം ദിനം: പുതിയ പദ്ധതിയുമായി വനംവകുപ്പ്",
+   "en": "Chakkakomban radio-collar mission day 2: forest department resumes with a revised plan, as reported",
+   "sum": "ചിന്നക്കനാലിലെ ചക്കക്കൊമ്പനെ മയക്കുവെടി വച്ച് റേഡിയോ കോളർ ഘടിപ്പിക്കാനുള്ള ദൗത്യം രണ്ടാം ദിവസം പുതിയ പദ്ധതിയോടെ തുടരുന്നതായി ഇടിവി ഭാരത്, പിടിഐ എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "26 Nov 2026",
+   "body": [
+    "ഇടുക്കി ചിന്നക്കനാലിലെ കാട്ടാന ചക്കക്കൊമ്പനെ മയക്കുവെടി വച്ച് റേഡിയോ കോളർ ഘടിപ്പിക്കാനുള്ള ദൗത്യം വ്യാഴാഴ്ച (നവംബർ 26) രണ്ടാം ദിവസം പുതുക്കിയ പദ്ധതിയോടെ തുടരുന്നതായി ഇടിവി ഭാരത്, പിടിഐ (ഹിന്ദുസ്ഥാൻ ടൈംസ്, മാതൃഭൂമി ഇംഗ്ലീഷ്) എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു.",
+    "ബുധനാഴ്ച രണ്ട് തവണ മയക്കുവെടി വച്ചിട്ടും ആനയെ മയക്കാനായില്ലെന്നും കനത്ത മഞ്ഞും മോശം കാഴ്ചയും കാരണം ദൗത്യം നിർത്തിയെന്നും ഇടിവി ഭാരത് പറയുന്നു. ചീഫ് കൺസർവേറ്റർ ഓഫ് ഫോറസ്റ്റ്സ് ഡി കെ വിനോദ് കുമാർ പറഞ്ഞത് പുതിയ തന്ത്രം തയ്യാറാക്കിയെന്നും ആന തുറസ്സായ സ്ഥലത്തേക്ക് വരുന്നത് വരെ കാത്തിരിക്കുമെന്നുമാണ്.",
+    "ടീമുകളുടെ എണ്ണം നാലിൽ നിന്ന് രണ്ടായി കുറച്ചു. പടക്കം ഉപയോഗിക്കില്ലെന്നും ദൗത്യം വേഗത്തിൽ തീർക്കുന്നതിനേക്കാൾ ഉദ്യോഗസ്ഥരുടെ സുരക്ഷയ്ക്കാണ് മുൻഗണനയെന്നും അദ്ദേഹം പറഞ്ഞതായി റിപ്പോർട്ടുകൾ പറയുന്നു. നൂറിലധികം വനം ഉദ്യോഗസ്ഥരും വിക്രം, ഭരത് എന്നീ കുങ്കി ആനകളും ദൗത്യത്തിലുണ്ട്. ആനയെ ചെമ്പകത്തൊഴുകുടി ഭാഗത്തെ ഏലത്തോട്ടത്തിൽ കണ്ടെത്തിയിട്ടുണ്ട്."
+   ],
+   "srcs": [
+    [
+     "ETV Bharat: forest teams resume mission",
+     "https://www.etvbharat.com/en/state/keralam-forest-teams-resume-wild-tusker-chakkakomban-radio-collaring-mission-with-revised-startegy-enn26112602847"
+    ],
+    [
+     "Hindustan Times (PTI): new strategy",
+     "https://www.hindustantimes.com/cities/others/new-strategy-to-tranquilise-radio-collar-elephant-chakkakomban-after-previous-attempt-fails-101795668537001.html"
+    ],
+    [
+     "Mathrubhumi English (PTI): fresh plan",
+     "https://english.mathrubhumi.com/news/kerala/chakkakomban-elephant-tranquilise-radio-collar-idukki-pti2b6pbjrz"
+    ],
+    [
+     "Onmanorama: fresh plan to radio-collar",
+     "https://www.onmanorama.com/news/kerala/2026/11/26/fresh-plan-to-tranquilise-radio-collar-chakkakomban-after-first-attempt-fails-live.html"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgNCgMkB7eN/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 5:21 PM IST on 26 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-26T17:21:23+05:30"
+  },
+  {
    "id": "hp-omnibook-ultra-16-rtx-spark-india-launch-rs-549999-nov26",
    "cats": [
     "Tech"

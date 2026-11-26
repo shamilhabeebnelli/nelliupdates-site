@@ -1,6 +1,38 @@
 {
  "stories": [
   {
+   "id": "fcc-approves-spacex-starmind-million-satellites-nov25",
+   "cats": [
+    "Tech",
+    "World"
+   ],
+   "title": "ബഹിരാകാശത്ത് ഡാറ്റ സെന്ററുകൾ: 10 ലക്ഷം ഉപഗ്രഹങ്ങൾ വിക്ഷേപിക്കാൻ സ്പേസ്എക്സിന് അമേരിക്കൻ എഫ്സിസിയുടെ അനുമതി",
+   "en": "US FCC approves SpaceX plan to launch up to one million orbital data centre satellites (Starmind)",
+   "sum": "അമേരിക്കൻ ഫെഡറൽ കമ്യൂണിക്കേഷൻസ് കമ്മീഷൻ ബുധനാഴ്ച (നവംബർ 25) സ്പേസ്എക്സിന്റെ \"സ്റ്റാർമൈൻഡ്\" പദ്ധതിക്ക് 10 ലക്ഷം ഉപഗ്രഹങ്ങൾ വിക്ഷേപിക്കാൻ അനുമതി നൽകിയെന്ന് റിപ്പോർട്ട്.",
+   "date": "26 Nov 2026",
+   "body": [
+    "അമേരിക്കൻ ഫെഡറൽ കമ്യൂണിക്കേഷൻസ് കമ്മീഷൻ (എഫ്സിസി) ബുധനാഴ്ച (നവംബർ 25) സ്പേസ്എക്സിന്റെ \"സ്റ്റാർമൈൻഡ്\" പദ്ധതിക്ക് ഭൗമ ഭ്രമണപഥത്തിലേക്ക് 10 ലക്ഷം ഉപഗ്രഹങ്ങൾ വിക്ഷേപിക്കാൻ അനുമതി നൽകിയെന്ന് ബിബിസിയും സിഎൻബിസിയും റിപ്പോർട്ട് ചെയ്തു. നിർമിതബുദ്ധിക്കുള്ള കംപ്യൂട്ടിങ് ശേഷിക്കായി ബഹിരാകാശത്ത് ഡാറ്റ സെന്ററുകൾ സ്ഥാപിക്കുകയാണ് ലക്ഷ്യം. ഇത്തരത്തിലുള്ള ആദ്യ അനുമതിയാണെന്ന് ബിബിസി പറയുന്നു.",
+    "ലൈസൻസ് പ്രകാരം 2033 നവംബറിന് മുമ്പ് വിന്യാസം തുടങ്ങണം; 2035 നവംബറോടെ 10 ശതമാനവും 2038 നവംബറോടെ 50 ശതമാനവും വിന്യസിക്കണമെന്നാണ് വ്യവസ്ഥയെന്ന് ബിബിസി റിപ്പോർട്ട് ചെയ്യുന്നു. ആമസോണിന്റെ കൈപ്പർ, വയാസാറ്റ്, അമേരിക്കൻ ആസ്ട്രോണമിക്കൽ സൊസൈറ്റി എന്നിവ പദ്ധതിയെ എതിർത്തിരുന്നുവെന്ന് സിഎൻബിസി പറയുന്നു.",
+    "ഇത്രയും ഉപഗ്രഹങ്ങൾ യഥാർഥത്തിൽ വിക്ഷേപിക്കുമോ എന്ന് വ്യക്തമല്ലെന്ന് ബിബിസി ചൂണ്ടിക്കാട്ടുന്നു. ചിത്രം പ്രതിനിധാന സ്റ്റോക്ക് ഫോട്ടോയാണ്."
+   ],
+   "srcs": [
+    [
+     "BBC: US regulators approve SpaceX plan",
+     "https://www.bbc.com/news/articles/cwp836l8n1jgo"
+    ],
+    [
+     "CNBC: SpaceX wins FCC approval",
+     "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgL1sY8hVII/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 6:10 AM IST on 26 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-26T06:10:49+05:30"
+  },
+  {
    "id": "kozhikode-mavoor-16794-unsafe-eggs-seized-nov24",
    "cats": [
     "Kerala"

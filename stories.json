@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "mumbai-26-11-attacks-18th-anniversary-tributes-nov26",
+   "cats": [
+    "India"
+   ],
+   "title": "26/11 മുംബൈ ഭീകരാക്രമണത്തിന് 18 വർഷം: രക്തസാക്ഷികൾക്ക് ആദരമർപ്പിച്ച് നേതാക്കൾ",
+   "en": "18 years since the 26/11 Mumbai attacks: leaders pay tribute to the victims and the security personnel who died",
+   "sum": "2008 നവംബർ 26-ന് മുംബൈയിൽ നടന്ന ഭീകരാക്രമണത്തിന് ഇന്ന് 18 വർഷം. മഹാരാഷ്ട്ര ഗവർണറും മുഖ്യമന്ത്രി ദേവേന്ദ്ര ഫഡ്നാവിസും മുംബൈ പൊലീസ് ആസ്ഥാനത്ത് പുഷ്പാർച്ചന നടത്തി. അമിത് ഷായും എസ് ജയശങ്കറും ആദരമർപ്പിച്ചു.",
+   "date": "26 Nov 2026",
+   "body": [
+    "2008 നവംബർ 26-ന് ലഷ്കർ-ഇ-തൊയ്ബയിലെ പത്ത് ഭീകരർ മുംബൈയിൽ നടത്തിയ ആക്രമണത്തിന് ഇന്ന് 18 വർഷം തികഞ്ഞു. താജ് മഹൽ പാലസ് ഹോട്ടൽ ഉൾപ്പെടെ നഗരത്തിലെ പ്രധാന ഇടങ്ങളെ ലക്ഷ്യമിട്ട ആക്രമണം ഏകദേശം 60 മണിക്കൂർ നീണ്ടുവെന്ന് ഓൾ ഇന്ത്യ റേഡിയോ (ന്യൂസ്ഓൺഎയർ) റിപ്പോർട്ട് ചെയ്തു.",
+    "ആക്രമണത്തിൽ 166 പേർ കൊല്ലപ്പെട്ടുവെന്ന് മിഡ്-ഡേ റിപ്പോർട്ട് ചെയ്യുന്നു. വ്യാഴാഴ്ച മുംബൈ പൊലീസ് കമ്മീഷണർ ഓഫീസിൽ നടന്ന ചടങ്ങിൽ ഗവർണർ ജിഷ്ണു ദേവ് വർമ്മയും മുഖ്യമന്ത്രി ദേവേന്ദ്ര ഫഡ്നാവിസും പുഷ്പാർച്ചന നടത്തിയതായി പി.ടി.ഐ റിപ്പോർട്ട് ചെയ്തു.",
+    "കേന്ദ്ര ആഭ്യന്തര മന്ത്രി അമിത് ഷായും വിദേശകാര്യ മന്ത്രി എസ് ജയശങ്കറും ഉൾപ്പെടെയുള്ള നേതാക്കൾ ഇരകൾക്കും ജീവൻ ബലിയർപ്പിച്ച സുരക്ഷാ സൈനികർക്കും ആദരമർപ്പിച്ചു. ഭീകരവാദത്തോട് സഹിഷ്ണുതയില്ലെന്ന നിലപാട് നേതാക്കൾ ആവർത്തിച്ചതായും റിപ്പോർട്ടുകളിൽ പറയുന്നു."
+   ],
+   "srcs": [
+    [
+     "AIR News: Nation pays tribute to 26/11 victims",
+     "https://newsonair.gov.in/nation-pays-tribute-to-26-11-mumbai-terror-attack-victims-security-personnel/"
+    ],
+    [
+     "Mid-day: CMs pay tribute to 26/11 victims",
+     "https://www.mid-day.com/mumbai/mumbai-news/article/26-11-mumbai-attacks-maharashtra-cm-fadnavis-yogi-adityanath-and-other-cms-pay-tribute-to-victims-23661426"
+    ],
+    [
+     "Swadesi (PTI): Tributes on 18th anniversary of 26/11",
+     "https://swadesi.com/news/tributes-paid-to-martyrs-on-18th-anniversary-of-2611-mumbai-terror-att-mwx1m5jh"
+    ],
+    [
+     "Times of India: Jaishankar remembers 26/11 victims",
+     "https://timesofindia.indiatimes.com/india/zero-tolerance-for-terrorism-eam-jaishankar-remembers-26/11-victims-on-attack-anniversary/articleshow/136177873.cms"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgMSJMWhA7o/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 10:18 AM IST on 26 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-26T10:18:51+05:30"
+  },
+  {
    "id": "ksrtc-pampa-karimadam-conductor-suspended-devotees-row-nov25",
    "cats": [
     "Kerala"

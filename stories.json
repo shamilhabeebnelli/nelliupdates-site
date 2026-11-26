@@ -1,6 +1,38 @@
 {
  "stories": [
   {
+   "id": "openai-gpt-6-2-sol-chatgpt-chat-tab-free-go-excluded-nov26",
+   "cats": [
+    "Tech"
+   ],
+   "title": "ചാറ്റ്ജിപിടി ചാറ്റ് ടാബിൽ GPT-6.2 എത്തുന്നു; ഫ്രീ, ഗോ ഉപയോക്താക്കൾക്ക് തീയതിയില്ല",
+   "en": "OpenAI rolls out GPT-6.2 to ChatGPT Chat tab for paid plans; no date for Free and Go, as reported",
+   "sum": "ഓപ്പൺഎഐ GPT-6.2 ചാറ്റ്ജിപിടിയുടെ ചാറ്റ് ടാബിൽ നവംബർ 23 മുതൽ ഘട്ടംഘട്ടമായി നൽകുന്നതായും, പ്ലസ്, പ്രോ, ബിസിനസ്, എന്റർപ്രൈസ് ഉപയോക്താക്കൾക്കാണ് ലഭ്യമെന്നും ഫ്രീ, ഗോ പ്ലാനുകൾക്ക് തീയതി അറിയിച്ചിട്ടില്ലെന്നും ഇന്ത്യ ടുഡേ, ഗാഡ്ജെറ്റ്സ് നൗ എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "26 Nov 2026",
+   "body": [
+    "ഓപ്പൺഎഐ GPT-6.2 (ചാറ്റിനായുള്ള GPT-6.2 സോൾ പതിപ്പ്) ചാറ്റ്ജിപിടിയുടെ സാധാരണ ചാറ്റ് ടാബിൽ നവംബർ 23 മുതൽ ഘട്ടംഘട്ടമായി നൽകിത്തുടങ്ങിയതായി ഇന്ത്യ ടുഡേയും ഗാഡ്ജെറ്റ്സ് നൗവും റിപ്പോർട്ട് ചെയ്യുന്നു.",
+    "പ്ലസ്, പ്രോ, ബിസിനസ്, എന്റർപ്രൈസ് ഉപയോക്താക്കൾക്കാണ് ഇപ്പോൾ ലഭ്യം. റോൾഔട്ടിൽ ഇന്ത്യയും ഉൾപ്പെടുന്നുണ്ടെങ്കിലും ചില ഉപയോക്താക്കൾക്ക് ഇപ്പോഴും പഴയ മോഡൽ പിക്കർ കാണാമെന്നാണ് റിപ്പോർട്ട്.",
+    "ഫ്രീ, ഗോ പ്ലാനുകൾക്ക് റിലീസ് തീയതി ഓപ്പൺഎഐ അറിയിച്ചിട്ടില്ലെന്ന് ഇന്ത്യ ടുഡേ റിപ്പോർട്ട് ചെയ്യുന്നു. ജിപിടി-6 പ്രോ ഓപ്ഷൻ മാറ്റമില്ലാതെ തുടരുമെന്നും വർക്ക്, കോഡെക്സ് എന്നിവയിലെ മോഡലുകൾ മാറില്ലെന്നും റിപ്പോർട്ടുകൾ പറയുന്നു.",
+    "ഡിസംബർ 23-ന് GPT-5.6 സോൾ ചാറ്റ്, വർക്ക്, കോഡെക്സ് എന്നിവയിൽ നിന്ന് പിൻവലിക്കുമെന്നും ഇന്ത്യ ടുഡേ റിപ്പോർട്ട് ചെയ്യുന്നു. കമ്പനി പറഞ്ഞ പ്രകടന കണക്കുകൾ സ്വതന്ത്രമായി പരിശോധിച്ചതല്ല."
+   ],
+   "srcs": [
+    [
+     "India Today: GPT-6.2 in ChatGPT Chat tab",
+     "https://www.indiatoday.in/technology/story/openai-brings-gpt-62-to-chatgpts-chat-tab-but-free-and-go-users-get-nothing-3046620-2026-11-25"
+    ],
+    [
+     "Gadgets Now: GPT-6.2 reaches Chat tab",
+     "https://gadgetsnow.indiatimes.com/tech-news/gpt-6-2-reaches-chatgpts-chat-tab-what-changes-and-who-qualifies/articleshow/136150913.cms"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgNL9GfhNuA/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 6:43 PM IST on 26 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-26T18:43:57+05:30"
+  },
+  {
    "id": "sreedharan-kerala-semi-high-speed-rail-60000-cr-nov25",
    "cats": [
     "Kerala"

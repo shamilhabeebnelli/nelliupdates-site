@@ -1,6 +1,42 @@
 {
  "stories": [
   {
+   "id": "thrissur-medical-college-patient-death-washroom-probe-nov27",
+   "cats": [
+    "Kerala"
+   ],
+   "title": "തൃശൂർ മെഡിക്കൽ കോളേജ് ആശുപത്രിയിൽ രോഗിയുടെ മരണം: മനുഷ്യാവകാശ കമ്മീഷൻ അന്വേഷണം, ആഭ്യന്തര സമിതിയും",
+   "en": "Patient found dead in locked washroom at Thrissur Medical College Hospital; rights commission and internal panel probe, as reported",
+   "sum": "തൃശൂർ ഗവ. മെഡിക്കൽ കോളേജ് ആശുപത്രിയിലെ പൂട്ടിയ ശുചിമുറിയിൽ 77 വയസ്സുള്ള രോഗിയെ മരിച്ച നിലയിൽ കണ്ടെത്തിയതായി റിപ്പോർട്ടുകൾ. മനുഷ്യാവകാശ കമ്മീഷൻ സ്വമേധയാ കേസെടുത്തു; കോളേജ് പ്രിൻസിപ്പൽ അഞ്ചംഗ സമിതിയെ നിയോഗിച്ചു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "തൃശൂർ ഗവ. മെഡിക്കൽ കോളേജ് ആശുപത്രിയിലെ പൂട്ടിയ ശുചിമുറിയിൽ നിന്ന് 77 വയസ്സുള്ള രോഗിയുടെ മൃതദേഹം നവംബർ 21-ന് കണ്ടെത്തിയതായി പിടിഐയും ടൈംസ് ഓഫ് ഇന്ത്യയും റിപ്പോർട്ട് ചെയ്യുന്നു (as reported). സംഭവം പുറത്തറിഞ്ഞത് നവംബർ 25-നാണ്.",
+    "ആരോഗ്യമന്ത്രി കെ. മുരളീധരൻ സംഭവത്തെ ഗൗരവമായി കാണുന്നുവെന്നും ശുചിമുറി വൃത്തിയാക്കിയിരുന്നോ എന്നത് ഉൾപ്പെടെ പരിശോധിക്കുമെന്നും പറഞ്ഞതായി റിപ്പോർട്ടുകൾ.",
+    "കേരള സംസ്ഥാന മനുഷ്യാവകാശ കമ്മീഷൻ സ്വമേധയാ കേസെടുത്ത് 15 ദിവസത്തിനകം റിപ്പോർട്ട് സമർപ്പിക്കാൻ നിർദേശിച്ചു. മെഡിക്കൽ കോളേജ് പ്രിൻസിപ്പൽ അഞ്ചംഗ സമിതിയെ നിയോഗിച്ചിട്ടുണ്ട്; വെള്ളിയാഴ്ച റിപ്പോർട്ട് പ്രതീക്ഷിക്കുന്നു.",
+    "ആശുപത്രിയുടെ ഭാഗത്തുനിന്ന് പരിചരണക്കുറവുണ്ടായെന്ന് കുടുംബം ആരോപിക്കുന്നു; പരാതി നൽകാനും ഒരുങ്ങുന്നു. സിപിഐ പ്രത്യേക അന്വേഷണ സംഘത്തെ ആവശ്യപ്പെട്ടു. ഇവ ആരോപണങ്ങൾ മാത്രമാണ്; മരണകാരണം സംബന്ധിച്ച് ഔദ്യോഗിക സ്ഥിരീകരണം റിപ്പോർട്ടുകളിൽ ഇല്ല."
+   ],
+   "srcs": [
+    [
+     "The Hindu (PTI): Govt views death seriously",
+     "https://www.thehindu.com/news/national/kerala/govt-views-death-of-elderly-man-in-thrissur-mch-washroom-seriously-keralam-minister/article71747082.ece"
+    ],
+    [
+     "India Today (PTI): Kerala probes hospital toilet death",
+     "https://www.indiatoday.in/india/kerala/story/thrissur-medical-college-death-kerala-probes-locked-hospital-toilet-ptag-3047206-2026-11-26"
+    ],
+    [
+     "Times of India: Rights panel to probe death",
+     "https://timesofindia.indiatimes.com/city/kochi/rights-panel-to-probe-into-death-of-patient-in-hospital-washroom/articleshow/136200010.cms"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgORg7jhej0/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 4:51 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T04:51:45+05:30"
+  },
+  {
    "id": "epfo-upi-pf-withdrawal-trials-launch-date-unclear-nov25",
    "cats": [
     "India"

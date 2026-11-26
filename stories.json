@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "tvm-heavy-rain-east-fort-91mm-thampanoor-waterlogging-nov26",
+   "cats": [
+    "Kerala"
+   ],
+   "title": "തിരുവനന്തപുരത്ത് ഒരു മണിക്കൂറിൽ 91 മില്ലിമീറ്റർ മഴ: തമ്പാനൂരിൽ വെള്ളക്കെട്ട്, ഗതാഗതക്കുരുക്ക്",
+   "en": "Thiruvananthapuram: 91 mm rain in an hour at East Fort, waterlogging and traffic jams at Thampanoor, as reported",
+   "sum": "തിരുവനന്തപുരം ഈസ്റ്റ് ഫോർട്ടിൽ ഒരു മണിക്കൂറിൽ 91 മില്ലിമീറ്റർ മഴ രേഖപ്പെടുത്തിയെന്ന് ഓൺമനോരമ റിപ്പോർട്ട് ചെയ്യുന്നു. തമ്പാനൂരിൽ വെള്ളക്കെട്ടും ഗതാഗതക്കുരുക്കുമുണ്ടെന്ന് ജനയുഗവും റിപ്പോർട്ട് ചെയ്തു. ഐഎംഡി യെല്ലോ അലർട്ട് തുടരുന്നു.",
+   "date": "26 Nov 2026",
+   "body": [
+    "തിരുവനന്തപുരം നഗരത്തിൽ വ്യാഴാഴ്ച ഒരു മണിക്കൂറോളം നീണ്ട കനത്ത മഴയിൽ പലയിടത്തും വെള്ളക്കെട്ടുണ്ടായെന്ന് ഓൺമനോരമ റിപ്പോർട്ട് ചെയ്യുന്നു. ഈസ്റ്റ് ഫോർട്ടിൽ 60 മിനിറ്റിനുള്ളിൽ 91 മില്ലിമീറ്റർ മഴ ലഭിച്ചതായും റിപ്പോർട്ടിൽ പറയുന്നു.",
+    "തമ്പാനൂരിൽ റെയിൽവേ സ്റ്റേഷനിലേക്കും കെഎസ്ആർടിസി സ്റ്റാൻഡിലേക്കുമുള്ള റോഡുകളിൽ വെള്ളം കയറിയെന്നും യാത്രക്കാർ ബുദ്ധിമുട്ടിയെന്നും ഓൺമനോരമ പറയുന്നു. മണ്ഡലകാലമായതിനാൽ തമ്പാനൂരിലെത്തിയ അയ്യപ്പഭക്തരെയും വെള്ളക്കെട്ട് വലച്ചെന്നും ഗതാഗതക്കുരുക്ക് രൂക്ഷമാണെന്നും ജനയുഗം റിപ്പോർട്ട് ചെയ്യുന്നു.",
+    "കേന്ദ്ര കാലാവസ്ഥാ വകുപ്പ് (ഐഎംഡി) വ്യാഴാഴ്ച സംസ്ഥാനത്ത് യെല്ലോ അലർട്ട് പ്രഖ്യാപിച്ചിട്ടുണ്ട്. ജില്ലകളുടെ എണ്ണം റിപ്പോർട്ടുകളിൽ വ്യത്യസ്തമാണ് (ഏഴ് മുതൽ ഒമ്പത് വരെ). ഇതിനു മുമ്പ് ഞങ്ങൾ ഐഎംഡി മുന്നറിയിപ്പ് റിപ്പോർട്ട് ചെയ്തിരുന്നു. ഇത്തവണത്തെ പുതിയ വിവരം നഗരത്തിലെ മഴയുടെ അളവും വെള്ളക്കെട്ടുമാണ്. അടുത്ത 24 മണിക്കൂറിൽ 64.5 മുതൽ 115.5 മില്ലിമീറ്റർ വരെ മഴ സാധ്യതയെന്നാണ് മുന്നറിയിപ്പ്. താഴ്ന്ന പ്രദേശങ്ങളിലുള്ളവർ ജാഗ്രത പാലിക്കണം."
+   ],
+   "srcs": [
+    [
+     "Onmanorama: Heavy rain pounds Thiruvananthapuram",
+     "https://www.onmanorama.com/news/kerala/2026/11/26/thiruvananthapuram-flooded-after-heavy-rain.html"
+    ],
+    [
+     "Janayugom: Thampanoor waterlogging (Malayalam)",
+     "https://janayugomonline.com/heavy-rain-waterlogging-traffic-congestion-in-thiruvananthapuram/"
+    ],
+    [
+     "Mathrubhumi English: yellow alert, rain till Nov 27",
+     "https://english.mathrubhumi.com/news/kerala/kerala-weather-yellow-alert-heavy-rain-november-27-pte3osj8"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgM06CqBgFf/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 3:22 PM IST on 26 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-26T15:22:35+05:30"
+  },
+  {
    "id": "nothing-ear-note-ai-recording-earbuds-dec8-launch-nov26",
    "cats": [
     "Tech"

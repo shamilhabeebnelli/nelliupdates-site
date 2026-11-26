@@ -1,6 +1,38 @@
 {
  "stories": [
   {
+   "id": "whatsapp-travel-esim-in-app-jio-partner-nov26",
+   "cats": [
+    "Tech"
+   ],
+   "title": "വാട്സ്ആപ്പിൽ ഇനി ട്രാവൽ ഇ-സിം: ജിയോ ഉൾപ്പെടെ പങ്കാളികൾ, തുടക്കത്തിൽ തിരഞ്ഞെടുത്ത രാജ്യങ്ങളിൽ",
+   "en": "WhatsApp announces in-app international travel data eSIMs, with Jio among partners; rollout to start in select countries",
+   "sum": "വിദേശയാത്രയ്ക്കിടെ ആപ്പിൽ നിന്ന് തന്നെ ഡാറ്റ ഇ-സിം വാങ്ങി ഇൻസ്റ്റാൾ ചെയ്യാനുള്ള സംവിധാനം വരുന്നതായി വാട്സ്ആപ്പ് നവംബർ 26-ന് ബ്ലോഗിൽ അറിയിച്ചു. ജിയോ, സ്മാർട്ട് ആക്സിയാറ്റ, വെറൈസൺ തുടങ്ങിയവരാണ് പങ്കാളികൾ. ആദ്യം തിരഞ്ഞെടുത്ത രാജ്യങ്ങളിൽ.",
+   "date": "27 Nov 2026",
+   "body": [
+    "വിദേശയാത്രയ്ക്കിടെ ആപ്പ് വിടാതെ തന്നെ ഏതാനും ടാപ്പുകളിലൂടെ ഡാറ്റ ഇ-സിം വാങ്ങി ഇൻസ്റ്റാൾ ചെയ്യാനുള്ള സംവിധാനം അവതരിപ്പിക്കുകയാണെന്ന് വാട്സ്ആപ്പ് നവംബർ 26-ന് തങ്ങളുടെ ബ്ലോഗിൽ അറിയിച്ചു. ഇതോടെ ലാൻഡ് ചെയ്യുമ്പോൾ അതേ ഫോൺ നമ്പറിൽ തന്നെ വാട്സ്ആപ്പ് ഉപയോഗിക്കാനാകുമെന്ന് കമ്പനി പറയുന്നു.",
+    "ഇ-സിം ദാതാക്കളുമായും ജിയോ, സ്മാർട്ട് ആക്സിയാറ്റ, സ്മാർട്ട് കമ്യൂണിക്കേഷൻസ്, വെറൈസൺ തുടങ്ങിയ ടെലികോം പങ്കാളികളുമായും ചേർന്നാണ് പ്രവർത്തനമെന്നും ബ്ലോഗിൽ പറയുന്നു. തിരഞ്ഞെടുത്ത രാജ്യങ്ങളിൽ ഉടൻ അവതരിപ്പിച്ചുതുടങ്ങുമെന്നും ലഭ്യമാകുമ്പോൾ ആപ്പിൽ കാണാമെന്നുമാണ് അറിയിപ്പ്.",
+    "ഇൻക്42 ഇക്കാര്യം റിപ്പോർട്ട് ചെയ്യുന്നു. ഇന്ത്യയിൽ എപ്പോൾ ലഭ്യമാകുമെന്നോ ഏതൊക്കെ രാജ്യങ്ങളിലാണ് ആദ്യം എത്തുകയെന്നോ വാട്സ്ആപ്പ് വ്യക്തമാക്കിയിട്ടില്ല.",
+    "ആപ്പിന്റെ ബീറ്റ കോഡിലെ സൂചനകളെ ഉദ്ധരിച്ച്, ലക്ഷ്യസ്ഥാനം നൽകുമ്പോൾ അനുയോജ്യമായ ഇ-സിം പ്ലാനുകൾ ആപ്പ് തിരയുമെന്നും വാങ്ങിയ പ്ലാനുകളും ബാക്കി ഡാറ്റയും കാണാനാകുമെന്നും ആൻഡ്രോയിഡ് അതോറിറ്റിയെ ഉദ്ധരിച്ച് ഇൻക്42 റിപ്പോർട്ട് ചെയ്യുന്നു; ഇവ കമ്പനി സ്ഥിരീകരിച്ചതല്ല."
+   ],
+   "srcs": [
+    [
+     "WhatsApp Blog: Stay connected when you travel",
+     "https://blog.whatsapp.com/stay-connected-on-whatsapp-when-you-travel"
+    ],
+    [
+     "Inc42: WhatsApp to partner Jio on eSIM feature",
+     "https://inc42.com/buzz/whatsapp-to-partner-jio-to-launch-intl-data-esim-feature-in-india/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgOT11fhC7V/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 5:12 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T05:12:05+05:30"
+  },
+  {
    "id": "indiamart-openai-chatgpt-exclusion-dispute-settled-nov26",
    "cats": [
     "Tech"

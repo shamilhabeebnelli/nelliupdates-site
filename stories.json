@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "udupi-karinthalam-400kv-line-test-charging-nov27",
+   "cats": [
+    "Kerala"
+   ],
+   "title": "ഉഡുപ്പി-കരിന്തളം 400 kV ലൈനിന്റെ പരീക്ഷണ ചാർജിങ് നവംബർ 27-ന്, വടക്കൻ മലബാറിന് ഗുണമാകുമെന്ന് KSEB",
+   "en": "Udupi-Karinthalam 400 kV line to undergo test charging on Nov 27, KSEB says it will ease north Malabar transmission limits, as reported",
+   "sum": "കർണാടകയിലെ ഉഡുപ്പിയിൽ നിന്ന് കാസർകോട് കരിന്തളം വരെയുള്ള 400 kV ലൈനിന്റെ നിർമാണം പൂർത്തിയായെന്നും നവംബർ 27-ന് പരീക്ഷണ ചാർജിങ് നടക്കുമെന്നും KSEB അറിയിച്ചതായി PTI റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "കർണാടകയിലെ ഉഡുപ്പി പവർ സ്റ്റേഷനിൽ നിന്ന് കാസർകോട് ജില്ലയിലെ കരിന്തളം വരെയുള്ള 400 kV ഇരട്ട സർക്യൂട്ട് അന്തർസംസ്ഥാന പ്രസരണ ലൈനിന്റെ നിർമാണം പൂർത്തിയായെന്നും നവംബർ 27 വെള്ളിയാഴ്ച പരീക്ഷണ ചാർജിങ് നടക്കുമെന്നും കെഎസ്ഇബി അറിയിച്ചതായി പിടിഐ റിപ്പോർട്ട് ചെയ്യുന്നു. ദേശാഭിമാനിയും പത്തനംതിട്ട മീഡിയയും ഇത് റിപ്പോർട്ട് ചെയ്തിട്ടുണ്ട്.",
+    "നോർത്ത് മലബാർ മേഖലയ്ക്ക് ഏകദേശം 900 മെഗാവാട്ട് വൈദ്യുതി ആവശ്യമുള്ളപ്പോൾ നിലവിലെ ശൃംഖലയിലൂടെ ഏകദേശം 600 മെഗാവാട്ട് മാത്രമേ എത്തിക്കാനാകൂ എന്ന് കെഎസ്ഇബി പറയുന്നതായി റിപ്പോർട്ടിൽ പറയുന്നു. ലൈൻ പൂർണമായി പ്രവർത്തനക്ഷമമാകുന്നതോടെ നിലവിലുള്ള 220 kV ലൈനുകളിലെ അമിതഭാരം കുറയുമെന്നും പ്രസരണശേഷി കൂടുമെന്നുമാണ് കെഎസ്ഇബിയുടെ പ്രതീക്ഷ.",
+    "പുതിയ സബ്സ്റ്റേഷനിൽ നിന്നുള്ള 220 kV ലൈനുകളും സജ്ജമാണെന്നും, ശൃംഖല പൂർത്തിയാകുമ്പോൾ സംസ്ഥാനത്തിന്റെ വൈദ്യുതി ഇറക്കുമതി ശേഷി 4,445 മെഗാവാട്ടിൽ നിന്ന് 5,105 മെഗാവാട്ടാകുമെന്നും കെഎസ്ഇബി പറഞ്ഞതായി പിടിഐ റിപ്പോർട്ട് ചെയ്യുന്നു. ഇത് ലൈൻ പ്രവർത്തനക്ഷമമായതിന്റെ സ്ഥിരീകരണമല്ല, ചാർജിങ് ഫലം ഇവിടെ റിപ്പോർട്ട് ചെയ്തിട്ടില്ല."
+   ],
+   "srcs": [
+    [
+     "The Week (PTI): Udupi-Karinthalam test charging",
+     "https://www.theweek.in/wire-updates/national/2026/11/26/udupi-karinthalam-400-kv-power-transmission-line-to-undergo-test-charging.html"
+    ],
+    [
+     "Deshabhimani: Karinthalam 400 kV line (Malayalam)",
+     "https://www.deshabhimani.com/district-news/-35301/ldf-governmentkarinthalam400-kv-uduppi-karinthalam-line-pz2"
+    ],
+    [
+     "Pathanamthitta Media: north Kerala power (Malayalam)",
+     "https://pathanamthittamedia.com/as-a-solution-to-the-power-crisis-faced-by-northern-kerala/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgOInTvhMHB/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 3:34 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T03:34:01+05:30"
+  },
+  {
    "id": "health-ministry-autism-stem-cell-trial-safeguards-nov26",
    "cats": [
     "India"

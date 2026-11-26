@@ -1,6 +1,42 @@
 {
  "stories": [
   {
+   "id": "bharatgen-patram-1-5-document-vision-model-launch-nov26",
+   "cats": [
+    "Tech"
+   ],
+   "title": "ഭാരത്ജെൻ പത്രം 1.5 പുറത്തിറക്കി: കൈയെഴുത്തും മങ്ങിയ സ്കാനുകളും വായിക്കുന്ന ഇന്ത്യൻ വിഷൻ-ലാംഗ്വേജ് മോഡൽ",
+   "en": "BharatGen launches Patram 1.5, an Indian 7-billion-parameter vision-language model for handwritten and poor-quality documents",
+   "sum": "ഡിഎസ്ടിയും ഇന്ത്യ എഐ മിഷനും പിന്തുണയ്ക്കുന്ന ഭാരത്ജെൻ പത്രം 1.5 എന്ന വിഷൻ-ലാംഗ്വേജ് മോഡൽ പുറത്തിറക്കി. ബാങ്ക്, ആശുപത്രി, സർക്കാർ ഓഫീസുകളിലെ സ്കാൻ ചെയ്തതും കൈയെഴുത്തുമായ രേഖകൾക്കായി രൂപകൽപ്പന ചെയ്ത മോഡൽ ഓപ്പൺ വെയ്റ്റ്സ് ആയി ലഭ്യമാണ്.",
+   "date": "26 Nov 2026",
+   "body": [
+    "ഡിപ്പാർട്ട്മെന്റ് ഓഫ് സയൻസ് ആൻഡ് ടെക്നോളജിയുടെയും ഇന്ത്യ എഐ മിഷന്റെയും പിന്തുണയുള്ള എഐ കമ്പനിയായ ഭാരത്ജെൻ (BharatGen) പത്രം 1.5 എന്ന വിഷൻ-ലാംഗ്വേജ് ഫൗണ്ടേഷൻ മോഡൽ പുറത്തിറക്കിയതായി ദ ഹിന്ദു ബിസിനസ് ലൈൻ, ഇന്ത്യ ടുഡേ എന്നിവ റിപ്പോർട്ട് ചെയ്തു. സ്കാൻ ചെയ്തതും സീൽ പതിപ്പിച്ചതും കൈയെഴുത്തുള്ളതും ഇംഗ്ലീഷും ഇന്ത്യൻ ഭാഷകളും കലർന്നതുമായ രേഖകൾക്കായാണ് ഇത് രൂപകൽപ്പന ചെയ്തിരിക്കുന്നത്.",
+    "ഏഴ് ബില്യൺ പാരാമീറ്ററുള്ള മോഡൽ ഹഗ്ഗിങ് ഫേസിൽ ഓപ്പൺ വെയ്റ്റ്സ് ആയി ലഭ്യമാണ്. അതിനാൽ ബാങ്കുകൾക്കും ആശുപത്രികൾക്കും സർക്കാർ വകുപ്പുകൾക്കും സ്വന്തം സംവിധാനത്തിൽ ഇത് പ്രവർത്തിപ്പിക്കാമെന്ന് റിപ്പോർട്ടിൽ പറയുന്നു. ഭാരത്ജെൻ പ്ലേഗ്രൗണ്ടിൽ ചാറ്റ് വഴി പരീക്ഷിക്കാനും സൗകര്യമുണ്ട്.",
+    "പത്രം 1.5 അവതരിപ്പിക്കുന്ന ഒസിആർ 3.0 വഴി ഉപയോക്താവിന് ആവശ്യമുള്ള വിവരം സാധാരണ ഭാഷയിൽ ചോദിച്ചാൽ ആവശ്യമുള്ള രൂപത്തിൽ മോഡൽ നൽകും. ഒരു ഫീൽഡ് ശൂന്യമോ വായിക്കാനാകാത്തതോ ആണെങ്കിൽ ഊഹിക്കാതെ അത് തുറന്നുപറയാൻ മോഡലിനെ പരിശീലിപ്പിച്ചിട്ടുണ്ടെന്നും ഭാരത്ജെൻ പറയുന്നു.",
+    "34 പൊതു ബെഞ്ച്മാർക്കുകളും സ്വന്തം പത്രംബെഞ്ചിലെ 15 ടാസ്കുകളും ഉൾപ്പെടെ 49 പരീക്ഷണങ്ങളിൽ മോഡൽ വിലയിരുത്തിയെന്ന് കമ്പനി അറിയിച്ചു. ഈ ഫലങ്ങൾ കമ്പനിയുടെ സ്വന്തം അവകാശവാദമാണ്, സ്വതന്ത്രമായി സ്ഥിരീകരിച്ചിട്ടില്ല."
+   ],
+   "srcs": [
+    [
+     "BusinessLine: BharatGen launches Patram 1.5",
+     "https://www.thehindubusinessline.com/info-tech/bharatgen-launches-indian-vision-language-model-patram-15/article71745752.ece"
+    ],
+    [
+     "India Today: BharatGen launches Patram 1.5",
+     "https://www.indiatoday.in/technology/news/story/bharatgen-launches-patram-15-a-made-in-india-ai-model-that-can-read-messy-handwritten-documents-3047332-2026-11-26"
+    ],
+    [
+     "Economic Times: Patram 1.5 trained to hold back",
+     "https://economictimes.indiatimes.com/ai/ai-insights/bharatgens-7-billion-parameter-patram-1-5-is-trained-to-hold-back-rather-than-guess/articleshow/136172471.cms"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgMxQ_5BlWK/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 2:50 PM IST on 26 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-26T14:50:45+05:30"
+  },
+  {
    "id": "thrissur-president-murmu-vaidyaratnam-jubilee-traffic-nov27",
    "cats": [
     "Kerala"

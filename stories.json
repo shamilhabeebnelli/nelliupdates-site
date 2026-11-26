@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "health-ministry-autism-stem-cell-trial-safeguards-nov26",
+   "cats": [
+    "India"
+   ],
+   "title": "ഓട്ടിസം സ്റ്റെം സെൽ ട്രയൽ: ഇൻഷുറൻസ് നിർബന്ധം, ഫീസ് പാടില്ലെന്ന് ആരോഗ്യ മന്ത്രാലയം",
+   "en": "Health ministry sets insurance, no-fee and approval-timeline rules for autism stem cell trials, as reported",
+   "sum": "ഓട്ടിസത്തിനുള്ള സ്റ്റെം സെൽ ട്രയലുകൾക്ക് ഇൻഷുറൻസ് നിർബന്ധമാക്കിയും ഫീസ് വിലക്കിയും ആരോഗ്യ മന്ത്രാലയം നവംബർ 20-ന് രണ്ട് നോട്ടീസ് പുറത്തിറക്കിയതായി മിന്റ് റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "ഓട്ടിസം സ്പെക്ട്രം ഡിസോർഡറിനുള്ള സ്റ്റെം സെൽ ചികിത്സാ ട്രയലുകൾക്ക് കേന്ദ്ര ആരോഗ്യ മന്ത്രാലയം നവംബർ 20-ന് രണ്ട് നോട്ടീസ് പുറത്തിറക്കിയതായി മിന്റ് റിപ്പോർട്ട് ചെയ്യുന്നു. ട്രയൽ നടത്തുന്ന സ്ഥാപനങ്ങൾ പങ്കാളികൾക്ക് ഗവേഷണവുമായി ബന്ധപ്പെട്ട ദോഷത്തിന് ഇൻഷുറൻസ് ഉറപ്പാക്കണം, പങ്കെടുക്കുന്നവരിൽ നിന്ന് ചികിത്സയ്ക്കോ പഠന ചെലവിനോ പണം ഈടാക്കരുത് എന്നിവയാണ് നിബന്ധനകളെന്ന് റിപ്പോർട്ടിൽ പറയുന്നു.",
+    "സ്റ്റെം സെൽ നടപടിക്രമം സാധാരണ ചികിത്സയായി ക്ലിനിക്കുകൾ നൽകരുതെന്ന് നോട്ടീസുകൾ ആവർത്തിക്കുന്നതായും, ട്രയലിൽ പങ്കെടുക്കുന്നത് ചികിത്സാ ഗുണം ഉറപ്പാക്കുന്നില്ലെന്നും നിലവിലുള്ള പരിചരണം നിർത്തരുതെന്നും മന്ത്രാലയം കുടുംബങ്ങളോട് നിർദേശിച്ചതായും മിന്റ് റിപ്പോർട്ട് ചെയ്യുന്നു. അടിസ്ഥാന പ്രോസസിംഗ് മാത്രമുള്ള കോശങ്ങളുടെ ഗവേഷണ നിർദേശങ്ങൾ 90 പ്രവൃത്തി ദിവസത്തിനകം തീരുമാനിക്കണമെന്നും റിപ്പോർട്ടിലുണ്ട്.",
+    "ഐസിഎംആർ ധനസഹായത്തോടെ ന്യൂഡൽഹി എയിംസിലും കൊച്ചി അമൃത ആശുപത്രിയിലും ഒരു റാൻഡമൈസ്ഡ് ട്രയൽ നിർദേശിച്ചിട്ടുണ്ടെന്നും രോഗികളുടെ യോഗ്യതാ മാനദണ്ഡങ്ങളെക്കുറിച്ച് ദേശീയ സ്റ്റെം സെൽ ഗവേഷണ നിയന്ത്രണ സമിതി അഭിപ്രായം തേടുകയാണെന്നും ബിസിനസ് ടുഡേ റിപ്പോർട്ട് ചെയ്യുന്നു. ഇത് റിപ്പോർട്ട് ചെയ്ത വിവരങ്ങൾ മാത്രമാണ്, ചികിത്സാ നിർദേശമല്ല."
+   ],
+   "srcs": [
+    [
+     "Mint: insurance, fee ban for autism stem cell trials",
+     "https://www.livemint.com/news/india/health-ministry-mandates-insurance-fee-ban-and-90-day-clearance-rules-for-autism-stem-cell-trials-11795687902584.html"
+    ],
+    [
+     "Business Today: India to test stem cell therapy for autism",
+     "https://www.businesstoday.in/industry/pharma/story/india-to-test-stem-cell-therapy-for-autism-after-sc-crackdown-on-unproven-treatments-569413-2026-11-25"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgOHN16hyYL/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 3:21 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T03:21:48+05:30"
+  },
+  {
    "id": "icmr-sampada-adolescent-vitamin-b12-deficiency-nov26",
    "cats": [
     "India"

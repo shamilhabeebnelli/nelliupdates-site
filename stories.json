@@ -1,37 +1,6 @@
 {
  "stories": [
   {
-   "id": "cbi-uae-deports-2008-kerala-murder-accused-red-notice-nov25",
-   "cats": [
-    "Kerala"
-   ],
-   "title": "2008-ലെ കൊലക്കേസ് പ്രതിയെ യുഎഇയിൽ നിന്ന് നാടുകടത്തി കേരള പൊലീസിന് കൈമാറി, സിബിഐ",
-   "en": "CBI says UAE deported a fugitive wanted in a 2008 Kerala murder case after an Interpol Red Notice; Kerala Police brought him to Kochi on Nov 25",
-   "sum": "2008-ലെ കൊലക്കേസിൽ ഇന്റർപോൾ റെഡ് നോട്ടീസ് ഇറക്കിയിരുന്ന പ്രതിയെ യുഎഇ അധികൃതർ നാടുകടത്തിയെന്ന് സിബിഐ പറഞ്ഞതായി ഹിന്ദുസ്ഥാൻ ടൈംസ് റിപ്പോർട്ട് ചെയ്യുന്നു. കേരള പൊലീസ് സംഘം നവംബർ 25-ന് കൊച്ചിയിൽ എത്തിച്ചു.",
-   "date": "27 Nov 2026",
-   "body": [
-    "2008 ഒക്ടോബറിൽ കേരളത്തിൽ നടന്ന കൊലക്കേസിൽ ഇന്റർപോൾ റെഡ് നോട്ടീസ് ഇറക്കിയിരുന്ന പ്രതിയെ യുഎഇ അധികൃതർ അറസ്റ്റ് ചെയ്ത് നാടുകടത്തിയെന്ന് സിബിഐ പത്രക്കുറിപ്പിൽ അറിയിച്ചതായി ഹിന്ദുസ്ഥാൻ ടൈംസ് റിപ്പോർട്ട് ചെയ്യുന്നു. കേരള പൊലീസിന്റെ ആവശ്യപ്രകാരമാണ് റെഡ് നോട്ടീസ് ഇറക്കിയത്. കേരള പൊലീസ് എസ്കോർട്ട് സംഘം യുഎഇയിൽ നിന്ന് കസ്റ്റഡിയിൽ എടുത്ത് നവംബർ 25-ന് കൊച്ചിയിൽ എത്തിച്ചു.",
-    "കേസിൽ കുറ്റപത്രം നേരത്തേ സമർപ്പിച്ചിട്ടുണ്ടെന്നും 16 വർഷത്തോളം അബുദാബിയിൽ ഒളിവിലായിരുന്നുവെന്ന് പൊലീസ് പറഞ്ഞതായും ഒൺമനോരമ റിപ്പോർട്ട് ചെയ്യുന്നു. കേസ് തൃശൂർ ഒന്നാം അഡീഷണൽ സെഷൻസ് കോടതിയിൽ വിചാരണയ്ക്കുള്ള നടപടികളിലാണെന്നും റിപ്പോർട്ടിൽ പറയുന്നു. ഇവ ആരോപണങ്ങളാണ്; കോടതി വിധി വന്നിട്ടില്ല.",
-    "ഇന്റർപോൾ വഴി 2019 മുതൽ 300-ലേറെ കുറ്റവാളികളെ ഇന്ത്യയിലെത്തിച്ചിട്ടുണ്ടെന്നും ഈ വർഷം ഇതുവരെ 76 പേരെ എത്തിച്ചെന്നും സിബിഐ അറിയിച്ചതായി ഹിന്ദുസ്ഥാൻ ടൈംസ് പറയുന്നു."
-   ],
-   "srcs": [
-    [
-     "Hindustan Times: CBI secures deportation",
-     "https://www.hindustantimes.com/india-news/cbi-secures-deportation-of-wanted-fugitive-sujith-kumar-from-uae-in-2008-kerala-murder-case-101795678769420.html"
-    ],
-    [
-     "Onmanorama: accused arrested after Interpol notice",
-     "https://www.onmanorama.com/news/kerala/2026/11/26/after-16-years-on-the-run-prime-accused-in-thrissur-dhanesh-murder-arrested-following-interpol-notice.html"
-    ],
-    [
-     "Instagram post (@nelli.updates)",
-     "https://www.instagram.com/nelli.updates/p/DgONx_5BVW5/"
-    ]
-   ],
-   "note": "Posted on Instagram @nelli.updates at about 4:19 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
-   "published_at": "2026-11-27T04:19:11+05:30"
-  },
-  {
    "id": "sabarimala-23000-virtual-queue-no-shows-nov25",
    "cats": [
     "Kerala"
@@ -11240,5 +11209,7 @@
    }
   }
  ],
- "removed": []
+ "removed": [
+  "cbi-uae-deports-2008-kerala-murder-accused-red-notice-nov25"
+ ]
 }

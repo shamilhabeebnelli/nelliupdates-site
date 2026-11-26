@@ -1,6 +1,42 @@
 {
  "stories": [
   {
+   "id": "hpv-vaccine-one-crore-doses-six-states-full-coverage-nov27",
+   "cats": [
+    "India"
+   ],
+   "title": "എച്ച്പിവി വാക്സിൻ: 14 വയസ്സുകാരായ പെൺകുട്ടികൾക്ക് ഒരു കോടിയിലേറെ ഡോസ്; ആറ് സംസ്ഥാനങ്ങളിൽ 100% ലക്ഷ്യം, കേരളത്തിൽ 77.02%",
+   "en": "India passes 1 crore HPV vaccine doses for 14-year-old girls in under nine months; six states hit 100% of target, Kerala at 77.02%, WHO congratulates",
+   "sum": "ദേശീയ എച്ച്പിവി വാക്സിനേഷൻ ക്യാമ്പയിനിൽ 14 വയസ്സുകാരായ പെൺകുട്ടികൾക്ക് ഒരു കോടിയിലേറെ ഡോസ് നൽകിയതായി റിപ്പോർട്ടുകൾ. ലക്ഷ്യവിഭാഗത്തിന്റെ ഏകദേശം 87% പേർ. ആറ് സംസ്ഥാനങ്ങളിൽ 100%, കേരളത്തിൽ 77.02%.",
+   "date": "27 Nov 2026",
+   "body": [
+    "2026 ഫെബ്രുവരിയിൽ തുടങ്ങിയ ദേശീയ എച്ച്പിവി വാക്സിനേഷൻ ക്യാമ്പയിനിൽ ഒമ്പത് മാസത്തിൽ താഴെ കൊണ്ട് 14 വയസ്സുകാരായ പെൺകുട്ടികൾക്ക് ഒരു കോടിയിലേറെ ഡോസ് നൽകിയതായി ആകാശവാണി, ന്യൂസ്18, ഓൺമനോരമ എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു. സർക്കാർ ആരോഗ്യകേന്ദ്രങ്ങളിൽ രക്ഷിതാക്കളുടെ സമ്മതത്തോടെ സൗജന്യ ഒറ്റ ഡോസായാണ് വാക്സിൻ നൽകുന്നത്.",
+    "ഏകദേശം 1.2 കോടി പെൺകുട്ടികളാണ് വാർഷിക ലക്ഷ്യവിഭാഗം; ഇതിൽ ഏകദേശം 87% പേരെ ഇതുവരെ ഉൾപ്പെടുത്തിയതായി കേന്ദ്ര ആരോഗ്യ മന്ത്രാലയത്തിന്റെ വിവരങ്ങൾ ഉദ്ധരിച്ച് റിപ്പോർട്ടുകൾ പറയുന്നു.",
+    "ഗുജറാത്ത്, ഉത്തർപ്രദേശ്, ആന്ധ്രപ്രദേശ്, മിസോറം, മധ്യപ്രദേശ്, ബിഹാർ എന്നിവ തങ്ങളുടെ ലക്ഷ്യവിഭാഗത്തിന്റെ 100% കവറേജ് നേടി. നവംബർ 23-ലെ മന്ത്രാലയ വിവരങ്ങൾ പ്രകാരം കേരളത്തിൽ 77.02% ആണ്.",
+    "ഈ നേട്ടത്തെ ലോകാരോഗ്യ സംഘടനയുടെ തെക്കുകിഴക്കൻ ഏഷ്യ റീജിയണൽ ഓഫീസ് അഭിനന്ദിച്ചതായും പ്രധാനമന്ത്രി നരേന്ദ്ര മോദി ബന്ധപ്പെട്ടവരെ പ്രശംസിച്ചതായും റിപ്പോർട്ടുകളിൽ പറയുന്നു."
+   ],
+   "srcs": [
+    [
+     "Akashvani: WHO congratulates India on HPV doses",
+     "https://newsonair.gov.in/who-congratulates-india-on-administering-over-ten-million-doses-of-hpv-vaccine/"
+    ],
+    [
+     "News18: WHO congratulates India on 1 crore HPV doses",
+     "https://www.news18.com/lifestyle/health-and-fitness/who-congratulates-india-on-1-crore-hpv-vaccine-doses-6-states-achieve-100-target-coverage-ws-l-10441370.html"
+    ],
+    [
+     "Onmanorama: India administers over 1 crore HPV doses",
+     "https://www.onmanorama.com/upsc/current-affairs/2026/11/24/india-administers-over-1-crore-hpv-vaccine-doses-in-9-months.html"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgOVAHPBeLR/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 5:22 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T05:22:15+05:30"
+  },
+  {
    "id": "whatsapp-travel-esim-in-app-jio-partner-nov26",
    "cats": [
     "Tech"

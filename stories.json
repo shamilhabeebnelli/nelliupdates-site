@@ -1,6 +1,42 @@
 {
  "stories": [
   {
+   "id": "samsung-galaxy-watch8-one-ui-9-watch-health-update-nov26",
+   "cats": [
+    "Tech"
+   ],
+   "title": "ഗാലക്സി വാച്ച് 8 സീരീസിന് വൺ യുഐ 9 വാച്ച് അപ്ഡേറ്റ്: ഹാർട്ട് ഹെൽത്ത് സ്കോർ, വൈറ്റൽസ്, സ്ലീപ് ആപ്നിയ ഫീച്ചറുകൾ",
+   "en": "Samsung brings Vitals, Heart Health Score and upgraded Sleep Apnea feature to Galaxy Watch8 series with One UI 9 Watch, as reported",
+   "sum": "ഗാലക്സി വാച്ച് 8, വാച്ച് 8 ക്ലാസിക് എന്നിവയ്ക്ക് വൺ യുഐ 9 വാച്ച് അപ്ഡേറ്റ് വഴി വൈറ്റൽസ്, ഹാർട്ട് ഹെൽത്ത് സ്കോർ, ഡെയ്‌ലി കാർഡിയോ ലോഡ്, ഫിറ്റ്നസ് ഇൻഡെക്സ്, സ്ലീപ് കോച്ചിംഗ്, സ്ലീപ് ആപ്നിയ ഫീച്ചറുകൾ ലഭിക്കുമെന്ന് സാംസങ് ഇന്ത്യ ന്യൂസ്റൂം, മിന്റ്, മണികൺട്രോൾ എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "26 Nov 2026",
+   "body": [
+    "ഗാലക്സി വാച്ച് 8, ഗാലക്സി വാച്ച് 8 ക്ലാസിക് എന്നിവയ്ക്ക് വൺ യുഐ 9 വാച്ച് അപ്ഡേറ്റ് വഴി പുതിയ ആരോഗ്യ ഫീച്ചറുകൾ ലഭിക്കുന്നതായി സാംസങ് ഇന്ത്യ ന്യൂസ്റൂം, മിന്റ്, മണികൺട്രോൾ എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു. ഗാലക്സി വാച്ച് 9, വാച്ച് അൾട്രാ 2 എന്നിവയിൽ ആദ്യം വന്ന ഫീച്ചറുകളാണിവ.",
+    "വൈറ്റൽസ്, ഹാർട്ട് ഹെൽത്ത് സ്കോർ, ഡെയ്‌ലി കാർഡിയോ ലോഡ്, ഫിറ്റ്നസ് ഇൻഡെക്സ്, മെച്ചപ്പെടുത്തിയ സ്ലീപ് ആപ്നിയ ഫീച്ചർ എന്നിവയാണ് ലഭിക്കുന്നത്. ഉറക്കത്തിനിടെ ഹൃദയമിടിപ്പ്, ഹൃദയമിടിപ്പിലെ വ്യതിയാനം, ശ്വസനനിരക്ക്, ചർമ്മ താപനില, രക്തത്തിലെ ഓക്സിജൻ എന്നീ അഞ്ച് സൂചകങ്ങൾ വൈറ്റൽസ് അളക്കുമെന്നും ഏഴ് രാത്രിയിലെ ഉറക്ക ഡാറ്റ വേണമെന്നും റിപ്പോർട്ടുകൾ പറയുന്നു.",
+    "സാംസങ് ഹെൽത്ത് ആപ്പിലെ സ്ലീപ് കോച്ചിംഗ് കൂടുതൽ വ്യക്തിഗതമാക്കി. 14 ദിവസത്തിനിടയിലെ മൂന്ന് ദിവസത്തെ ഉറക്ക ഡാറ്റ മതി തുടങ്ങാൻ. സാംസങ് ഹെൽത്ത് മോണിറ്റർ ആപ്പിലെ സ്ലീപ് ആപ്നിയ ഫീച്ചർ ശ്വസന തടസ്സങ്ങളെ മിനിമൽ, ഇടയ്ക്കിടെ, പതിവ് എന്നിങ്ങനെ മൂന്ന് തലങ്ങളായി തിരിക്കുന്നു.",
+    "അപ്ഡേറ്റ് നവംബർ പകുതി മുതൽ റോൾഔട്ട് ചെയ്തുതുടങ്ങിയെന്നും രാജ്യം, മോഡൽ, കാരിയർ എന്നിവ അനുസരിച്ച് ലഭ്യത വ്യത്യാസപ്പെടാമെന്നും സാംസങ് അറിയിച്ചു. ഇവ രോഗനിർണയത്തിനോ ചികിത്സയ്ക്കോ ഉള്ളതല്ലെന്നും കമ്പനി വ്യക്തമാക്കുന്നു."
+   ],
+   "srcs": [
+    [
+     "Samsung Newsroom India: Watch8 health features",
+     "https://news.samsung.com/in/samsung-expands-advanced-health-features-to-galaxy-watch8-series-with-one-ui-9-watch"
+    ],
+    [
+     "Mint: Watch 9 health features on Watch 8",
+     "https://www.livemint.com/technology/gadgets/samsung-brings-galaxy-watch-9s-health-features-to-galaxy-watch-8-check-all-new-one-ui-9-additions-11795673608247.html"
+    ],
+    [
+     "Moneycontrol: Watch8 gets Vitals, Heart Health Score",
+     "https://www.moneycontrol.com/technology/samsung-galaxy-watch8-series-gets-vitals-heart-health-score-with-one-ui-9-watch-update-article-14089129.html"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgNJqBRBhul/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 6:23 PM IST on 26 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-26T18:23:53+05:30"
+  },
+  {
    "id": "ksrtc-chalo-app-scan-and-pay-upi-cashback-nov26",
    "cats": [
     "Kerala"

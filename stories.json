@@ -1,6 +1,42 @@
 {
  "stories": [
   {
+   "id": "apple-hyderabad-first-store-kukatpally-opens-dec10-nov26",
+   "cats": [
+    "Tech"
+   ],
+   "title": "ആപ്പിളിന്റെ ഹൈദരാബാദിലെ ആദ്യ സ്റ്റോർ ഡിസംബർ 10-ന് തുറക്കും",
+   "en": "Apple to open its first Hyderabad store, Apple Kukatpally, on Dec 10, as reported",
+   "sum": "ആപ്പിളിന്റെ ഹൈദരാബാദിലെ ആദ്യ സ്റ്റോർ \"ആപ്പിൾ കുകട്പള്ളി\" ഡിസംബർ 10 വ്യാഴാഴ്ച വൈകുന്നേരം 5 മണിക്ക് ലേക്ക് ഷോർ-വൈ ജംഗ്ഷൻ മാളിൽ തുറക്കുമെന്ന് ദി ഹിന്ദു, ഗാഡ്ജെറ്റ്സ്360, ബിസിനസ് സ്റ്റാൻഡേർഡ് എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "26 Nov 2026",
+   "body": [
+    "ആപ്പിളിന്റെ ഹൈദരാബാദിലെ ആദ്യ റീട്ടെയിൽ സ്റ്റോർ \"ആപ്പിൾ കുകട്പള്ളി\" ഡിസംബർ 10 വ്യാഴാഴ്ച വൈകുന്നേരം 5 മണിക്ക് ലേക്ക് ഷോർ-വൈ ജംഗ്ഷൻ മാളിൽ തുറക്കുമെന്ന് ദി ഹിന്ദു, ഗാഡ്ജെറ്റ്സ്360, ബിസിനസ് സ്റ്റാൻഡേർഡ് എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു.",
+    "ഇന്ത്യയിലെ ആപ്പിളിന്റെ ഏഴാമത്തെ സ്റ്റോറും ആറാമത്തെ നഗരവുമാണിതെന്ന് റിപ്പോർട്ടുകൾ പറയുന്നു. ബിൽകെസി, ബോറിവലി, സാകേത്, നോയിഡ, ഹെബ്ബാൾ, കോറേഗാവ് പാർക്ക് എന്നിവിടങ്ങളിലാണ് മറ്റ് സ്റ്റോറുകൾ.",
+    "\"മുത്തുകളുടെ നഗരം\" എന്ന ഹൈദരാബാദിന്റെ വിളിപ്പേരിൽ നിന്ന് പ്രചോദനം ഉൾക്കൊണ്ടാണ് സ്റ്റോറിന്റെ രൂപകൽപ്പന എന്ന് റിപ്പോർട്ടുകൾ പറയുന്നു. ആപ്പിളിന്റെ ആർ ആൻഡ് ഡി, റീട്ടെയിൽ കസ്റ്റമർ കെയർ ടീമുകൾ ഹൈദരാബാദിലുണ്ട്.",
+    "തുറക്കുന്നതിന് മുമ്പ് വാൾപേപ്പറുകൾ, സ്റ്റിക്കറുകൾ, ആപ്പിൾ മ്യൂസിക് പ്ലേലിസ്റ്റ് എന്നിവ ആപ്പിൾ ലഭ്യമാക്കുന്നുണ്ടെന്നും സ്റ്റോറിൽ \"ടുഡേ അറ്റ് ആപ്പിൾ\" സെഷനുകൾ ഉണ്ടാകുമെന്നും റിപ്പോർട്ടുകൾ പറയുന്നു."
+   ],
+   "srcs": [
+    [
+     "The Hindu: first Hyderabad store on Dec 10",
+     "https://www.thehindu.com/sci-tech/technology/apple-to-open-first-store-in-hyderabad-on-december-10/article71745814.ece"
+    ],
+    [
+     "Gadgets360: Apple Kukatpally opening",
+     "https://www.gadgets360.com/mobiles/news/apple-kukatpally-hyderabad-store-opening-date-products-services-12379845"
+    ],
+    [
+     "Business Standard: Apple Hyderabad store",
+     "https://www.business-standard.com/technology/tech-news/apple-retail-first-hyderabad-store-kukatpally-opening-december-10-126112600189_1.html"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgNHXZbBqpi/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 6:03 PM IST on 26 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-26T18:03:54+05:30"
+  },
+  {
    "id": "iit-delhi-extreem-testing-facility-sonipat-drdo-nov26",
    "cats": [
     "Tech"

@@ -1,6 +1,40 @@
 {
  "stories": [
   {
+   "id": "vizhinjam-first-import-containers-reach-kottayam-icd-nov26",
+   "cats": [
+    "Kerala"
+   ],
+   "title": "വിഴിഞ്ഞം വഴിയുള്ള ആദ്യ ഇറക്കുമതി: 60 കണ്ടെയ്നർ കോട്ടയം ഐസിഡിയിൽ എത്തിയെന്ന് മുഖ്യമന്ത്രി",
+   "en": "First import containers via Vizhinjam port reach Kottayam ICD, Kerala CM says, as reported",
+   "sum": "വിഴിഞ്ഞം തുറമുഖത്തിലൂടെ ആഫ്രിക്കയിൽ നിന്നുള്ള അസംസ്കൃത വസ്തുക്കളുമായി 60 ഇറക്കുമതി കണ്ടെയ്നറുകൾ കോട്ടയം ഐസിഡിയിൽ എത്തിയെന്ന് മുഖ്യമന്ത്രി വി.ഡി. സതീശൻ എക്സിൽ കുറിച്ചതായി പിടിഐയും, ഇതേ ചരക്കുനീക്കം സംബന്ധിച്ച് കൺസ്ട്രക്ഷൻ വേൾഡും റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "വിഴിഞ്ഞം അന്താരാഷ്ട്ര തുറമുഖത്തു നിന്ന് ഓഗസ്റ്റ് 18-ന് എക്സ്പോർട്ട്-ഇമ്പോർട്ട് (EXIM) പ്രവർത്തനങ്ങൾ തുടങ്ങിയശേഷം ആഫ്രിക്കയിൽ നിന്നുള്ള അസംസ്കൃത വസ്തുക്കളുമായി ആദ്യ ഇറക്കുമതി കണ്ടെയ്നർ ബാച്ച് സംസ്ഥാനത്ത് എത്തിയെന്ന് മുഖ്യമന്ത്രി വി.ഡി. സതീശൻ വ്യാഴാഴ്ച എക്സിൽ കുറിച്ചുവെന്ന് പിടിഐയെ ഉദ്ധരിച്ച് റിപ്പോർട്ടുകൾ പറയുന്നു.",
+    "60 കണ്ടെയ്നറുകളിലായി 1,500 ടൺ ചരക്ക് വിഴിഞ്ഞത്തു നിന്ന് കോട്ടയത്തെ ഇൻലാൻഡ് കണ്ടെയ്നർ ഡിപ്പോയിൽ (ഐസിഡി) എത്തിയെന്നാണ് മുഖ്യമന്ത്രിയുടെ പോസ്റ്റിൽ പറയുന്നത്. ഇതേ ചരക്കിൽ 60 കണ്ടെയ്നറുകളും ഏകദേശം 1,500 ടണ്ണും ഉണ്ടെന്ന് കൺസ്ട്രക്ഷൻ വേൾഡിന്റെ റിപ്പോർട്ടും പറയുന്നു. ഇത്തരത്തിലുള്ള പുതിയ വഴി വ്യാപാരത്തിനും വ്യവസായത്തിനും സാധ്യതകൾ തുറക്കുമെന്ന് മുഖ്യമന്ത്രി പറഞ്ഞു."
+   ],
+   "srcs": [
+    [
+     "Rediff Money (PTI): First import containers",
+     "https://money.rediff.com/news/market/vizhinjam-seaport-receives-first-import-containers-cm-satheesan/58784520261126"
+    ],
+    [
+     "Kumudam Biz (PTI): First batch of containers",
+     "https://www.kumudambiznews.com/news/international/first-batch-of-containers-arrive-at-vizhinjam-port"
+    ],
+    [
+     "Construction World: Kottayam Port first import",
+     "https://www.constructionworld.in/transport-infrastructure/ports-and-shipping/kottayam-port-to-receive-first-major-import-via-vizhinjam/100866"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgN8M5JBd_Q/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 1:45 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T01:45:51+05:30"
+  },
+  {
    "id": "apple-korea-ftc-iphone-16-ai-ads-sanction-move-nov26",
    "cats": [
     "Tech"

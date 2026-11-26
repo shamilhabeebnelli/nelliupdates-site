@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "icmr-sampada-adolescent-vitamin-b12-deficiency-nov26",
+   "cats": [
+    "India"
+   ],
+   "title": "കൗമാരക്കാരിൽ മൂന്നിൽ രണ്ടോളം പേർക്ക് വൈറ്റമിൻ B12 കുറവെന്ന് ICMR സർവേ",
+   "en": "Nearly two-thirds of Indian adolescents are deficient in vitamin B12, ICMR-NIN SAMPADA survey finds, as reported",
+   "sum": "ഐസിഎംആർ-എൻഐഎൻ 2023-25 കാലത്ത് നടത്തിയ SAMPADA സർവേയിൽ രാജ്യത്തെ കൗമാരക്കാരിൽ ഏകദേശം മൂന്നിൽ രണ്ട് പേർക്ക് വൈറ്റമിൻ B12 കുറവുണ്ടെന്ന് ദ ഹിന്ദു ഉൾപ്പെടെ റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "ഐസിഎംആറിന്റെ നാഷണൽ ഇൻസ്റ്റിറ്റ്യൂട്ട് ഓഫ് ന്യൂട്രിഷൻ 2023-25 കാലത്ത് നടത്തിയ SAMPADA ദേശീയ സർവേയിൽ കൗമാരക്കാരിൽ ഏകദേശം മൂന്നിൽ രണ്ട് പേർക്ക് വൈറ്റമിൻ B12 കുറവുണ്ടെന്ന് ദ ഹിന്ദു റിപ്പോർട്ട് ചെയ്യുന്നു. ആൺകുട്ടികളിൽ 66.1 ശതമാനവും പെൺകുട്ടികളിൽ 65.4 ശതമാനവുമാണ് കുറവെന്ന് റിപ്പോർട്ടിൽ പറയുന്നു.",
+    "183 ജില്ലകളിലെ 1.7 ലക്ഷത്തിലധികം രക്തസാമ്പിളുകൾ വിശകലനം ചെയ്തതാണ് സർവേ. സെറം B12 അളവ് 203 pg/mL-ൽ താഴെയാകുന്നതിനെയാണ് കുറവായി കണക്കാക്കിയതെന്ന് ദ ഹിന്ദു റിപ്പോർട്ട് ചെയ്യുന്നു. ഗർഭിണികളിൽ 63.1 ശതമാനം, 20-59 പ്രായത്തിലെ പുരുഷന്മാരിൽ 60.4 ശതമാനം, 15-49 പ്രായത്തിലെ സ്ത്രീകളിൽ 57.4 ശതമാനം എന്നിങ്ങനെയും കുറവുണ്ടെന്ന് റിപ്പോർട്ടിലുണ്ട്.",
+    "ഇത് സർവേ കണ്ടെത്തലുകളുടെ റിപ്പോർട്ട് മാത്രമാണ്, ആരോഗ്യ നിർദേശമല്ല. ആരോഗ്യ കാര്യങ്ങളിൽ ഡോക്ടറുടെ ഉപദേശം തേടുക. ഏബിപി ലൈവ്, ഹെൽത്ത് ആൻഡ് മീ എന്നിവയും സർവേയെക്കുറിച്ച് റിപ്പോർട്ട് ചെയ്തിട്ടുണ്ട്."
+   ],
+   "srcs": [
+    [
+     "The Hindu: Two-thirds of adolescents deficient in B12",
+     "https://www.thehindu.com/sci-tech/health/two-thirds-of-adolescents-in-india-are-deficient-in-vitamin-b12-icmr-survey/article71746253.ece"
+    ],
+    [
+     "ABP Live: ICMR-NIN B12 survey (Hindi)",
+     "https://www.abplive.com/lifestyle/health/indian-council-of-medical-research-and-national-institute-of-nutrition-survey-shows-defeciency-of-b12-in-teenagers-girls-and-boys-health-3219700"
+    ],
+    [
+     "Health and Me: ICMR survey on B12 deficiency",
+     "https://www.healthandme.com/health-news/icmr-survey-finds-widespread-vitamin-b12-deficiency-among-indians-symptoms-causes-and-what-to-do-article-156566267"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgOF_rmBAEO/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 3:11 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T03:11:08+05:30"
+  },
+  {
    "id": "sea-vigil-26-kochi-anti-hijack-mock-drill-nov25",
    "cats": [
     "Kerala"

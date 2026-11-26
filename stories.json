@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "rbi-draft-stop-switch-trusted-person-bank-fraud-nov23",
+   "cats": [
+    "India"
+   ],
+   "title": "ആർബിഐയുടെ കരട്: ഡെബിറ്റുകൾ തടയാൻ \"സ്റ്റോപ്പ് സ്വിച്ച്\", വലിയ തുകയ്ക്ക് വിശ്വസ്ത വ്യക്തിയുടെ അനുമതി",
+   "en": "RBI draft proposes a stop switch for outgoing debits, customer-set limits and trusted-person approval for high-value transfers, as reported",
+   "sum": "ബാങ്ക് തട്ടിപ്പ് തടയാൻ ഔട്ട്ഗോയിങ് ഡെബിറ്റുകൾ ഉടൻ തടയുന്ന \"സ്റ്റോപ്പ് സ്വിച്ച്\", സ്വന്തം പേയ്മെന്റ് പരിധി, ട്രസ്റ്റഡ് പേഴ്സൺ അംഗീകാരം എന്നിവ ആർബിഐ കരട് നിർദേശത്തിലുണ്ടെന്ന് ബിസിനസ് സ്റ്റാൻഡേർഡും ഇന്ത്യ ടുഡേയും റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "ബാങ്ക് തട്ടിപ്പ് തടയാൻ ആർബിഐ നവംബർ 23-ന് പുറത്തിറക്കിയ കരട് നിർദേശങ്ങളിൽ \"സ്റ്റോപ്പ് സ്വിച്ച്\" സൗകര്യം ഉൾപ്പെടുന്നതായി ബിസിനസ് സ്റ്റാൻഡേർഡും ഇന്ത്യ ടുഡേയും റിപ്പോർട്ട് ചെയ്യുന്നു. തട്ടിപ്പ് സംശയിക്കുമ്പോൾ അക്കൗണ്ടിൽ നിന്നുള്ള ഉപഭോക്താവ് തുടങ്ങുന്ന എല്ലാ ഔട്ട്ഗോയിങ് ഡെബിറ്റുകളും ഉടൻ നിർത്താൻ ഇത് അവസരം നൽകും. അക്കൗണ്ടിലേക്ക് വരുന്ന പണത്തെ ഇത് ബാധിക്കില്ലെന്നും നിലവിലുള്ള റെക്കറിങ് മാൻഡേറ്റുകളും ബാങ്ക് തുടങ്ങുന്ന ഡെബിറ്റുകളും പരിധിക്ക് പുറത്താണെന്നും റിപ്പോർട്ടുകൾ പറയുന്നു.",
+    "ഇടപാട് പരിധി, ഗുണഭോക്താവ് തിരിച്ചുള്ള പരിധി, പ്രതിദിന പരിധി എന്നിവ ഉപഭോക്താവിന് സ്വയം നിശ്ചയിക്കാൻ അവസരം, വലിയ തുകയുടെ ട്രാൻസ്ഫറിന് രജിസ്റ്റർ ചെയ്ത മറ്റൊരാളുടെ അംഗീകാരം നൽകുന്ന ട്രസ്റ്റഡ് പേഴ്സൺ മെക്കാനിസം എന്നിവയും കരടിലുണ്ടെന്ന് റിപ്പോർട്ടുകളിൽ പറയുന്നു. തട്ടിപ്പ് ഇടപാടുകളിൽ ബാങ്കിന്റെ അശ്രദ്ധ എന്നതിന്റെ നിർവചനം വിപുലീകരിക്കാനും കരട് നിർദേശിക്കുന്നു.",
+    "ഇത് കരട് മാത്രമാണ്, ഇപ്പോൾ പ്രാബല്യത്തിലില്ല. 2027 ജൂലൈ 1 മുതൽ നടപ്പാക്കാനാണ് നിർദേശമെന്നും ബാങ്ക് അശ്രദ്ധയുടെ നിർവചനത്തിലെ മാറ്റം 2027 ജനുവരി 1 മുതലെന്നും ബിസിനസ് സ്റ്റാൻഡേർഡ് റിപ്പോർട്ട് ചെയ്യുന്നു. അന്തിമ നിയമം വരുമ്പോൾ വിശദാംശങ്ങൾ മാറാം."
+   ],
+   "srcs": [
+    [
+     "Business Standard: RBI lists new fraud safeguards",
+     "https://www.business-standard.com/finance/personal-finance/stop-switch-payment-limits-rbi-lists-new-safeguards-against-bank-fraud-126112400518_1.html"
+    ],
+    [
+     "India Today: RBI proposes Stop Switch, trusted person",
+     "https://www.indiatoday.in/business/story/rbi-draft-paper-new-rules-digital-fraud-stop-switch-bank-debits-trusted-person-high-value-transfers-3045864-2026-11-24"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgOKBrehSu5/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 3:46 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T03:46:21+05:30"
+  },
+  {
    "id": "udupi-karinthalam-400kv-line-test-charging-nov27",
    "cats": [
     "Kerala"

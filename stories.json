@@ -1,6 +1,44 @@
 {
  "stories": [
   {
+   "id": "apple-korea-ftc-iphone-16-ai-ads-sanction-move-nov26",
+   "cats": [
+    "Tech"
+   ],
+   "title": "ഐഫോൺ 16 AI പരസ്യം: ആപ്പിളിനെതിരെ ദക്ഷിണ കൊറിയൻ ഫെയർ ട്രേഡ് കമ്മീഷൻ നടപടിക്ക്",
+   "en": "South Korea FTC moves to sanction Apple over alleged misleading iPhone 16 AI feature ads, as reported",
+   "sum": "ഐഫോൺ 16-ലെ ആപ്പിൾ ഇന്റലിജൻസ് ഫീച്ചറുകൾ തെറ്റിദ്ധരിപ്പിക്കുന്ന രീതിയിൽ പരസ്യം ചെയ്തെന്ന ആരോപണത്തിൽ ആപ്പിളിനെതിരെ പിഴയും തിരുത്തൽ ഉത്തരവും ശുപാർശ ചെയ്ത് ദക്ഷിണ കൊറിയൻ ഫെയർ ട്രേഡ് കമ്മീഷൻ നടപടി തുടങ്ങിയെന്ന് യോൺഹാപ്, കൊറിയ ടൈംസ്, ജൂങ്ആങ് ഡെയ്‌ലി എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "ഐഫോൺ 16 സീരീസിന്റെ പരസ്യത്തിൽ ആപ്പിൾ ഇന്റലിജൻസ് ഫീച്ചറുകൾ സംബന്ധിച്ച് തെറ്റായ അല്ലെങ്കിൽ അപൂർണ്ണമായ വിവരം നൽകിയെന്ന ആരോപണത്തിൽ ദക്ഷിണ കൊറിയയിലെ ഫെയർ ട്രേഡ് കമ്മീഷൻ (FTC) അന്വേഷണം പൂർത്തിയാക്കിയെന്നും ആപ്പിളിനും ആപ്പിൾ കൊറിയയ്ക്കും പരിശോധനാ റിപ്പോർട്ട് അയച്ചെന്നും യോൺഹാപ്പും കൊറിയ ടൈംസും റിപ്പോർട്ട് ചെയ്യുന്നു.",
+    "പരസ്യം ചെയ്ത ഒമ്പത് ഫീച്ചറുകളിൽ നാലെണ്ണം പറഞ്ഞ സമയത്ത് ലഭ്യമായില്ലെന്നും, കൊറിയൻ ഭാഷയിൽ സിരിയുടെ പേഴ്സണൽ കോൺടെക്സ്റ്റ് ഫീച്ചർ എത്തിയത് 2026 ഒക്ടോബറിലാണെന്നും റിപ്പോർട്ടുകൾ പറയുന്നു. പിഴയും തിരുത്തൽ ഉത്തരവും ശുപാർശ ചെയ്തിട്ടുണ്ട്. ലംഘനം ഉണ്ടായോ എന്നും ശിക്ഷ എന്തെന്നും കമ്മീഷൻ പൂർണ്ണ സമിതി തീരുമാനിക്കും. പിഴത്തുക സംബന്ധിച്ച കണക്കുകൾ റിപ്പോർട്ടുകളിൽ വ്യത്യസ്തമായതിനാൽ ഇവിടെ നൽകുന്നില്ല."
+   ],
+   "srcs": [
+    [
+     "Yonhap: Apple ads put to FTC review",
+     "https://en.yna.co.kr/view/AEN20261126006300320"
+    ],
+    [
+     "Korea Times: Apple Korea faces potential fine",
+     "https://www.koreatimes.co.kr/business/companies/20261126/apple-korea-faces-potential-50-mil-fine-over-deceptive-iphone-ai-ads"
+    ],
+    [
+     "JoongAng Daily: FTC moves to sanction Apple",
+     "https://www.koreajoongangdaily.com/business/ftc-moves-to-sanction-apple-over-iphone-16-ai-ads/12992466"
+    ],
+    [
+     "Asia Business Daily: KFTC sanctions Apple",
+     "https://view.asiae.co.kr/en/article/economic-general/2026112609453535177"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgN6-8VBJVf/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 1:34 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T01:34:55+05:30"
+  },
+  {
    "id": "chakra-awardees-free-train-travel-all-trains-vande-bharat",
    "cats": [
     "India"

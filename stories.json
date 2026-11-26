@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "hp-omnibook-ultra-16-rtx-spark-india-launch-rs-549999-nov26",
+   "cats": [
+    "Tech"
+   ],
+   "title": "എച്ച്പി ഒമ്നിബുക്ക് അൾട്ര 16 ഇന്ത്യയിൽ: വില ₹5,49,999 മുതൽ",
+   "en": "HP launches OmniBook Ultra 16 with Nvidia RTX Spark in India from Rs 5,49,999, as reported",
+   "sum": "എച്ച്പി ഒമ്നിബുക്ക് അൾട്ര 16 ലാപ്ടോപ്പ് ഇന്ത്യയിൽ അവതരിപ്പിച്ചതായി ദ ഹിന്ദു, ഇക്കണോമിക് ടൈംസ്, ഗാഡ്ജെറ്റ്സ് 360 എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു. വില ₹5,49,999 മുതൽ.",
+   "date": "26 Nov 2026",
+   "body": [
+    "എച്ച്പി ഒമ്നിബുക്ക് അൾട്ര 16 എഐ ലാപ്ടോപ്പ് വ്യാഴാഴ്ച (നവംബർ 26) ഇന്ത്യയിൽ അവതരിപ്പിച്ചതായി ദ ഹിന്ദു, ഇക്കണോമിക് ടൈംസ്, ഗാഡ്ജെറ്റ്സ് 360 എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു. ഡെവലപ്പർമാർക്കും ക്രിയേറ്റർമാർക്കും പ്രൊഫഷണലുകൾക്കുമാണ് ഇത്.",
+    "എൻവിഡിയ ആർടിഎക്സ് സ്പാർക്ക് എൻ1എക്സ് പ്ലാറ്റ്ഫോമിലാണ് പ്രവർത്തനം. 128 ജിബി വരെ യൂണിഫൈഡ് മെമ്മറിയും 1 പെറ്റാഫ്ലോപ്പ് വരെ എഫ്പി4 എഐ പ്രകടനവും എച്ച്പി അവകാശപ്പെടുന്നു. 16 ഇഞ്ച് 3കെ ഒഎൽഇഡി ടച്ച് ഡിസ്പ്ലേ, 120 ഹെർട്സ് വരെ റിഫ്രഷ് റേറ്റ്, 99Wh ബാറ്ററി, വൈ-ഫൈ 7 എന്നിവയുമുണ്ട്.",
+    "64 ജിബി റാം, 1 ടിബി എസ്എസ്ഡി മോഡലിന് ₹5,49,999 ആണ് തുടക്കവില. 128 ജിബി മോഡലിന് ₹6,99,999 എന്ന് ഗാഡ്ജെറ്റ്സ് 360 പറയുന്നു. എച്ച്പി ഓൺലൈൻ സ്റ്റോറിൽ മാത്രമാണ് വിൽപ്പന; ഡിസംബർ 1 മുതൽ ഷിപ്പിംഗ് തുടങ്ങുമെന്നും റിപ്പോർട്ടിൽ പറയുന്നു."
+   ],
+   "srcs": [
+    [
+     "The Hindu: HP launches OmniBook Ultra 16",
+     "https://www.thehindu.com/sci-tech/technology/gadgets/hp-launches-omnibook-ultra-16-ai-laptop-for-creators/article71745619.ece"
+    ],
+    [
+     "Economic Times: OmniBook Ultra 16 in India",
+     "https://economictimes.indiatimes.com/magazines/panache/hp-launches-omnibook-ultra-16-with-nvidia-rtx-spark-in-india-at-rs-549999/articleshow/136186747.cms"
+    ],
+    [
+     "Gadgets360: OmniBook Ultra 16 price, specs",
+     "https://www.gadgets360.com/laptops/news/hp-omnibook-ultra-16-with-nvidia-rtx-spark-n1x-price-india-launch-availability-specifications-features-12380191"
+    ],
+    [
+     "Times of India: OmniBook Ultra 16 launched",
+     "https://timesofindia.indiatimes.com/technology/laptops-pc/hp-omnibook-ultra-16-with-nvidia-rtx-spark-and-up-to-128gb-ram-launched-in-india-at-rs-549999/articleshow/136186232.cms"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgNBSNShBua/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 5:10 PM IST on 26 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-26T17:10:44+05:30"
+  },
+  {
    "id": "gaganyaan-not-delayed-final-phase-isro-chief-nov24",
    "cats": [
     "India"

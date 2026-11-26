@@ -1,6 +1,42 @@
 {
  "stories": [
   {
+   "id": "ksrtc-chalo-app-scan-and-pay-upi-cashback-nov26",
+   "cats": [
+    "Kerala"
+   ],
+   "title": "കെഎസ്ആർടിസി: ചലോ ആപ്പിൽ സ്കാൻ ആൻഡ് പേ, ചലോ യുപിഐ; നവംബർ 30 വരെ 50% ക്യാഷ്ബാക്ക്",
+   "en": "KSRTC adds Scan and Pay and Chalo UPI on the Chalo app, with 50% cashback until Nov 30, as reported",
+   "sum": "കെഎസ്ആർടിസി യാത്രക്കാർക്കായി ചലോ ആപ്പിൽ സ്കാൻ ആൻഡ് പേ, ചലോ യുപിഐ സൗകര്യങ്ങൾ അവതരിപ്പിച്ചതായും നവംബർ 30 വരെ 50% ക്യാഷ്ബാക്ക് (പരമാവധി 10 രൂപ) ഉണ്ടെന്നും മനോരമ ഓൺലൈൻ, ജയ്ഹിന്ദ് ന്യൂസ്, മലയാളിവാർത്ത എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "26 Nov 2026",
+   "body": [
+    "കെഎസ്ആർടിസി യാത്രക്കാർക്ക് ഡിജിറ്റൽ പേയ്‌മെന്റ് കൂടുതൽ എളുപ്പമാക്കാൻ ചലോ ആപ്പിൽ \"സ്കാൻ ആൻഡ് പേ\", \"ചലോ യുപിഐ\" എന്നീ സൗകര്യങ്ങൾ അവതരിപ്പിച്ചതായി മനോരമ ഓൺലൈൻ, ജയ്ഹിന്ദ് ന്യൂസ്, മലയാളിവാർത്ത എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു.",
+    "ബസുകളിലെ ഇലക്ട്രോണിക് ടിക്കറ്റ് മെഷീനിൽ ലഭിക്കുന്ന ചലോ യുപിഐ ക്യുആർ കോഡ് സ്കാൻ ചെയ്ത് ആപ്പ് വഴി പണമടയ്ക്കുന്നതാണ് സ്കാൻ ആൻഡ് പേ. ചലോ ആപ്പിൽത്തന്നെ യുപിഐ പിൻ നൽകി പണമടയ്ക്കാനും കഴിയുമെന്നും ഇതിന് മറ്റ് യുപിഐ ആപ്പുകളിലേക്ക് മാറേണ്ടതില്ലെന്നും റിപ്പോർട്ടുകൾ പറയുന്നു.",
+    "പുതിയ സംവിധാനങ്ങൾ ഉപയോഗിക്കുന്നവർക്ക് നവംബർ 30 വരെ യോഗ്യമായ ഓരോ ഇടപാടിനും 50% ക്യാഷ്ബാക്ക് ലഭിക്കും. ഒരു ഇടപാടിൽ പരമാവധി 10 രൂപയാണ്, കുറഞ്ഞ ഇടപാട് തുക അഞ്ച് രൂപ. ക്യാഷ്ബാക്ക് 24 മണിക്കൂറിനുള്ളിൽ ഭീം ആപ്പിലൂടെ ലഭിക്കുമെന്നാണ് റിപ്പോർട്ട്.",
+    "നിലവിൽ ആൻഡ്രോയിഡ് ഫോണുകളിൽ മാത്രമാണ് സൗകര്യം ലഭ്യമാവുക എന്നും, ലഭ്യമല്ലെങ്കിൽ ചലോ ആപ്പ് ഏറ്റവും പുതിയ പതിപ്പിലേക്ക് അപ്ഡേറ്റ് ചെയ്യണമെന്നും മനോരമ ഓൺലൈൻ റിപ്പോർട്ട് ചെയ്യുന്നു."
+   ],
+   "srcs": [
+    [
+     "Manorama Online: KSRTC Chalo app payments",
+     "https://www.manoramaonline.com/news/latest-news/2026/11/26/ksrtc-digital-payment-chalo-app.html"
+    ],
+    [
+     "Jaihind News: KSRTC scan and pay",
+     "https://www.jaihindtv.in/news/ksrtc-chalo-app-scan-and-pay-chalo-upi-cashback-offer"
+    ],
+    [
+     "Malayalivartha: KSRTC 50% cashback",
+     "https://www.malayalivartha.com/news/kerala/365646"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgNIgqBBtCd/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 6:13 PM IST on 26 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-26T18:13:52+05:30"
+  },
+  {
    "id": "apple-hyderabad-first-store-kukatpally-opens-dec10-nov26",
    "cats": [
     "Tech"

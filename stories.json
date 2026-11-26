@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "cairo-ring-road-fuel-tanker-fire-31-killed-nov25",
+   "cats": [
+    "World"
+   ],
+   "title": "കെയ്റോയിൽ ഇന്ധന ടാങ്കർ മറിഞ്ഞ് തീപിടിത്തം: 31 പേർ മരിച്ചെന്ന് ഈജിപ്ത് ആരോഗ്യ മന്ത്രാലയം",
+   "en": "Fuel tanker overturns and ignites on Cairo Ring Road: at least 31 killed, Egypt health ministry says",
+   "sum": "ഈജിപ്ത് തലസ്ഥാനമായ കെയ്റോയിലെ റിങ് റോഡിൽ ബുധനാഴ്ച (നവംബർ 25) ഇന്ധന ടാങ്കർ മറിഞ്ഞ് തീപിടിച്ച് കുറഞ്ഞത് 31 പേർ മരിച്ചെന്ന് ആരോഗ്യ മന്ത്രാലയം. പരിക്കേറ്റവരുടെ എണ്ണം റിപ്പോർട്ടുകളിൽ വ്യത്യസ്തമാണ്.",
+   "date": "26 Nov 2026",
+   "body": [
+    "കെയ്റോയെ വലയം ചെയ്യുന്ന റിങ് റോഡിലെ അൽ-വറാഖ് മേഖലയിൽ ബുധനാഴ്ച വൈകുന്നേരം ഇന്ധനം കയറ്റിയ ടാങ്കർ മറിഞ്ഞ് തീപിടിച്ച് കുറഞ്ഞത് 31 പേർ മരിച്ചെന്ന് ഈജിപ്ത് എപി, ബിബിസി, എഎഫ്‌പി, ഫ്രാൻസ് 24 എന്നിവ റിപ്പോർട്ട് ചെയ്തു.",
+    "പരിക്കേറ്റവരുടെ എണ്ണത്തിൽ റിപ്പോർട്ടുകൾ വ്യത്യസ്തമാണ്: ഫ്രാൻസ് 24 15 പേരെന്നും (നാലു പേരുടെ നില ഗുരുതരം), ബിബിസിയും എപിയും 21 പേരെന്നും, ദി നാഷണൽ 25 പേരെന്നും പറയുന്നു.",
+    "അപകടകാരണം അധികൃതർ ഔദ്യോഗികമായി വ്യക്തമാക്കിയിട്ടില്ലെന്ന് ബിബിസി പറയുന്നു. ഒരു ഹൈ-വോൾട്ടേജ് കേബിൾ വീണതിനെത്തുടർന്ന് ഡ്രൈവർക്ക് നിയന്ത്രണം നഷ്ടമായെന്ന് അന്വേഷണവുമായി ബന്ധപ്പെട്ട സ്രോതസ്സുകളെ ഉദ്ധരിച്ച് അൽ-അഹ്റാം റിപ്പോർട്ട് ചെയ്തതായി ബിബിസി പറയുന്നു. പ്രാദേശിക പബ്ലിക് പ്രോസിക്യൂട്ടർ അന്വേഷണം ആരംഭിച്ചു."
+   ],
+   "srcs": [
+    [
+     "AP: Fuel tanker crash ignites fire on Cairo highway",
+     "https://apnews.com/article/cairo-highway-fire-ring-road-89e4cd3d3d53016c9c35440b57c5ea1e"
+    ],
+    [
+     "BBC: 31 killed as fuel tanker crashes on Cairo highway",
+     "https://www.bbc.com/news/articles/cqy7rn30v314o"
+    ],
+    [
+     "AFP: Egypt says 31 dead in Cairo fire",
+     "https://www.afp.com/en/egypt-says-31-dead-cairo-fire-after-fuel-truck-overturns"
+    ],
+    [
+     "France 24: 31 killed in Cairo fire",
+     "https://www.france24.com/en/africa/20261126-at-least-31-killed-in-cairo-fire-after-fuel-truck-overturns-on-busy-highway"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgMb5VMhwmC/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 11:44 AM IST on 26 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-26T11:44:02+05:30"
+  },
+  {
    "id": "udf-liquor-policy-sub-committee-sivadasan-nair-nov26",
    "cats": [
     "Kerala"

@@ -1,6 +1,40 @@
 {
  "stories": [
   {
+   "id": "sebi-kyc-simplified-kra-norms-from-dec-24-nov26",
+   "cats": [
+    "India"
+   ],
+   "title": "സെബിയുടെ പുതിയ കെവൈസി നിബന്ധനകൾ ഡിസംബർ 24 മുതൽ: നിക്ഷേപകർക്ക് കടലാസ് ജോലി കുറയും",
+   "en": "SEBI simplifies KYC norms for investors, new rules effective December 24, as reported",
+   "sum": "ഡീമാറ്റ്, മ്യൂച്വൽ ഫണ്ട് അക്കൗണ്ടുകൾ തുറക്കുമ്പോഴുള്ള കെവൈസി നടപടികൾ ലളിതമാക്കി സെബി നവംബർ 25-ന് സർക്കുലർ ഇറക്കിയതായി ആകാശവാണി, മിന്റ്, അപ്സ്റ്റോക്സ് എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു. പുതിയ വ്യവസ്ഥകൾ ഡിസംബർ 24 മുതൽ പ്രാബല്യത്തിൽ വരും.",
+   "date": "27 Nov 2026",
+   "body": [
+    "ഓഹരി വിപണി നിയന്ത്രണ ഏജൻസിയായ സെബി, നിക്ഷേപകരുടെ കെവൈസി (Know Your Customer) നടപടികൾ ലളിതമാക്കുന്ന സർക്കുലർ നവംബർ 25-ന് പുറത്തിറക്കിയെന്ന് ആകാശവാണിയും മിന്റും റിപ്പോർട്ട് ചെയ്യുന്നു. പുതിയ വ്യവസ്ഥകൾ ഡിസംബർ 24 മുതൽ പ്രാബല്യത്തിൽ വരും.",
+    "വരുമാന പരിധി, തൊഴിൽ, CKYC ഐഡി, ഡിജിപിൻ തുടങ്ങിയ പൊതുവായ വിവരങ്ങൾ കെവൈസി രജിസ്ട്രേഷൻ ഏജൻസി (KRA) തലത്തിൽ കേന്ദ്രീകരിക്കും. ഇതോടെ വ്യത്യസ്ത ഇടനിലക്കാരെ സമീപിക്കുമ്പോൾ ഒരേ വിവരം ആവർത്തിച്ച് നൽകേണ്ടി വരില്ല. മൊബൈൽ നമ്പർ KRA-യിൽ ആധാറുമായി ബന്ധിപ്പിച്ച് പരിശോധിച്ചതാണെങ്കിൽ ഇടനിലക്കാരുടെ പ്രത്യേക പരിശോധന നിർബന്ധമല്ല. പാനിലും ആധാറിലും പേര് മാറ്റം ഇതിനകം ഉണ്ടെങ്കിൽ പ്രത്യേക രേഖ വേണ്ട. അക്കൗണ്ട് ക്ലോസ് ചെയ്താൽ അഞ്ച് പ്രവൃത്തി ദിവസത്തിനകം KRA-യെ അറിയിക്കണം."
+   ],
+   "srcs": [
+    [
+     "Akashvani: SEBI streamlines KYC norms",
+     "https://newsonair.gov.in/sebi-streamlines-kyc-norms-to-ease-client-onboarding/"
+    ],
+    [
+     "Mint: SEBI simplifies KYC norms",
+     "https://www.livemint.com/money/personal-finance/opening-multiple-demat-or-mutual-fund-accounts-sebi-simplifies-kyc-norms-8-key-changes-for-investors-from-24-december-11795659284549.html"
+    ],
+    [
+     "Upstox: SEBI overhauls investor KYC process",
+     "https://upstox.com/news/personal-finance/financial-regulations/sebi-overhauls-investor-kyc-process-aims-to-cut-paperwork-and-simplify-onboarding/article-203997/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgN9dY9h0R2/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 1:56 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T01:56:32+05:30"
+  },
+  {
    "id": "vizhinjam-first-import-containers-reach-kottayam-icd-nov26",
    "cats": [
     "Kerala"

@@ -1,6 +1,38 @@
 {
  "stories": [
   {
+   "id": "epfo-upi-pf-withdrawal-trials-launch-date-unclear-nov25",
+   "cats": [
+    "India"
+   ],
+   "title": "യുപിഐ വഴി പിഎഫ് പിൻവലിക്കൽ: നൂറോളം പേരിൽ ട്രയൽ നടന്നതായി റിപ്പോർട്ട്, ലോഞ്ച് തീയതി വ്യക്തമല്ല",
+   "en": "EPFO is trialling UPI-based PF withdrawals on the BHIM app with about 100 users, reports say; launch date reported differently",
+   "sum": "ഇപിഎഫ്ഒ യുപിഐ വഴി പിഎഫ് പിൻവലിക്കാനുള്ള സംവിധാനത്തിന്റെ പരീക്ഷണം നടത്തുന്നതായി ഉദ്യോഗസ്ഥരെ ഉദ്ധരിച്ച് റിപ്പോർട്ടുകൾ. നൂറോളം പേരിലാണ് ട്രയൽ. ലോഞ്ച് തീയതിയെക്കുറിച്ച് റിപ്പോർട്ടുകൾ വ്യത്യസ്തമാണ്.",
+   "date": "27 Nov 2026",
+   "body": [
+    "എംപ്ലോയീസ് പ്രോവിഡന്റ് ഫണ്ട് ഓർഗനൈസേഷൻ (ഇപിഎഫ്ഒ) യുപിഐ വഴി പിഎഫ് പിൻവലിക്കാനുള്ള സംവിധാനം പരീക്ഷിക്കുന്നതായി ഉദ്യോഗസ്ഥരെ ഉദ്ധരിച്ച് ബിസിനസ് സ്റ്റാൻഡേർഡും ദി ഹിന്ദു ബിസിനസ്‌ലൈനും റിപ്പോർട്ട് ചെയ്യുന്നു (as reported). BHIM ആപ്പ് വഴിയാണ് സൗകര്യം ഒരുക്കുന്നത്.",
+    "ബിസിനസ്‌ലൈൻ നവംബർ 24-ന് റിപ്പോർട്ട് ചെയ്തത് രാജ്യത്തുടനീളം തിരഞ്ഞെടുത്ത നൂറോളം പേരിൽ അവസാനഘട്ട പരീക്ഷണം നടക്കുന്നു എന്നാണ്. നവംബർ 25-ലെ ബിസിനസ് സ്റ്റാൻഡേർഡ് റിപ്പോർട്ട് പ്രകാരം പരീക്ഷണത്തിൽ 102 ക്ലെയിമുകൾ തീർപ്പാക്കി.",
+    "ലോഞ്ച് എപ്പോഴെന്ന കാര്യത്തിൽ റിപ്പോർട്ടുകൾ വ്യത്യസ്തമാണ്: തീയതി ഇതുവരെ തീരുമാനിച്ചിട്ടില്ലെന്ന് ബിസിനസ്‌ലൈനിന്റെ ഉറവിടങ്ങൾ പറയുമ്പോൾ ഡിസംബർ അവസാനമാണ് ലക്ഷ്യമെന്ന് ബിസിനസ് സ്റ്റാൻഡേർഡ് ഉദ്യോഗസ്ഥരെ ഉദ്ധരിച്ച് പറയുന്നു. ഇത് ഔദ്യോഗികമായി പ്രഖ്യാപിച്ചിട്ടില്ല.",
+    "ഇപിഎഫ്ഒ ഇക്കാര്യത്തിൽ ഔദ്യോഗിക പ്രസ്താവന ഇറക്കിയിട്ടില്ല. സംവിധാനം നിലവിൽ വരുന്നതുവരെ നിലവിലുള്ള പിൻവലിക്കൽ നടപടിക്രമങ്ങളും വ്യവസ്ഥകളും തുടരും."
+   ],
+   "srcs": [
+    [
+     "Business Standard: EPFO mulls UPI withdrawals",
+     "https://www.business-standard.com/finance/news/epfo-mulls-minimum-upi-withdrawals-of-1-000-eyes-december-end-rollout-126112501157_1.html"
+    ],
+    [
+     "BusinessLine: EPFO tests BHIM UPI interface",
+     "https://www.thehindubusinessline.com/money-and-banking/epfo-tests-bhim-upi-interface-ahead-of-enabling-direct-pf-withdrawals/article71739043.ece"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgOQXTNBdxx/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 4:41 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T04:41:45+05:30"
+  },
+  {
    "id": "sabarimala-23000-virtual-queue-no-shows-nov25",
    "cats": [
     "Kerala"

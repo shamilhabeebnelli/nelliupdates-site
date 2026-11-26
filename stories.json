@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "sc-census-sops-caste-data-centre-one-week-nov26",
+   "cats": [
+    "India"
+   ],
+   "title": "സെൻസസിലെ ജാതി വിവരം: ഒരാഴ്ചയ്ക്കകം SOP സമർപ്പിക്കാൻ കേന്ദ്രത്തോട് സുപ്രീം കോടതി",
+   "en": "Supreme Court asks Centre to submit census SOPs, including caste-data safeguards, within a week, as reported",
+   "sum": "സെൻസസിന്റെ നടപടിക്രമങ്ങളും ജാതി വിവരം രേഖപ്പെടുത്തുന്നതിനും പരിശോധിക്കുന്നതിനുമുള്ള സുരക്ഷാ മാർഗങ്ങളും ഒരാഴ്ചയ്ക്കകം രേഖയിൽ സമർപ്പിക്കണമെന്ന് കേന്ദ്രത്തോടും സെൻസസ് ഡയറക്ടറേറ്റിനോടും സുപ്രീം കോടതി നിർദേശിച്ചതായി റിപ്പോർട്ടുകൾ.",
+   "date": "27 Nov 2026",
+   "body": [
+    "ചീഫ് ജസ്റ്റിസ് സൂര്യകാന്ത്, ജസ്റ്റിസുമാരായ ജോയ്മല്യ ബാഗ്ചി, വി. മോഹന എന്നിവരടങ്ങിയ ബെഞ്ച് വ്യാഴാഴ്ച (നവംബർ 26) കേന്ദ്രത്തോടും ഡയറക്ടറേറ്റ് ഓഫ് സെൻസസ് ഓപ്പറേഷൻസിനോടും സെൻസസ് നടത്തിപ്പിനുള്ള സ്റ്റാൻഡേർഡ് ഓപ്പറേറ്റിങ് പ്രൊസീജിയറുകൾ (SOP) ഒരാഴ്ചയ്ക്കകം രേഖയിൽ സമർപ്പിക്കാൻ നിർദേശിച്ചതായി പിടിഐ റിപ്പോർട്ട് ചെയ്യുന്നു. ജാതി വിവരം രേഖപ്പെടുത്തുന്നതിനും പരിശോധിക്കുന്നതിനുമുള്ള രീതിയും സുരക്ഷാ മാർഗങ്ങളും ഇതിൽ ഉൾപ്പെടണം.",
+    "ആകാശ് ഗോയൽ നൽകിയ ഹർജിയാണ് കോടതി പരിഗണിച്ചത്. 2026 ഓഗസ്റ്റ് 14ലെ സെൻസസ് വിജ്ഞാപനപ്രകാരമുള്ള ജാതി വിവര ശേഖരണത്തിന്റെ രീതിയും സുരക്ഷാ മാർഗങ്ങളും വെളിപ്പെടുത്തണമെന്നാണ് ഹർജിയിലെ ആവശ്യം. അഡീഷണൽ സോളിസിറ്റർ ജനറൽ ഐശ്വര്യ ഭാട്ടി കേന്ദ്രത്തിനായി ഹാജരായി, ബന്ധപ്പെട്ട SOPകൾ കോടതിയെ അറിയിക്കാമെന്ന് അറിയിച്ചതായി ടൈംസ് ഓഫ് ഇന്ത്യ റിപ്പോർട്ട് ചെയ്യുന്നു.",
+    "ഒക്ടോബർ 12ലെ ഉത്തരവിൽ കോടതി ഇതേ SOPകൾ രേഖയിൽ വയ്ക്കാൻ സോളിസിറ്റർ ജനറലിനോട് ആവശ്യപ്പെട്ടിരുന്നു. ഹർജിക്കാരന്റെ ആവശ്യങ്ങളിൽ കോടതി ഇതുവരെ തീരുമാനമെടുത്തതായി റിപ്പോർട്ടുകളിൽ പറയുന്നില്ല."
+   ],
+   "srcs": [
+    [
+     "Times of India: SC seeks census SOPs",
+     "https://timesofindia.indiatimes.com/india/sc-asks-centre-to-submit-census-sops-on-caste-data-collection-within-a-week/articleshow/136185452.cms"
+    ],
+    [
+     "Law Trend: SC seeks census SOPs",
+     "https://lawtrend.in/supreme-court-seeks-census-sops-from-centre-including-safeguards-for-caste-data-verification-within-a-week/"
+    ],
+    [
+     "Business Standard (PTI): SC seeks census SOPs",
+     "https://www.business-standard.com/india-news/sc-seeks-census-sops-from-centre-directorate-of-census-operations-126112600641_1.html"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgN3TTzhz3D/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 1:02 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T01:02:44+05:30"
+  },
+  {
    "id": "drishyam-3-hindi-netflix-ott-premiere-nov27",
    "cats": [
     "Entertainment"

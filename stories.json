@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "sslv-two-satellites-in-space-non-refundable-advance-nov26",
+   "cats": [
+    "Tech"
+   ],
+   "title": "SSLV അടുത്ത വിക്ഷേപണത്തിൽ രണ്ട് ഉപഗ്രഹം മാത്രം: മുൻകൂർ തുക തിരികെ നൽകാതിരിക്കാൻ ഇൻ-സ്പേസ്",
+   "en": "SSLV set to fly with only two satellites after customers withdrew; IN-SPACe plans non-refundable advance payments, as reported",
+   "sum": "അടുത്ത എസ്എസ്എൽവി വിക്ഷേപണത്തിൽ ഏകദേശം 60 കിലോ വരുന്ന രണ്ട് ഉപഗ്രഹങ്ങൾ മാത്രമേ ഉണ്ടാകൂ എന്ന് ഇന്ത്യ ടുഡേ, ഇന്ത്യൻ ഡിഫൻസ് ന്യൂസ് എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു. ഇനി മുൻകൂർ തുക തിരികെ നൽകില്ലെന്ന് ഇൻ-സ്പേസ് ചെയർമാൻ.",
+   "date": "26 Nov 2026",
+   "body": [
+    "ഇന്ത്യയുടെ സ്മോൾ സാറ്റലൈറ്റ് ലോഞ്ച് വെഹിക്കിൾ (എസ്എസ്എൽവി) അടുത്ത വിക്ഷേപണത്തിന് ഒരുങ്ങുമ്പോൾ ഏതാനും ഉപഭോക്താക്കൾ അവസാന ഘട്ടത്തിൽ പിന്മാറിയതോടെ രണ്ട് ഉപഗ്രഹങ്ങൾ മാത്രമേ കൊണ്ടുപോകൂ എന്ന് ഇന്ത്യ ടുഡേയും ഇന്ത്യൻ ഡിഫൻസ് ന്യൂസും റിപ്പോർട്ട് ചെയ്യുന്നു. ഇവയ്ക്ക് ഏകദേശം 60 കിലോ ഭാരമുണ്ടെന്നാണ് റിപ്പോർട്ട്.",
+    "എസ്എസ്എൽവിക്ക് 350 മുതൽ 400 കിലോ വരെ വഹിക്കാൻ കഴിയുമെന്നും ബുക്കിങ്ങിന്റെ തുടക്കത്തിൽ ഏകദേശം 500 കിലോയുടെ ആവശ്യം ഉണ്ടായിരുന്നെന്നും ഇൻ-സ്പേസ് ചെയർമാൻ പവൻ ഗോയങ്ക പറഞ്ഞതായി ഇന്ത്യൻ ഡിഫൻസ് ന്യൂസ് പറയുന്നു. ഇന്ത്യ ടുഡേ പ്രകാരം എച്ച്എഎൽ വികസിപ്പിച്ച എസ്എസ്എൽവിയുടെ ആദ്യ ഓപ്പറേഷണൽ വിക്ഷേപണം ഡിസംബറിൽ ഉണ്ടായേക്കും.",
+    "ഇതിനുപിന്നാലെ ഭാവിയിലെ വിക്ഷേപണങ്ങൾക്ക് ഉപഭോക്താക്കൾ തിരികെ ലഭിക്കാത്ത മുൻകൂർ തുക നൽകേണ്ടിവരുമെന്ന് ഗോയങ്ക അറിയിച്ചതായി റിപ്പോർട്ടുകൾ പറയുന്നു. ഇത് ഇൻ-സ്പേസിന്റെ നിർദിഷ്ട നയമാണ്, വിശദാംശങ്ങൾ അന്തിമമായിട്ടില്ല. ഉപഗ്രഹങ്ങളുടെ ഭാരത്തിന്റെ കണക്ക് റിപ്പോർട്ടുകളിൽ വ്യത്യസ്തമായി നൽകിയിട്ടുണ്ട്."
+   ],
+   "srcs": [
+    [
+     "India Today: SSLV customer withdrawals",
+     "https://www.indiatoday.in/science/story/isro-sslv-launch-two-satellites-in-space-customer-withdrawals-delay-3047267-2026-11-26"
+    ],
+    [
+     "Indian Defence News: IN-SPACe non-refundable payments",
+     "https://www.indiandefensenews.in/2026/11/in-space-to-enforce-non-refundable.html"
+    ],
+    [
+     "Andhra Jyothy (Telugu): advance payments non-refundable",
+     "https://www.andhrajyothy.com/2026/andhra-pradesh/isro-makes-satellite-launch-advance-payments-non-refundable-1579865.html"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgM5xljh-EV/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 4:05 PM IST on 26 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-26T16:05:06+05:30"
+  },
+  {
    "id": "wayanad-india-first-e-waste-free-district-declaration-nov27",
    "cats": [
     "Kerala"

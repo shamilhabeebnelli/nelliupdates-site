@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "lupex-jaxa-moon-rover-prototype-india-lander-nov26",
+   "cats": [
+    "Tech"
+   ],
+   "title": "ചന്ദ്രനിലെ വെള്ളം തേടി ജപ്പാന്റെ റോവർ: ഇന്ത്യയുമായുള്ള LUPEX ദൗത്യത്തിന്റെ പ്രോട്ടോടൈപ്പ് ജാക്സ അവതരിപ്പിച്ചു",
+   "en": "JAXA unveils prototype moon rover for LUPEX, a joint mission with India to look for water at the lunar south pole",
+   "sum": "ജാപ്പനീസ് ബഹിരാകാശ ഏജൻസി ജാക്സ ബുധനാഴ്ച (നവംബർ 25) ചന്ദ്രന്റെ ദക്ഷിണധ്രുവത്തിൽ വെള്ളം തേടുന്ന LUPEX ദൗത്യത്തിനുള്ള റോവറിന്റെ പ്രോട്ടോടൈപ്പ് അവതരിപ്പിച്ചെന്ന് എഎഫ്പി, എൻഎച്ച്കെ, മൈനിച്ചി റിപ്പോർട്ട് ചെയ്യുന്നു. ലാൻഡർ ഇന്ത്യ വികസിപ്പിക്കും.",
+   "date": "26 Nov 2026",
+   "body": [
+    "ജപ്പാൻ ബഹിരാകാശ ഏജൻസിയായ ജാക്സ (JAXA) ബുധനാഴ്ച (നവംബർ 25) ടോക്കിയോയ്ക്കടുത്ത് ചോഫുവിലെ കേന്ദ്രത്തിൽ ചന്ദ്രനിലേക്കുള്ള റോവറിന്റെ പ്രോട്ടോടൈപ്പ് അവതരിപ്പിച്ചെന്ന് എഎഫ്പി, എൻഎച്ച്കെ, മൈനിച്ചി, ജിജി പ്രസ് എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു. ചന്ദ്രോപരിതലത്തെ അനുകരിക്കുന്ന പുറത്തെ ട്രാക്കിൽ വാഹനം പരീക്ഷണ ഓട്ടം നടത്തി.",
+    "ഇന്ത്യയും ജപ്പാനും ചേർന്നുള്ള LUPEX (Lunar Polar Exploration) ദൗത്യത്തിന്റെ ഭാഗമാണിത്. ചന്ദ്രന്റെ ദക്ഷിണധ്രുവത്തിൽ വെള്ളം ഉണ്ടോ എന്ന് തിരയുകയാണ് ലക്ഷ്യം. റോവർ ജപ്പാൻ പ്രവർത്തിപ്പിക്കും. ലാൻഡർ ഇന്ത്യ വികസിപ്പിക്കുകയും നിയന്ത്രിക്കുകയും ചെയ്യുമെന്ന് എൻഎച്ച്കെ പറയുന്നു.",
+    "നിരീക്ഷണ, ഡ്രില്ലിങ് ഉപകരണങ്ങൾ വഹിക്കുന്ന റോവർ ജപ്പാന്റെ എച്ച്3 റോക്കറ്റിൽ 2028 സാമ്പത്തിക വർഷത്തിൽ വിക്ഷേപിക്കാനാണ് പദ്ധതിയെന്ന് റിപ്പോർട്ടുകൾ പറയുന്നു. ഇത് പദ്ധതിയിട്ട സമയക്രമമാണ്, മാറ്റം വരാം."
+   ],
+   "srcs": [
+    [
+     "AFP: Japan unveils rover prototype for Moon water mission",
+     "https://www.afp.com/en/japan-unveils-rover-prototype-moon-water-mission"
+    ],
+    [
+     "NHK World: Japan tests rover to scour moon for water",
+     "https://www3.nhk.or.jp/nhkworld/news/20261126de81791/"
+    ],
+    [
+     "Mainichi: Japan unveils lunar rover prototype",
+     "https://mainichi.jp/english/articles/20261126/p2a/00m/0sc/002000c"
+    ],
+    [
+     "Japan Times: JAXA moon rover",
+     "https://www.japantimes.co.jp/news/2026/11/26/japan/science-health/jaxa-moon-rover/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgM2JTMhhIk/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 3:33 PM IST on 26 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-26T15:33:24+05:30"
+  },
+  {
    "id": "tvm-heavy-rain-east-fort-91mm-thampanoor-waterlogging-nov26",
    "cats": [
     "Kerala"

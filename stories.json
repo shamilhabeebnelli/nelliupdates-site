@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "nothing-ear-note-ai-recording-earbuds-dec8-launch-nov26",
+   "cats": [
+    "Tech"
+   ],
+   "title": "സംഭാഷണം റെക്കോർഡ് ചെയ്ത് എഴുതുന്ന നത്തിങ് ഇയർ (നോട്ട്): ഡിസംബർ 8ന് ലോഞ്ച്, വില ഇനിയും പ്രഖ്യാപിച്ചിട്ടില്ല",
+   "en": "Nothing Ear (note) AI earbuds that record and transcribe: launch on Dec 8, price not yet announced",
+   "sum": "നത്തിങ്ങിന്റെ എഐ ഇയർബഡ്സ് ഇയർ (നോട്ട്) ഡിസംബർ 8ന് അവതരിപ്പിക്കുമെന്ന് ദ വെർജ്, ജിഎസ്എം അരീന എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു. ഇയർബഡ്സും കേസും റെക്കോർഡ് ചെയ്യാനും ട്രാൻസ്ക്രൈബ് ചെയ്യാനും കഴിയും. വില പ്രഖ്യാപിച്ചിട്ടില്ല.",
+   "date": "26 Nov 2026",
+   "body": [
+    "നത്തിങ് തങ്ങളുടെ പുതിയ എഐ ഇയർബഡ്സായ ഇയർ (നോട്ട്) ഡിസംബർ 8ന് അവതരിപ്പിക്കുമെന്ന് ദ വെർജ്, ജിഎസ്എം അരീന എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു. കമ്പനി പുറത്തുവിട്ട പുതിയ ചിത്രങ്ങളും ഈ റിപ്പോർട്ടുകളിലുണ്ട്.",
+    "സംഭാഷണങ്ങൾ റെക്കോർഡ് ചെയ്ത് ട്രാൻസ്ക്രൈബ് ചെയ്യാൻ കഴിയുന്ന ഉപകരണമായാണ് ഇതിനെ അവതരിപ്പിക്കുന്നതെന്ന് റിപ്പോർട്ടുകൾ പറയുന്നു. ഇയർബഡ്സിലും ചാർജിങ് കേസിലും റെക്കോർഡിങ്ങിനുള്ള നിയന്ത്രണങ്ങളുണ്ടെന്നും, ടോക്ക്, റെക്കോർഡ് ബട്ടണുകൾ ഉണ്ടെന്നും പറയുന്നു.",
+    "വില ഇതുവരെ പ്രഖ്യാപിച്ചിട്ടില്ല. സ്വകാര്യത സംരക്ഷിക്കാനുള്ള സംവിധാനങ്ങൾ ഉണ്ടെന്ന് നത്തിങ് അവകാശപ്പെടുന്നതായും റിപ്പോർട്ടുകളിൽ പറയുന്നു. കൂടുതൽ വിവരങ്ങൾ ലോഞ്ചിൽ അറിയാം."
+   ],
+   "srcs": [
+    [
+     "The Verge: Nothing Ear (note) reveal",
+     "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal"
+    ],
+    [
+     "GSMArena: new images of Ear (note)",
+     "https://www.gsmarena.com/nothing_releases_new_images_of_the_ear_note_ai_notetaker_earbuds-news-75643.php"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgMzsiUhYQz/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 3:11 PM IST on 26 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-26T15:11:59+05:30"
+  },
+  {
    "id": "hockey-india-league-season3-auction-dec7-january-nov26",
    "cats": [
     "Sports"

@@ -1,116 +1,154 @@
 {
- "fetched_at": "2026-11-26 14:32 UTC",
+ "fetched_at": "2026-11-26 15:33 UTC",
  "groups": {
   "india": [
    {
-    "title": "Delhi Police denies permission for SKM's march to Jantar Mantar on farmers' protest anniversary",
-    "description": "Police said that no application has been received and no permission has been granted for the farmers' protest march.",
-    "source": "Hindustan Times",
-    "link": "https://www.hindustantimes.com/india-news/delhi-police-denies-permission-for-skms-march-to-jantar-mantar-on-farmers-protest-anniversary-101795658949387.html",
-    "pubDate": "2026-11-26 02:31:52",
+    "title": "Amul Girl’s Unique Tribute to the Milkman of India",
+    "description": "Amul paid a heartfelt tribute to Dr. Verghese Kurien, popularly known as the ‘Milkman of India’ and the Father of the White Revolution, on his 105th birth anniversary, celebrating his extraordinary contribution to...",
+    "source": "Indian Cooperative | News Exclusicely From The Coo",
+    "link": "https://www.indiancooperative.com/co-op-news-snippets/amul-girls-unique-tribute-to-the-milkman-of-india/",
+    "pubDate": "2026-11-26 03:32:59",
+    "category": [
+     "top",
+     "politics",
+     "lifestyle"
+    ]
+   },
+   {
+    "title": "Denny’s Restores Plaque Honoring Nvidia CEO Jensen Huang",
+    "description": "Denny's reaffirmed its longstanding ties with Jensen Huang following his return as Nvidia CEO, revealing that a plaque had been restored. Denny’s Restores Plaque Honoring Nvidia CEO Jensen Huang",
+    "source": "Indiavision India News & Information",
+    "link": "https://www.indiavision.com/business/dennys-restores-plaque-honoring-nvidia-ceo-jensen-huang/610457/",
+    "pubDate": "2026-11-26 03:32:59",
+    "category": [
+     "top",
+     "lifestyle",
+     "business"
+    ]
+   },
+   {
+    "title": "Watch | Indian Army aircraft use highway as runway in first-of-its-kind exercise in Gujarat",
+    "description": "Four Indian Army aircraft land, refuel and take off from the Amritsar–Jamnagar Economic Corridor in Gujarat, demonstrating how national highways could serve as emergency landing strips.",
+    "source": "Cnbctv18",
+    "link": "https://www.cnbctv18.com/india/indian-army-aircraft-highway-landing-gujarat-amritsar-jamnagar-economic-corridor-nhai-runway-20041688.htm",
+    "pubDate": "2026-11-26 03:32:52",
+    "category": [
+     "top",
+     "business",
+     "technology"
+    ]
+   },
+   {
+    "title": "Tripura Civic Poll Campaigning Ends Amid Allegations of Violence",
+    "description": "Campaigning ends for Tripura's 16 civic bodies ahead of November 27 polling, with opposition parties alleging violence and intimidation.",
+    "source": "The Sentinel",
+    "link": "https://www.sentinelassam.com/north-east-india-news/tripura-news/tripura-civic-poll-campaigning-ends-amid-allegations-of-violence",
+    "pubDate": "2026-11-26 03:32:44",
     "category": [
      "top",
      "politics"
     ]
    },
    {
-    "title": "US proposes new tariffs on Brazilian imports; draws indignation",
-    "description": "Digital Desk | New York, Nov 26 (IANS) The United States has proposed new tariffs on Brazilian imports, including a 10 per cent tariff on finished aircraft, citing Section 301 of the Trade Act of...",
-    "source": "Bhaskarlive",
-    "link": "https://bhaskarlive.in/international/us-proposes-new-tariffs-on-brazilian-imports-draws-indignation-2170210",
-    "pubDate": "2026-11-26 02:31:44",
-    "category": [
-     "top",
-     "business"
-    ]
-   },
-   {
-    "title": "BTCUSD: Rally Makes a Sell Setup",
-    "description": "Not every recovery deserves to be bought. Bitcoin is trading around $60,870, having bounced from the $56K area, but I believe the more interesting trading opportunity could emerge at significantly higher prices. The...",
-    "source": "Tradingview",
-    "link": "https://in.tradingview.com/chart/BTCUSD/BQWTNTp2-BTCUSD-Rally-Makes-a-Sell-Setup/",
-    "pubDate": "2026-11-26 02:31:35",
-    "category": [
-     "top",
-     "business"
-    ]
-   },
-   {
-    "title": "Stock Market LIVE: GIFT Nifty signals gap-up open; Asia mkts rebound as dip-buyers return to tech",
-    "description": "Sensex Today | Stock Market LIVE Updates Thursday: The GIFT Nifty indicated a gap-up open for the Nifty50 index. Asian markets rebounded as dip-buyers saved technology stocks",
-    "source": "Business Standard",
-    "link": "https://www.business-standard.com/markets/news/stock-market-live-november-26-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126112600049_1.html",
-    "pubDate": "2026-11-26 02:31:33",
-    "category": [
-     "top",
-     "business"
-    ]
-   },
-   {
-    "title": "JD Vance says Nvidia CEO Jensen Huang is not under investigation, rules out need for Trump pardon",
-    "description": "US Vice President JD Vance says Nvidia CEO Jensen Huang is not under investigation and does not need a presidential pardon. His remarks come amid conflicting accounts over a DOJ probe and ahead of Huang's...",
-    "source": "Mint",
-    "link": "https://www.livemint.com/news/us-news/jd-vance-says-nvidia-ceo-jensen-huang-is-not-under-investigation-rules-out-need-for-trump-pardon-11795659756810.html",
-    "pubDate": "2026-11-26 02:31:27",
-    "category": [
-     "top",
-     "politics",
-     "business"
-    ]
-   },
-   {
-    "title": "3 major NH-44 Ramban-Banihal section projects to operationalise by Dec",
-    "description": "Ramban, Nov 25: In a significant boost to road connectivity along the strategically important Srinagar-Jammu National Highway (NH-44), three major infrastructure projects in the Ramban-Banihal sector are set to...",
-    "source": "Greater Kashmir",
-    "link": "https://www.greaterkashmir.com/chenab-valley/3-major-nh-44-ramban-banihal-section-projects-to-operationalise-by-dec-12841908",
-    "pubDate": "2026-11-26 02:31:27",
-    "category": [
-     "top",
-     "business"
-    ]
-   },
-   {
-    "title": "Ambedkar Memorial News | आंबेडकर स्मारकाच्या खर्चात वाढ,मुख्यमंत्री देवेंद्र फडणवीसांनी बोलावली बैठक",
-    "description": "डॉ. बाबासाहेब आंबेडकर स्मारकाच्या वाढीव खर्चाचा आणि कामाच्या सद्यस्थितीचा आढावा घेण्यासाठी मुख्यमंत्री देवेंद्र फडणवीस यांनी महत्त्वपूर्ण बैठक बोलावली आहे. स्मारक पूर्ण करण्याची कालमर्यादा निश्चित करण्यावरही चर्चा...",
-    "source": "News18marathi",
-    "link": "https://news18marathi.com/videos/maharashtra/ambedkar-memorial-news-1842092.html",
-    "pubDate": "2026-11-26 02:31:05",
-    "category": [
-     "top",
-     "lifestyle"
-    ]
-   },
-   {
-    "title": "Vermont nursing home agrees to $450,000 settlement over alleged racial harassment",
-    "description": "The settlement of $450,000 addresses allegations of racial harassment faced by Black nurses during the COVID-19 pandemic. Employees reported incidents involving racial slurs and threats from residents at Elderwood at...",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/world/us/black-nurses-left-their-homes-and-families-to-help-a-vermont-nursing-home-during-the-pandemic-four-years-after-a-federal-lawsuit-was-filed-over-alleged-racial-harassment-elderwood-agrees-to-a-450000-settlement/articleshow/136155710.cms",
-    "pubDate": "2026-11-26 02:31:00",
+    "title": "Punjab’s political old guard is back. Who should be worried?",
+    "description": "London: Every time the Shiromani Akali Dal makes a political or religious move, a familiar chorus of self-appointed Panthic guardians takes to Facebook, their preferred forum, to pronounce judgement. The platform’s...",
+    "source": "Newsdrum",
+    "link": "https://www.newsdrum.in/opinion/punjabs-political-old-guard-is-back-who-should-be-worried-12842000",
+    "pubDate": "2026-11-26 03:32:33",
     "category": [
      "top",
      "politics",
      "lifestyle"
+    ]
+   },
+   {
+    "title": "S&P flags Nvidia management risk, rating cut possible",
+    "description": "S&P Global Ratings said Nvidia's credit rating could be cut by one notch as it flagged \"rising\" management and governance risk at the chipmaker. S&P flags Nvidia management risk, rating cut possible",
+    "source": "Indiavision India News & Information",
+    "link": "https://www.indiavision.com/business/sp-flags-nvidia-management-risk-rating-cut-possible/610455/",
+    "pubDate": "2026-11-26 03:32:07",
+    "category": [
+     "top",
+     "business"
+    ]
+   },
+   {
+    "title": "A first: Indian Army microlight aircraft land, take off from on Amritsar-Jamnagar Economic Corridor",
+    "description": "In a unique demonstration of civil-military coordination, four microlight aircraft of the Indian Army successfully landed and took off from a stretch of the Amritsar-Jamnagar Economic Corridor (NH-754A) in Gujarat,...",
+    "source": "The Tribune India",
+    "link": "https://www.tribuneindia.com/news/amritsar/a-first-indian-army-microlight-aircraft-land-take-off-from-on-amritsar-jamnagar-economic-corridor",
+    "pubDate": "2026-11-26 03:32:04",
+    "category": [
+     "top",
+     "technology"
+    ]
+   },
+   {
+    "title": "Prioritise scientific research, patient safety in homoeopathy: Prez Murmu",
+    "description": "Majhi said the government has also increased stipends for postgraduate students and house surgeons in government Ayurvedic and homoeopathic medical colleges to encourage students to pursue these disciplines.",
+    "source": "The New Indian Express",
+    "link": "https://www.newindianexpress.com/states/odisha/2026/Nov/26/prioritise-scientific-research-patient-safety-in-homoeopathy-prez-murmu",
+    "pubDate": "2026-11-26 03:32:02",
+    "category": [
+     "top",
+     "science",
+     "health"
     ]
    }
   ],
   "kerala": [
    {
-    "title": "ECI asks states, UTs to rectify electoral rolls during SSR",
-    "description": "In a letter sent to chief electoral officers on Wednesday, the commission said particulars such as name, relationship details, dates of birth, mobile numbers and photographs “shall be compared with the corresponding...",
-    "source": "Hindustan Times",
-    "link": "https://www.hindustantimes.com/india-news/eci-asks-states-uts-to-rectify-electoral-rolls-during-ssr-101795635137105.html",
-    "pubDate": "2026-11-26 02:25:00",
+    "title": "How India’s festive-season advertising reflected a shift in creative thinking",
+    "description": "The festive season in India is rarely just about the date on the calendar. It is the sound of dhaak travelling through neighbourhoods in Kolkata, the first modak offered to Ganesha, homes preparing for Onam, siblings...",
+    "source": "Social Samosa",
+    "link": "https://www.socialsamosa.com/experts-speak/india-festive-season-advertising-reflected-shift-creative-thinking-12840170",
+    "pubDate": "2026-11-26 03:31:37",
     "category": [
+     "tourism",
      "top",
-     "politics"
+     "lifestyle"
     ]
    },
    {
-    "title": "The Importance of Human Relationships in an Increasingly Materialistic World",
-    "description": "The Importance of Human Relationships in an Increasingly Materialistic World In today’s fast-paced and increasingly materialistic world, the importance of human relationships can never be underestimated. Family...",
+    "title": "26/11 Mumbai Terror Attacks: Remembering the Heroes Who Sacrificed Their Lives for India",
+    "description": "26/11 Mumbai Terror Attacks: Remembering the Heroes Who Sacrificed Their Lives for India November 26, 2008, remains one of the darkest days in independent India’s history. On that evening, Mumbai, the financial...",
     "source": "Mangalorean",
-    "link": "https://www.mangalorean.com/the-importance-of-human-relationships-in-an-increasingly-materialistic-world/",
-    "pubDate": "2026-11-26 02:19:36",
+    "link": "https://www.mangalorean.com/26-11-mumbai-terror-attacks-remembering-the-heroes-who-sacrificed-their-lives-for-india/",
+    "pubDate": "2026-11-26 03:30:49",
+    "category": [
+     "crime",
+     "top"
+    ]
+   },
+   {
+    "title": "NEET paper leak case: Delhi court seeks CBI reply on bail plea of accused subject expert",
+    "description": "New Delhi: The Rouse Avenue court has sought a reply from the Central Bureau of Investigation (CBI) on the bail application filed by chemistry expert, who is an accused in the NEET UG Paper leak...",
+    "source": "Business Medical Dialogues",
+    "link": "https://medicaldialogues.in/state-news/delhi/neet-paper-leak-case-delhi-court-seeks-cbi-reply-on-bail-plea-of-accused-subject-expert-184027",
+    "pubDate": "2026-11-26 03:30:42",
+    "category": [
+     "crime",
+     "top"
+    ]
+   },
+   {
+    "title": "Kerala Lottery Result Today Live: Karunya Plus KN-651 Winning Numbers For November 26, 2026; First Prize Rs 1 Crore",
+    "description": "Kerala Lottery Result Today Live: The Karunya Plus KN-651 lottery draw for Thursday, November 26 will be held at 3 pm. Check the live updates and full list of winning numbers here.",
+    "source": "News 18",
+    "link": "https://www.news18.com/india/kerala-lottery-result-today-karunya-plus-kn-651-november-26-live-ws-e-10440541.html",
+    "pubDate": "2026-11-26 03:30:19",
+    "category": [
+     "top",
+     "business",
+     "entertainment"
+    ]
+   },
+   {
+    "title": "Political Leaders Pay Tribute to Verghese Kurien on National Milk Day",
+    "description": "India observes National Milk Day on the birth anniversary of Verghese Kurien, the visionary behind the White Revolution, honoring his massive contribution to the nation's dairy industry, farmer empowerment, and...",
+    "source": "Asianet Newsable",
+    "link": "https://newsable.asianetnews.com/india/political-leaders-pay-tribute-to-verghese-kurien-on-national-milk-day-articleshow-4gwwwem",
+    "pubDate": "2026-11-26 03:30:03",
     "category": [
      "top",
      "politics",
@@ -118,70 +156,34 @@
     ]
    },
    {
-    "title": "Delhi's poor air streak continues, AQI at 226; no immediate relief in sight",
-    "description": "The capital recorded an AQI of 226 at 7 am on Thursday, with three locations in the very poor category; Sirsa in Haryana reported the highest city-level reading nationally at 368",
-    "source": "Business Standard",
-    "link": "https://www.business-standard.com/india-news/delhi-s-poor-air-streak-continues-aqi-at-226-no-immediate-relief-in-sight-126112600052_1.html",
-    "pubDate": "2026-11-26 02:18:15",
+    "title": "Supermarket gutted in major fire in Palakkad",
+    "description": "",
+    "source": "News 18",
+    "link": "https://www.news18.com/agency-feeds/supermarket-gutted-in-major-fire-in-palakkad-10441265.html",
+    "pubDate": "2026-11-26 03:30:02",
     "category": [
-     "environment",
-     "top"
-    ]
-   },
-   {
-    "title": "Chakkakomban moves into forest, radio-collar mission to resume today",
-    "description": "The development has brought back memories of the failed attempt to capture Arikomban, then known as Odikomban in 2017, when the tusker escaped after being tranquillised.",
-    "source": "The New Indian Express",
-    "link": "https://www.newindianexpress.com/states/kerala/2026/Nov/26/chakkakomban-moves-into-forest-radio-collar-mission-to-resume-today",
-    "pubDate": "2026-11-26 02:16:45",
-    "category": [
-     "environment",
      "crime",
      "top"
     ]
    },
    {
-    "title": "Archbishop Thomas Menamparampil, Advocate of Peace and Reconciliation, Passes Away at 90",
-    "description": "Archbishop Emeritus of Guwahati, Most Rev. Thomas Menamparampil, a renowned missionary and advocate of peace and reconciliation in the Northeast, died at the age of 90 at AIG Hospitals in Hyderabad on Wednesday...",
-    "source": "The Sentinel",
-    "link": "https://www.sentinelassam.com/cities/guwahati-city/archbishop-thomas-menamparampil-advocate-of-peace-and-reconciliation-passes-away-at-90",
-    "pubDate": "2026-11-26 02:16:00",
+    "title": "Ayurveda During Winter: Food, Oil Massage and Strength-Building",
+    "description": "Within the framework of Ritucharya, the Ayurvedic science of seasonal living, winter is traditionally divided into Hemanta Ritu and Shishira Ritu, corresponding broadly to early and late winter. Classical Ayurvedic...",
+    "source": "Dharmakshethra - India Unabridged",
+    "link": "https://dharmakshethra.com/ayurveda-during-winter-food-oil-massage-and-strength-building/",
+    "pubDate": "2026-11-26 03:30:00",
     "category": [
      "top",
-     "lifestyle"
+     "health"
     ]
    },
    {
-    "title": "17-acre land in Kannur becomes district's first farm school",
-    "description": "The district’s first farm school aims to provide practical agricultural knowledge and introduce visitors to different crops and varieties of medicinal plants.",
-    "source": "The New Indian Express",
-    "link": "https://www.newindianexpress.com/states/kerala/2026/Nov/26/17-acre-land-in-kannur-becomes-districts-first-farm-school",
-    "pubDate": "2026-11-26 02:13:28",
+    "title": "Gold, silver prices on November 26: Check latest rates in Delhi, Mumbai, Kolkata, other cities",
+    "description": "Silver’s uninterrupted 2025 bull run has hit a wall, with the metal surrendering more than half of its gains as surging crude oil prices and persistent inflation fears fuel expectations of further US interest rate hikes.",
+    "source": "Business News India",
+    "link": "https://www.businesstoday.in/personal-finance/story/gold-silver-prices-on-november-26-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-569570-2026-11-26",
+    "pubDate": "2026-11-26 03:25:35",
     "category": [
-     "top",
-     "education"
-    ]
-   },
-   {
-    "title": "Who Is Deepthi Kalyani? Transgender Actress Forced To Beg, Get Into S*x Work, Now Viral For Nayanthara-Inspired Looks",
-    "description": "Deepthi Kalyani, a transgender model and actress from Kerala, has won attention for recreating Nayanthara's signature looks. From her difficult childhood and journey in the entertainment industry to her growing...",
-    "source": "Times Now News",
-    "link": "https://www.timesnownews.com/entertainment-news/south/who-is-deepthi-kalyani-transgender-actress-forced-to-beg-get-into-sex-work-now-viral-for-nayanthara-inspired-looks-article-156567354",
-    "pubDate": "2026-11-26 02:13:05",
-    "category": [
-     "top",
-     "lifestyle",
-     "entertainment"
-    ]
-   },
-   {
-    "title": "Solar policy shift: Centre proposes net metering curbs and mandatory battery storage",
-    "description": "The Centre has released draft solar rules empowering state commissions to limit profitable net metering, impose special charges from April 1, 2027, and mandate battery storage up to 20 per cent from April 1, 2028.",
-    "source": "Mathrubhumi English",
-    "link": "https://english.mathrubhumi.com/news/india/solar-policy-shift-centre-proposes-curbs-on-profitable-net-metering-and-mandatory-battery-storage-cx9wmik1",
-    "pubDate": "2026-11-26 02:10:43",
-    "category": [
-     "environment",
      "top",
      "business"
     ]
@@ -189,11 +191,41 @@
   ],
   "world": [
    {
-    "title": "Auckland CBD attack: Teen charged after video shows man stomped and robbed on Galway St",
-    "description": "Police say a teen has been charged, while two others are still on the run.",
-    "source": "Nzherald",
-    "link": "https://www.nzherald.co.nz/nz/auckland/auckland-cbd-attack-teen-charged-after-video-shows-man-stomped-and-robbed-on-galway-st/YQ2HGNKVFBGLZERJ5WS6UQEL7I/",
-    "pubDate": "2026-11-26 02:30:27",
+    "title": "US Army may fall short by nearly 500 missiles without procurement approval — news agency",
+    "description": "The US administration is trying to persuade lawmakers to include provisions in the federal government’s temporary funding bill that would allow the Pentagon to purchase weapons in the quantities it needs, he news...",
+    "source": "Russian News Agency Tass",
+    "link": "https://tass.com/world/2224995",
+    "pubDate": "2026-11-26 03:32:01",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "Iran's Araghchi slams chemical weapons claim, accuses Israel of trying to drag US into another war",
+    "description": "TEHRAN — Iranian Foreign Minister Abbas Araghchi on Wednesday accused Israel of attempting to drag the United States into another war, after its Defense Minister Israel Katz alleged that Tehran was developing...",
+    "source": "Saudi Gazette",
+    "link": "https://saudigazette.com.sa/article/666542/world/irans-araghchi-slams-chemical-weapons-claim-accuses-israel-of-trying-to-drag-us-into-another-war",
+    "pubDate": "2026-11-26 03:31:34",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "Kansas State Capitol hosts first-ever Diwali celebration embracing Festival of Lights",
+    "description": "Houston, Nov 26 (PTI) The Kansas State Capitol has hosted its first-ever Diwali celebration, celebrating India's rich cultural heritage and",
+    "source": "The Week",
+    "link": "https://www.theweek.in/wire-updates/international/2026/11/26/kansas-state-capitol-hosts-first-ever-diwali-celebration-embracing-festival-of-lights.html",
+    "pubDate": "2026-11-26 03:28:21",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "Royal Caribbean Ship Turns Back to Search for Missing Passenger in 'T-Shirt and Blue Shorts' Off Bahamas",
+    "description": "A 40-year-old man was reported overboard from Royal Caribbean's Allure of the Seas near the Bahamas. A Coast Guard alert shared merely his last-known clothing description.",
+    "source": "International Business Times",
+    "link": "https://www.ibtimes.sg/hold-royal-caribbean-ship-turns-back-search-missing-passenger-t-shirt-blue-shorts-off-96660",
+    "pubDate": "2026-11-26 03:25:51",
     "category": [
      "world"
     ]
@@ -201,111 +233,123 @@
   ],
   "sports": [
    {
-    "title": "Lithuanian FM Honors Sabah Coach Dambrauskas With Diplomatic Award In Baku (FOTO)",
-    "description": "(MENAFN - Trend News Agency) BAKU, Azerbaijan, November 26. Lithuanian Foreign Minister Ke?stutis Budrys has presented Valdas Dambrauskas, head coach of Azerbaijan's Sabah football club, with the ...",
-    "source": "Menafn",
-    "link": "https://menafn.com/1112024618/Lithuanian-FM-Honors-Sabah-Coach-Dambrauskas-With-Diplomatic-Award-In-Baku-FOTO",
-    "pubDate": "2026-11-26 02:31:17",
-    "category": [
-     "sports"
-    ]
-   },
-   {
-    "title": "IND vs NZ: KL Rahul and the lost art of leaving the ball",
-    "description": "",
-    "source": "The Indian Express",
-    "link": "https://indianexpress.com/article/sports/cricket/kl-rahul-lost-art-of-leaving-blog-india-vs-new-zealand-10978624/",
-    "pubDate": "2026-11-26 02:30:57",
+    "title": "Aaron Rodgers' Pittsburgh Steelers Exit Brings $418.3 Million Career Earnings Into Focus",
+    "description": "Aaron Rodgers trails one NFL legend with $418.3M in earnings",
+    "source": "Ndtv",
+    "link": "https://sports.ndtv.com/us/nfl/aaron-rodgers-pittsburgh-steelers-exit-brings-418-3-million-career-earnings-into-focus-as-he-closes-in-on-nfl-s-biggest-earners-12378444",
+    "pubDate": "2026-11-26 03:32:21",
     "category": [
      "sports",
-     "top"
+     "breaking"
     ]
    },
    {
-    "title": "“Don’t Think on Any Planet Mason Rudolph Is Better”: CBS Analyst Left Dumbfounded Over Mike McCarthy’s Decision to Bench Aaron Rodgers",
-    "description": "Mike McCarthy appeared to put an end to questions about Aaron Rodgers‘ place as the Pittsburgh Steelers‘ starting quarterback when he backed the veteran at his Monday press conference. Less than 48 hours later,...",
+    "title": "Tigers Land Veteran Ace in $25 M Move as Rotation Takes Shape",
+    "description": "Few starting pitchers have matched Kevin Gausman’s workload over the past six seasons. He has recorded at least 170 innings, 30 starts, and 160 strikeouts every year since 2021. Now, the Tigers are betting on that...",
     "source": "Essentially Sports",
-    "link": "https://www.essentiallysports.com/nfl-active-news-steelers-dont-think-on-any-planet-mason-rudolph-is-better-cbs-analyst-left-dumbfounded-over-mike-mccarthys-decision-to-bench-aaron-rodgers/",
-    "pubDate": "2026-11-26 02:30:00",
+    "link": "https://www.essentiallysports.com/mlb-baseball-news-tigers-land-veteran-ace-in-twenty-five-m-move-as-rotation-takes-shape/",
+    "pubDate": "2026-11-26 03:32:11",
     "category": [
      "sports"
     ]
    },
    {
-    "title": "Bruno Fernandes Scores Twice But Manchester United Held 2-2 At Sporting Lisbon",
-    "description": "Manchester United remain 19th but are on course for the Champions League play-off round.",
-    "source": "News 18",
-    "link": "https://www.news18.com/sports/football/sporting-lisbon-vs-manchester-united-match-result-2-2-champions-league-draw-bruno-fernandes-mauricio-pochettino-ws-kl-10441207.html",
-    "pubDate": "2026-11-26 02:29:55",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "100 Chances to Win 40 Burning Hot casino at the Head Chefs Casino!",
-    "description": "To possess Kiwis seeking to a fast, NZD‑ready program that have obvious added bonus legislation and trustworthy distributions, Master Jack Casino The brand new Zealand shines because of its effortless cashier, RTG...",
-    "source": "Sanjhi Soch Worldwide Newspaper",
-    "link": "https://sanjhisoch.com/100-chances-to-win-40-burning-hot-casino-at-the-head-chefs-casino/",
-    "pubDate": "2026-11-26 02:29:55",
-    "category": [
-     "sports",
-     "top",
-     "business"
-    ]
-   },
-   {
-    "title": "Bruno Fernades Scores Twice But Manchester United Held 2-2 At Sporting Lisbon",
-    "description": "Mauricio Pochettino waits for his first win as Manchester United coach after a 2-2 Champions League draw at Sporting.",
-    "source": "News 18",
-    "link": "https://www.news18.com/sports/football/sporting-lisbon-vs-manchester-united-match-result-2-2-champions-league-draw-bruno-fernandes-mauricio-pochettino-ws-l-10441207.html",
-    "pubDate": "2026-11-26 02:29:55",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "5 Buck Minimum Deposit Casinos – Enjoy 5 Put Online casino",
-    "description": "Headings from top local casino software team such NetEnt, Pragmatic Enjoy, and you will Gamble’letter Go provide high RTPs (often 96percent+) and you can interesting have. Position game are nevertheless the most...",
-    "source": "Sanjhi Soch Worldwide Newspaper",
-    "link": "https://sanjhisoch.com/5-buck-minimum-deposit-casinos-enjoy-5-put-online-casino/",
-    "pubDate": "2026-11-26 02:29:09",
-    "category": [
-     "sports",
-     "top",
-     "business"
-    ]
-   },
-   {
-    "title": "Mulder’s 7-wkt haul helps SA rout B’desh to win Test series",
-    "description": "Centurion (South Africa), Nov 25: Wiaan Mulder enjoyed career-best figures of 7-31 in 11 overs as Bangladesh was bowled out for 184 runs in the second cricket test against South Africa, losing by an innings and 219...",
+    "title": "Sooryavanshi in focus as India A eye berth in final",
+    "description": "Asia Cup Rising Stars Doha, Nov 25: The hard-hitting Vaibhav Sooryavanshi will remain in focus after his record-breaking double hundred, but India A will look for a collective show when they take on Sri Lanka in the...",
     "source": "Theshillongtimes",
-    "link": "https://theshillongtimes.com/2026/11/26/mulders-7-wkt-haul-helps-sa-rout-bdesh-to-win-test-series/",
-    "pubDate": "2026-11-26 02:27:14",
+    "link": "https://theshillongtimes.com/2026/11/26/sooryavanshi-in-focus-as-india-a-eye-berth-in-final/",
+    "pubDate": "2026-11-26 03:30:57",
     "category": [
      "sports",
      "top"
+    ]
+   },
+   {
+    "title": "Cruz Azul celebrates 100th anniversary with Real Madrid",
+    "description": "Cruz Azul's manager travelled to Spain to meet Florentino Pérez and manage a friendly match against Real Madrid for the club's hundred years",
+    "source": "News247plus - Only News That Matters",
+    "link": "https://www.news247plus.com/news/Sports/cruz-azul-celebrates-100th-anniversary-with-real-madrid-64892",
+    "pubDate": "2026-11-26 03:30:41",
+    "category": [
+     "sports",
+     "top",
+     "lifestyle"
+    ]
+   },
+   {
+    "title": "Cricket-Former CEO Sutherland says Cricket Australia did the best it could on Sandpapergate investigation",
+    "description": "Former Cricket Australia CA boss James Sutherland said on Thursday the governing body did the best it could with the information available to it during the investigation into the 2018 ball-tampering scandal The...",
+    "source": "Devdiscourse",
+    "link": "https://www.devdiscourse.com/article/international/4012324-cricket-former-ceo-sutherland-says-cricket-australia-did-the-best-it-could-on-sandpapergate-investigation",
+    "pubDate": "2026-11-26 03:29:52",
+    "category": [
+     "sports",
+     "top"
+    ]
+   },
+   {
+    "title": "Correct Blue gambling establishment comment 2026 – Ranked Continue by HolyMolyCasinos Canada",
+    "description": "Go to the Conditions & Criteria web page of the web site to learn the details regarding your legality of the web site. Genuine Blue Local casino brings a fantastic playing experience for the participants seeking take...",
+    "source": "Sanjhi Soch Worldwide Newspaper",
+    "link": "https://sanjhisoch.com/correct-blue-gambling-establishment-comment-2026-ranked-continue-by-holymolycasinos-canada/",
+    "pubDate": "2026-11-26 03:29:48",
+    "category": [
+     "sports",
+     "top",
+     "business"
+    ]
+   },
+   {
+    "title": "'You've Got To Play With The Ball That You've Got': Tom Latham Responds To Shubman Gill's Concerns Over Dukes And Kookaburra Ball Quality | Video",
+    "description": "New Zealand captain Tom Latham says cricket ball deterioration depends largely on pitch conditions, insisting players must adapt. Responding to Shubman Gill's concerns over Dukes and Kookaburra balls becoming soft...",
+    "source": "The Free Press Journal",
+    "link": "https://www.freepressjournal.in/sports/youve-got-to-play-with-the-ball-that-youve-got-tom-latham-responds-to-shubman-gills-concerns-over-dukes-and-kookaburra-ball-quality-video",
+    "pubDate": "2026-11-26 03:29:31",
+    "category": [
+     "sports",
+     "top"
+    ]
+   },
+   {
+    "title": "IFFI 2026 DAY 7",
+    "description": "The post IFFI 2026 DAY 7 appeared first on digitalgoa.",
+    "source": "Digitalgoa",
+    "link": "https://digitalgoa.com/iffi-2026-day-7/",
+    "pubDate": "2026-11-26 03:29:27",
+    "category": [
+     "sports",
+     "top",
+     "entertainment"
     ]
    }
   ],
   "entertainment": [
    {
-    "title": "‘Hey Kannamma’: Dhanashree Verma and Yashwanth Master trailer out",
-    "description": "Dhanashree Verma is set to make her acting debut in the Telugu film 'Hey Kannamma'. The film features a love story intertwined with music and dance, which are central to its plot. Dhanashree plays a dance teacher...",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/dhanashree-vermas-telugu-debut-hey-kannamma-trailer-unveiled-ahead-of-november-27-release/articleshow/136176475.cms",
-    "pubDate": "2026-11-26 02:28:19",
+    "title": "Ramayana Day 21 Box Office: Ranbir Kapoor's Film Beats Allu Arjun's Pushpa 2, Earns Rs 1,755.60 Cr Worldwide",
+    "description": "Ranbir Kapoor starrer Ramayana grossed Rs 1,755.60 crore globally by Day 21, surpassing Pushpa 2 to become the fourth-highest-grossing Indian film of all time.",
+    "source": "News 18",
+    "link": "https://www.news18.com/movies/bollywood/ramayana-day-21-box-office-ranbir-kapoors-film-beats-allu-arjuns-pushpa-2-earns-rs-1755-60-cr-worldwide-ws-l-10441222.html",
+    "pubDate": "2026-11-26 03:32:59",
     "category": [
      "entertainment"
     ]
    },
    {
-    "title": "Akshay Kumar's son Aarav channels royal elegance in black velvet",
-    "description": "Aarav Bhatia, the son of Akshay Kumar and Twinkle Khanna, attended the 300 Years of Jaipur celebration. He wore a black velvet jacket created by designer Rohit Bal that featured intricate peacock embroidery. Several...",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumars-son-aarav-bhatia-channels-royal-elegance-in-black-velvet-ananya-panday-says-she-is-obsessed-while-fans-feel-he-resembles-rajesh-khanna/articleshow/136176388.cms",
-    "pubDate": "2026-11-26 02:27:41",
+    "title": "Pooja Batra mourns father's demise: My whole world revolved around you",
+    "description": "Pooja Batra is mourning the loss of her father, who passed away on November 20. The actress went on to express her grief over his untimely demise, sharing that he passed away in a hospital before she could reach him....",
+    "source": "Prokerala",
+    "link": "https://www.prokerala.com/news/articles/a1841197.html",
+    "pubDate": "2026-11-26 03:30:01",
+    "category": [
+     "entertainment"
+    ]
+   },
+   {
+    "title": "Ramayana box office collection Day 21: Ranbir Kapoor’s film beats Pushpa 2’s lifetime earnings, nears Rs 1760 crore worldwide",
+    "description": "Ramayana continues its impressive box office run despite a weekday slowdown. Ranbir Kapoor and Yash's film is nearing Rs 1,000 crore net in India and is now the fourth-highest-grossing Indian film of all time.",
+    "source": "India",
+    "link": "https://www.india.com/entertainment/bollywood/ramayana-box-office-collection-day-21-ranbir-kapoor-film-beats-pushpa-2-lifetime-earnings-nears-rs-1760-crore-worldwide-8548022/",
+    "pubDate": "2026-11-26 03:27:38",
     "category": [
      "entertainment"
     ]
@@ -313,21 +357,11 @@
   ],
   "tech": [
    {
-    "title": "Profile: Always ready: Tang Hongbo embarks on his third space mission",
-    "description": "JIUQUAN, Nov. 25 (Xinhua) -- When Chinese astronaut Tang Hongbo came back to Earth with his Shenzhou",
+    "title": "China unveils roadmap for next-generation communication networks by 2030",
+    "description": "BEIJING, Nov. 26 (Xinhua) -- Chinese authorities on Thursday jointly released an implementation plan",
     "source": "English People's",
-    "link": "https://en.people.cn/n3/2026/1126/c90000-20523311.html",
-    "pubDate": "2026-11-26 02:31:55",
-    "category": [
-     "technology"
-    ]
-   },
-   {
-    "title": "Profile: Muhammad Zeeshan Ali, first foreign astronaut aboard China's space station",
-    "description": "JIUQUAN, Nov. 25 (Xinhua) -- Pakistani astronaut Muhammad Zeeshan Ali has become the first foreign a",
-    "source": "English People's",
-    "link": "https://en.people.cn/n3/2026/1126/c90000-20523315.html",
-    "pubDate": "2026-11-26 02:31:54",
+    "link": "https://en.people.cn/n3/2026/1126/c90000-20523335.html",
+    "pubDate": "2026-11-26 03:32:29",
     "category": [
      "technology"
     ]

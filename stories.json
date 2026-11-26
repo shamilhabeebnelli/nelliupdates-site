@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "special-parliament-sitting-lok-sabha-nov30-rajya-sabha-dec2",
+   "cats": [
+    "India"
+   ],
+   "title": "പാർലമെന്റിന്റെ പ്രത്യേക സിറ്റിങ്: ലോക്സഭ നവംബർ 30 മുതൽ, രാജ്യസഭ ഡിസംബർ 2 മുതൽ",
+   "en": "Special Parliament sitting: Lok Sabha from Nov 30, Rajya Sabha from Dec 2, as reported",
+   "sum": "പാർലമെന്റിന്റെ പ്രത്യേക സിറ്റിങ് ലോക്സഭയിൽ നവംബർ 30 മുതലും രാജ്യസഭയിൽ ഡിസംബർ 2 മുതലും ചേരുമെന്നും ഡിസംബർ 3ന് അവസാനിക്കുമെന്നും മന്ത്രി കിരൺ റിജിജു അറിയിച്ചതായി ദ ഹിന്ദു, ടൈംസ് ഓഫ് ഇന്ത്യ, മണികൺട്രോൾ എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "പാർലമെന്ററി കാര്യ മന്ത്രി കിരൺ റിജിജു വ്യാഴാഴ്ച (നവംബർ 26) എക്സിൽ അറിയിച്ചതനുസരിച്ച്, ലോക്സഭ തിങ്കളാഴ്ച (നവംബർ 30) മുതലും രാജ്യസഭ ബുധനാഴ്ച (ഡിസംബർ 2) മുതലും ചേരും. ഡിസംബർ 3 വ്യാഴാഴ്ച ഇരുസഭകളും സമാപിക്കുമെന്ന് റിപ്പോർട്ടുകൾ പറയുന്നു.",
+    "സിറ്റിങ്ങിന് മുന്നോടിയായി കേന്ദ്ര മന്ത്രിസഭ വെള്ളിയാഴ്ച (നവംബർ 27) യോഗം ചേരുമെന്നും, മണ്ഡല പുനർനിർണയവുമായി ബന്ധപ്പെട്ട ഭേദഗതി ചെയ്ത വനിതാ സംവരണ ബിൽ പരിഗണിച്ചേക്കാമെന്നും മണികൺട്രോൾ റിപ്പോർട്ട് ചെയ്യുന്നു. ഇക്കാര്യം ഔദ്യോഗികമായി സ്ഥിരീകരിച്ചിട്ടില്ല.",
+    "കേന്ദ്രത്തിന്റെ പ്രത്യേക സിറ്റിങ് തീരുമാനത്തെ കോൺഗ്രസ് ചോദ്യം ചെയ്യാൻ ഒരുങ്ങുന്നതായും മണികൺട്രോൾ പറയുന്നു."
+   ],
+   "srcs": [
+    [
+     "The Hindu: Parliament to reconvene Nov 30",
+     "https://www.thehindu.com/news/national/government-to-reconvene-parliament-from-november-30-to-december-3-kiren-rijiju/article71747089.ece"
+    ],
+    [
+     "Times of India: Special Parliament session",
+     "https://timesofindia.indiatimes.com/india/government-calls-for-special-parliament-session-from-november-30-to-december-2/articleshow/136194453.cms"
+    ],
+    [
+     "Moneycontrol: Cabinet to discuss quota Bill",
+     "https://www.moneycontrol.com/news/india/cabinet-to-discuss-delimitation-linked-women-s-quota-bill-as-congress-prepares-to-challenge-centre-s-special-parliament-sitting-14089845.html"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgN034VhXH0/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 12:41 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T00:41:31+05:30"
+  },
+  {
    "id": "thrissur-2008-murder-case-main-accused-deported-uae-nov26",
    "cats": [
     "Kerala"

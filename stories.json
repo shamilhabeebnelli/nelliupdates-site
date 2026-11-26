@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "vivo-x500-series-launched-india-price-nov26",
+   "cats": [
+    "Tech"
+   ],
+   "title": "വിവോ X500, X500 Pro, X500 Pro Max ഇന്ത്യയിൽ അവതരിപ്പിച്ചു; വില 1,19,999 രൂപ മുതൽ",
+   "en": "Vivo X500, X500 Pro and X500 Pro Max launched in India, prices start at Rs 1,19,999",
+   "sum": "വിവോ X500 സീരീസിലെ മൂന്ന് ഫോണുകൾ ഇന്ത്യയിൽ അവതരിപ്പിച്ചു. X500ന് 1,19,999 രൂപ, X500 Proയ്ക്ക് 1,49,999 രൂപ, Pro Maxന് 1,64,999 രൂപ മുതൽ. വിൽപ്പന ഡിസംബർ 3 മുതൽ.",
+   "date": "26 Nov 2026",
+   "body": [
+    "വിവോ X500, X500 Pro, X500 Pro Max എന്നീ മൂന്ന് ഫോണുകൾ വ്യാഴാഴ്ച (നവംബർ 26) ഇന്ത്യയിൽ അവതരിപ്പിച്ചതായി ഗാഡ്ജെറ്റ്സ്360, ബീബോം എന്നിവ റിപ്പോർട്ട് ചെയ്തു.",
+    "12GB റാം, 256GB സ്റ്റോറേജ് വേരിയന്റിന് X500ന് 1,19,999 രൂപയും X500 Proയ്ക്ക് 1,49,999 രൂപയുമാണ് വില. Pro Maxന് 256GB മോഡലിന് 1,64,999 രൂപയും 512GB മോഡലിന് 1,79,999 രൂപയുമാണ് ഗാഡ്ജെറ്റ്സ്360 റിപ്പോർട്ട് ചെയ്യുന്ന വില.",
+    "പ്രോ മോഡലുകളിൽ മീഡിയടെക് ഡൈമൻസിറ്റി 9600 പ്രോ ചിപ്‌സെറ്റാണെന്നും ഡിസംബർ 3 മുതൽ ആമസോൺ, ഫ്ലിപ്കാർട്ട്, വിവോ ഇന്ത്യ ഓൺലൈൻ സ്റ്റോർ എന്നിവ വഴി വിൽപ്പന ആരംഭിക്കുമെന്നും റിപ്പോർട്ടുകൾ പറയുന്നു."
+   ],
+   "srcs": [
+    [
+     "Gadgets360: Vivo X500 series launched in India, price",
+     "https://www.gadgets360.com/mobiles/news/vivo-x500-pro-max-price-in-india-launch-sale-date-specifications-features-12379543"
+    ],
+    [
+     "Beebom: Vivo X500 Pro and Pro Max launched in India",
+     "https://gadgets.beebom.com/news/vivo-x500-pro-x500-pro-max-launched-in-india-key-specs-price-sale-date"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgMrEQjBB4W/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 1:56 PM IST on 26 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-26T13:56:38+05:30"
+  },
+  {
    "id": "flipkart-ceo-kalyan-krishnamurthy-to-step-down-nov25",
    "cats": [
     "India"

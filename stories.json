@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "iit-delhi-extreem-testing-facility-sonipat-drdo-nov26",
+   "cats": [
+    "Tech"
+   ],
+   "title": "ഐഐടി ഡൽഹി: 2,500°C ചൂടിൽ മെറ്റീരിയൽ പരിശോധനയ്ക്ക് ഡിആർഡിഒ പിന്തുണയോടെ പുതിയ കേന്ദ്രം",
+   "en": "IIT Delhi to set up DRDO-backed ExTrEEM facility at Sonipat to test materials at 2,500C and above, as reported",
+   "sum": "ഐഐടി ഡൽഹി സോനിപത് ക്യാമ്പസിൽ 2,500°C ന് മുകളിൽ വരെ മെറ്റീരിയലുകൾ പരിശോധിക്കാവുന്ന ഡിആർഡിഒ പിന്തുണയുള്ള ExTrEEM കേന്ദ്രം സ്ഥാപിക്കുമെന്ന് ഐഐടി ഡൽഹി, ദ ട്രിബ്യൂൺ എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "26 Nov 2026",
+   "body": [
+    "ഐഐടി ഡൽഹി സോനിപത് ക്യാമ്പസിൽ എക്സ്ട്രീം ടെമ്പറേച്ചർ ആൻഡ് എൻവയോൺമെന്റൽ ഇവാല്യുവേഷൻ ഓഫ് മെറ്റീരിയൽസ് (ExTrEEM) എന്ന പേരിൽ മെറ്റീരിയൽ പരിശോധനാ കേന്ദ്രം സ്ഥാപിക്കുമെന്ന് ഐഐടി ഡൽഹിയുടെ പത്രക്കുറിപ്പും ദ ട്രിബ്യൂൺ, തെഹൽക എന്നിവയും റിപ്പോർട്ട് ചെയ്യുന്നു. 2,500°C ഉം അതിന് മുകളിലുമുള്ള താപനിലയിൽ വരെ പരിശോധിക്കാവുന്ന ദേശീയ സൗകര്യമാണ് ഉദ്ദേശിക്കുന്നത്.",
+    "ഡിആർഡിഒയുടെ പിന്തുണയോടെയാണ് പദ്ധതി. ഡിആർഡിഒ ഡയറക്ടർ ജനറൽ (ടെക്നോളജി മാനേജ്മെന്റ്) ഡോ. അനുപം ശർമ്മ ഐഐടി ഡൽഹിക്ക് അനുമതി കത്ത് കൈമാറിയതായി ഐഐടി ഡൽഹി അറിയിച്ചു. ഡിഎംഎസ്ഇ വകുപ്പിലെ പ്രൊഫ. ജയന്ത് ജെയിനും മറ്റ് എട്ട് അധ്യാപകരുമാണ് പദ്ധതി നയിക്കുന്നത്.",
+    "ഉയർന്ന താപനില യൂണിവേഴ്സൽ ടെസ്റ്റിംഗ് മെഷീനുകൾ, എക്സ്-റേ ഡിഫ്രാക്ഷൻ, സ്കാനിംഗ് ഇലക്ട്രോൺ മൈക്രോസ്കോപ്പി, ഘർഷണ-ഇറോഷൻ പരിശോധനാ സംവിധാനങ്ങൾ എന്നിവ ഉണ്ടാകുമെന്ന് റിപ്പോർട്ടുകൾ പറയുന്നു. പ്രവർത്തനം തുടങ്ങുന്ന തീയതിയോ ഉപയോഗ നിരക്കോ ഐഐടി ഡൽഹി ഇതുവരെ പ്രഖ്യാപിച്ചിട്ടില്ലെന്ന് ദ ട്രിബ്യൂൺ പറയുന്നു."
+   ],
+   "srcs": [
+    [
+     "IIT Delhi press release: ExTrEEM facility",
+     "https://home.iitd.ac.in/show.php?id=498&in_sections=Press"
+    ],
+    [
+     "The Tribune: IIT-D materials testing facility",
+     "https://www.tribuneindia.com/news/delhi/iit-d-to-set-up-specialised-materials-testing-facility-on-sonepat-campus/"
+    ],
+    [
+     "Tehelka: facility above 2,500C",
+     "https://tehelka.com/iit-delhi-to-set-up-facility-to-test-materials-at-temperatures-exceeding-2500c/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgNGKD-BrDy/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 5:53 PM IST on 26 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-26T17:53:18+05:30"
+  },
+  {
    "id": "ayodhya-janakpur-saryu-kamala-express-booking-opens-nov26",
    "cats": [
     "India"

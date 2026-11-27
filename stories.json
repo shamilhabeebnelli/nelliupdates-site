@@ -1,6 +1,36 @@
 {
  "stories": [
   {
+   "id": "swiggy-instamart-340-layoffs-restructuring-nov27",
+   "cats": [
+    "Tech"
+   ],
+   "title": "സ്വിഗ്ഗി ഇൻസ്റ്റാമാർട്ട് ഏകദേശം 340 ജീവനക്കാരെ പിരിച്ചുവിടുന്നെന്ന് റിപ്പോർട്ട്",
+   "en": "Swiggy Instamart reportedly lays off about 340 employees in restructuring, as reported by Economic Times and Moneycontrol",
+   "sum": "പുനഃസംഘടനയുടെ ഭാഗമായി സ്വിഗ്ഗിയുടെ ക്വിക്ക് കൊമേഴ്സ് വിഭാഗമായ ഇൻസ്റ്റാമാർട്ട് ഏകദേശം 340 ജീവനക്കാരെ പിരിച്ചുവിടുന്നെന്ന് ഇക്കണോമിക് ടൈംസും മണികൺട്രോളും റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "സ്വിഗ്ഗിയുടെ ക്വിക്ക് കൊമേഴ്സ് വിഭാഗമായ ഇൻസ്റ്റാമാർട്ട് പുനഃസംഘടനയുടെ ഭാഗമായി ഏകദേശം 340 ജീവനക്കാരെ പിരിച്ചുവിടുന്നെന്ന് ഇക്കണോമിക് ടൈംസും മണികൺട്രോളും വിവരമറിയാവുന്നവരെ ഉദ്ധരിച്ച് റിപ്പോർട്ട് ചെയ്യുന്നു.",
+    "കോർപ്പറേറ്റ്, സപ്പോർട്ട് വിഭാഗങ്ങളിലുള്ളവരെയാണ് കൂടുതലും ബാധിച്ചതെന്ന് മണികൺട്രോൾ പറയുന്നു. ബ്ലിങ്കിറ്റ്, ആമസോൺ നൗ എന്നിവരിൽ നിന്നുള്ള മത്സരം ശക്തമായിരിക്കെയാണ് നടപടിയെന്ന് ഇക്കണോമിക് ടൈംസ് റിപ്പോർട്ട് ചെയ്യുന്നു. ചോദ്യങ്ങൾക്ക് സ്വിഗ്ഗി മറുപടി നൽകിയിട്ടില്ലെന്നും റിപ്പോർട്ടിൽ പറയുന്നു."
+   ],
+   "srcs": [
+    [
+     "Economic Times: Instamart to lay off 340",
+     "https://economictimes.indiatimes.com/tech/technology/swiggy-instamart-to-lay-off-340-employees-as-part-of-restructuring-exercise/articleshow/136211121.cms"
+    ],
+    [
+     "Moneycontrol: Instamart to let go of 340",
+     "https://www.moneycontrol.com/news/business/startup/swiggy-s-quick-commerce-arm-instamart-to-let-go-of-340-employees-amid-ai-push-14090143.html"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgPEU-eBFXO/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 12:15 PM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T12:15:40+05:30"
+  },
+  {
    "id": "kerala-operation-soundarya-fake-cosmetics-seized-nov26",
    "cats": [
     "Kerala"

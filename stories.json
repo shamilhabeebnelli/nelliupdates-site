@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "delhi-lakhpati-bitiya-aadhaar-mandatory-notification-nov27",
+   "cats": [
+    "India"
+   ],
+   "title": "ഡൽഹി ലഖ്പതി ബിടിയ പദ്ധതി: ആനുകൂല്യത്തിന് ആധാർ വിവരങ്ങൾ വേണമെന്ന് വിജ്ഞാപനം",
+   "en": "Delhi Lakhpati Bitiya scheme: Aadhaar details or authentication needed for benefits, notification says; alternative documents allowed while Aadhaar is pending, as reported",
+   "sum": "ഡൽഹി സർക്കാരിന്റെ ലഖ്പതി ബിടിയ പദ്ധതിയുടെ ആനുകൂല്യത്തിന് ആധാർ വിവരങ്ങളോ ആധാർ ഓതന്റിക്കേഷനോ വേണമെന്ന് വനിതാ ശിശുവികസന വകുപ്പിന്റെ വിജ്ഞാപനത്തിൽ പറയുന്നതായി ഇടി, ടൈംസ് ഓഫ് ഇന്ത്യ, എബിപി ലൈവ് എന്നിവ റിപ്പോർട്ട് ചെയ്തു.",
+   "date": "28 Nov 2026",
+   "body": [
+    "ഡൽഹി സർക്കാരിന്റെ ലഖ്പതി ബിടിയ പദ്ധതിയിൽ സാമ്പത്തിക സഹായം ലഭിക്കാൻ ആധാർ വിവരങ്ങൾ നൽകുകയോ ആധാർ ഓതന്റിക്കേഷന് വിധേയമാകുകയോ വേണമെന്ന് വനിതാ ശിശുവികസന വകുപ്പ് പുറപ്പെടുവിച്ച വിജ്ഞാപനത്തിൽ പറയുന്നതായി ഇക്കണോമിക് ടൈംസ്, ടൈംസ് ഓഫ് ഇന്ത്യ, എബിപി ലൈവ് എന്നിവ റിപ്പോർട്ട് ചെയ്തു. നവംബർ 19-ലെ വിജ്ഞാപനമാണിതെന്ന് ഇക്കണോമിക് ടൈംസ് പറയുന്നു.",
+    "ആധാർ നമ്പർ ഇല്ലാത്തവരോ എൻറോൾ ചെയ്യാത്തവരോ ആദ്യം എൻറോൾമെന്റിന് അപേക്ഷിക്കണം. ആധാർ നമ്പറിനായി കാത്തിരിക്കുന്നവർക്ക് എൻറോൾമെന്റ് സ്ലിപ്പിനൊപ്പം ബാങ്ക് പാസ്ബുക്ക്, പാൻ, പാസ്പോർട്ട്, റേഷൻ കാർഡ് തുടങ്ങിയ ബദൽ തിരിച്ചറിയൽ രേഖകളിൽ ഒന്ന് നൽകാമെന്നും ജില്ലാ ഓഫീസുകൾ എൻറോൾമെന്റിന് സഹായിക്കുമെന്നും റിപ്പോർട്ടിൽ പറയുന്നു.",
+    "പദ്ധതിയിൽ ജനനസമയത്ത് 11,000 രൂപ നൽകുമെന്ന് ഇക്കണോമിക് ടൈംസും ടൈംസ് ഓഫ് ഇന്ത്യയും റിപ്പോർട്ട് ചെയ്യുന്നു. തുടർന്നുള്ള ഘട്ടങ്ങളിലെ തുകകൾ റിപ്പോർട്ടുകളിൽ വ്യത്യാസമുള്ളതിനാൽ ഇവിടെ ഉൾപ്പെടുത്തിയിട്ടില്ല. ഇക്കണോമിക് ടൈംസ് റിപ്പോർട്ട് പിടിഐയെ ആധാരമാക്കിയുള്ളതാണ്. ചിത്രം പ്രതിനിധാന സ്വഭാവമുള്ള ഫയൽ ചിത്രമാണ്."
+   ],
+   "srcs": [
+    [
+     "Economic Times: Delhi makes Aadhaar mandatory for Lakhpati Bitiya",
+     "https://economictimes.indiatimes.com/news/india/delhi-makes-aadhaar-mandatory-for-lakhpati-bitiya-scheme-beneficiaries/articleshow/136227142.cms"
+    ],
+    [
+     "Times of India: Aadhaar mandatory for Delhi Lakhpati Bitiya Yojana",
+     "https://timesofindia.indiatimes.com/city/delhi/aadhaar-mandatory-for-delhi-lakhpati-bitiya-yojana-benefits/articleshow/136229924.cms"
+    ],
+    [
+     "ABP Live (Hindi): Lakhpati Bitiya Aadhaar mandatory",
+     "https://www.abplive.com/utility-news/lakhpati-bitiya-yojana-aadhaar-mandatory-for-daughters-in-delhi-government-to-provide-61000-3219531"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgQvs4VhS5N/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 3:53 AM IST on 28 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-28T03:53:54+05:30"
+  },
+  {
    "id": "bay-of-bengal-low-pressure-likely-nov30-imd-andaman-rain",
    "cats": [
     "India"

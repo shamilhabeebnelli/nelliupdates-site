@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "maharashtra-proposed-ban-drinking-water-car-wash-nov26",
+   "cats": [
+    "India"
+   ],
+   "title": "കാർ കഴുകാൻ കുടിവെള്ളം വിലക്കാൻ മഹാരാഷ്ട്ര സർക്കാർ നീക്കം; ഉത്തരവ് ഇറങ്ങിയിട്ടില്ല",
+   "en": "Maharashtra moves to bar drinking water for washing cars; formal order not yet seen, outlets differ on whether it is a proposal or decision",
+   "sum": "കാർ കഴുകാൻ കുടിവെള്ളം ഉപയോഗിക്കുന്നത് തടയാൻ മഹാരാഷ്ട്ര സർക്കാർ നീങ്ങുന്നതായി റവന്യൂ മന്ത്രി ചന്ദ്രശേഖർ ബാവൻകുളെ പറഞ്ഞതായി ടൈംസ് ഓഫ് ഇന്ത്യയും ഫ്രീ പ്രസ് ജേണലും റിപ്പോർട്ട് ചെയ്യുന്നു. ഔദ്യോഗിക ഉത്തരവ് കണ്ടിട്ടില്ല; ഫ്രീ പ്രസ് ജേണൽ ഇത് പ്രാരംഭ ഘട്ടത്തിലെ നിർദേശം എന്ന് പറയുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "വരൾച്ചാ ഉപസമിതി അധ്യക്ഷനായ റവന്യൂ മന്ത്രി ചന്ദ്രശേഖർ ബാവൻകുളെ വ്യാഴാഴ്ച (നവംബർ 26) പറഞ്ഞതായി, കാറുകൾ കഴുകാൻ കുടിവെള്ളം ഉപയോഗിക്കാൻ അനുവദിക്കില്ലെന്ന് ടൈംസ് ഓഫ് ഇന്ത്യ റിപ്പോർട്ട് ചെയ്യുന്നു. ഇത് നടപ്പാക്കാൻ ചീഫ് സെക്രട്ടറിക്ക് നിർദേശം നൽകിയെന്നും, ഹൗസിംഗ് സൊസൈറ്റികൾക്കും വാണിജ്യ കാർ വാഷ് കേന്ദ്രങ്ങൾക്കും ബാധകമാകുമെന്നും ആ റിപ്പോർട്ടിൽ പറയുന്നു.",
+    "എന്നാൽ ഫ്രീ പ്രസ് ജേണൽ ഇതിനെ പ്രാരംഭ ഘട്ടത്തിലുള്ള നിർദേശമായാണ് വിശേഷിപ്പിക്കുന്നത്. ചീഫ് സെക്രട്ടറിയുമായി യോഗം ചേർന്ന് നിയന്ത്രണങ്ങൾ അന്തിമമാക്കിയ ശേഷം മുനിസിപ്പൽ കോർപ്പറേഷനുകൾക്ക് മാർഗനിർദേശം (SOP) നൽകുമെന്നും അവർ പറയുന്നു. ഔദ്യോഗിക ഉത്തരവ് ഞങ്ങൾ കണ്ടിട്ടില്ല, അതിനാൽ ഇത് നിലവിലുള്ള നിയമമായി കണക്കാക്കരുത്.",
+    "സംസ്ഥാനത്തെ പ്രധാന അണക്കെട്ടുകളിലെ സംഭരണം 67.89 ശതമാനമാണെന്നും കഴിഞ്ഞ വർഷം ഇതേ സമയം 95.30 ശതമാനമായിരുന്നുവെന്നും സർക്കാർ കണക്കുകൾ ഉദ്ധരിച്ച് ഫ്രീ പ്രസ് ജേണൽ റിപ്പോർട്ട് ചെയ്യുന്നു."
+   ],
+   "srcs": [
+    [
+     "Times of India: Maharashtra bans drinking water for cars",
+     "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-bans-use-of-drinking-water-to-wash-cars/articleshow/136200231.cms"
+    ],
+    [
+     "Free Press Journal: Govt plans ban on drinking water",
+     "https://www.freepressjournal.in/mumbai/maharashtra-water-crisis-govt-plans-ban-on-use-of-drinking-water-for-vehicle-washing"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgO1yJGByU9/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 10:08 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T10:08:34+05:30"
+  },
+  {
    "id": "noida-call-centre-cyber-slavery-164-foreigners-rescued-nov26",
    "cats": [
     "India"

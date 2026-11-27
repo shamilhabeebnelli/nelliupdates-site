@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "ukraine-proposes-black-sea-ceasefire-grain-exports-nov27",
+   "cats": [
+    "World"
+   ],
+   "title": "കരിങ്കടലിൽ വെടിനിർത്തൽ നിർദേശവുമായി യുക്രെയ്ൻ; റഷ്യയുടെ മറുപടിക്കായി കാത്തിരിപ്പ്",
+   "en": "Ukraine proposes a Black Sea ceasefire to protect grain exports and awaits Russia's response, as reported; no deal yet",
+   "sum": "ധാന്യ കയറ്റുമതി സംരക്ഷിക്കാൻ കരിങ്കടലിൽ വെടിനിർത്തൽ നിർദേശിച്ചുവെന്ന് യുക്രെയ്ൻ വിദേശകാര്യ മന്ത്രി ആന്ദ്രി സിബിഹ പറഞ്ഞതായി അൽ ജസീറ, ആർഎഫ്ഇ/ആർഎൽ എന്നിവ റിപ്പോർട്ട് ചെയ്തു. റഷ്യയുടെ മറുപടി കാത്തിരിക്കുകയാണ്; കരാർ ആയിട്ടില്ല.",
+   "date": "28 Nov 2026",
+   "body": [
+    "നവംബർ 27 വെള്ളിയാഴ്ച കീവിൽ നടന്ന \"ഫുഡ് ഫ്രം യുക്രെയ്ൻ\" സമ്മേളനത്തിൽ വിദേശകാര്യ മന്ത്രി ആന്ദ്രി സിബിഹ, കരിങ്കടലിൽ വെടിനിർത്തൽ നിർദേശം മുന്നോട്ടുവച്ചതായി അൽ ജസീറ, ആർഎഫ്ഇ/ആർഎൽ എന്നിവ റിപ്പോർട്ട് ചെയ്തു. കാർഷികോൽപ്പന്നങ്ങളുടെ തടസ്സമില്ലാത്ത കയറ്റുമതിയും കപ്പൽ ഗതാഗത സ്വാതന്ത്ര്യവും ഉറപ്പാക്കുകയാണ് ലക്ഷ്യമെന്ന് അദ്ദേഹം പറഞ്ഞു.",
+    "\"എല്ലാ നിർദേശങ്ങളും റഷ്യയെ അറിയിച്ചു; ഇപ്പോൾ മറുപടിക്കായി കാത്തിരിക്കുന്നു\" എന്ന് സിബിഹ പറഞ്ഞതായി റിപ്പോർട്ടുകൾ പറയുന്നു. എണ്ണ കടത്തും ഇതിൽ ഉൾപ്പെടുത്തണമെന്ന് മോസ്കോ ആവശ്യപ്പെട്ടിട്ടുണ്ടെന്നും, അത് വിശാലമായ ഊർജ വെടിനിർത്തൽ ചർച്ചയുടെ ഭാഗമാണെന്ന് കീവ് നിലപാടെടുത്തുവെന്നും റിപ്പോർട്ടുകളിലുണ്ട്.",
+    "ഇത് നിർദേശം മാത്രമാണ്; ഇതുവരെ കരാർ ആയിട്ടില്ല. രണ്ട് റിപ്പോർട്ടുകളും സിബിഹയുടെ പ്രസ്താവനയെ ആശ്രയിച്ചുള്ളവയാണ്. ചിത്രം പ്രതിനിധാന സ്വഭാവമുള്ള ഫയൽ ചിത്രമാണ്."
+   ],
+   "srcs": [
+    [
+     "Al Jazeera: Kyiv offers Black Sea ceasefire",
+     "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy"
+    ],
+    [
+     "RFE/RL: Ukraine offers Black Sea cease-fire",
+     "https://www.rferl.org/a/ukraine-black-sea-ceasefire-russia-shipping-exports/33907217.html"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgQ4gQ1BLa6/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 5:10 AM IST on 28 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-28T05:10:50+05:30"
+  },
+  {
    "id": "tn-lankan-tamils-monthly-aid-raised-1800-camps-nov26",
    "cats": [
     "India"

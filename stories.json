@@ -1,6 +1,36 @@
 {
  "stories": [
   {
+   "id": "kerala-operation-soundarya-fake-cosmetics-seized-nov26",
+   "cats": [
+    "Kerala"
+   ],
+   "title": "ഓപ്പറേഷൻ സൗന്ദര്യ: സംസ്ഥാനത്ത് ഏകദേശം ₹2 ലക്ഷത്തിന്റെ വ്യാജ സൗന്ദര്യവർധക ഉൽപ്പന്നങ്ങൾ പിടികൂടിയെന്ന് റിപ്പോർട്ട്",
+   "en": "Kerala Operation Soundarya: fake cosmetics worth about Rs 2 lakh reportedly seized statewide, as reported by Onmanorama and Suprabhaatham",
+   "sum": "വ്യാജ സൗന്ദര്യവർധക വസ്തുക്കൾ തടയാൻ ഡ്രഗ്സ് കൺട്രോൾ വകുപ്പും പൊലീസും നടത്തുന്ന ഓപ്പറേഷൻ സൗന്ദര്യയിൽ ഏകദേശം ₹2 ലക്ഷത്തിന്റെ ഉൽപ്പന്നങ്ങൾ പിടികൂടിയെന്ന് ഓൺമനോരമ റിപ്പോർട്ട് ചെയ്യുന്നു. അന്തിമ കണക്ക് ക്രോഡീകരിക്കുകയാണ്.",
+   "date": "27 Nov 2026",
+   "body": [
+    "വ്യാജ സൗന്ദര്യവർധക വസ്തുക്കളുടെ വിൽപ്പന തടയാൻ ഡ്രഗ്സ് കൺട്രോൾ വകുപ്പ് പൊലീസുമായി ചേർന്ന് സംസ്ഥാന വ്യാപകമായി നടത്തുന്ന ഓപ്പറേഷൻ സൗന്ദര്യയിൽ ഏകദേശം രണ്ട് ലക്ഷം രൂപയുടെ ഉൽപ്പന്നങ്ങൾ പിടിച്ചെടുത്തെന്ന് ഓൺമനോരമ റിപ്പോർട്ട് ചെയ്യുന്നു. തിരുവനന്തപുരത്തും കണ്ണൂരും ഉൾപ്പെടെ പരിശോധന നടന്നു; അന്തിമ കണക്ക് വകുപ്പ് ഇപ്പോഴും ക്രോഡീകരിക്കുകയാണ്.",
+    "കണ്ണൂരിൽ ഏകദേശം 65,000 രൂപ വിപണിമൂല്യമുള്ള, നിർമാതാവിന്റെ വിവരങ്ങൾ കൃത്യമായി രേഖപ്പെടുത്താത്ത ലിപ്സ്റ്റിക്കും ലിപ് ബാമും ഡ്രഗ്സ് കൺട്രോൾ ഇന്റലിജൻസ് വിഭാഗം പിടിച്ചെടുത്തെന്നും സാമ്പിളുകൾ ലാബ് പരിശോധനയ്ക്ക് അയച്ചെന്നും സുപ്രഭാതം റിപ്പോർട്ട് ചെയ്യുന്നു."
+   ],
+   "srcs": [
+    [
+     "Onmanorama: Operation Soundarya seizures",
+     "https://www.onmanorama.com/news/kerala/2026/11/27/fake-beauty-products-seized-statewide-crackdown.html"
+    ],
+    [
+     "Suprabhaatham: Kannur Operation Soundarya raid",
+     "https://www.suprabhaatham.com/details/477570/operation-soundarya-in-kannur-fake-lipsticks-and-lip-balms-worth-65000-seized"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgPDHOnhkTf/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 12:05 PM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T12:05:03+05:30"
+  },
+  {
    "id": "poland-eastern-border-no-fly-zone-plan-nov26",
    "cats": [
     "World"

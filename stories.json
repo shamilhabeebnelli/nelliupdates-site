@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "congo-ebola-12000-confirmed-cases-5904-deaths-nov26",
+   "cats": [
+    "World"
+   ],
+   "title": "കോംഗോയിൽ എബോള സ്ഥിരീകരിച്ച കേസുകൾ 12,000 കടന്നു; മരണം 5,904 എന്ന് ആരോഗ്യ മന്ത്രാലയ കണക്ക്",
+   "en": "Congo Ebola outbreak passes 12,000 confirmed cases, 5,904 deaths per health ministry data, as reported by AP and Reuters",
+   "sum": "കോംഗോയിലെ എബോള ബാധയിൽ 12,021 കേസുകൾ സ്ഥിരീകരിച്ചെന്നും 5,904 പേർ മരിച്ചെന്നും വ്യാഴാഴ്ച (നവംബർ 26) ആരോഗ്യ മന്ത്രാലയ കണക്കുകൾ ഉദ്ധരിച്ച് എപിയും റോയിട്ടേഴ്സും (സിബിസി വഴി) റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "കോംഗോ ജനാധിപത്യ റിപ്പബ്ലിക്കിലെ എബോള ബാധയിൽ സ്ഥിരീകരിച്ച കേസുകൾ 12,000 കടന്നതായി വ്യാഴാഴ്ച (നവംബർ 26) പുറത്തുവന്ന സർക്കാർ കണക്കുകൾ ഉദ്ധരിച്ച് എപിയും റോയിട്ടേഴ്സും റിപ്പോർട്ട് ചെയ്യുന്നു. ആകെ 12,021 കേസുകളും 5,904 മരണങ്ങളുമാണ് കണക്കുകളിൽ ഉള്ളത്.",
+    "ബണ്ടിബുഗ്യോ എന്ന അപൂർവ വകഭേദമാണ് രോഗത്തിന് കാരണമെന്നും ഇതിന് അംഗീകൃത ചികിത്സയോ വാക്സിനോ ഇല്ലെന്നും റോയിട്ടേഴ്സ് (സിബിസി വഴി) റിപ്പോർട്ട് ചെയ്യുന്നു. മേയ് മധ്യത്തിൽ ഇതൂരി പ്രവിശ്യയിൽ ആരംഭിച്ച ബാധ രാജ്യത്തെ 26 പ്രവിശ്യകളിൽ എട്ടിലേക്ക് പടർന്നു.",
+    "വിമതരും സൈന്യവും തമ്മിലുള്ള പോരാട്ടം രോഗം നിയന്ത്രിക്കാനുള്ള ശ്രമങ്ങളെ തടസ്സപ്പെടുത്തുന്നുവെന്നും ചില രക്ഷാപ്രവർത്തകർക്ക് സ്ഥലം വിടേണ്ടിവന്നുവെന്നും എപി റിപ്പോർട്ട് ചെയ്യുന്നു. കണക്കുകൾ ആരോഗ്യ മന്ത്രാലയത്തിന്റേതാണ്."
+   ],
+   "srcs": [
+    [
+     "AP: Ebola in Congo reaches 12,000 cases",
+     "https://apnews.com/article/congo-ebola-outbreak-violence-0a0bc05d76d3278319472178a16be14b"
+    ],
+    [
+     "CBC (Reuters): Ebola cases reach 12,000 in Congo",
+     "https://www.cbc.ca/news/health/ebola-tops-12000-cases-outbreak-9.7436970"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgO4NSZBKQ6/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 10:29 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T10:29:46+05:30"
+  },
+  {
    "id": "cbi-tells-delhi-hc-discharge-order-excise-case-flawed-nov26",
    "cats": [
     "India"

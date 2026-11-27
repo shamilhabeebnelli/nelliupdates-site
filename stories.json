@@ -1,6 +1,36 @@
 {
  "stories": [
   {
+   "id": "estonia-closes-road-border-crossings-russia-dec1-nov26",
+   "cats": [
+    "World"
+   ],
+   "title": "റഷ്യയുമായുള്ള എല്ലാ റോഡ് അതിർത്തി ക്രോസിങ്ങുകളും ഡിസംബർ 1 മുതൽ അടയ്ക്കാൻ എസ്റ്റോണിയ സർക്കാർ തീരുമാനിച്ചെന്ന് റിപ്പോർട്ട്",
+   "en": "Estonia government decides to suspend road border crossings with Russia from Dec 1, as reported by Estonian Police and Border Guard Board and CNA",
+   "sum": "നാർവ, കോയിദുല, ലുഹാമാ, സാറ്റ്സെ എന്നീ നാല് റോഡ് ക്രോസിങ്ങുകൾ ഡിസംബർ 1 മുതൽ അടയ്ക്കാൻ എസ്റ്റോണിയൻ സർക്കാർ തീരുമാനിച്ചതായി എസ്റ്റോണിയൻ പോലീസ് ആൻഡ് ബോർഡർ ഗാർഡ് ബോർഡും സിഎൻഎയും റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "നാർവ, കോയിദുല, ലുഹാമാ, സാറ്റ്സെ എന്നീ റോഡ് അതിർത്തി ക്രോസിങ്ങുകൾ 2026 ഡിസംബർ 1 മുതൽ അടയ്ക്കാൻ എസ്റ്റോണിയൻ സർക്കാർ നവംബർ 26-ന് തീരുമാനിച്ചതായി എസ്റ്റോണിയൻ പോലീസ് ആൻഡ് ബോർഡർ ഗാർഡ് ബോർഡ് അറിയിച്ചു. സുരക്ഷാ സാഹചര്യമാണ് കാരണമായി പറയുന്നത്.",
+    "തീരുമാനത്തിന് നിശ്ചിത കാലാവധിയില്ലെന്നും ആറ് മാസത്തിന് ശേഷം തുടരണോ മാറ്റണോ അവസാനിപ്പിക്കണോ എന്ന് സർക്കാർ വീണ്ടും വിലയിരുത്തുമെന്നും ബോർഡ് പറയുന്നു. സിഎൻഎയും ഈ നീക്കം റിപ്പോർട്ട് ചെയ്യുന്നു."
+   ],
+   "srcs": [
+    [
+     "Estonian Police and Border Guard Board: road crossings to close",
+     "https://www.politsei.ee/et/uudised/eesti-venemaa-vahelised-maanteepiiripunktid-suletakse-1-detsembrist-13972"
+    ],
+    [
+     "CNA: Estonia closes border crossings with Russia",
+     "https://www.channelnewsasia.com/world/estonia-closes-border-crossings-russia-warns-hybrid-warfare-saatse-boot-6579286"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgPHNIfhr6C/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 12:40 PM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T12:40:49+05:30"
+  },
+  {
    "id": "argentina-central-bank-money-printing-ban-nov26",
    "cats": [
     "World"

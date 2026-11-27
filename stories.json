@@ -1,6 +1,40 @@
 {
  "stories": [
   {
+   "id": "rbi-final-debit-hold-directions-money-mule-accounts-nov27",
+   "cats": [
+    "India"
+   ],
+   "title": "സംശയാസ്പദ അക്കൗണ്ടുകളിൽ ഡെബിറ്റ് ഹോൾഡ് ഇടുന്നതിന് ആർബിഐ അന്തിമ നിർദേശങ്ങൾ പുറത്തിറക്കി",
+   "en": "RBI issues final directions on debit holds for suspected money mule accounts; effective July 1, 2027 or earlier (Nov 27, as reported)",
+   "sum": "മണി മ്യൂൾ, സൈബർ തട്ടിപ്പ് എന്നിവയുമായി ബന്ധപ്പെട്ട സംശയാസ്പദ ഇടപാടുകളിലും അക്കൗണ്ടുകളിലും ബാങ്കുകൾക്ക് ഡെബിറ്റ് ഹോൾഡ് ഇടാനുള്ള സമയബന്ധിത നടപടിക്രമം ആർബിഐ നവംബർ 27-ന് അന്തിമമാക്കി. 2027 ജൂലൈ 1 മുതൽ പ്രാബല്യത്തിൽ.",
+   "date": "28 Nov 2026",
+   "body": [
+    "മണി മ്യൂൾ അക്കൗണ്ടുകൾ, സൈബർ തട്ടിപ്പുകൾ എന്നിവയുമായി ബന്ധപ്പെട്ട സംശയാസ്പദ ഇടപാടുകളിലും അക്കൗണ്ടുകളിലും ബാങ്കുകൾക്ക് ഡെബിറ്റ് ഹോൾഡ് ഇടാനുള്ള ഏകീകൃതവും സമയബന്ധിതവുമായ നടപടിക്രമം (SOP) ഉൾപ്പെടുന്ന കെവൈസി ഭേദഗതി നിർദേശങ്ങൾ റിസർവ് ബാങ്ക് ഓഫ് ഇന്ത്യ നവംബർ 27-ന് അന്തിമമായി പുറത്തിറക്കി. ആർബിഐ പത്രക്കുറിപ്പും ബിസിനസ് സ്റ്റാൻഡേർഡും മണികൺട്രോളും ഇക്കാര്യം റിപ്പോർട്ട് ചെയ്തു. സെപ്റ്റംബർ 11-ന് പുറത്തിറക്കിയ കരട് നിർദേശങ്ങളുടെ തുടർച്ചയാണിത്.",
+    "നിർദേശങ്ങൾ 2027 ജൂലൈ 1 മുതൽ, അല്ലെങ്കിൽ അതിനു മുമ്പ് ഒരു ബാങ്ക് തീരുമാനിക്കുന്ന തീയതി മുതൽ പ്രാബല്യത്തിൽ വരും. ബാങ്ക് അങ്ങേയറ്റം സംശയാസ്പദം എന്ന് വിലയിരുത്തുമ്പോഴാണ് ഹോൾഡ് ഇടാവുന്നത്; എല്ലാ സംശയാസ്പദ ഇടപാടുകളും അങ്ങനെയാകണമെന്നില്ലെന്നും നിർദേശങ്ങളിൽ പറയുന്നു. ഹോൾഡ് ഇട്ടാൽ ഉപഭോക്താവിനെ ഉടൻ അറിയിക്കണം. വിശദീകരണം നൽകാൻ ഉപഭോക്താവിന് ഏഴ് ദിവസം ലഭിക്കുമെന്നും ബാങ്ക് ഏഴ് ദിവസത്തിനകം തീരുമാനമെടുക്കണമെന്നും മണികൺട്രോൾ റിപ്പോർട്ട് ചെയ്യുന്നു (ഈ വിശദാംശം ആ റിപ്പോർട്ടിൽ നിന്ന് മാത്രമാണ്)."
+   ],
+   "srcs": [
+    [
+     "RBI press release: final KYC amendment directions, money mule accounts",
+     "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=64062"
+    ],
+    [
+     "Business Standard: RBI allows banks to place debit holds",
+     "https://www.business-standard.com/finance/news/rbi-allows-banks-to-place-debit-holds-on-highly-suspicious-transactions-126112701414_1.html"
+    ],
+    [
+     "Moneycontrol: RBI sets time-bound process for suspicious accounts",
+     "https://www.moneycontrol.com/banking/rbi-sets-time-bound-process-for-banks-to-freeze-suspicious-accounts-mandates-7-day-response-window-for-customers-article-14090552.html"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgQkUmvB_Nv/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 2:14 AM IST on 28 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-28T02:14:28+05:30"
+  },
+  {
    "id": "kerala-smart-dairy-farm-youth-bindhu-krishna-nov27",
    "cats": [
     "Kerala"

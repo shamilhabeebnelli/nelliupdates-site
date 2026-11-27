@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "poland-eastern-border-no-fly-zone-plan-nov26",
+   "cats": [
+    "World"
+   ],
+   "title": "കിഴക്കൻ അതിർത്തിയിൽ നോ-ഫ്ലൈ സോൺ ഏർപ്പെടുത്താൻ പോളണ്ട് പദ്ധതിയിടുന്നെന്ന് റിപ്പോർട്ട്",
+   "en": "Poland reportedly plans a no-fly zone along its eastern border; NATO idea of shooting down missiles over Ukraine has no decision, as reported by Reuters and Bloomberg",
+   "sum": "കിഴക്കൻ അതിർത്തിയിൽ നോ-ഫ്ലൈ സോൺ ഏർപ്പെടുത്താൻ പോളണ്ട് പദ്ധതിയിടുന്നെന്ന് ഉപ പ്രതിരോധ മന്ത്രി പറഞ്ഞതായി റോയിട്ടേഴ്സ് റിപ്പോർട്ട് ചെയ്യുന്നു. ഇത് പദ്ധതി മാത്രമാണ്; വലുപ്പവും സ്ഥലങ്ങളും പ്രഖ്യാപിച്ചിട്ടില്ല.",
+   "date": "27 Nov 2026",
+   "body": [
+    "നവംബർ 20-ന് മൂന്ന് റഷ്യൻ ക്രൂയിസ് മിസൈലുകൾ പോളണ്ടിൽ തകർന്നു വീണതിനെ തുടർന്ന്, കിഴക്കൻ അതിർത്തിയിൽ നോ-ഫ്ലൈ സോൺ ഏർപ്പെടുത്താൻ പോളണ്ട് പദ്ധതിയിടുന്നെന്ന് ഉപ പ്രതിരോധ മന്ത്രി സെസറി ടോംചിക് പറഞ്ഞതായി റോയിട്ടേഴ്സിനെ ഉദ്ധരിച്ച് ഡിഫൻസ് പോസ്റ്റ് റിപ്പോർട്ട് ചെയ്യുന്നു.",
+    "ഇതിനുള്ള കരട് ചട്ടങ്ങൾ സർക്കാരിന്റെ നിയമനിർമാണ പട്ടികയിലുണ്ടെന്നും മേഖലയുടെ വലുപ്പവും സ്ഥലവും ഇതുവരെ പ്രസിദ്ധീകരിച്ചിട്ടില്ലെന്നും റിപ്പോർട്ട് പറയുന്നു. ഇത് നടപ്പായിട്ടില്ല.",
+    "ഉക്രെയ്നിലേക്ക് പോകുന്ന റഷ്യൻ മിസൈലുകൾ വെടിവച്ചിടാൻ നാറ്റോ പരിശോധിക്കണമെന്ന് നവംബർ 23-ന് പോളണ്ട് ആവശ്യപ്പെട്ടെന്ന് ബ്ലൂംബർഗിനെ ഉദ്ധരിച്ച് സ്ട്രെയ്റ്റ്സ് ടൈംസ് റിപ്പോർട്ട് ചെയ്യുന്നു. ഇതിൽ തീരുമാനമായിട്ടില്ല."
+   ],
+   "srcs": [
+    [
+     "Straits Times: Poland asks NATO (Bloomberg)",
+     "https://www.straitstimes.com/world/europe/poland-asks-nato-to-shoot-down-russian-missiles-over-ukraine"
+    ],
+    [
+     "The Defence Post: Poland no-fly zone (Reuters)",
+     "https://thedefensepost.com/2026/11/26/poland-no-fly-zone/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgPB57PBHFI/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 11:54 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T11:54:29+05:30"
+  },
+  {
    "id": "nvidia-halts-server-shipments-southeast-asia-nov26",
    "cats": [
     "Tech"

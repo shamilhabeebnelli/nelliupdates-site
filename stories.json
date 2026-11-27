@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "putin-g20-miami-attendance-undecided-nov26",
+   "cats": [
+    "World"
+   ],
+   "title": "പുടിൻ മയാമി G20 ഉച്ചകോടിക്ക് വരുമോ? വരണമെങ്കിൽ വരാമെന്ന് ട്രംപ്, തീരുമാനമായില്ലെന്ന് ക്രെംലിൻ",
+   "en": "Trump says Putin can attend Miami G20 if he wants; Kremlin says no decision yet, as reported by Reuters (via RTE), AFP (via Arab News) and APA",
+   "sum": "ഡിസംബർ 14-15-ന് ഫ്ലോറിഡയിലെ മയാമിയിൽ നടക്കുന്ന G20 ഉച്ചകോടിക്ക് പുടിൻ എത്തുമോ എന്ന് അറിയില്ലെന്നും എത്താൻ ആഗ്രഹിച്ചാൽ വരാമെന്നും ട്രംപ് വ്യാഴാഴ്ച പറഞ്ഞതായും, തീരുമാനമായിട്ടില്ലെന്ന് ക്രെംലിൻ അറിയിച്ചതായും റിപ്പോർട്ടുകൾ.",
+   "date": "27 Nov 2026",
+   "body": [
+    "ഡിസംബർ 14-15-ന് ഫ്ലോറിഡയിലെ മയാമിയിൽ നടക്കുന്ന G20 ഉച്ചകോടിക്ക് റഷ്യൻ പ്രസിഡന്റ് വ്ളാഡിമിർ പുടിൻ എത്തുമോ എന്ന് അറിയില്ലെന്ന് യുഎസ് പ്രസിഡന്റ് ഡോണൾഡ് ട്രംപ് വ്യാഴാഴ്ച (നവംബർ 26) മാധ്യമപ്രവർത്തകരോട് പറഞ്ഞതായി റോയിട്ടേഴ്സും എഎഫ്പിയും റിപ്പോർട്ട് ചെയ്യുന്നു. \"അദ്ദേഹത്തിന് വരണമെങ്കിൽ തീർച്ചയായും വരാം\" എന്നാണ് ട്രംപ് പറഞ്ഞത്.",
+    "പുടിന്റെ പങ്കാളിത്തത്തെക്കുറിച്ച് ഇതുവരെ തീരുമാനമായിട്ടില്ലെന്ന് ക്രെംലിൻ വക്താവ് ദിമിത്രി പെസ്കോവ് അറിയിച്ചതായി എപിഎ റിപ്പോർട്ട് ചെയ്യുന്നു. ഡിസംബർ 10-ന് നടക്കുന്ന വാർഷിക വാർത്താസമ്മേളനത്തിൽ പുടിൻ തീരുമാനം അറിയിച്ചേക്കാമെന്ന് റോയിട്ടേഴ്സും എഎഫ്പിയും പറയുന്നു.",
+    "പുടിൻ ഉച്ചകോടിക്ക് എത്തുന്നതിനെ യൂറോപ്പിലെ പരമ്പരാഗത സഖ്യകക്ഷികൾ ചോദ്യം ചെയ്തിട്ടുണ്ടെന്നും, ചർച്ചകൾക്ക് സെലെൻസ്കിയെയും ക്ഷണിക്കണമെന്ന് ജർമൻ ചാൻസലർ ഫ്രീഡ്രിഷ് മെർട്സ് ആവശ്യപ്പെട്ടിട്ടുണ്ടെന്നും റിപ്പോർട്ടുകൾ പറയുന്നു. ഷി ജിൻപിംഗ് പങ്കെടുക്കുമെന്നാണ് പ്രതീക്ഷ."
+   ],
+   "srcs": [
+    [
+     "Reuters via RTE: Trump says Putin can attend G20",
+     "https://www.rte.ie/news/2026/1127/1600845-trump-putin/"
+    ],
+    [
+     "AFP via Arab News: Trump on Putin at G20",
+     "https://www.arabnews.com/world/trump-says-i-dont-know-if-putin-will-attend-g20-in-miami-3014208"
+    ],
+    [
+     "APA: Kremlin yet to decide on G20 attendance",
+     "https://en.apa.az/cis-countries/kremlin-putin-has-yet-to-decide-whether-to-attend-g20-summit-in-miami-538691"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgO-Sd8hyoB/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 11:22 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T11:22:52+05:30"
+  },
+  {
    "id": "saudi-jazan-refinery-attack-worker-killed-nov26",
    "cats": [
     "World"

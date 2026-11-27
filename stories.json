@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "bhargavastra-counter-drone-pokaran-trials-sdal-nov26",
+   "cats": [
+    "India"
+   ],
+   "title": "ഭാർഗവാസ്ത്ര ഡ്രോൺ വിരുദ്ധ സംവിധാനത്തിന്റെ പൊഖ്റാൻ വികസന പരീക്ഷണങ്ങൾ പൂർത്തിയായെന്ന് നിർമാതാക്കളായ എസ്ഡിഎഎൽ",
+   "en": "Solar Defence says Bhargavastra counter-swarm drone system completed in-house development trials at Pokaran, as reported",
+   "sum": "സോളാർ ഡിഫൻസ് ആൻഡ് എയ്റോസ്പേസ് ലിമിറ്റഡ് (എസ്ഡിഎഎൽ) വികസിപ്പിച്ച ഭാർഗവാസ്ത്ര ഡ്രോൺ വിരുദ്ധ സംവിധാനം പൊഖ്റാനിൽ നവംബർ 20 മുതൽ 24 വരെ വികസന പരീക്ഷണങ്ങൾ പൂർത്തിയാക്കിയെന്ന് കമ്പനിയെ ഉദ്ധരിച്ച് എൻഡിടിവിയും ഇന്ത്യ ടുഡേയും റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "സോളാർ ഡിഫൻസ് ആൻഡ് എയ്റോസ്പേസ് ലിമിറ്റഡ് (എസ്ഡിഎഎൽ) രൂപകൽപ്പന ചെയ്ത ഭാർഗവാസ്ത്ര എന്ന വാഹനത്തിൽ ഘടിപ്പിച്ച ഡ്രോൺ വിരുദ്ധ സംവിധാനം, രാജസ്ഥാനിലെ പൊഖ്റാൻ ഫീൽഡ് ഫയറിങ് റേഞ്ചിൽ നവംബർ 20 മുതൽ 24 വരെ നടത്തിയ ആഭ്യന്തര വികസന പരീക്ഷണങ്ങൾ വിജയകരമായി പൂർത്തിയാക്കിയതായി കമ്പനി അറിയിച്ചെന്ന് എൻഡിടിവിയും ഇന്ത്യ ടുഡേയും റിപ്പോർട്ട് ചെയ്യുന്നു.",
+    "റോക്കറ്റുകളും മൈക്രോ മിസൈലുകളും ഉപയോഗിക്കുന്ന രണ്ട് തട്ടുകളുള്ള സംവിധാനമാണിതെന്നും ഒരേസമയം ഒന്നിലധികം ഡ്രോണുകളെ നേരിടാൻ ശേഷിയുണ്ടെന്നും കമ്പനി അവകാശപ്പെടുന്നു.",
+    "ഇത് കമ്പനി പ്രഖ്യാപിച്ച വികസന പരീക്ഷണ പൂർത്തീകരണമാണ്. സൈന്യത്തിന്റെ തുടർ പരിശോധനകളെക്കുറിച്ചുള്ള വിവരങ്ങൾ ഇവിടെ സ്ഥിരീകരിച്ചിട്ടില്ല."
+   ],
+   "srcs": [
+    [
+     "NDTV: Bhargavastra passes Pokaran trials",
+     "https://www.ndtv.com/india-news/indigenous-drone-swarm-killer-bhargavastra-passes-pokaran-trials-12382388"
+    ],
+    [
+     "India Today: Bhargavastra clears trials at Pokhran",
+     "https://www.indiatoday.in/india/story/bhargavastra-counter-drone-system-completes-pokaran-development-trials-air-defence-3047615-2026-11-26"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgOlATIBG7I/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 7:41 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T07:41:58+05:30"
+  },
+  {
    "id": "kolkata-250-km-ring-road-14000-crore-gadkari-nov26",
    "cats": [
     "India"

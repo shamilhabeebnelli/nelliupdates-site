@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "kuwait-drone-strike-two-italians-killed-iran-denies-nov26",
+   "cats": [
+    "World"
+   ],
+   "title": "കുവൈത്തിൽ ഡ്രോൺ ആക്രമണം: രണ്ട് ഇറ്റലിക്കാർ മരിച്ചു; ഇറാൻ ആരോപണം നിഷേധിച്ചു",
+   "en": "Two Italians killed in drone strike on Kuwait site; Iran denies responsibility, as reported",
+   "sum": "കുവൈത്തിലെ ഒരു പ്രധാന കേന്ദ്രത്തിൽ ഡ്രോൺ ആക്രമണത്തിൽ രണ്ട് ഇറ്റാലിയൻ സാങ്കേതിക വിദഗ്ധർ മരിച്ചതായി ബിബിസിയും എബിസി ന്യൂസും അൽ ജസീറയും റിപ്പോർട്ട് ചെയ്യുന്നു. ആക്രമണം ഇറാന്റേതാണെന്ന് കുവൈത്തും ഇറ്റലിയും പറയുന്നു; ഇറാൻ നിഷേധിച്ചു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "കുവൈത്തിലെ ഒരു \"പ്രധാന കേന്ദ്ര\"ത്തിലുണ്ടായ ഡ്രോൺ ആക്രമണത്തിൽ രണ്ട് ഇറ്റാലിയൻ പൗരന്മാർ മരിച്ചതായി ബിബിസി, എബിസി ന്യൂസ്, അൽ ജസീറ എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു. ജർമൻ പ്രതിരോധ കമ്പനിയായ റൈൻമെറ്റാലിലെ ടെക്നീഷ്യൻമാരാണ് മരിച്ചതെന്ന് ഇറ്റലിയുടെ വിദേശകാര്യ മന്ത്രാലയം പറഞ്ഞു.",
+    "ഇറാനിൽ നിന്നുള്ള ഡ്രോണുകൾ കണ്ടെത്തി തടയാൻ ശ്രമിക്കുന്നതിനിടെ വീണ അവശിഷ്ടങ്ങൾ തട്ടിയാണ് അപകടമെന്ന് കുവൈത്ത് പ്രതിരോധ മന്ത്രാലയം അറിയിച്ചു. ഒരു കുവൈത്ത് പൗരനും ഒരു പാകിസ്ഥാൻ പൗരനും പരിക്കേറ്റു.",
+    "ആക്രമണത്തിന് പിന്നിൽ ഇറാനാണെന്ന് കുവൈത്തും ഇറ്റലിയും ആരോപിക്കുന്നു. എന്നാൽ തങ്ങളുടെ സൈന്യം ഒരു ആക്രമണ നടപടിയും നടത്തിയിട്ടില്ലെന്ന് ഇറാൻ സായുധസേന വക്താവ് പറഞ്ഞു. സംഭവം സംശയാസ്പദമാണെന്ന് ഇറാൻ വിദേശകാര്യ മന്ത്രി അബ്ബാസ് അരാഗ്ചി പ്രതികരിച്ചതായി അൽ ജസീറ റിപ്പോർട്ട് ചെയ്യുന്നു."
+   ],
+   "srcs": [
+    [
+     "BBC: Two Italians killed in strike in Kuwait",
+     "https://www.bbc.com/news/articles/c39w9y5dx4k5o"
+    ],
+    [
+     "ABC News (Australia): Italians killed in Kuwait",
+     "https://www.abc.net.au/news/2026-11-27/italians-killed-in-kuwait-attack-iran/107432996"
+    ],
+    [
+     "Al Jazeera: Two Italians killed in Kuwait",
+     "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgOvIMUh--s/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 9:10 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T09:10:25+05:30"
+  },
+  {
    "id": "gst-registration-cancellation-online-dec1-notification-nov26",
    "cats": [
     "India"

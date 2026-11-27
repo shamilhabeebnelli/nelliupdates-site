@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "india-a-out-rising-stars-asia-cup-sl-a-win-semi-nov26",
+   "cats": [
+    "Sports"
+   ],
+   "title": "റൈസിങ് സ്റ്റാർസ് ഏഷ്യ കപ്പ് സെമിയിൽ ഇന്ത്യ എയെ 8 വിക്കറ്റിന് തോൽപ്പിച്ച് ശ്രീലങ്ക എ ഫൈനലിൽ, റിപ്പോർട്ടുകൾ",
+   "en": "Sri Lanka A beat India A by 8 wickets in Asia Cup Rising Stars semi-final in Doha, India A out, as reported",
+   "sum": "ദോഹയിൽ നടന്ന റൈസിങ് സ്റ്റാർസ് ഏഷ്യ കപ്പ് ആദ്യ സെമിയിൽ ഇന്ത്യ എയുടെ 317/8 ശ്രീലങ്ക എ 41.3 ഓവറിൽ രണ്ട് വിക്കറ്റ് നഷ്ടത്തിൽ മറികടന്നെന്ന് എച്ച്ടി (പിടിഐ), ആകാശവാണി, ക്രിക്സെർച്ച് എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "ദോഹയിൽ വ്യാഴാഴ്ച നടന്ന റൈസിങ് സ്റ്റാർസ് ഏഷ്യ കപ്പിന്റെ ആദ്യ സെമിഫൈനലിൽ ശ്രീലങ്ക എ എട്ട് വിക്കറ്റിന് ഇന്ത്യ എയെ തോൽപ്പിച്ച് ഫൈനലിലെത്തിയെന്ന് ഹിന്ദുസ്ഥാൻ ടൈംസ് (പിടിഐ), ആകാശവാണി, ക്രിക്സെർച്ച് എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു. ഇതോടെ ഇന്ത്യ എ ടൂർണമെന്റിൽ നിന്ന് പുറത്തായി.",
+    "ആദ്യം ബാറ്റ് ചെയ്ത ഇന്ത്യ എ 50 ഓവറിൽ എട്ട് വിക്കറ്റിന് 317 റൺസെടുത്തു. ശ്രീലങ്ക എ 41.3 ഓവറിൽ രണ്ട് വിക്കറ്റ് നഷ്ടത്തിൽ 318 റൺസ് നേടി. ഓപ്പണർമാരായ ലാസിത് ക്രൂസ്പുള്ളെ (116), സിനെത് ജയവർദ്ധന (105) എന്നിവർ സെഞ്ച്വറി നേടിയെന്ന് എച്ച്ടിയും ക്രിക്സെർച്ചും പറയുന്നു.",
+    "സ്കോർ വിവരങ്ങൾ മൂന്ന് റിപ്പോർട്ടുകളിലും ഒത്തുപോകുന്നു. പേരുകളുടെ ലിപ്യന്തരീകരണം വ്യത്യാസപ്പെടാം."
+   ],
+   "srcs": [
+    [
+     "Hindustan Times (PTI): India A knocked out of Rising Stars",
+     "https://www.hindustantimes.com/cricket/india-a-knocked-out-of-asia-cup-rising-stars-after-loss-to-sri-lanka-a-in-semis-101795744116803.html"
+    ],
+    [
+     "Akashvani: Sri Lanka A defeat India A by 8 wickets",
+     "https://newsonair.gov.in/sri-lanka-a-defeat-india-a-by-8-wickets-to-enter-asia-cup-rising-stars-final/"
+    ],
+    [
+     "CricSearch: India A vs Sri Lanka A semi-final",
+     "https://cricsearch.com/news/india-a-vs-sri-lanka-a-asia-cup-rising-stars-semi-final-156"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgQFr5khU8S/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 9:46 PM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T21:46:47+05:30"
+  },
+  {
    "id": "character-ai-chat-auction-42-state-ags-object-nov27",
    "cats": [
     "Tech"

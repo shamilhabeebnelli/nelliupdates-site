@@ -1,6 +1,36 @@
 {
  "stories": [
   {
+   "id": "vietnam-central-heavy-rain-evacuation-directive-nov27",
+   "cats": [
+    "World"
+   ],
+   "title": "മധ്യ വിയറ്റ്നാമിൽ കനത്ത മഴ മുന്നറിയിപ്പ്: ഏഴ് പ്രദേശങ്ങളിൽ ആളുകളെ മാറ്റാൻ സർക്കാർ നിർദേശം",
+   "en": "Vietnam orders seven localities to move people from flood and landslide risk areas as heavy rain forecast for central region, Viet Nam News and DTiNews report",
+   "sum": "നവംബർ 27 മുതൽ 30 വരെ മധ്യ വിയറ്റ്നാമിൽ 200-400 മില്ലിമീറ്റർ മഴ പ്രതീക്ഷിക്കുന്നതിനാൽ വെള്ളപ്പൊക്ക, മണ്ണിടിച്ചിൽ സാധ്യതാ മേഖലകളിൽ നിന്ന് ആളുകളെ മാറ്റാൻ ഏഴ് പ്രദേശങ്ങളോട് സർക്കാർ നിർദേശിച്ചു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "ഹുവേ മുതൽ ലാം ദോങ് വരെയുള്ള ഏഴ് പ്രദേശങ്ങളോട് വെള്ളപ്പൊക്ക, മണ്ണിടിച്ചിൽ സാധ്യതയുള്ള മേഖലകളിൽ നിന്ന് ആളുകളെ മാറ്റാൻ വിയറ്റ്നാം സർക്കാർ നവംബർ 26-ന് ഉത്തരവിട്ടതായി വിയറ്റ് നാം ന്യൂസും ഡിടിഐന്യൂസും റിപ്പോർട്ട് ചെയ്യുന്നു.",
+    "നവംബർ 27 മുതൽ 30 വരെ തീരമേഖലയിൽ 200-400 മില്ലിമീറ്റർ മഴ പ്രതീക്ഷിക്കുന്നു; ചില സ്ഥലങ്ങളിൽ 600 മില്ലിമീറ്ററിൽ കൂടുതലാകാം. പ്രായമായവർക്കും കുട്ടികൾക്കും മുൻഗണന നൽകണമെന്നും സൈന്യവും പോലീസും രക്ഷാപ്രവർത്തനത്തിന് തയ്യാറായിരിക്കണമെന്നും നിർദേശത്തിലുണ്ട്."
+   ],
+   "srcs": [
+    [
+     "Viet Nam News: Government orders evacuations",
+     "https://vietnamnews.vn/society/1805279/government-orders-evacuations-as-days-of-torrential-rain-loom-over-central-viet-nam.html"
+    ],
+    [
+     "DTiNews: Government orders seven localities to prepare",
+     "https://dtinews.dantri.com.vn/vietnam-today/government-orders-seven-localities-to-prepare-for-floods-and-landslides-20261127124136606.htm"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgPJrtgB8Mr/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 1:02 PM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T13:02:28+05:30"
+  },
+  {
    "id": "new-zealand-coalition-loses-majority-final-results-nov27",
    "cats": [
     "World"

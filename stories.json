@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "saudi-jazan-refinery-attack-worker-killed-nov26",
+   "cats": [
+    "World"
+   ],
+   "title": "സൗദിയിലെ ജസാൻ അരാംകോ റിഫൈനറിക്ക് നേരെ ആക്രമണം; ഒരു തൊഴിലാളി മരിച്ചു, ചിലർക്ക് പരിക്ക്",
+   "en": "Attack on Saudi Aramco Jazan refinery kills one worker, injures others, as reported by Reuters, CNA and Saudi Gazette",
+   "sum": "സൗദി അരാംകോയുടെ ജസാൻ റിഫൈനറിയിൽ വ്യാഴാഴ്ച (നവംബർ 26) ആകാശമാർഗമെത്തിയ പ്രൊജക്റ്റൈൽ പതിച്ച് തീപിടിത്തമുണ്ടായെന്നും ഒരു നേപ്പാളി തൊഴിലാളി മരിച്ചെന്നും ചിലർക്ക് പരിക്കേറ്റെന്നും സൗദി ഊർജ മന്ത്രാലയം അറിയിച്ചതായി റിപ്പോർട്ടുകൾ.",
+   "date": "27 Nov 2026",
+   "body": [
+    "സൗദി അരാംകോയുടെ ജസാൻ റിഫൈനറിയിൽ വ്യാഴാഴ്ച (നവംബർ 26) \"ഹോസ്റ്റൈൽ ഏരിയൽ പ്രൊജക്റ്റൈൽ\" പതിച്ച് തീപിടിത്തമുണ്ടായെന്നും ഒരു നേപ്പാളി തൊഴിലാളി മരിച്ചെന്നും നിരവധി പേർക്ക് പരിക്കേറ്റെന്നും സൗദി ഊർജ മന്ത്രാലയം അറിയിച്ചതായി റോയിട്ടേഴ്സും സിഎൻഎയും സൗദി ഗസറ്റും റിപ്പോർട്ട് ചെയ്യുന്നു. ചില പ്രവർത്തനങ്ങൾ താൽക്കാലികമായി നിർത്തിവച്ചു; തീ നിയന്ത്രണവിധേയമാക്കി.",
+    "മന്ത്രാലയത്തിന്റെ പ്രസ്താവനയിൽ ആക്രമണം നടത്തിയവരെ പറയുന്നില്ല. ഹൂതികളാണ് ആക്രമിച്ചതെന്ന് സൗദി നേതൃത്വത്തിലുള്ള സൈനിക സഖ്യം (കോയലിഷൻ) പറഞ്ഞു; ഇതിന് ഉപയോഗിച്ചെന്ന് ആരോപിക്കുന്ന ഹൊദൈദയിലെ ബാലിസ്റ്റിക് മിസൈൽ ലോഞ്ച് പ്ലാറ്റ്ഫോം തകർത്തതായും സഖ്യം അവകാശപ്പെട്ടു. ഇവ സഖ്യത്തിന്റെ അവകാശവാദങ്ങളാണ്; സ്വതന്ത്രമായി സ്ഥിരീകരിച്ചിട്ടില്ല.",
+    "പ്രതിദിനം 4 ലക്ഷം ബാരൽ വരെ സംസ്കരിക്കാൻ ശേഷിയുള്ളതാണ് ജസാൻ റിഫൈനറി. പരിക്കേറ്റവർക്ക് ചികിത്സ നൽകുന്നുണ്ടെന്നും നാശനഷ്ടം വിലയിരുത്തുകയാണെന്നും മന്ത്രാലയം അറിയിച്ചു."
+   ],
+   "srcs": [
+    [
+     "Reuters via NBC News: Jazan refinery attack",
+     "https://www.nbcnews.com/world/saudi-arabia/attack-saudi-aramcos-jazan-refinery-kills-worker-halts-operations-rcna611484"
+    ],
+    [
+     "CNA: Coalition says Houthis hit Jazan refinery",
+     "https://www.channelnewsasia.com/world/saudi-led-coalition-says-houthis-attacked-aramcos-jazan-refinery-6585881"
+    ],
+    [
+     "Saudi Gazette: Nepali killed in Jazan attack",
+     "https://saudigazette.com.sa/article/666574/world/nepali-national-killed-several-wounded-in-houthi-attack-on-jazan-refinery"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgO9FUphq0_/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 11:12 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T11:12:21+05:30"
+  },
+  {
    "id": "london-tube-drivers-24-hour-strike-nov26",
    "cats": [
     "World"

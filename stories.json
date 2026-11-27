@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "nvidia-halts-server-shipments-southeast-asia-nov26",
+   "cats": [
+    "Tech"
+   ],
+   "title": "നാല് തെക്കുകിഴക്കൻ ഏഷ്യൻ രാജ്യങ്ങളിലേക്കുള്ള AI സെർവർ ഷിപ്പ്മെന്റ് എൻവിഡിയ നിർത്തിവച്ചെന്ന് റിപ്പോർട്ട്",
+   "en": "Nvidia reportedly halts AI server shipments to Malaysia, Singapore, Thailand and Indonesia, as reported by FT, WSJ, CNA and TechCrunch",
+   "sum": "മലേഷ്യ, സിംഗപ്പൂർ, തായ്‌ലൻഡ്, ഇന്തോനേഷ്യ എന്നിവിടങ്ങളിലേക്ക് സെർവറുകൾ അയക്കുന്നത് നിർത്താൻ എൻവിഡിയ പങ്കാളികളോട് നിർദേശിച്ചെന്ന് ഫിനാൻഷ്യൽ ടൈംസും വാൾ സ്ട്രീറ്റ് ജേണലും റിപ്പോർട്ട് ചെയ്യുന്നു. സ്ഥിരീകരണമില്ല.",
+   "date": "27 Nov 2026",
+   "body": [
+    "ഡെൽ, സൂപ്പർമൈക്രോ തുടങ്ങിയ നിർമാണ പങ്കാളികളോട് മലേഷ്യ, സിംഗപ്പൂർ, തായ്‌ലൻഡ്, ഇന്തോനേഷ്യ എന്നിവിടങ്ങളിലേക്ക് സെർവറുകൾ അയക്കുന്നത് നിർത്താൻ എൻവിഡിയ നിർദേശിച്ചതായി ഫിനാൻഷ്യൽ ടൈംസും വാൾ സ്ട്രീറ്റ് ജേണലും റിപ്പോർട്ട് ചെയ്യുന്നുവെന്ന് സിഎൻഎയും ടെക്ക്ക്രഞ്ചും പറയുന്നു. ഇത് എത്ര കാലത്തേക്കാണെന്ന് വ്യക്തമല്ല.",
+    "ചൈനീസ് കമ്പനികൾ ഈ രാജ്യങ്ങളിലെ ഡാറ്റ സെന്ററുകൾ വഴി എൻവിഡിയ ചിപ്പുകൾ ഉപയോഗിക്കുന്നത് തടയാൻ യുഎസ് വാണിജ്യ വകുപ്പ് കഴിഞ്ഞയാഴ്ച പുതിയ നിയമങ്ങൾ കൊണ്ടുവന്നിരുന്നു; അവ പാലിക്കുന്നുണ്ടോ എന്ന് വിലയിരുത്തുന്നതിനിടയിലാണ് ഈ നടപടിയെന്ന് റിപ്പോർട്ടുകൾ പറയുന്നു.",
+    "റിപ്പോർട്ട് സ്ഥിരീകരിക്കാൻ കഴിയില്ലെന്ന് സിംഗപ്പൂർ ഉപപ്രധാനമന്ത്രി ഗാൻ കിം യോങ് പറഞ്ഞു; സർക്കാർ പ്രാദേശിക കമ്പനികളുമായി ചർച്ച നടത്തുകയാണെന്ന് എസ്‌സിഎംപി റിപ്പോർട്ട് ചെയ്യുന്നു. എൻവിഡിയ പ്രതികരിച്ചില്ലെന്ന് സിഎൻഎ പറയുന്നു."
+   ],
+   "srcs": [
+    [
+     "CNA: Nvidia halts chip shipments (FT report)",
+     "https://www.channelnewsasia.com/asia/nvidia-halts-chip-shipments-southeast-asia-6584351"
+    ],
+    [
+     "TechCrunch: Nvidia pauses shipments (WSJ)",
+     "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+    ],
+    [
+     "SCMP: Singapore engages firms on Nvidia halt",
+     "https://www.scmp.com/news/asia/southeast-asia/article/3375994/singapore-reaches-out-local-firms-amid-reports-nvidia-chip-shipment-halt"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgPAsZphKb2/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 11:43 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T11:43:55+05:30"
+  },
+  {
    "id": "uk-mod-letters-100000-reservists-nov26",
    "cats": [
     "World"

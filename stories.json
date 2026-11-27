@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "kozhikode-japan-water-project-main-pipe-burst-perambra-nov26",
+   "cats": [
+    "Kerala"
+   ],
+   "title": "കോഴിക്കോട്ട് പൈപ്പ് പൊട്ടി: പേരാമ്പ്ര മരുതേരിയിൽ ജപ്പാൻ കുടിവെള്ള പദ്ധതിയുടെ പ്രധാന പൈപ്പ്‌ലൈൻ തകർന്ന് ജലവിതരണം മുടങ്ങി",
+   "en": "Main pipeline of JICA-assisted Kerala Water Supply Project bursts at Maruthery, Perambra, on Nov 26; Kozhikode water supply disrupted, as reported",
+   "sum": "പേരാമ്പ്ര മരുതേരിയിൽ ജപ്പാൻ കുടിവെള്ള പദ്ധതിയുടെ പ്രധാന പൈപ്പ്‌ലൈൻ നവംബർ 26 വ്യാഴാഴ്ച പകൽ പൊട്ടിയെന്ന് ടൈംസ് ഓഫ് ഇന്ത്യയും ദേശാഭിമാനിയും റിപ്പോർട്ട് ചെയ്യുന്നു. കോഴിക്കോട് നഗരത്തിലും സമീപ പഞ്ചായത്തുകളിലും കുടിവെള്ളം മുടങ്ങിയെന്ന് ദേശാഭിമാനി.",
+   "date": "27 Nov 2026",
+   "body": [
+    "പേരാമ്പ്ര പഞ്ചായത്തിലെ മരുതേരിയിൽ ജപ്പാൻ (JICA) സഹായത്തോടെയുള്ള കേരള വാട്ടർ സപ്ലൈ പ്രോജക്ടിന്റെ പ്രധാന പൈപ്പ്‌ലൈൻ നവംബർ 26 വ്യാഴാഴ്ച പകൽ പൊട്ടിയതായി ടൈംസ് ഓഫ് ഇന്ത്യയും ദേശാഭിമാനിയും റിപ്പോർട്ട് ചെയ്യുന്നു. പൈപ്പ് പൊട്ടി വെള്ളം ഉയരത്തിൽ ചീറ്റിയെന്നും ആളുകൾ കൂട്ടമായി എത്തിയെന്നും ടൈംസ് ഓഫ് ഇന്ത്യ പറയുന്നു.",
+    "പെരുവണ്ണാമൂഴി റിസർവോയറിലെ പ്രധാന വാൽവ് അടച്ചാണ് ചോർച്ച തടഞ്ഞതെന്ന് ടൈംസ് ഓഫ് ഇന്ത്യ റിപ്പോർട്ട് ചെയ്യുന്നു. പൈപ്പ് പൊട്ടാനുള്ള കാരണം, വെള്ളം ഉയർന്ന ഉയരം എന്നിവയെക്കുറിച്ച് റിപ്പോർട്ടുകളിൽ വ്യത്യാസമുണ്ട്, അതിനാൽ ഇവ ഇവിടെ നൽകുന്നില്ല.",
+    "കോഴിക്കോട് നഗരത്തിലും സമീപ പഞ്ചായത്തുകളിലും കുടിവെള്ളം മുടങ്ങിയെന്ന് ദേശാഭിമാനി റിപ്പോർട്ട് ചെയ്യുന്നു. അറ്റകുറ്റപ്പണി വൈകിയാൽ കോഴിക്കോട് കോർപ്പറേഷൻ പ്രദേശത്തെ ജലവിതരണത്തെ ബാധിക്കാമെന്ന് ടൈംസ് ഓഫ് ഇന്ത്യയും പറയുന്നു."
+   ],
+   "srcs": [
+    [
+     "Times of India: Pipeline burst, Kozhikode water jet",
+     "https://timesofindia.indiatimes.com/city/kozhikode/kerala-pipeline-burst-sends-30-metre-high-water-jet-into-air-in-kozhikode-drawing-crowds-as-officials-rush-to-shut-reservoir-valve/articleshow/136198988.cms"
+    ],
+    [
+     "Deshabhimani: Japan drinking water project pipe bursts",
+     "https://www.deshabhimani.com/district-news/-12277/pipe-bursts-in-japanese-drinking-water-project-yg2"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgOdwKbBRQe/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 6:38 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T06:38:36+05:30"
+  },
+  {
    "id": "india-smartphone-revenue-first-annual-decline-chip-nov27",
    "cats": [
     "Tech"

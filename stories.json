@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "himachal-surplus-raw-water-rate-policy-rs100-nov27",
+   "cats": [
+    "India"
+   ],
+   "title": "അധിക ജലത്തിന് ഏകീകൃത നിരക്ക്: 1,000 ഘനയടിക്ക് 100 രൂപ, നയത്തിന് ഹിമാചൽ സർക്കാരിന്റെ അംഗീകാരം",
+   "en": "Himachal approves policy to sell surplus raw water to other states at Rs 100 per 1,000 cubic feet, as reported",
+   "sum": "അയൽ സംസ്ഥാനങ്ങൾക്കും സർക്കാർ ഏജൻസികൾക്കും വ്യവസായങ്ങൾക്കും നൽകുന്ന അധിക ജലത്തിന് ഏകീകൃത നിരക്ക് നിശ്ചയിക്കുന്ന നയത്തിന് ഹിമാചൽ സർക്കാർ അനുമതി നൽകിയതായി ഹിന്ദുസ്ഥാൻ ടൈംസും ടൈംസ് ഓഫ് ഇന്ത്യയും ദി ട്രിബ്യൂണും റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "ഹിന്ദുസ്ഥാൻ ടൈംസ്, ടൈംസ് ഓഫ് ഇന്ത്യ, ദി ട്രിബ്യൂൺ എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നതനുസരിച്ച്, സംസ്ഥാനത്തെ നിലവിലുള്ളതും ഭാവിയിലെയും ജലസ്രോതസ്സുകളിലെയും പദ്ധതികളിലെയും അധിക (surplus) ശുദ്ധീകരിക്കാത്ത ജലത്തിന്റെ വില നിശ്ചയിക്കാനും പുതുക്കാനുമുള്ള ഏകീകൃത നയത്തിന് ഹിമാചൽ പ്രദേശ് സർക്കാർ അംഗീകാരം നൽകി.",
+    "പ്രാരംഭ ബെഞ്ച്മാർക്ക് നിരക്ക് 1,000 ഘനയടിക്ക് 100 രൂപയാണ്. മൊത്തവില സൂചിക (WPI) അടിസ്ഥാനമാക്കി ഇത് ഇടയ്ക്കിടെ പുതുക്കും. സംസ്ഥാനത്തിന്റെ ഇപ്പോഴത്തെയും ഭാവിയിലെയും ആവശ്യങ്ങൾ കഴിഞ്ഞുള്ള ജലത്തിനാണ് ഇത് ബാധകം; സംസ്ഥാനത്തിനകത്തെ കുടിവെള്ള ഉപയോഗത്തിന് ഇത് ബാധകമല്ല.",
+    "മൂന്ന് റിപ്പോർട്ടുകളും സർക്കാരിന്റെ പ്രസ്താവനയെ അടിസ്ഥാനമാക്കിയുള്ളതാണ്. കിഷൗ മൾട്ടിപർപ്പസ് പദ്ധതിയുടെ പശ്ചാത്തലത്തിൽ ഈ നീക്കത്തിന് പ്രാധാന്യമുണ്ടെന്ന് ഹിന്ദുസ്ഥാൻ ടൈംസും ടൈംസ് ഓഫ് ഇന്ത്യയും പറയുന്നു."
+   ],
+   "srcs": [
+    [
+     "Hindustan Times: Himachal surplus water policy",
+     "https://www.hindustantimes.com/cities/chandigarh-news/himachal-to-sell-surplus-water-to-other-states-as-policy-gets-nod-101795722337319.html"
+    ],
+    [
+     "Times of India: Himachal fixes Rs 100 rate",
+     "https://timesofindia.indiatimes.com/city/chandigarh/himachal-fixes-rs-100-rate-for-1000-cubic-feet-of-surplus-raw-water/articleshow/136202516.cms"
+    ],
+    [
+     "The Tribune: Himachal surplus water rates",
+     "https://www.tribuneindia.com/news/india/himachal-to-supply-surplus-water-to-neighbouring-states-govt-agencies-at-uniform-rates/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgPymf1BPTg/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 7:00 PM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T19:00:00+05:30"
+  },
+  {
    "id": "sabari-rail-survey-18-villages-ernakulam-notification-nov27",
    "cats": [
     "Kerala"

@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "cert-in-flags-five-whatsapp-vulnerabilities-update-nov27",
+   "cats": [
+    "Tech"
+   ],
+   "title": "വാട്സ്ആപ്പിൽ അഞ്ച് ഗുരുതര സുരക്ഷാ പിഴവുകൾ: ആപ്പ് അപ്ഡേറ്റ് ചെയ്യാൻ സെർട്ട്-ഇൻ നിർദേശം",
+   "en": "CERT-In flags five high-severity vulnerabilities in WhatsApp across Android, iOS, Mac and Windows and advises updating, as reported",
+   "sum": "ആൻഡ്രോയിഡ്, ഐഒഎസ്, മാക്, വിൻഡോസ് എന്നിവയിലെ വാട്സ്ആപ്പിലും വാട്സ്ആപ്പ് ബിസിനസിലും അഞ്ച് ഉയർന്ന തീവ്രതയുള്ള സുരക്ഷാ പിഴവുകളുണ്ടെന്ന് സെർട്ട്-ഇൻ നവംബർ 26-ന് മുന്നറിയിപ്പ് നൽകിയതായി റിപ്പോർട്ടുകൾ പറയുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "മീഡിയനാമ, ദി ഹിന്ദു ബിസിനസ് ലൈൻ, ഡെക്കാൻ ഹെറാൾഡ് എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നതനുസരിച്ച്, വാട്സ്ആപ്പ്, വാട്സ്ആപ്പ് ബിസിനസ് എന്നിവയുടെ ആൻഡ്രോയിഡ്, ഐഒഎസ്, മാക്, വിൻഡോസ് ആപ്പുകളിലെ ഉയർന്ന തീവ്രതയുള്ള (HIGH) സുരക്ഷാ പിഴവുകളെക്കുറിച്ച് ഇന്ത്യൻ കമ്പ്യൂട്ടർ എമർജൻസി റെസ്പോൺസ് ടീം (CERT-In) നവംബർ 26-ന് വിജ്ഞാപനം പുറപ്പെടുവിച്ചു.",
+    "പ്രത്യേകം തയ്യാറാക്കിയ സന്ദേശം, അറ്റാച്ച്മെന്റ്, അല്ലെങ്കിൽ ലിങ്ക് വഴി വിദൂരത്തുനിന്ന് ആക്രമണം നടത്താൻ ഇവ ഉപയോഗിക്കപ്പെടാമെന്ന് സെർട്ട്-ഇൻ പറയുന്നു. ഇതിലൂടെ കോഡ് പ്രവർത്തിപ്പിക്കാനോ വിവരങ്ങൾ ചോർത്താനോ സുരക്ഷാ നിയന്ത്രണങ്ങൾ മറികടക്കാനോ സാധ്യതയുണ്ടെന്നും വിജ്ഞാപനത്തിൽ പറയുന്നതായി റിപ്പോർട്ടുകൾ ഉദ്ധരിക്കുന്നു.",
+    "പഴയ പതിപ്പുകളെയാണ് ഇത് ബാധിക്കുക; ബാധിക്കുന്ന പതിപ്പ് നമ്പറുകൾ ഹിന്ദു ബിസിനസ് ലൈൻ റിപ്പോർട്ടിൽ നൽകിയിട്ടുണ്ട്. ഔദ്യോഗിക ആപ്പ് സ്റ്റോറിൽ നിന്ന് ആപ്പ് ഏറ്റവും പുതിയ പതിപ്പിലേക്ക് അപ്ഡേറ്റ് ചെയ്യാൻ ഉപയോക്താക്കളോട് നിർദേശിക്കുന്നു."
+   ],
+   "srcs": [
+    [
+     "Medianama: CERT-In flags WhatsApp flaws",
+     "https://www.medianama.com/2026/11/223-cert-in-vulnerabilities-whatsapp/"
+    ],
+    [
+     "BusinessLine: CERT-In warns on WhatsApp",
+     "https://www.thehindubusinessline.com/news/cert-in-warns-of-vulnerabilities-in-whatsapp/article71750822.ece"
+    ],
+    [
+     "Deccan Herald: CERT-In flags WhatsApp bug",
+     "https://www.deccanherald.com/technology/cert-in-flags-security-vulnerability-in-whatsapp-on-phones-pcs-4233133"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgP4cblBAHm/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 7:51 PM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T19:51:05+05:30"
+  },
+  {
    "id": "rbi-consolidates-25-card-payment-circulars-directions-nov27",
    "cats": [
     "India"

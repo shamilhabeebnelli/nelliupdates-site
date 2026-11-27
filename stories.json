@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "uk-mod-letters-100000-reservists-nov26",
+   "cats": [
+    "World"
+   ],
+   "title": "ബ്രിട്ടൻ: ഏകദേശം ഒരു ലക്ഷം റിസർവ് സൈനികർക്ക് പ്രതിരോധ മന്ത്രാലയത്തിന്റെ കത്ത്; വിവരങ്ങൾ പുതുക്കാനും പരിശീലനത്തിന് സന്നദ്ധരാകാനും ആവശ്യം",
+   "en": "UK Ministry of Defence writes to about 100,000 strategic reservists to update details and volunteer for training, as reported by The Times, The Telegraph and BBC",
+   "sum": "ബ്രിട്ടീഷ് പ്രതിരോധ മന്ത്രാലയം ഏകദേശം 1,00,000 സ്ട്രാറ്റജിക് റിസർവ് അംഗങ്ങൾക്ക് കത്തയച്ചെന്ന് ദ ടൈംസും ദ ടെലിഗ്രാഫും ബിബിസിയും റിപ്പോർട്ട് ചെയ്യുന്നു. വിവരങ്ങൾ പുതുക്കാനും പരിശീലനത്തിന് സന്നദ്ധരാകാനും കത്തിൽ ആവശ്യപ്പെടുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "ബ്രിട്ടീഷ് പ്രതിരോധ മന്ത്രാലയം ഏകദേശം 1,00,000 സ്ട്രാറ്റജിക് റിസർവ് അംഗങ്ങൾക്ക് കത്തയച്ചതായി ദ ടെലിഗ്രാഫ് റിപ്പോർട്ട് ചെയ്യുന്നു. സൈന്യത്തിന്റെ മൂന്ന് വിഭാഗങ്ങളുടെയും മേധാവികൾ ഒപ്പിട്ട കത്തുകളിൽ, ബന്ധപ്പെടാനുള്ള വിവരങ്ങളും നിലവിലെ ജോലിയും കഴിവുകളും പുതുക്കി നൽകാനും, നാറ്റോയുടെ സ്റ്റെഡ്ഫാസ്റ്റ് ഡിഫൻഡർ പോലുള്ള പരിശീലനങ്ങളിലും അഭ്യാസങ്ങളിലും സ്വമേധയാ പങ്കെടുക്കാനും ആവശ്യപ്പെടുന്നു. ശീതയുദ്ധത്തിനു ശേഷം ആദ്യമായാണിതെന്ന് ടെലിഗ്രാഫും ടൈംസും പറയുന്നു.",
+    "\"ജാഗ്രത വേണം, ഭയപ്പെടേണ്ട\" എന്ന് പ്രതിരോധ സെക്രട്ടറി വെസ് സ്ട്രീറ്റിങ് ബിബിസി റേഡിയോ 4-നോട് പറഞ്ഞതായി ബിബിസി റിപ്പോർട്ട് ചെയ്യുന്നു. ദേശീയ ദുരന്തത്തിനോ ഗുരുതര ഭീഷണിക്കോ ആവശ്യം വന്നാൽ റിസർവ് സേനയെ എവിടെ കണ്ടെത്താമെന്നും അവരുടെ കഴിവുകൾ എന്തെന്നും അറിയാനുള്ള മുൻകരുതലാണിതെന്ന് അദ്ദേഹം പറഞ്ഞു.",
+    "ഇത് യുദ്ധത്തിനുള്ള പാനിക് ബട്ടൺ അല്ല, രേഖകൾ പുതുക്കാനുള്ള നടപടിയാണെന്ന് ബിബിസിയുടെ സുരക്ഷാ ലേഖകൻ വിലയിരുത്തുന്നു."
+   ],
+   "srcs": [
+    [
+     "BBC: UK reservists contacted as threat rises",
+     "https://www.bbc.com/news/articles/cvrlgznd9z4po"
+    ],
+    [
+     "The Telegraph: MoD prepares veterans for war",
+     "https://www.telegraph.co.uk/news/2026/11/26/mod-prepares-veterans-to-be-called-up-for-war/"
+    ],
+    [
+     "The Times: MoD tells reservists be ready",
+     "https://www.thetimes.com/uk/defence/article/mod-reservists-call-up-jxdk3zcbk"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgO_fWXBhXb/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 11:33 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T11:33:24+05:30"
+  },
+  {
    "id": "putin-g20-miami-attendance-undecided-nov26",
    "cats": [
     "World"

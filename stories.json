@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "who-measles-deaths-historic-low-2025-report-nov27",
+   "cats": [
+    "World"
+   ],
+   "title": "അഞ്ചാംപനി മരണം റെക്കോർഡ് താഴ്ചയിൽ; വാക്സിൻ കവറേജിലെ വിടവ് ഭീഷണിയെന്ന് ഡബ്ല്യുഎച്ച്ഒ",
+   "en": "WHO says measles deaths hit a historic low of about 72,000 in 2025, but immunization gaps threaten progress",
+   "sum": "2025-ൽ ലോകമെമ്പാടും ഏകദേശം 72,000 പേർ അഞ്ചാംപനി മൂലം മരിച്ചെന്നും 2000-നെ അപേക്ഷിച്ച് 91% കുറവാണെന്നും നവംബർ 27-ന് പുറത്തിറക്കിയ റിപ്പോർട്ടിൽ ഡബ്ല്യുഎച്ച്ഒ അറിയിച്ചു. വാക്സിൻ കവറേജിലെ വിടവ് പുരോഗതിക്ക് ഭീഷണിയാണെന്നും റിപ്പോർട്ട് പറയുന്നു.",
+   "date": "28 Nov 2026",
+   "body": [
+    "ലോകാരോഗ്യ സംഘടന (ഡബ്ല്യുഎച്ച്ഒ) നവംബർ 27-ന് പുറത്തിറക്കിയ റിപ്പോർട്ട് പ്രകാരം 2025-ൽ ലോകത്ത് ഏകദേശം 72,000 പേർ അഞ്ചാംപനി മൂലം മരിച്ചതായി കണക്കാക്കുന്നു. 2000-നെ അപേക്ഷിച്ച് 91% കുറവാണിത്. 2000 മുതൽ അഞ്ചാംപനി വാക്സിൻ 6 കോടിയിലധികം ജീവൻ രക്ഷിച്ചതായും റിപ്പോർട്ട് കണക്കാക്കുന്നു.",
+    "എന്നാൽ വാക്സിൻ കവറേജ് പല രാജ്യങ്ങളിലും അപര്യാപ്തവും അസമവുമാണെന്ന് റിപ്പോർട്ട് പറയുന്നു. 2025-ൽ ആഗോളതലത്തിൽ ആദ്യ ഡോസ് 84% കുട്ടികൾക്കും രണ്ടാം ഡോസ് 77% കുട്ടികൾക്കുമാണ് ലഭിച്ചത്. 2025-ൽ 2.9 കോടിയിലധികം കുട്ടികൾക്ക് വാക്സിൻ ലഭിക്കാതിരിക്കുകയോ പൂർണമായി ലഭിക്കാതിരിക്കുകയോ ചെയ്തു; 59 രാജ്യങ്ങളിൽ വലിയ പകർച്ചകൾ ഉണ്ടായി.",
+    "ഡബ്ല്യുഎച്ച്ഒയുടെ പ്രസ്താവനയും ഹെൽത്ത് പോളിസി വാച്ച് റിപ്പോർട്ടും ഞങ്ങൾ പരിശോധിച്ചു. കണക്കുകൾ ഡബ്ല്യുഎച്ച്ഒയുടെ കണക്കുകൂട്ടലുകളാണ് (estimates)."
+   ],
+   "srcs": [
+    [
+     "WHO: Historic low in measles deaths, but immunization gaps threaten progress",
+     "https://www.who.int/news/item/27-11-2026-historic-low-in-measles-deaths--but-immunization-gaps-threaten-progress"
+    ],
+    [
+     "Health Policy Watch: Global measles vaccine coverage remains fragile",
+     "https://healthpolicy-watch.news/measles-vaccine-coverage-is-fragile-even-as-global-deaths-hit-historic-low/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgQneEmhN9q/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 2:41 AM IST on 28 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-28T02:41:59+05:30"
+  },
+  {
    "id": "india-to-host-itu-plenipotentiary-conference-2030-nov27",
    "cats": [
     "India"

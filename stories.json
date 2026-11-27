@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "hormuz-two-tankers-fire-irgc-mines-claim-nov26",
+   "cats": [
+    "World"
+   ],
+   "title": "ഹോർമുസ് കടലിടുക്കിൽ രണ്ട് ടാങ്കറുകൾ മൈൻ തട്ടി തീപിടിച്ചെന്ന് ഇറാൻ റവല്യൂഷണറി ഗാർഡ്",
+   "en": "Iran's Revolutionary Guards say two tankers hit sea mines and caught fire in the Strait of Hormuz, as reported",
+   "sum": "ഒമാനിലെ ഖസാബ് തുറമുഖത്തിന് വടക്ക് ഹോർമുസ് കടലിടുക്കിൽ രണ്ട് എണ്ണ ടാങ്കറുകൾ കടൽ മൈനിൽ തട്ടി പൊട്ടിത്തെറിച്ച് തീപിടിച്ചെന്ന് ഇറാൻ റവല്യൂഷണറി ഗാർഡ് അവകാശപ്പെട്ടതായി റോയിട്ടേഴ്സും ട്രേഡ്‌വിൻഡ്സും റിപ്പോർട്ട് ചെയ്യുന്നു. സ്വതന്ത്ര സ്ഥിരീകരണം ഇല്ല.",
+   "date": "27 Nov 2026",
+   "body": [
+    "ഒമാനിലെ ഖസാബ് തുറമുഖത്തിന് വടക്ക് ഹോർമുസ് കടലിടുക്ക് \"അനധികൃത\" വഴിയിലൂടെ കടക്കാൻ ശ്രമിച്ച രണ്ട് ടാങ്കറുകൾ കടൽ മൈനിൽ തട്ടി പൊട്ടിത്തെറിച്ച് തീപിടിച്ചെന്ന് വ്യാഴാഴ്ച (നവംബർ 26) ഇറാൻ റവല്യൂഷണറി ഗാർഡ് അവകാശപ്പെട്ടതായി റോയിട്ടേഴ്സ് റിപ്പോർട്ട് ചെയ്യുന്നു (സ്ട്രെയിറ്റ്സ് ടൈംസ് വഴി). ഇതിൽ ഒന്ന് 20 ലക്ഷത്തിലേറെ ബാരൽ ക്രൂഡ് ഓയിൽ വഹിക്കുന്ന സൂപ്പർ ടാങ്കറാണെന്നും ഗാർഡ് പറഞ്ഞു.",
+    "ദുബായിൽ നിന്ന് ഏകദേശം 50 നോട്ടിക്കൽ മൈൽ പടിഞ്ഞാറ് ഒരു ടാങ്കറിന് സമീപം അജ്ഞാത പ്രൊജക്ടൈൽ മൂലം സ്ഫോടനം ഉണ്ടായെന്ന് യുകെ മാരിടൈം ട്രേഡ് ഓപ്പറേഷൻസ് (UKMTO) അറിയിച്ചു. ഗാർഡ് പറയുന്ന സംഭവങ്ങളും മാരിടൈം ഏജൻസികളുടെ റിപ്പോർട്ടുകളും എല്ലായ്പ്പോഴും പൊരുത്തപ്പെടാറില്ലെന്ന് റോയിട്ടേഴ്സ് ചൂണ്ടിക്കാട്ടുന്നു.",
+    "ഇറാന്റെ അവകാശവാദം സ്വതന്ത്രമായി സ്ഥിരീകരിച്ചിട്ടില്ല. വിവരങ്ങൾ പരിശോധിച്ചുവരികയാണ്."
+   ],
+   "srcs": [
+    [
+     "Reuters via Straits Times: Guards say tankers hit mines",
+     "https://www.straitstimes.com/world/middle-east/irans-revolutionary-guards-say-two-oil-tankers-hit-sea-mines-near-omans-khasab"
+    ],
+    [
+     "TradeWinds: Two tankers on fire in Hormuz",
+     "https://www.tradewindsnews.com/tankers/two-tankers-on-fire-in-strait-of-hormuz-after-explosions-claimed-by-iran/2-1-2080127"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgOwtuSBoTB/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 9:24 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T09:24:17+05:30"
+  },
+  {
    "id": "kuwait-drone-strike-two-italians-killed-iran-denies-nov26",
    "cats": [
     "World"

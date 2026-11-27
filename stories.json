@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "cop31-antalya-no-consensus-cover-text-46-decisions-nov27",
+   "cats": [
+    "World"
+   ],
+   "title": "ആന്റാലിയ COP31 ഉച്ചകോടി: \"കവർ ടെക്സ്റ്റിൽ\" സമവായമില്ല, 46 തീരുമാനങ്ങൾ അംഗീകരിച്ചതായി റിപ്പോർട്ട്",
+   "en": "COP31 in Antalya: no consensus on the overarching cover text, 46 decisions adopted, as reported",
+   "sum": "തുർക്കിയിലെ ആന്റാലിയയിൽ നടന്ന COP31 കാലാവസ്ഥാ ഉച്ചകോടിയിൽ \"ആന്റാലിയ പാക്ട്\" എന്ന കവർ ടെക്സ്റ്റിൽ സമവായമുണ്ടായില്ലെന്ന് റിപ്പോർട്ടുകൾ. അതേസമയം 46 തീരുമാനങ്ങൾ അംഗീകരിച്ചു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "തുർക്കിയിലെ ആന്റാലിയയിൽ നടന്ന 31-ാമത് യുഎൻ കാലാവസ്ഥാ ഉച്ചകോടിയിൽ (COP31) \"ആന്റാലിയ പാക്ട്\" എന്ന കവർ ടെക്സ്റ്റിൽ രാജ്യങ്ങൾക്കിടയിൽ സമവായമുണ്ടായില്ലെന്ന് ദി ഹിന്ദു റിപ്പോർട്ട് ചെയ്യുന്നു. ഫോസിൽ ഇന്ധനങ്ങൾ ഘട്ടംഘട്ടമായി ഒഴിവാക്കുന്നതിനെച്ചൊല്ലിയുള്ള തർക്കം മൂലം ചർച്ചകൾ നിശ്ചയിച്ച സമാപനത്തിനു ശേഷവും 48 മണിക്കൂർ നീണ്ടു.",
+    "ഉച്ചകോടി കരാറില്ലാതെ അവസാനിച്ചതായി ക്ലൈമറ്റ് ഹോം ന്യൂസും റിപ്പോർട്ട് ചെയ്യുന്നു. തുർക്കിയും ഓസ്ട്രേലിയയും തമ്മിലുള്ള സംയുക്ത അധ്യക്ഷത ആരാണ് ചുമതലയിലെന്ന കാര്യത്തിൽ പ്രതിനിധികൾക്ക് വ്യക്തതയില്ലാതാക്കിയെന്നാണ് ഈ റിപ്പോർട്ടിലെ വിവരം.",
+    "അതേസമയം കാലാവസ്ഥാ ധനസഹായം, അഡാപ്റ്റേഷൻ, കാർബൺ വിപണി തുടങ്ങിയ വിഷയങ്ങളിൽ 46 തീരുമാനങ്ങൾ അംഗീകരിച്ചതായി ഡെയ്‌ലി സബാഹ് (എഎ) റിപ്പോർട്ട് ചെയ്യുന്നു. കിയോട്ടോ പ്രോട്ടോക്കോളിനു കീഴിലുള്ള അഡാപ്റ്റേഷൻ ഫണ്ട് പാരീസ് ഉടമ്പടിക്കു കീഴിലേക്ക് മാറ്റുന്നതും ഇതിൽ ഉൾപ്പെടുന്നുവെന്ന് ദി ഹിന്ദുവും ഡെയ്‌ലി സബാഹും പറയുന്നു."
+   ],
+   "srcs": [
+    [
+     "The Hindu: Why is COP31 perceived to be a failure?",
+     "https://www.thehindu.com/sci-tech/energy-and-environment/why-is-cop31-perceived-to-be-a-failure-explained/article71749253.ece"
+    ],
+    [
+     "Climate Home News: COP31 joint presidency",
+     "https://www.climatechangenews.com/2026/11/27/how-cop31s-unusual-joint-presidency-unravelled/"
+    ],
+    [
+     "Daily Sabah (AA): COP31 adopts 46 decisions",
+     "https://www.dailysabah.com/turkiye/cop31-adopts-46-climate-decisions-as-turkiye-secures-26b/news"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgP-UeAhM3S/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 8:42 PM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T20:42:25+05:30"
+  },
+  {
    "id": "rbi-white-label-atm-operators-directions-2026-nov27",
    "cats": [
     "India"

@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "davis-cup-finals-great-britain-beat-germany-semi-spain-nov26",
+   "cats": [
+    "Sports"
+   ],
+   "title": "ഡേവിസ് കപ്പ്: ജർമനിയെ 2-1ന് തോൽപ്പിച്ച് ഗ്രേറ്റ് ബ്രിട്ടൻ സെമിയിൽ, എതിരാളി സ്പെയിൻ",
+   "en": "Davis Cup Finals: Great Britain beat Germany 2-1 in Bologna on Nov 26 to reach the semi-finals, where they face Spain on Nov 28",
+   "sum": "നവംബർ 26-ന് ബൊളോണ്യയിൽ നടന്ന ഡേവിസ് കപ്പ് ക്വാർട്ടറിൽ ഗ്രേറ്റ് ബ്രിട്ടൻ ജർമനിയെ 2-1ന് തോൽപ്പിച്ച് 2019-ന് ശേഷം ആദ്യമായി സെമിയിലെത്തി. നവംബർ 28-ന് സ്പെയിനിനെ നേരിടും എന്ന് ബിബിസി സ്പോർട്ടും ലൈവ്ടെന്നീസും റിപ്പോർട്ട് ചെയ്തു.",
+   "date": "28 Nov 2026",
+   "body": [
+    "നവംബർ 26-ന് (വ്യാഴം) ഇറ്റലിയിലെ ബൊളോണ്യയിൽ നടന്ന ഡേവിസ് കപ്പ് ഫൈനൽസ് ക്വാർട്ടർ ഫൈനലിൽ ഗ്രേറ്റ് ബ്രിട്ടൻ ജർമനിയെ 2-1ന് തോൽപ്പിച്ചു. 2019-ന് ശേഷം ആദ്യമായാണ് ബ്രിട്ടൻ ഡേവിസ് കപ്പ് സെമിഫൈനലിൽ എത്തുന്നത്. നിർണായക ഡബിൾസിൽ ഹെൻറി പാറ്റൻ-നീൽ സ്കുപ്സ്കി സഖ്യം വിജയിച്ചതായി ബിബിസി സ്പോർട്ട് റിപ്പോർട്ട് ചെയ്തു.",
+    "ലൈവ്ടെന്നീസ് റിപ്പോർട്ട് പ്രകാരം ഗ്രേറ്റ് ബ്രിട്ടൻ നവംബർ 28 ശനിയാഴ്ച രണ്ടാം സെമിഫൈനലിൽ സ്പെയിനിനെ നേരിടും (as reported).",
+    "ബിബിസി സ്പോർട്ടും ലൈവ്ടെന്നീസും ഞങ്ങൾ പരിശോധിച്ചു. ചിത്രം പ്രതിനിധാന സ്വഭാവമുള്ള ഫയൽ ചിത്രമാണ്."
+   ],
+   "srcs": [
+    [
+     "BBC Sport: GB win decider to reach Davis Cup semi-finals",
+     "https://www.bbc.com/sport/tennis/articles/c5m2lvevrk1mo"
+    ],
+    [
+     "LiveTennis: Davis Cup 2026 Day 3, Britain and Spain reach semi-finals",
+     "https://www.livetennis.com/tournaments/atp-tour/davis-cup/davis-cup-2026-day-3-britain-and-spain-reach-semi-finals"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgQp5waBkAd/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 3:03 AM IST on 28 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-28T03:03:14+05:30"
+  },
+  {
    "id": "england-beat-australia-third-t20-brisbane-dls-nov27",
    "cats": [
     "Sports"

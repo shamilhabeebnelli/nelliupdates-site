@@ -1,6 +1,36 @@
 {
  "stories": [
   {
+   "id": "rbi-cuts-daily-crr-maintenance-90-from-99-dec1-nov27",
+   "cats": [
+    "India"
+   ],
+   "title": "ആർബിഐ: ദിവസേനയുള്ള സിആർആർ പരിപാലന പരിധി 99%ൽ നിന്ന് 90% ആക്കി",
+   "en": "RBI cuts minimum daily CRR maintenance to 90% from 99% from the fortnight beginning December 1, as reported",
+   "sum": "ബാങ്കുകളുടെ കുറഞ്ഞ ദിവസേനയുള്ള സിആർആർ പരിപാലനം ആവശ്യകതയുടെ 99%ൽ നിന്ന് 90% ആക്കി ആർബിഐ കുറച്ചതായി ദ ഹിന്ദുവും ബിസിനസ് സ്റ്റാൻഡേർഡും റിപ്പോർട്ട് ചെയ്യുന്നു. ഡിസംബർ 1ന് തുടങ്ങുന്ന പക്ഷം മുതലാണ് ഇത് ബാധകം.",
+   "date": "27 Nov 2026",
+   "body": [
+    "ബാങ്കുകൾ ദിവസേന പാലിക്കേണ്ട കുറഞ്ഞ കാഷ് റിസർവ് റേഷ്യോ (സിആർആർ) പരിപാലനം ആവശ്യകതയുടെ 99%ൽ നിന്ന് 90% ആക്കി ആർബിഐ കുറച്ചതായി ദ ഹിന്ദുവും ബിസിനസ് സ്റ്റാൻഡേർഡും റിപ്പോർട്ട് ചെയ്യുന്നു. 2026 ഡിസംബർ 1ന് തുടങ്ങുന്ന പക്ഷം മുതലാണ് മാറ്റം പ്രാബല്യത്തിൽ വരുന്നത്.",
+    "ഒക്ടോബറിൽ ഈ പരിധി 90%ൽ നിന്ന് 99% ആക്കി ഉയർത്തിയിരുന്നു; ഇപ്പോഴത്തെ നടപടി അത് പിൻവലിക്കുന്നതാണെന്ന് റിപ്പോർട്ടുകൾ പറയുന്നു. പക്ഷത്തിലെ ശരാശരി ദിവസ സിആർആർ ആർബിഐ നിശ്ചയിച്ച നിലവാരത്തിൽ താഴെ പോകരുതെന്നും റിപ്പോർട്ടുകളിലുണ്ട്. ബാങ്കിങ് സംവിധാനത്തിലേക്ക് എത്തുന്ന തുകയുടെ കണക്ക് റിപ്പോർട്ടുകളിൽ വ്യത്യസ്തമായതിനാൽ ഇവിടെ നൽകുന്നില്ല."
+   ],
+   "srcs": [
+    [
+     "The Hindu: RBI cuts daily CRR maintenance to 90%",
+     "https://www.thehindu.com/business/Economy/rbi-cuts-daily-crr-maintenance-to-90-to-unlock-over-40000-crore/article71751043.ece"
+    ],
+    [
+     "Business Standard: RBI cuts CRR maintenance back to 90% from Dec 1",
+     "https://www.business-standard.com/finance/news/rbi-cuts-crr-maintenance-requirement-for-banks-back-to-90-from-dec-1-126112700971_1.html"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgQUwe4hxGq/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 11:58 PM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T23:58:29+05:30"
+  },
+  {
    "id": "nz-246-5-day1-second-test-india-christchurch-nov27",
    "cats": [
     "Sports"

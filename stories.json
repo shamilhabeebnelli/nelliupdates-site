@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "west-bengal-schools-ai-biometric-attendance-jan2-plan-nov27",
+   "cats": [
+    "India"
+   ],
+   "title": "സ്കൂളുകളിൽ ജനുവരി 2 മുതൽ എഐ ബയോമെട്രിക് ഹാജർ: പശ്ചിമ ബംഗാൾ സർക്കാർ പദ്ധതി, ഡിസംബറിൽ 150 സ്കൂളുകളിൽ പൈലറ്റ്",
+   "en": "West Bengal plans AI-powered biometric attendance in government schools from Jan 2, 2027, school education minister says, as reported",
+   "sum": "സർക്കാർ, സർക്കാർ സഹായമുള്ള സ്കൂളുകളിലെ അധ്യാപകർക്കും വിദ്യാർഥികൾക്കും 2027 ജനുവരി 2 മുതൽ എഐ അധിഷ്ഠിത ബയോമെട്രിക് ഹാജർ ഏർപ്പെടുത്തുമെന്ന് സ്കൂൾ വിദ്യാഭ്യാസ മന്ത്രി പറഞ്ഞതായി ഹിന്ദുസ്ഥാൻ ടൈംസും ടെലിഗ്രാഫും ടൈംസ് ഓഫ് ഇന്ത്യയും റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "ഹിന്ദുസ്ഥാൻ ടൈംസ്, ദി ടെലിഗ്രാഫ്, ടൈംസ് ഓഫ് ഇന്ത്യ എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നതനുസരിച്ച്, പശ്ചിമ ബംഗാളിലെ സർക്കാർ, സർക്കാർ സഹായമുള്ള സ്കൂളുകളിൽ അധ്യാപകർക്കും വിദ്യാർഥികൾക്കും 2027 ജനുവരി 2 മുതൽ എഐ അധിഷ്ഠിത ബയോമെട്രിക്, മുഖം തിരിച്ചറിയൽ ഹാജർ സംവിധാനം ഏർപ്പെടുത്തും. നവംബർ 26-ന് സ്കൂൾ വിദ്യാഭ്യാസ മന്ത്രി നടത്തിയ പ്രസ്താവനയാണ് ഇതിന് ആധാരം.",
+    "ഡിസംബറിൽ 150 സ്കൂളുകളിൽ പൈലറ്റ് പദ്ധതി തുടങ്ങുമെന്ന് റിപ്പോർട്ടുകൾ പറയുന്നു. ഏകദേശം 1.6 കോടി വിദ്യാർഥികളും 4 ലക്ഷം അധ്യാപകരും ഉൾപ്പെടുമെന്ന് ദി ടെലിഗ്രാഫ് റിപ്പോർട്ട് ചെയ്യുന്നു; ഹിന്ദുസ്ഥാൻ ടൈംസും ഇതേ കണക്കുകൾ നൽകുന്നു.",
+    "സമയപരിധിക്കുള്ളിൽ എല്ലാ സ്കൂളുകളിലും ഇത് നടപ്പാക്കുന്നത് ബുദ്ധിമുട്ടാകാമെന്ന് ഒരു ഉദ്യോഗസ്ഥൻ പറഞ്ഞതായി ഹിന്ദുസ്ഥാൻ ടൈംസ് റിപ്പോർട്ട് ചെയ്യുന്നു. ഇത് പ്രഖ്യാപിച്ച പദ്ധതിയാണ്; നടപ്പാക്കൽ വിശദാംശങ്ങൾ റിപ്പോർട്ടുകളിൽ പരിമിതമാണ്."
+   ],
+   "srcs": [
+    [
+     "Hindustan Times: Bengal biometric attendance",
+     "https://www.hindustantimes.com/india-news/bengal-govt-schools-to-introduce-biometric-attendance-from-january-2027-minister-101795770471514.html"
+    ],
+    [
+     "Telegraph: AI biometric attendance Jan 2",
+     "https://www.telegraphindia.com/west-bengal/kolkata/ai-powered-biometric-attendance-system-to-be-launched-in-government-schools-from-january-2-prnt/cid/2191478"
+    ],
+    [
+     "Times of India: Bengal biometric attendance",
+     "https://timesofindia.indiatimes.com/city/kolkata/state-to-roll-out-biometric-attendance-rename-school-textbooks/articleshow/136200578.cms"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgP0JzTBjip/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 7:13 PM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T19:13:35+05:30"
+  },
+  {
    "id": "himachal-surplus-raw-water-rate-policy-rs100-nov27",
    "cats": [
     "India"

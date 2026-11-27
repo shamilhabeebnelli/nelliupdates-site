@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "bay-of-bengal-low-pressure-likely-nov30-imd-andaman-rain",
+   "cats": [
+    "India"
+   ],
+   "title": "ബംഗാൾ ഉൾക്കടലിൽ നവംബർ 30 ഓടെ ന്യൂനമർദ സാധ്യത: ഐഎംഡി",
+   "en": "Low-pressure area likely to form over south Andaman Sea and southeast Bay of Bengal around Nov 30: IMD, as reported",
+   "sum": "തെക്കൻ ആൻഡമാൻ കടലിലും തെക്കുകിഴക്കൻ ബംഗാൾ ഉൾക്കടലിലും നവംബർ 30 ഓടെ ന്യൂനമർദം രൂപപ്പെടാൻ സാധ്യതയുണ്ടെന്ന് ഐഎംഡി പ്രവചിച്ചതായി ഡെക്കാൻ ക്രോണിക്കിളും ഐപിബി ന്യൂസും റിപ്പോർട്ട് ചെയ്തു.",
+   "date": "28 Nov 2026",
+   "body": [
+    "തെക്കൻ ആൻഡമാൻ കടലിലും ആൻഡമാൻ നിക്കോബാർ ദ്വീപുകളോട് ചേർന്ന പ്രദേശത്തും തെക്കുകിഴക്കൻ ബംഗാൾ ഉൾക്കടലിലും 2026 നവംബർ 30 ഓടെ ന്യൂനമർദ മേഖല രൂപപ്പെടാൻ സാധ്യതയുണ്ടെന്ന് ഇന്ത്യൻ കാലാവസ്ഥാ വകുപ്പ് (ഐഎംഡി) വെള്ളിയാഴ്ച (നവംബർ 27) അറിയിച്ചതായി ഡെക്കാൻ ക്രോണിക്കിളും ഐപിബി ന്യൂസും റിപ്പോർട്ട് ചെയ്തു. നവംബർ 29 ഓടെ ഇവിടെ ഉപരിതല ചക്രവാത ചുഴി രൂപപ്പെടാനും സാധ്യതയുണ്ടെന്നാണ് റിപ്പോർട്ട്.",
+    "ഐപിബി ന്യൂസ് പ്രകാരം ഡിസംബർ 2 ഓടെ ഇത് ഡിപ്രഷനായി ശക്തിപ്പെടാനുള്ള സാധ്യത ഐഎംഡി നിലവിൽ കുറവായി കണക്കാക്കുന്നു. നവംബർ 29 മുതൽ ഡിസംബർ 3 വരെ ആൻഡമാൻ നിക്കോബാറിൽ മഴയ്ക്കും നവംബർ 30, ഡിസംബർ 1 തീയതികളിൽ ചിലയിടങ്ങളിൽ കനത്ത മഴയ്ക്കും സാധ്യതയുണ്ടെന്നും റിപ്പോർട്ടിൽ പറയുന്നു.",
+    "ഇത് പ്രവചനമാണ്, സാഹചര്യം മാറാം. ഏറ്റവും പുതിയ അറിയിപ്പിന് ഐഎംഡിയുടെ ഔദ്യോഗിക ബുള്ളറ്റിൻ കാണുക. ഞങ്ങൾ പരിശോധിച്ചത് ഡെക്കാൻ ക്രോണിക്കിളും ഐപിബി ന്യൂസും മാത്രമാണ്. ചിത്രം പ്രതിനിധാന സ്വഭാവമുള്ള ഫയൽ ചിത്രമാണ്."
+   ],
+   "srcs": [
+    [
+     "Deccan Chronicle: Low pressure to form over Bay on Nov 30",
+     "https://www.deccanchronicle.com/southern-states/andhra-pradesh/low-pressure-to-form-over-bay-on-nov-30-2008676"
+    ],
+    [
+     "IPB News: Bay of Bengal low pressure likely around 30 November",
+     "https://ipbnews.in/bay-of-bengal-low-pressure-30-november-andaman-imd/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgQt85UhHjC/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 3:38 AM IST on 28 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-28T03:38:36+05:30"
+  },
+  {
    "id": "wact-india-women-beat-malaysia-6-2-final-vs-china-nov27",
    "cats": [
     "Sports"

@@ -1,6 +1,36 @@
 {
  "stories": [
   {
+   "id": "argentina-central-bank-money-printing-ban-nov26",
+   "cats": [
+    "World"
+   ],
+   "title": "സർക്കാർ ചെലവിനായി പണം അച്ചടിക്കുന്നതിന് കേന്ദ്ര ബാങ്കിന് വിലക്ക്: അർജന്റീന കോൺഗ്രസ് അന്തിമ അനുമതി നൽകിയെന്ന് റിപ്പോർട്ട്",
+   "en": "Argentina Congress gives final approval to law barring central bank from financing government spending, as reported by AP and Bloomberg",
+   "sum": "സർക്കാർ ചെലവുകൾക്ക് പണം അച്ചടിക്കുന്നത് കേന്ദ്ര ബാങ്കിനെ വിലക്കുന്ന നിയമത്തിന് അർജന്റീന കോൺഗ്രസ് വ്യാഴാഴ്ച അന്തിമ അനുമതി നൽകിയെന്ന് എപിയും ബ്ലൂംബെർഗും റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "സർക്കാരിന്റെ ചെലവുകൾക്ക് വേണ്ടി പണം അച്ചടിക്കുന്നതിൽ നിന്ന് കേന്ദ്ര ബാങ്കിനെ വിലക്കുന്ന നിയമത്തിന് അർജന്റീന കോൺഗ്രസ് വ്യാഴാഴ്ച അന്തിമ അനുമതി നൽകിയെന്ന് എപി റിപ്പോർട്ട് ചെയ്യുന്നു. പ്രതിനിധി സഭയിൽ 141-0 എന്ന നിലയിലായിരുന്നു വോട്ട്; 99 പേർ വിട്ടുനിന്നു.",
+    "പെസോയുടെ മൂല്യം സംരക്ഷിക്കുക എന്നതായിരിക്കും കേന്ദ്ര ബാങ്കിന്റെ പ്രാഥമിക ദൗത്യമെന്ന് എപി പറയുന്നു. ഭാവിയിൽ സർക്കാർ ചെലവുകൾക്ക് ബാങ്ക് ധനസഹായം നൽകുന്നത് നിയമം ഫലത്തിൽ വിലക്കുന്നുവെന്ന് ബ്ലൂംബെർഗ് റിപ്പോർട്ട് ചെയ്യുന്നു."
+   ],
+   "srcs": [
+    [
+     "AP: Argentina bans central bank printing money",
+     "https://apnews.com/article/javier-milei-central-bank-economy-argentina-peso-primaries-paso-e4598186ef6cbcf05ecc598788c52cec"
+    ],
+    [
+     "Bloomberg: Argentina central bank overhaul approved",
+     "https://www.bloomberg.com/news/articles/2026-11-26/milei-s-overhaul-of-argentina-s-central-bank-wins-final-approval-in-congress"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgPFh0zB_vn/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 12:26 PM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T12:26:09+05:30"
+  },
+  {
    "id": "swiggy-instamart-340-layoffs-restructuring-nov27",
    "cats": [
     "Tech"

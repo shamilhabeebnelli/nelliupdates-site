@@ -1,77 +1,109 @@
 {
- "fetched_at": "2026-11-27 08:41 UTC",
+ "fetched_at": "2026-11-27 09:41 UTC",
  "groups": {
   "india": [
    {
-    "title": "The best hypervisor? One you can leave if you need to",
-    "description": "IT leaders are prioritising escape routes after VMware's pricing shifts exposed the risk of being locked into any single hypervisor.",
-    "source": "It Brief India",
-    "link": "https://itbrief.in/story/the-best-hypervisor-one-you-can-leave-if-you-need-to",
-    "pubDate": "2026-11-26 20:41:00",
+    "title": "India’s GDP growth seen at 7.6% in July-September quarter: Economist",
+    "description": "India’s GDP growth seen at 7.6% in July-September quarter: Economist",
+    "source": "Deccan Herald",
+    "link": "https://www.deccanherald.com/business/economy/indias-gdp-growth-seen-at-76-in-july-september-quarter-economist-4232797",
+    "pubDate": "2026-11-26 21:40:53",
     "category": [
      "top",
-     "technology"
-    ]
-   },
-   {
-    "title": "Hyderabad public transport hobbled by last-mile connectivity hitch",
-    "description": "Buses, Metro and MMTS connect major hubs, but uneven frequency and poor residential access leave significant gaps in the city’s transport network",
-    "source": "The Hans India",
-    "link": "https://www.thehansindia.com/news/cities/hyderabad/hyderabad-public-transport-hobbled-by-last-mile-connectivity-hitch-1146105",
-    "pubDate": "2026-11-26 20:40:11",
-    "category": [
-     "top",
-     "business",
-     "technology"
-    ]
-   },
-   {
-    "title": "GHMC sets four special days for graduates’ voter enrolment",
-    "description": "According to the District Election Officer and GHMC Commissioner RV Karnan, the special campaign will be conducted in two phases across all designated polling stations within GHMC limits.",
-    "source": "The Hans India",
-    "link": "https://www.thehansindia.com/news/cities/hyderabad/ghmc-sets-four-special-days-for-graduates-voter-enrolment-1146104",
-    "pubDate": "2026-11-26 20:38:42",
-    "category": [
-     "top",
-     "politics"
-    ]
-   },
-   {
-    "title": "Property Owners Lose in Manhattan: Judge Brendan Lantry Upholds Mamdani's Rent Freeze on 1 Million Apartments While Ruling the Mayor Never Had the Power to Promise It",
-    "description": "By Jennifer Sanchez CBNC News New York State Supreme Court Justice Brendan T. Lantry ruled Wednesday that New York City’s rent freeze stands, dismissing a lawsuit by seven landlords and leaving owners of roughly 1...",
-    "source": "Cbnc",
-    "link": "https://cbnc.com/property-owners-lose-in-manhattan-judge-brendan-lantry-upholds-mamdanis-rent-freeze-on-1-million-apartments-while-ruling-the-mayor-never-had-the-power-to-promise-it/",
-    "pubDate": "2026-11-26 20:38:10",
-    "category": [
-     "top",
-     "politics",
      "business"
     ]
    },
    {
-    "title": "Odisha launches anti-child labour drive",
-    "description": "The department said on Thursday that the directives were issued in compliance with an advisory from the Odisha State Commission for Protection of Child Rights (OSCPCR).",
-    "source": "The Hans India",
-    "link": "https://www.thehansindia.com/odisha/odisha-launches-anti-child-labour-drive-1146103",
-    "pubDate": "2026-11-26 20:37:29",
+    "title": "Supreme Court raps MNCs for ‘double standard’ on food quality",
+    "description": "The Supreme Court addressed concerns regarding the quality of food products offered by multinational companies in India. It emphasized the need for uniform standards across different countries to protect Indian...",
+    "source": "The Times Of India",
+    "link": "https://timesofindia.indiatimes.com/india/supreme-court-raps-mncs-for-double-standard-on-food-quality/articleshow/136203385.cms",
+    "pubDate": "2026-11-26 21:39:59",
+    "category": [
+     "top",
+     "business"
+    ]
+   },
+   {
+    "title": "France's Macron says Le Pen should be less arrogant after she criticises EU budget talks",
+    "description": "French President Emmanuel Macron said on Thursday that far-right leader Marine Le Pen the frontrunner in the 2027 presidential election should be more humble after she criticised efforts to reach a deal on the EUs...",
+    "source": "Devdiscourse",
+    "link": "https://www.devdiscourse.com/article/international/4012862-frances-macron-says-le-pen-should-be-less-arrogant-after-she-criticises-eu-budget-talks",
+    "pubDate": "2026-11-26 21:39:45",
     "category": [
      "top",
      "politics"
     ]
    },
    {
-    "title": "Centre Calls Parliament Spl Sitting From Nov. 30",
-    "description": "Cabinet may discuss delimitation-linked women’s Bill",
-    "source": "Deccan Chronicle",
-    "link": "https://www.deccanchronicle.com/nation/politics/centre-calls-parliament-spl-sitting-from-nov-30-2008381",
-    "pubDate": "2026-11-26 20:36:47",
+    "title": "Systems engineers: Designing solutions for a connected world",
+    "description": "Unlike specialists who focus on a single technology or component, systems engineers take a broader view of a project.",
+    "source": "The Hans India",
+    "link": "https://www.thehansindia.com/life-style/systems-engineers-designing-solutions-for-a-connected-world-1146140",
+    "pubDate": "2026-11-26 21:39:23",
     "category": [
      "top",
-     "politics"
+     "technology"
+    ]
+   },
+   {
+    "title": "Dr Neelima Satyam elected President-elect of AGU Natural Hazards Section",
+    "description": "AGU is a global scientific organisation representing researchers and professionals in Earth and space sciences.",
+    "source": "The Hans India",
+    "link": "https://www.thehansindia.com/hans/young-hans/dr-neelima-satyam-elected-president-elect-of-agu-natural-hazards-section-1146139",
+    "pubDate": "2026-11-26 21:37:35",
+    "category": [
+     "top",
+     "science",
+     "technology"
     ]
    }
   ],
   "kerala": [
+   {
+    "title": "Sterling Hits ₹5 Billion Revenue Mark",
+    "description": "",
+    "source": "Hospitalitynews",
+    "link": "https://hospitalitynews.in/news/sterling-crosses-5-billion-revenue-milestone-in-fy25-with-13-growth",
+    "pubDate": "2026-11-26 21:01:28",
+    "category": [
+     "top",
+     "business"
+    ]
+   },
+   {
+    "title": "President Droupadi Murmu to arrive in Kerala today",
+    "description": "KOCHI: President Droupadi Murmu will arrive in Kochi this morning on a two-day visit to Kerala. Her flight will land at Nedumbassery at 10.15 am.",
+    "source": "Kerala Kaumudi Online",
+    "link": "https://www.keralakaumudi.com/en/kerala/general/president-droupadi-murmu-to-arrive-in-kerala-today-1830647",
+    "pubDate": "2026-11-26 20:56:00",
+    "category": [
+     "top",
+     "politics"
+    ]
+   },
+   {
+    "title": "Cultural values of language remain irreplaceable in AI era: Arabic meet",
+    "description": "AI transforms Arabic learning, but human emotions and traditional values remain irreplaceable, as global scholars discuss digital humanities and language future.",
+    "source": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/cultural-values-of-language-remain-irreplaceable-in-ai-era-arabic-meet/article71746962.ece",
+    "pubDate": "2026-11-26 20:54:15",
+    "category": [
+     "top",
+     "technology"
+    ]
+   },
+   {
+    "title": "Abdul Rafeeq and Ors. Vs. Sriram Transport Finance Co. Ltd. – Kerala High Court",
+    "description": "Login Access Default, Dispute, and Debt Resolution Laws Password Email OTP WhatsApp OTP Google Username or Email Password 👁 Remember this device Log In Forgot Password? Email Send OTP Enter OTP Verify & Login Resend...",
+    "source": "Ibclaw",
+    "link": "https://ibclaw.in/abdul-rafeeq-and-ors-vs-sriram-transport-finance-co-ltd-kerala-high-court/",
+    "pubDate": "2026-11-26 20:45:00",
+    "category": [
+     "top",
+     "business"
+    ]
+   },
    {
     "title": "KIMSHEALTH Executive Leisure Pvt. Ltd. and Anr. – NCLT, Kochi Bench",
     "description": "Login Access Default, Dispute, and Debt Resolution Laws Password Email OTP WhatsApp OTP Google Username or Email Password 👁 Remember this device Log In Forgot Password? Email Send OTP Enter OTP Verify & Login Resend...",
@@ -116,89 +148,35 @@
      "top",
      "business"
     ]
-   },
-   {
-    "title": "AI to monitor public satisfaction, improve governance in Kerala",
-    "description": "THIRUVANANTHAPURAM: The Kerala government plans to introduce an Artificial Intelligence (AI) system to assess public satisfaction with government services and modernise governance.",
-    "source": "Kerala Kaumudi Online",
-    "link": "https://www.keralakaumudi.com/en/kerala/general/kerala-ai-system-measure-public-satisfaction-government-services-1830610",
-    "pubDate": "2026-11-26 19:26:30",
-    "category": [
-     "top",
-     "technology"
-    ]
-   },
-   {
-    "title": "24 judicial posts vacant in state, 10 retired judges re-employed",
-    "description": "24 judicial posts vacant in state, 10 retired judges re-employed",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/city/kochi/24-judicial-posts-vacant-in-state-10-retired-judges-re-employed/articleshow/136202034.cms",
-    "pubDate": "2026-11-26 19:16:37",
-    "category": [
-     "crime",
-     "politics",
-     "top"
-    ]
-   },
-   {
-    "title": "Legislature May Consider Reducing Age Of Juvenility From 18 To 16 Years: Allahabad High Court",
-    "description": "Justice Abdul Shahid remarked while dismissing a juvenile's appeal against the rejection of his second bail application in a dacoity-murder case.",
-    "source": "Etv Bharat",
-    "link": "https://www.etvbharat.com/en/state/legislature-may-consider-reducing-age-of-juvenility-from-18-to-16-years-says-allahabad-hc-enn26112700105",
-    "pubDate": "2026-11-26 19:13:25",
-    "category": [
-     "politics"
-    ]
-   },
-   {
-    "title": "When 2,719 Lives Carry an Entire Language on the Brink",
-    "description": "Discover the socio-economic reality of Kerala's Kurumba community. With just 2,719 speakers, their oral language faces erasure under rigid Census classification",
-    "source": "Growmudra",
-    "link": "https://growmudra.com/news/details/2509e9380eb3623ef61046dcd190275d/when-2-719-lives-carry-an-entire-language-on-the-brink",
-    "pubDate": "2026-11-26 18:55:52",
-    "category": [
-     "business",
-     "domestic"
-    ]
    }
   ],
   "world": [
    {
-    "title": "Marie-Antoinette’s ‘nipple bowl’ auctioned for record US$3.1 million",
-    "description": "Part of the auction’s proceeds will go to the Pink Ribbon breast cancer charity.",
-    "source": "Straitstimes",
-    "link": "https://www.straitstimes.com/world/europe/marie-antoinettes-nipple-bowl-auctioned-for-record-us3-1-million",
-    "pubDate": "2026-11-26 20:38:47",
+    "title": "Israel begins construction of new settlement road southeast of Bethlehem: Palestinian rights group",
+    "description": "Al-Baidar Organization for the Defense of Bedouin Rights warns construction threatens agricultural and grazing lands and further restricts Palestinians’ movement",
+    "source": "Anadolu Agency",
+    "link": "https://www.aa.com.tr/en/middle-east/israel-begins-construction-of-new-settlement-road-southeast-of-bethlehem-palestinian-rights-group/4139827",
+    "pubDate": "2026-11-26 21:40:32",
     "category": [
      "world"
     ]
    },
    {
-    "title": "Welcome Bay house ‘well involved’ in fire as crews arrive",
-    "description": "The house was ablaze when firefighters arrived about 8.35am.",
-    "source": "Nzherald",
-    "link": "https://www.nzherald.co.nz/bay-of-plenty-times/news/welcome-bay-house-well-involved-in-fire-as-crews-arrive/Z3YPH6FM7BFS5P7C43SSNXWLK4/",
-    "pubDate": "2026-11-26 20:37:59",
-    "category": [
-     "world"
-    ]
-   },
-   {
-    "title": "Christina Blake, 38-year-old Wasilla woman, dies after walking into plane propeller at Alaska airport",
-    "description": "Christina Blake died after walking into a plane's propeller at an airport in Alaska, and her sister has paid a touching tribute to her.",
+    "title": "Zelensky says Russia preparing strikes on Ukraine’s power grid",
+    "description": "Ukraine's President Volodymyr Zelenskyy has warned that Russia is planning a new mass strike.",
     "source": "Hindustan Times",
-    "link": "https://www.hindustantimes.com/world-news/us-news/christina-blake-38-year-old-wasilla-woman-dies-after-walking-into-plane-propeller-at-alaska-airport-101795722783228.html",
-    "pubDate": "2026-11-26 20:37:33",
+    "link": "https://www.hindustantimes.com/world-news/zelensky-says-russia-preparing-strikes-on-ukraine-s-power-grid-101795727639672.html",
+    "pubDate": "2026-11-26 21:39:46",
     "category": [
      "world"
     ]
    },
    {
-    "title": "America has gone to war with China over AI bots as Nvidia stops shipping to south-east Asia",
-    "description": "US technology giant Nvidia tells partners to shop shipping servers to south-east Asia to stop Chinese snooping on artificial intelligence computing power",
-    "source": "Dailystar Co Uk",
-    "link": "https://www.dailystar.co.uk/news/us-news/america-gone-war-china-over-37920404",
-    "pubDate": "2026-11-26 20:37:22",
+    "title": "Doug Ford Says He’d Use a Gun to Protect His Family",
+    "description": "Recent home invasions have stirred unease in Toronto. On Thursday, the premier of Ontario said he would fire a gun in self-defense ‘in a heartbeat.’",
+    "source": "The New York Times",
+    "link": "https://www.nytimes.com/2026/11/26/world/canada/doug-ford-gun-home-invasion-toronto.html",
+    "pubDate": "2026-11-26 21:36:15",
     "category": [
      "world"
     ]
@@ -206,112 +184,121 @@
   ],
   "sports": [
    {
-    "title": "Gukesh vs Sindarov Game 3: Third Straight Draw Leaves FIDE World Championship 2026 Tied",
-    "description": "Gukesh and Javokhir Sindarov drew Game 3 of the FIDE World Championship 2026 after 60 moves. The match remains level at 1.5-1.5 after three rounds.",
-    "source": "Mykhel",
-    "link": "https://www.mykhel.com/more-sports/gukesh-vs-sindarov-game-3-third-straight-draw-leaves-fide-world-championship-2026-tied-460187.html",
-    "pubDate": "2026-11-26 20:39:45",
+    "title": "“This is why many in media & NFL avoided Dianna Russini situation”: Ex-NFL scout backs Aaron Rodgers' decision to speak out on NFL's open secrets",
+    "description": "Pittsburgh released Aaron Rodgers on Wednesday, hours after he described on The Pat McAfee Show how Mike McCarthy fell asleep in meetings and botched a halftime huddle by calling 'one, two, three, Pac",
+    "source": "Sportskeeda",
+    "link": "https://www.sportskeeda.com/nfl/news-this-many-media-nfl-avoided-dianna-russini-situation-ex-nfl-scout-backs-aaron-rodgers-decision-speak-nfl-s-open-secrets",
+    "pubDate": "2026-11-26 21:40:54",
     "category": [
      "sports"
     ]
    },
    {
-    "title": "Aaron Rodgers’ Steelers exit puts Patriots and Ravens in spotlight as four-time MVP remains available",
-    "description": "Aaron Rodgers has been released by the Pittsburgh Steelers after his public criticism of head coach Mike McCarthy. The New England Patriots and Baltimore Ravens have emerged as possible landing spots, according to...",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/sports/nfl/news/aaron-rodgers-steelers-exit-puts-patriots-and-ravens-in-spotlight-as-four-time-mvp-remains-available/articleshow/136200038.cms",
-    "pubDate": "2026-11-26 20:37:35",
+    "title": "New Zealand vs India 2026, 2nd Test: Toss result and playing 11s, umpires list and pitch report",
+    "description": "India are taking on New Zealand at the Hagley Oval in Christchurch in the second Test of the two-match series.",
+    "source": "Sportskeeda",
+    "link": "https://www.sportskeeda.com/cricket/news-new-zealand-vs-india-2026-2nd-test-toss-result-playing-11s-umpires-list-pitch-report",
+    "pubDate": "2026-11-26 21:40:39",
     "category": [
-     "sports",
-     "top"
+     "sports"
     ]
    },
    {
-    "title": "Bournemouth's remarkable form continues with UEFA Europa League win",
-    "description": "Bournemouth, playing their first-ever European campaign, have continued their remarkable form by defeating Celta Vigo in the 2026-27 UEFA Europa League.",
+    "title": "'Insubordination can't be tolerated': Steelers owner Rooney breaks silence on Aaron Rodgers-Mike McCarthy’s ugly public feud",
+    "description": "Art Rooney II expressed unwavering support for head coach Mike McCarthy following Aaron Rodgers' controversial remarks. Rooney criticized Rodgers for discussing internal team matters publicly just days before an...",
+    "source": "The Economic Times",
+    "link": "https://economictimes.indiatimes.com/world/sports/insubordination-cant-be-tolerated-steelers-owner-rooney-breaks-silence-on-aaron-rodgers-mike-mccarthys-ugly-public-feud/articleshow/136207822.cms",
+    "pubDate": "2026-11-26 21:39:55",
+    "category": [
+     "sports",
+     "top",
+     "politics"
+    ]
+   },
+   {
+    "title": "“More demonic than GTA VI”: NFL fans react to “horrid” Wu-Tang Clan performing Thanksgiving halftime show",
+    "description": "Jason Whitlock tuned in to the Wu-Tang Clan’s halftime show at Ford Field on Thursday and reached for a different word than the one critics usually use. Not offensive, he wrote on X.",
+    "source": "Sportskeeda",
+    "link": "https://www.sportskeeda.com/nfl/news-more-demonic-gta-vi-nfl-fans-react-horrid-wu-tang-clan-performing-thanksgiving-halftime-show",
+    "pubDate": "2026-11-26 21:38:54",
+    "category": [
+     "sports"
+    ]
+   },
+   {
+    "title": "IND vs NZ, 2nd Test Day 1, Live updates: No Mohammed Siraj again as India opt to bowl first in series decider",
+    "description": "IND vs NZ, 2nd Test Day 1, Live updates: Stay on top of all the action with our Ball-by-Ball commentary and Live Scorecard.",
+    "source": "Hindustan Times",
+    "link": "https://www.hindustantimes.com/cricket/india-vs-new-zealand-live-score-2nd-test-day-1-ind-vs-nz-latest-scorecard-christchurch-november-27-101795717533013.html",
+    "pubDate": "2026-11-26 21:37:53",
+    "category": [
+     "sports"
+    ]
+   },
+   {
+    "title": "3 underrated players who could become IPL auction steals",
+    "description": "Indian Premier League (IPL) IPL auctions are often shaped by more than star power.",
     "source": "Newsbytes",
-    "link": "https://www.newsbytesapp.com/news/sports/europa-league-2026-27-bournemouth-claim-5-successive-wins/story",
-    "pubDate": "2026-11-26 20:37:02",
+    "link": "https://www.newsbytesapp.com/news/sports/3-uncapped-indian-players-who-could-be-surprise-auction-steals/story",
+    "pubDate": "2026-11-26 21:37:26",
     "category": [
      "sports",
      "top"
     ]
    },
    {
-    "title": "Panic Strikes Colorado Fanbase as Deion Sanders Makes Cryptic Move Amid Growing Firing Rumors",
-    "description": "The timeline moved fast on Thursday afternoon. One moment Deion Sanders’ X account looked the way it always has during the Colorado years. The next, it didn’t. He posted a single hashtag. “#NewProfilePic.” That was...",
-    "source": "Essentially Sports",
-    "link": "https://www.essentiallysports.com/ncaa-college-football-news-panic-strikes-colorado-fanbase-as-deion-sanders-makes-cryptic-move-amid-growing-firing-rumors/",
-    "pubDate": "2026-11-26 20:36:49",
+    "title": "'Not great': Leclerc-Hamilton on Ferrari's mood after Las Vegas clash",
+    "description": "Scuderia Ferrari drivers Charles Leclerc and Lewis Hamilton have spoken about the mood within their team after their recent collision at the Las Vegas Grand Prix.",
+    "source": "Newsbytes",
+    "link": "https://www.newsbytesapp.com/news/sports/scuderia-ferrari-drivers-speak-about-the-mood-post-las-vegas/story",
+    "pubDate": "2026-11-26 21:37:26",
     "category": [
-     "sports"
+     "sports",
+     "top"
     ]
    },
    {
-    "title": "Gary Sánchez lands $6.5 million Marlins deal after World Series win as Miami looks to end playoff drought",
-    "description": "Gary Sánchez has agreed to a one-year, $6.5 million deal with the Miami Marlins after winning the World Series with the Milwaukee Brewers. The veteran catcher recorded 12 home runs and 38 RBIs in 86 games last...",
+    "title": "Paris Fury recalls ‘rocky’ start to marriage with Tyson Fury over his obsession with boxing",
+    "description": "Paris Fury has revealed that Tyson Fury's dedication to boxing made the early days of their marriage difficult. The couple had very different lifestyles when they married in 2008. While Tyson followed a strict...",
     "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/sports/mlb/news/gary-snchez-lands-6-5-million-marlins-deal-after-world-series-win-as-miami-looks-to-end-playoff-drought/articleshow/136203081.cms",
-    "pubDate": "2026-11-26 20:35:49",
-    "category": [
-     "sports",
-     "top",
-     "business"
-    ]
-   },
-   {
-    "title": "Alpine skiing-Just being at the start gate is already a win for Sarrazin",
-    "description": "Cyprien Sarrazin said he felt like a winner already as the French Alpine skier prepares for a World Cup comeback nearly two years after he almost died in a downhill crash in Italy The 32-year-old who was airlifted to...",
-    "source": "Devdiscourse",
-    "link": "https://www.devdiscourse.com/article/international/4012853-alpine-skiing-just-being-at-the-start-gate-is-already-a-win-for-sarrazin",
-    "pubDate": "2026-11-26 20:33:38",
+    "link": "https://timesofindia.indiatimes.com/sports/international-sports/paris-fury-recalls-rocky-start-to-marriage-with-tyson-fury-over-his-obsession-with-boxing/articleshow/136203391.cms",
+    "pubDate": "2026-11-26 21:37:18",
     "category": [
      "sports",
      "top"
-    ]
-   },
-   {
-    "title": "India Vs New Zealand Live Score 2nd Test, Day 1: Bowling Combination In Focus As IND Hope To Keep WTC Final Hopes Alive",
-    "description": "India vs New Zealand 2nd Test Live: India National Cricket Team vs New Zealand National Cricket Team Scorecard, Commentary Updates From Day 1",
-    "source": "News 18",
-    "link": "https://www.news18.com/cricket/india-vs-new-zealand-1st-test-live-score-day-1-commentary-timeline-ind-nz-2026-christchurch-10441984.html",
-    "pubDate": "2026-11-26 20:30:45",
-    "category": [
-     "sports"
-    ]
-   },
-   {
-    "title": "So it texture assists stop any possible items and you may assurances an easier overall experience",
-    "description": "A knowledgeable Uk online casinos tend to be Spin Casino, Red-colored Casino, and you may Hyper Gambling enterprise, well-known because of their top quality gaming feel. Going https://bingoal-nederland.nl/ for good...",
-    "source": "Sanjhi Soch Worldwide Newspaper",
-    "link": "https://sanjhisoch.com/so-it-texture-assists-stop-any-possible-items-and-you-may-assurances-an-easier-overall-experience/",
-    "pubDate": "2026-11-26 20:30:34",
-    "category": [
-     "sports",
-     "top",
-     "entertainment"
     ]
    }
   ],
   "entertainment": [
    {
-    "title": "FaZe Adapt hits back at OSCS over D-tier intelligence ranking, questions their content creation knowledge",
-    "description": "FaZe Adapt has responded after OSCS placed him in D-tier on its streamer intelligence list. He disagreed with the group's view that streamers do not need to be smart. Adapt believes intelligence helps creators build...",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/world/us-streamers/faze-adapt-hits-back-at-oscs-over-d-tier-intelligence-ranking-questions-their-content-creation-knowledge/articleshow/136203093.cms",
-    "pubDate": "2026-11-26 20:39:40",
+    "title": "DH Speak Out | November 27, 2026",
+    "description": "",
+    "source": "Deccan Herald",
+    "link": "https://www.deccanherald.com/opinion/speak-out/dh-speak-out-november-27-2026-4232892",
+    "pubDate": "2026-11-26 21:26:15",
     "category": [
      "entertainment",
      "top",
-     "technology"
+     "lifestyle"
     ]
    },
    {
-    "title": "Bengali Actress Mimi Chakraborty Ties The Knot With Siddhartha Dutta, Wedding Photos Go Viral",
-    "description": "Bengali actress Mimi Chakraborty has married Siddhartha Dutta in an intimate ceremony at her Kolkata residence. The actress shared wedding pictures, while traditional celebrations are reportedly planned in Kalimpong...",
-    "source": "In Mashable",
-    "link": "https://in.mashable.com/entertainment/116620/bengali-actress-mimi-chakraborty-ties-the-knot-with-siddhartha-dutta-wedding-photos-go-viral",
-    "pubDate": "2026-11-26 20:19:16",
+    "title": "DH Toon | Media explains the govt's poor performance!",
+    "description": "",
+    "source": "Deccan Herald",
+    "link": "https://www.deccanherald.com/opinion/cartoon/dh-toon-media-explains-the-govts-poor-performance-4232891",
+    "pubDate": "2026-11-26 21:24:14",
+    "category": [
+     "entertainment",
+     "top"
+    ]
+   },
+   {
+    "title": "U.S. Army Safely Detonates Five Tons of Decades‑Old Lead Azide in Iowa",
+    "description": "The Army carried out a controlled explosion of roughly five tons of highly unstable lead azide that had been stored for two decades in Iowa. Officials said the operation eliminated a significant hazard and the site...",
+    "source": "Informal News",
+    "link": "https://www.informalnewz.com/u-s-army-safely-detonates-five-tons-of-decades-old-lead-azide-in-iowa/",
+    "pubDate": "2026-11-26 21:08:08",
     "category": [
      "entertainment"
     ]
@@ -319,11 +306,21 @@
   ],
   "tech": [
    {
-    "title": "EA ends Skate’s seasonal structure in favor of regular content updates - Mezha.net",
-    "description": "EA ends Skate’s seasonal structure in favor of regular content updates Mezha.net",
-    "source": "Google News",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wajU5VnB0Si1hOTBobWxBTDBEUkI1TGlXRl80eEJycDA1VEh0d0RDTU1kdHBTejlNUWZYekd5Zjhhb1k5WDJGMGlnZlRaUFRjOVJTeWNjN2JLZ29BNEUtd2hmU1huSGJsZGRJQktNRXpNVFRRekowUFVxNEN0dTQ?oc=5",
-    "pubDate": "2026-11-26 20:40:08",
+    "title": "Global X Cloud Computing ETF (NASDAQ:CLOU) Sees Significant Increase in Short Interest",
+    "description": "Global X Cloud Computing ETF (NASDAQ:CLOU – Get Free Report) was the recipient of a significant increase in short interest in November. As of November 13th, there was short interest totaling 501,950 shares, an...",
+    "source": "The Lincolnian Online",
+    "link": "https://www.thelincolnianonline.com/2026/11/26/global-x-cloud-computing-etf-nasdaqclou-sees-significant-increase-in-short-interest.html",
+    "pubDate": "2026-11-26 21:40:42",
+    "category": [
+     "technology"
+    ]
+   },
+   {
+    "title": "Are there hidden gems in Dollarama’s tech section? [Part 3]",
+    "description": "All the way back in 2022, I took it upon myself to find out whether the tech section at Dollarama carries hidden gems — you know, to alleviate some of the financial burden that comes with being a tech enthusiast....",
+    "source": "Mobilesyrup",
+    "link": "https://mobilesyrup.com/2026/11/26/dollarama-tech-haul-2026-review/",
+    "pubDate": "2026-11-26 21:38:49",
     "category": [
      "technology"
     ]

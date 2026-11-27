@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "gst-registration-cancellation-online-dec1-notification-nov26",
+   "cats": [
+    "India"
+   ],
+   "title": "ജിഎസ്ടി രജിസ്ട്രേഷൻ റദ്ദാക്കൽ ഡിസംബർ 1 മുതൽ ഓൺലൈനായി; റിട്ടേണും കുടിശ്ശികയും തീർത്തവർക്ക് ബാധകം",
+   "en": "GST registration cancellation to be processed online from Dec 1 for taxpayers who have filed returns and paid dues, as reported",
+   "sum": "സിജിഎസ്ടി (രണ്ടാം ഭേദഗതി) ചട്ടങ്ങൾ 2026 പ്രകാരം ഡിസംബർ 1 മുതൽ അവസാന കാലയളവിലെ റിട്ടേണും നികുതിയും മറ്റു കുടിശ്ശികകളും തീർത്ത നികുതിദായകരുടെ ജിഎസ്ടി രജിസ്ട്രേഷൻ പോർട്ടൽ വഴി ഇലക്ട്രോണിക് ആയി റദ്ദാക്കുമെന്ന് ഇക്കണോമിക് ടൈംസും ടാക്സ്മാനും റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "സിജിഎസ്ടി ചട്ടങ്ങൾ 2017-ലെ റൂൾ 20-ന്റെ ഉപചട്ടങ്ങൾ (5), (6) ഭേദഗതി ചെയ്ത് വിജ്ഞാപനം (നമ്പർ 08/2026-സെൻട്രൽ ടാക്സ്) പുറത്തിറക്കിയതായി ഇക്കണോമിക് ടൈംസും ടാക്സ്മാനും റിപ്പോർട്ട് ചെയ്യുന്നു. ഭേദഗതി 2026 ഡിസംബർ 1 മുതൽ പ്രാബല്യത്തിൽ വരും.",
+    "അവസാന നികുതി കാലയളവിലെ റിട്ടേൺ സമർപ്പിക്കുകയും നികുതിയും മറ്റു കുടിശ്ശികകളും അടയ്ക്കുകയും ചെയ്ത നികുതിദായകർ രജിസ്ട്രേഷൻ റദ്ദാക്കാൻ അപേക്ഷിച്ചാൽ, കോമൺ പോർട്ടലിൽ ഇലക്ട്രോണിക് ആയി ഉത്തരവ് നൽകി റദ്ദാക്കൽ നടപ്പാക്കുമെന്നാണ് റിപ്പോർട്ട്. അപേക്ഷിച്ച തീയതി മുതലാണ് റദ്ദാക്കൽ പ്രാബല്യത്തിൽ വരിക.",
+    "കോമ്പോസിഷൻ സ്കീമിലെ സിഎംപി-08 റിട്ടേൺ സമർപ്പിക്കാത്തതോ കുടിശ്ശിക ബാക്കിയുള്ളതോ ആയ കേസുകൾ പരിശോധനയ്ക്കായി പ്രോപ്പർ ഓഫീസർക്ക് അയയ്ക്കുമെന്നും റിപ്പോർട്ടിൽ പറയുന്നു."
+   ],
+   "srcs": [
+    [
+     "Economic Times: GST cancellation online from Dec 1",
+     "https://economictimes.indiatimes.com/wealth/save/gst-registration-cancellation-to-become-easier-from-december-1-as-government-allows-online-process-what-changes/articleshow/136185217.cms"
+    ],
+    [
+     "Taxmann: Notification 08/2026-Central Tax",
+     "https://www.taxmann.com/research/gst-new/top-story/104010000000117405/govt-relaxes-conditions-for-automatic-cancellation-of-gst-registration-on-taxpayers-request-w-e-f-01-12-2026-notification-cirnot"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgOmeTohc2x/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 7:54 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T07:54:47+05:30"
+  },
+  {
    "id": "bhargavastra-counter-drone-pokaran-trials-sdal-nov26",
    "cats": [
     "India"

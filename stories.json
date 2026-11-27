@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "webb-most-distant-little-red-dot-candidate-cw-lrd-z10-nov27",
+   "cats": [
+    "World"
+   ],
+   "title": "വെബ് ടെലിസ്കോപ്പ് കണ്ടെത്തിയത് ഏറ്റവും അകലെയുള്ള \"ലിറ്റിൽ റെഡ് ഡോട്ട്\" സാധ്യത; ബിഗ് ബാങ്ങിന് ഏകദേശം 45 കോടി വർഷത്തിന് ശേഷം",
+   "en": "Webb telescope finds most distant \"little red dot\" candidate, about 450 million years after the Big Bang, as reported",
+   "sum": "ജെയിംസ് വെബ് ടെലിസ്കോപ്പ് ബിഗ് ബാങ്ങിന് ഏകദേശം 45 കോടി വർഷത്തിന് ശേഷമുള്ള CW-LRD-z10 എന്ന \"ലിറ്റിൽ റെഡ് ഡോട്ട്\" സാധ്യത കണ്ടെത്തിയെന്ന് കാവ്ലി IPMU പ്രസ്താവനയും ലൈവ് സയൻസും റിപ്പോർട്ട് ചെയ്യുന്നു. ഇത് ഇപ്പോഴും \"കാൻഡിഡേറ്റ്\" മാത്രമാണ്.",
+   "date": "27 Nov 2026",
+   "body": [
+    "ജെയിംസ് വെബ് ബഹിരാകാശ ടെലിസ്കോപ്പ് (JWST) ഉപയോഗിച്ച് ജ്യോതിശാസ്ത്രജ്ഞർ ഏറ്റവും അകലെയുള്ള \"ലിറ്റിൽ റെഡ് ഡോട്ട്\" (LRD) സാധ്യത കണ്ടെത്തിയെന്ന് ടോക്യോ സർവകലാശാലയുടെ കാവ്ലി IPMU പ്രസ്താവനയും ലൈവ് സയൻസും റിപ്പോർട്ട് ചെയ്യുന്നു. CW-LRD-z10 എന്ന ഈ വസ്തു ബിഗ് ബാങ്ങിന് ഏകദേശം 45 കോടി വർഷത്തിന് ശേഷമുള്ളതാണെന്ന് (റെഡ്ഷിഫ്റ്റ് 10.36) പഠനം പറയുന്നു.",
+    "ചെറുതും വളരെ ചുവപ്പുമായ ഇത്തരം വസ്തുക്കൾ വാതകത്തിന്റെ കട്ടിയുള്ള ആവരണത്തിനുള്ളിൽ വളരുന്ന തമോഗർത്തങ്ങളാകാമെന്ന് പല ഗവേഷകരും കരുതുന്നു. ആസ്ട്രോഫിസിക്കൽ ജേണൽ ലെറ്റേഴ്സിലാണ് പഠനം പ്രസിദ്ധീകരിച്ചത്.",
+    "ഇത് LRD ആണെന്ന് ഉറപ്പിച്ചിട്ടില്ല. ഗവേഷകനായ തനാക്കയും പഠനത്തിൽ പങ്കില്ലാത്ത കേംബ്രിജ് സർവകലാശാലയിലെ പ്രൊഫസർ റോബർട്ടോ മയോലിനോയും ഇപ്പോൾ ഇതിനെ \"കാൻഡിഡേറ്റ്\" എന്ന് മാത്രം വിളിക്കുന്നതാണ് ശരിയെന്ന് ലൈവ് സയൻസിനോട് പറഞ്ഞു."
+   ],
+   "srcs": [
+    [
+     "Kavli IPMU (U Tokyo): Researchers uncover the furthest Little Red Dot",
+     "https://www.ipmu.jp/en/20261125-LRD"
+    ],
+    [
+     "Live Science: Webb discovers earliest 'little red dot' candidate",
+     "https://www.livescience.com/space/astronomy/james-webb-telescope-discovers-earliest-little-red-dot-candidate-yet-just-450-million-years-after-the-big-bang"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgQKiCrBmcO/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 10:29 PM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T22:29:07+05:30"
+  },
+  {
    "id": "who-updated-ebola-recommendations-faster-trials-nov27",
    "cats": [
     "World"

@@ -1,6 +1,36 @@
 {
  "stories": [
   {
+   "id": "fedex-md11-freighter-overruns-miami-runway-nov25",
+   "cats": [
+    "World"
+   ],
+   "title": "മിയാമി വിമാനത്താവളത്തിൽ ഫെഡെക്സ് ചരക്കുവിമാനം റൺവേ കടന്നുപോയി; പരിക്കുകൾ റിപ്പോർട്ട് ചെയ്തിട്ടില്ല",
+   "en": "FedEx MD-11F freighter overruns runway at Miami International Airport, no injuries reported",
+   "sum": "ബുധനാഴ്ച രാത്രി മിയാമി രാജ്യാന്തര വിമാനത്താവളത്തിൽ ഇറങ്ങിയ ഫെഡെക്സ് ചരക്കുവിമാനം റൺവേ കടന്നുപോയി. പരിക്കുകളൊന്നും റിപ്പോർട്ട് ചെയ്തിട്ടില്ലെന്ന് എപിയും ഫ്ലൈറ്റ് ഗ്ലോബലും പറയുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "ബുധനാഴ്ച രാത്രി മിയാമി രാജ്യാന്തര വിമാനത്താവളത്തിൽ ഒരു ഫെഡെക്സ് വിമാനം റൺവേ കടന്നുപോയതായി എപി റിപ്പോർട്ട് ചെയ്യുന്നു. പരിക്കുകളൊന്നും റിപ്പോർട്ട് ചെയ്തിട്ടില്ല. സംഭവത്തെ തുടർന്ന് ഒരു റൺവേ ഒഴികെ മറ്റെല്ലാം താൽക്കാലികമായി അടച്ചു. ഏകദേശം രാത്രി 8.40-നാണ് സംഭവമെന്ന് എപി പറയുന്നു.",
+    "മെംഫിസിൽ നിന്നുള്ള ബോയിങ് എംഡി-11 ചരക്കുവിമാനമാണ് റൺവേ 26R-ൽ ഇറങ്ങിയശേഷം കടന്നുപോയതെന്ന് ഫ്ലൈറ്റ് ഗ്ലോബൽ പറയുന്നു; ഏകദേശം രാത്രി 8.30-നെന്നാണ് അവരുടെ റിപ്പോർട്ട്. സമയത്തിൽ വ്യത്യാസമുള്ളതിനാൽ കൃത്യമായ സമയം സ്ഥിരീകരിച്ചിട്ടില്ല. അമേരിക്കൻ അന്വേഷകർ അന്വേഷണം തുടങ്ങിയതായും ഫ്ലൈറ്റ് ഗ്ലോബൽ പറയുന്നു."
+   ],
+   "srcs": [
+    [
+     "AP: FedEx aircraft overruns runway at Miami airport",
+     "https://apnews.com/article/miami-airport-fedex-plane-off-runway-07567f757a4cef4356dfa4fc3bf5e561"
+    ],
+    [
+     "FlightGlobal: No injuries after FedEx MD-11F overruns",
+     "https://www.flightglobal.com/ops-safety/2026/11/no-injuries-after-fedex-md-11f-overruns-at-miami/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgPOyqJBPEE/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 1:47 PM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T13:47:06+05:30"
+  },
+  {
    "id": "kinnaur-forest-fire-woman-killed-burning-tree-nov27",
    "cats": [
     "India"

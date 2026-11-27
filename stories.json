@@ -1,6 +1,40 @@
 {
  "stories": [
   {
+   "id": "fifa-confirms-cyberattack-personal-business-data-nov26",
+   "cats": [
+    "Sports"
+   ],
+   "title": "സൈബർ ആക്രമണത്തിൽ ഹാക്കർമാർ \"പരിമിതമായ വ്യക്തിഗത, ബിസിനസ് വിവരങ്ങൾ\" ആക്സസ് ചെയ്തെന്ന് ഫിഫ",
+   "en": "FIFA says hackers accessed a \"limited set of personal and business information\" in a cyberattack",
+   "sum": "ഫിഫയ്ക്ക് നേരെ സൈബർ ആക്രമണം ഉണ്ടായെന്നും ഹാക്കർമാർ പരിമിതമായ വ്യക്തിഗത, ബിസിനസ് വിവരങ്ങൾ ആക്സസ് ചെയ്തെന്നും ഫിഫ പറഞ്ഞു. നിയമപാലകരുമായി സഹകരിക്കുന്നുവെന്നും സംഘടന അറിയിച്ചു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "ഫിഫ സൈബർ ആക്രമണത്തിന് ഇരയായെന്നും ഹാക്കർമാർ \"പരിമിതമായ വ്യക്തിഗത, ബിസിനസ് വിവരങ്ങൾ\" ആക്സസ് ചെയ്തെന്നും നവംബർ 26-ന് ഫിഫ എപിയോട് പറഞ്ഞു. വിവരങ്ങളുടെ അനധികൃത ഏറ്റെടുക്കലും പ്രസിദ്ധീകരണവും, പ്രത്യേകിച്ച് വ്യക്തിഗത ഡാറ്റ, ശക്തമായി അപലപിക്കുന്നുവെന്നും നിയമപാലകരുൾപ്പെടെയുള്ള അധികൃതരുമായി സഹകരിക്കുന്നുവെന്നും സംഘടന അറിയിച്ചു.",
+    "എത്ര വിവരങ്ങൾ, ആരുടേതാണ് എന്നീ കാര്യങ്ങളിൽ ഫിഫ കൂടുതൽ വിശദീകരണം നൽകിയതായി ഞങ്ങൾ കണ്ടിട്ടില്ല. ഹാക്കർമാരുടേതായി പ്രചരിക്കുന്ന അവകാശവാദങ്ങൾ സ്ഥിരീകരിച്ചിട്ടില്ല."
+   ],
+   "srcs": [
+    [
+     "AP: FIFA says it was victim of a cyberattack",
+     "https://apnews.com/article/fifa-cyberattack-hack-6de93d5f8bcc655c774e2e41e2dfea1f"
+    ],
+    [
+     "The Guardian: Fifa confirms cyber-attack",
+     "https://www.theguardian.com/football/2026/nov/26/fifa-cyberattack-hack-personal-information"
+    ],
+    [
+     "The Record: FIFA says hackers accessed limited data",
+     "https://therecord.media/fifa-data-breach-limited"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgPMYRbBTS6/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 1:25 PM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T13:25:45+05:30"
+  },
+  {
    "id": "turkey-completes-ratification-mecca-defence-pact-nov27",
    "cats": [
     "World"

@@ -1,222 +1,234 @@
 {
- "fetched_at": "2026-11-26 23:37 UTC",
+ "fetched_at": "2026-11-27 00:37 UTC",
  "groups": {
   "india": [
    {
-    "title": "India's GDP Base Year Revision: Panel Proposes GST Data, Enterprise Surveys To Estimate State Economies",
-    "description": "A government sub-committee has recommended using GST returns, central government salary payments and annual enterprise surveys to estimate state economies under the revised 2022-23 base-year series. The proposals aim...",
-    "source": "The Free Press Journal",
-    "link": "https://www.freepressjournal.in/business/indias-gdp-base-year-revision-panel-proposes-gst-data-enterprise-surveys-to-estimate-state-economies",
-    "pubDate": "2026-11-26 11:37:00",
-    "category": [
-     "top",
-     "science",
-     "business"
-    ]
-   },
-   {
-    "title": "Polio Prevention Begins Early: Why Every Vaccination Milestone Matters",
-    "description": "",
-    "source": "Ptinews",
-    "link": "https://www.ptinews.com/press-release/polio-prevention-begins-early-why-every-vaccination-milestone-matters/4295718",
-    "pubDate": "2026-11-26 11:36:56",
-    "category": [
-     "top",
-     "health"
-    ]
-   },
-   {
-    "title": "Nitin Gadkari announces ₹1 lakh cr road projects for Bengal, promises 250-km Kolkata ring road",
-    "description": "Union Minister Nitin Gadkari on Thursday announced road infrastructure projects worth ₹1 lakh crore for West Bengal, including a 250km ring road around Kolkata, and assured Chief Minister Suvendu Adhikari that funds...",
-    "source": "Cnbctv18",
-    "link": "https://www.cnbctv18.com/india/nitin-gadkari-announces-%e2%82%b91-lakh-cr-road-projects-for-bengal-promises-250-km-kolkata-ring-road-20042227.htm",
-    "pubDate": "2026-11-26 11:36:53",
+    "title": "Subrata Bhattacharya Vs. Securities and Exchange Board of India and Ors. – Supreme Court",
+    "description": "(2026) ibclaw.in 828 SC IN THE SUPREME COURT OF INDIA Subrata Bhattacharya v. Securities and Exchange Board of India and Ors. Civil Appeal No. 13301 of 2015 with Civil Appeal No. 13394 of 2015 Decided on 19-Nov-26...",
+    "source": "Ibclaw",
+    "link": "https://ibclaw.in/subrata-bhattacharya-vs-securities-and-exchange-board-of-india-and-ors-supreme-court/",
+    "pubDate": "2026-11-26 12:37:00",
     "category": [
      "top",
      "business"
     ]
    },
    {
-    "title": "5 delicious basil recipes, starting with classic pesto",
-    "description": "Basil, with its aromatic and slightly sweet flavor, is a versatile herb that can elevate any dish.",
-    "source": "Newsbytes",
-    "link": "https://www.newsbytesapp.com/news/lifestyle/love-basil-try-these-5-sweet-and-savoury-recipes/story",
-    "pubDate": "2026-11-26 11:36:53",
+    "title": "Kashmiri woman finds growing support for online Sheshnag Lake petition",
+    "description": "Businesswoman says cyber police asked her to take down petition; political leaders and environmentalists condemn alleged harassment",
+    "source": "National Herald",
+    "link": "https://www.nationalheraldindia.com/environment/sheshnag-lake-construction-petition-zurqua-banday-police-summons-family",
+    "pubDate": "2026-11-26 12:37:00",
     "category": [
      "top",
-     "food"
+     "politics",
+     "business"
     ]
    },
    {
-    "title": "Kharge schools Imran Masood after bitter words with Samajwadi Party",
-    "description": "Congress president Mallikarjun Kharge has responded to Saharanpur MP Imran Masood's recent criticism of the Samajwadi Party (SP) over seat-sharing in Uttar Pradesh.",
-    "source": "Newsbytes",
-    "link": "https://www.newsbytesapp.com/news/politics/kharge-s-message-to-imran-masood/story",
-    "pubDate": "2026-11-26 11:36:53",
+    "title": "SC dismisses Karix Mobile’s challenge to Onextel’s NICSI tender empanelment, imposes Rs 50,000 costs",
+    "description": "The Supreme Court has dismissed a plea filed by Karix Mobile Pvt Ltd challenging the empanelment of Onextel Limited under the Government of Indias messaging gateway services tender issued by National Informatics...",
+    "source": "Devdiscourse",
+    "link": "https://www.devdiscourse.com/article/headlines/4012650-sc-dismisses-karix-mobiles-challenge-to-onextels-nicsi-tender-empanelment-imposes-rs-50000-costs",
+    "pubDate": "2026-11-26 12:36:41",
     "category": [
      "top",
-     "politics"
+     "business"
     ]
    },
    {
-    "title": "Veruschka, one of fashion's earliest supermodels, dies at 87",
-    "description": "Vera von Lehndorff, better known as Veruschka, the renowned German supermodel and actor, has died at 87.",
+    "title": "BharatGen's new AI model can read blurry, handwritten Indian documents",
+    "description": "BharatGen has launched Patram 1.5, a revolutionary artificial intelligence (AI) model designed to read and understand complex Indian documents.",
     "source": "Newsbytes",
-    "link": "https://www.newsbytesapp.com/news/entertainment/veruschka-iconic-supermodel-and-actress-passes-away-at-87/story",
-    "pubDate": "2026-11-26 11:36:53",
-    "category": [
-     "top",
-     "lifestyle",
-     "entertainment"
-    ]
-   },
-   {
-    "title": "Suzlon Energy Plans 1 GW Smart Blade Manufacturing Facility in Tamil Nadu – EQ",
-    "description": "In Short : Suzlon Energy plans to establish a 1 GW smart blade manufacturing facility in Tamil Nadu, strengthening its manufacturing capabilities and supporting India’s expanding renewable energy sector. The proposed...",
-    "source": "Eqmagpro",
-    "link": "https://www.eqmagpro.com/suzlon-energy-plans-1-gw-smart-blade-manufacturing-facility-in-tamil-nadu-eq/",
-    "pubDate": "2026-11-26 11:36:47",
+    "link": "https://www.newsbytesapp.com/news/science/bharatgen-s-patram-1-5-is-an-ai-model-that-reads-indian-documents/story",
+    "pubDate": "2026-11-26 12:36:41",
     "category": [
      "top",
      "technology"
+    ]
+   },
+   {
+    "title": "Nandini curd to be cheaper from November 29",
+    "description": "The Karnataka Co-operative Milk Producers Federation (KMF) has announced a price cut for Nandini curd, effective from November 29.",
+    "source": "Newsbytes",
+    "link": "https://www.newsbytesapp.com/news/business/karnataka-nandini-curd-prices-to-be-slashed-from-november-29/story",
+    "pubDate": "2026-11-26 12:36:41",
+    "category": [
+     "top",
+     "business"
+    ]
+   },
+   {
+    "title": "You can now buy Urban Company's ACs in India",
+    "description": "Urban Company, a leading player in the service industry, has announced its foray into the air conditioner market.",
+    "source": "Newsbytes",
+    "link": "https://www.newsbytesapp.com/news/science/urban-company-launches-native-range-of-acs/story",
+    "pubDate": "2026-11-26 12:36:41",
+    "category": [
+     "top",
+     "technology"
+    ]
+   },
+   {
+    "title": "How INR recovered from 96.96 to 92.24 against USD",
+    "description": "The Indian rupee has staged a remarkable recovery, rising nearly 5% from its all-time low of 96.96 in May.",
+    "source": "Newsbytes",
+    "link": "https://www.newsbytesapp.com/news/business/rbi-measures-falling-commodity-prices-boost-rupee-recovery/story",
+    "pubDate": "2026-11-26 12:36:41",
+    "category": [
+     "top",
+     "business"
     ]
    }
   ],
   "kerala": [
    {
-    "title": "‘Demography is Destiny’ documentary to be screened at IFFI Goa on November 27",
-    "description": "Digital Desk | Mumbai, Nov 26 (IANS) The documentary 'Demography is Destiny', directed by National Award-winning filmmaker and director of 'The Kerala Story 2', Shri Kamakhya Narayan Singh and...",
-    "source": "Bhaskarlive",
-    "link": "https://bhaskarlive.in/others/demography-is-destiny-documentary-to-be-screened-at-iffi-goa-on-november-27-2170435",
-    "pubDate": "2026-11-26 11:35:26",
-    "category": [
-     "top",
-     "lifestyle",
-     "entertainment"
-    ]
-   },
-   {
-    "title": "Bigger cocoons, longer silk threads: Calicut University secures patent for innovative formula",
-    "description": "Calicut University secures Patent No. 609130 for RESHVARDHAN, a mulberry leaf spray that increases cocoon weight by 50.59% and silk length by 37.13%.",
-    "source": "Mathrubhumi English",
-    "link": "https://english.mathrubhumi.com/features/agriculture/calicut-university-reshvardhan-patent-silk-production-cocoon-weight-jatpsffj",
-    "pubDate": "2026-11-26 11:32:52",
-    "category": [
-     "top",
-     "science"
-    ]
-   },
-   {
-    "title": "Azharuddeen's Century Propels Kerala into Super League; Delhi, Vidarbha, Rajasthan Also Progress",
-    "description": "Azharuddeen's Century Propels Kerala into Super League; Delhi, Vidarbha, Rajasthan Also Progress - New Delhi, 26 November – Mohammed Azharuddeen's blistering 101 from just 57 balls ensured Kerala's qualification for...",
-    "source": "Lokmat Times",
-    "link": "https://www.lokmattimes.com/other-sports/azharuddeens-century-propels-kerala-into-super-league-delhi-vidarbha-rajasthan-also-progress-a001-w02/",
-    "pubDate": "2026-11-26 11:31:09",
-    "category": [
-     "domestic"
-    ]
-   },
-   {
-    "title": "TN CM Vijay announces 15-day paternity leave for male State government Staff",
-    "description": "The leave is intended to enable fathers to support their wives during childbirth and share childcare responsibilities. It can be availed of either during the 15 days preceding childbirth or within six months of the...",
-    "source": "The New Indian Express",
-    "link": "https://www.newindianexpress.com/states/tamil-nadu/2026/Nov/26/tn-cm-vijay-announces-15-day-paternity-leave-for-male-state-government-staff",
-    "pubDate": "2026-11-26 11:28:16",
+    "title": "Kerala Human Rights Commission seeks probe into social media promotion of skincare products, supplements",
+    "description": "Kerala’s Human Rights Commission has sought an investigation into skincare products and supplements promoted on social media following safety concerns.",
+    "source": "Onmanorama",
+    "link": "https://www.onmanorama.com/kerala/top-news/2026/11/26/kerala-human-rights-commission-seeks-probe-into-social-media-promotion-of-skincare-products-supplements.html",
+    "pubDate": "2026-11-26 12:31:08",
     "category": [
      "top",
      "politics"
     ]
    },
    {
-    "title": "IIT Madras Launches Mock Test Link For Engineering Graduate Exam 2027",
-    "description": "The GATE 2027 results will be released on March 19, 2027.",
-    "source": "Ndtv",
-    "link": "https://www.ndtv.com/education/iit-madras-launches-mock-test-link-for-engineering-graduate-exam-2027-12380518",
-    "pubDate": "2026-11-26 11:27:32",
+    "title": "Udupi-Karinthalam 400-kV power transmission line to undergo test charging",
+    "description": "Thiruvananthapuram, Nov 26 (PTI) The 400-kV Udupi-Karinthalam double-circuit interstate power transmission line, expected to ease the long-standing electricity transmission constraints",
+    "source": "The Week",
+    "link": "https://www.theweek.in/wire-updates/national/2026/11/26/udupi-karinthalam-400-kv-power-transmission-line-to-undergo-test-charging.html",
+    "pubDate": "2026-11-26 12:28:22",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "Kerala PSC ICDS Supervisor Study Material 2026-27: Subject-Wise Notes, Books and PDFs",
+    "description": "Get Kerala PSC ICDS Supervisor study material 2026-27: subject-wise notes, best books, PDFs, mock tests & a plan to cover all four sections.",
+    "source": "Entri",
+    "link": "https://entri.app/blog/kerala-psc-icds-supervisor-study-materials/",
+    "pubDate": "2026-11-26 12:26:49",
     "category": [
      "top",
-     "education",
-     "science"
+     "education"
+    ]
+   },
+   {
+    "title": "Thrissur MCH faces protests after 77 year old patient's body found in locked washroom",
+    "description": "Thrissur: Following the discovery of a 77-year-old patient’s body in a washroom on the premises of Thrissur Government Medical College Hospital (MCH), 36 hours after his death, protests have...",
+    "source": "Business Medical Dialogues",
+    "link": "https://medicaldialogues.in/news/health/hospital-diagnostics/thrissur-mch-faces-protests-after-77-year-old-patients-body-found-in-locked-washroom-184042",
+    "pubDate": "2026-11-26 12:26:03",
+    "category": [
+     "crime",
+     "top"
+    ]
+   },
+   {
+    "title": "Sign India powered by Media Expo returns to Hyderabad as urban and commercial growth lifts demand for signage, printing and visual communications",
+    "description": "",
+    "source": "Ptinews",
+    "link": "https://www.ptinews.com/press-release/sign-india-powered-by-media-expo-returns-to-hyderabad-as-urban-and-commercial-growth-lifts-demand-for-signage-printing-and-visual-communications/4295974",
+    "pubDate": "2026-11-26 12:25:33",
+    "category": [
+     "top",
+     "business",
+     "technology"
+    ]
+   },
+   {
+    "title": "18 year old murder accused brought to India from UAE, Interpol had issued Red Corner Notice",
+    "description": "Sujit Kumar, accused in the 2008 murder case in Kerala, was brought to India from UAE after 18 years. On the basis of Red Corner Notice of Interpol, CBI and Kerala Police got him deported with the help of...",
+    "source": "Newsaddaindia",
+    "link": "https://newsaddaindia.com/news/18-year-old-murder-accused-brought-to-india-from-u",
+    "pubDate": "2026-11-26 12:25:17",
+    "category": [
+     "crime",
+     "top"
+    ]
+   },
+   {
+    "title": "Appointment of former Muslim Youth League leader as BRC trainer sparks controversy in Malappuram",
+    "description": "Complainants have sought a review of Mohammed Haris T’s appointment as a Mankada BRC trainer amid an ongoing investigation into an alleged financial fraud.",
+    "source": "Onmanorama",
+    "link": "https://www.onmanorama.com/kerala/top-news/2026/11/26/appointment-of-former-muslim-youth-league-leader-as-brc-trainer-sparks-controversy-in-malappuram.html",
+    "pubDate": "2026-11-26 12:24:56",
+    "category": [
+     "top",
+     "politics",
+     "lifestyle"
+    ]
+   },
+   {
+    "title": "Health minister UT Khader says dept will look at issuing guidelines on face creams",
+    "description": "BENGALURU: Be careful before buying face cream after seeing it online on social media. Two days ago in Kerala, a young woman bought face cream after seeing a video on social media and applied it to her face,...",
+    "source": "Public Tv English",
+    "link": "https://english.publictv.in/health-minister-ut-khader-says-dept-will-look-at-issuing-guidelines-on-face-creams/",
+    "pubDate": "2026-11-26 12:23:48",
+    "category": [
+     "top",
+     "health"
     ]
    }
   ],
   "world": [
    {
-    "title": "BOE Warns Scale and Breadth Of AI Financing Poses Threat to Financial Stability",
-    "description": "The AI investment boom is supporting global economic growth, but the scale and breadth of financing that it requires is making the global financial system more vulnerable to setbacks, the central bank said.",
-    "source": "Wsj",
-    "link": "https://www.wsj.com/world/uk/boe-warns-scale-and-breadth-of-ai-financing-poses-threat-to-financial-stability-005ad739?mod=rss_worldnews",
-    "pubDate": "2026-11-26 11:37:00",
+    "title": "Iraq's Kurdish region sees protests over federal takeover of oil operations",
+    "description": "People gathered in Irbil, in the Kurdistan Region, to protest the federal government's decision to take control of oil operations and border crossings previously managed by Kurdish authorities.",
+    "source": "Mid-day",
+    "link": "https://www.mid-day.com/news/world-news/article/thousands-protest-in-iraqs-kurdish-region-against-baghdads-move-to-take-control-of-oil-operations-23661475",
+    "pubDate": "2026-11-26 12:35:54",
     "category": [
      "world"
     ]
    },
    {
-    "title": "UK’s antisemitism czar to probe BBC amid allegations of discrimination",
-    "description": "The BBC faces antisemitism investigation over alleged mistreatment of and discrimination against Jewish journalists. The post UK’s antisemitism czar to probe BBC amid allegations of discrimination appeared first on...",
-    "source": "Win",
-    "link": "https://worldisraelnews.com/uks-antisemitism-czar-to-probe-bbc-amid-allegations-of-discrimination/",
-    "pubDate": "2026-11-26 11:36:51",
+    "title": "Bangladesh workers protest despite 36% wage increase",
+    "description": "Garment workers clashed with police in Bangladesh on Thursday, despite securing a minimum wage increase a day earlier. Protesters blocked roads and demonstrated in industrial areas near the capital, Dhaka. Police...",
+    "source": "Daily Times - Latest Pakistan News, World, Busines",
+    "link": "https://dailytimes.com.pk/1587387/bangladesh-workers-protest-despite-36-wage-increase/",
+    "pubDate": "2026-11-26 12:35:00",
     "category": [
      "world"
     ]
    },
    {
-    "title": "Ukrainian forces use fixed-wing strike drone in attack on railway station in DPR",
-    "description": "Two children and one adult were injured in the strike",
-    "source": "Russian News Agency Tass",
-    "link": "https://tass.com/politics/2225235",
-    "pubDate": "2026-11-26 11:36:18",
-    "category": [
-     "world"
-    ]
-   },
-   {
-    "title": "Barzani rejects Baghdad’s ‘unconstitutional’ decisions, warns against imposing its will on Kurdistan",
-    "description": "Masoud Barzani, leader of the Kurdistan Democratic Party (KDP), affirmed Wednesday that Iraq’s Kurdistan Region would not engage with any decisions or measures falling outside the framework of the Iraqi Constitution....",
-    "source": "Middle East Monitor",
-    "link": "https://www.middleeastmonitor.com/20261126-barzani-rejects-baghdads-unconstitutional-decisions-warns-against-imposing-its-will-on-kurdistan/",
-    "pubDate": "2026-11-26 11:36:02",
-    "category": [
-     "world"
-    ]
-   },
-   {
-    "title": "Cumberland Well Station cable severed by vandals in Region Six",
-    "description": "Water supply disruptions have affected multiple communities in Region Six (East Berbice-Corentyne) following a reported act of vandalism at the Cumberland Well Station. Unknown individuals severed a section of the...",
+    "title": "Kyrgyzstan state support for orphans and disabled children will rise starting January 2027",
+    "description": "Kyrgyzstan will implement increased state benefits starting January 1, 2027, as announced by Prime Minister Adylbek Kasymaliev. The government has allocated 47.3 billion som for social security in the coming year....",
     "source": "Pravda",
-    "link": "https://english.pravda.ru/news/world/174499-cumberland-well-station-cable-vandalism/",
-    "pubDate": "2026-11-26 11:36:00",
+    "link": "https://english.pravda.ru/news/world/174515-kyrgyzstan-social-benefit-increase-2027/",
+    "pubDate": "2026-11-26 12:35:00",
     "category": [
      "world"
     ]
    },
    {
-    "title": "What is open-weight AI? Why Chinese model releases worry US firms and government",
-    "description": "Open-weight AI models, which anyone can download, are reshaping the AI race. China leads open-weight with Kimi K3 and DeepSeek. American firms and government worry about losing AI dominance and safety risks",
-    "source": "Wion",
-    "link": "https://www.wionews.com/technology/what-is-open-weight-ai-why-chinese-model-releases-worry-us-firms-and-government-deepseek-qwen-anthropic-openai-kimi-k3-1795601344570",
-    "pubDate": "2026-11-26 11:35:16",
+    "title": "Bank Of England Warns Complex AI Financing Could Threaten Financial Stability",
+    "description": "Central bank says opaque funding arrangements could spread financial shocks across markets.",
+    "source": "Arise News",
+    "link": "https://www.arise.tv/bank-of-england-warns-complex-ai-financing-could-threaten-financial-stability/",
+    "pubDate": "2026-11-26 12:33:34",
     "category": [
      "world"
     ]
    },
    {
-    "title": "Kenya violated constitution in building US-backed Ebola quarantine site, court rules",
-    "description": "NAIROBI — A Kenyan court ruled on Thursday that the government breached the constitution in allowing the construction of a US-backed Ebola quarantine facility at a military base in the country, sparking protests and...",
-    "source": "Saudi Gazette",
-    "link": "https://saudigazette.com.sa/article/666556/world/kenya-violated-constitution-in-building-us-backed-ebola-quarantine-site-court-rules",
-    "pubDate": "2026-11-26 11:33:23",
+    "title": "Ant & Dec star in first look at their new extreme crazy golf 'entertainment event' coming to ITV",
+    "description": "The supersized crazy golf series is heading to ITV soon.",
+    "source": "Radio Times",
+    "link": "https://www.radiotimes.com/tv/entertainment/ant-and-dec-holey-moley-first-look-newsupdate/",
+    "pubDate": "2026-11-26 12:32:20",
     "category": [
      "world"
     ]
    },
    {
-    "title": "ECOWAS COMMISSION DIRECTOR OF CABINET PAYS COURTESY VISIT TO JURY OF THE SECOND ECOWAS MEDIA EXCELLENCE AWARDS",
-    "description": "On the 25th of November, 2026 at the ECOWAS Commission’s head quarters in Abuja, Nigeria, during the jury deliberations for the second edition of the ECOWAS Media Excellence Award, the Director of Cabinet of the...",
-    "source": "Economic Community Of West African States",
-    "link": "https://www.ecowas.int/ecowas-commission-director-of-cabinet-pays-courtesy-visit-to-jury-of-the-second-ecowas-media-excellence-awards/",
-    "pubDate": "2026-11-26 11:32:40",
+    "title": "Tajikistan plans to fully switch to renewable energy by 2032 — Prime Minister",
+    "description": "According to Kokhir Rasulzoda, the republic is currently using only 5% of its hydropower potential",
+    "source": "Russian News Agency Tass",
+    "link": "https://tass.com/world/2225289",
+    "pubDate": "2026-11-26 12:32:17",
     "category": [
      "world"
     ]
@@ -224,91 +236,142 @@
   ],
   "sports": [
    {
-    "title": "Gasperini’s Roma earns the respect of the football world - RomaPress",
-    "description": "Gasperini’s Roma earns the respect of the football world RomaPress Luis Enrique praises Roma after draw halts PSG's winning streak ESPN India Malen and Roma deny injury-hit PSG in Champions League draw Al Jazeera PSG...",
-    "source": "Google News",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON2Q5SlRfTkFOWDdrUE9iN2ktRHBpUVU0VVQtdVB5TFBaVV9senMxOUR6ZnRSMjNNYjN5WmRyWjVsYkRYaC1NSjEwVzk3dnlocGthb3BOdnBsaTRTNVlpTXZUck54NjdxcGgwTWs1NUFBV2VYekRGcVAyZlpUX0MwNlQtb04?oc=5",
-    "pubDate": "2026-11-26 11:35:23",
-    "category": [
-     "sports"
-    ]
-   },
-   {
-    "title": "WATCH Video: Rishabh Pant’s Golden-Hearted Gesture in Christchurch Wins Hearts; India Wicketkeeper Smashes 72 Off 26 in Local Match",
-    "description": "Rishabh Pant surprised local cricketers in Christchurch by accepting an invitation to play for Open House Swingers. The Indian wicketkeeper's appearance at Hagley Park went viral ahead of the second Test against New...",
-    "source": "The Sunday Guardian",
-    "link": "https://sundayguardianlive.com/sports/watch-video-rishabh-pants-golden-hearted-gesture-in-christchurch-wins-hearts-india-wicketkeeper-smashes-72-off-26-local-match-328113/",
-    "pubDate": "2026-11-26 11:34:51",
-    "category": [
-     "sports"
-    ]
-   },
-   {
-    "title": "'To clean-shaven face & head': Owaisi's 'moustache' challenge to Yogi, Akhilesh over CM fight in UP - The Times of India",
-    "description": "'To clean-shaven face & head': Owaisi's 'moustache' challenge to Yogi, Akhilesh over CM fight in UP The Times of India \"Abdul To Be Deputy Chief Minister\": A Owaisi, Chandrashekhar Azad's Promise NDTV BJP’s Balyan...",
-    "source": "Google News",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdUNTc0tzV0w5OGZjcGVnOFUwM3A0WjhhLUhkalJIR2ZZcGlCTUFfM24xd2ZlOTVQOU12bFFvYTA5NDMyNEg4WUFsREg1dkFVaTJTVEFnZWg4Q2pwVnJXTmtMcHlfb2dtank3bjMweWJ4Q2VMTlVpb3J4MnV0VFZtbUs5SUpUdUM0anExd2tkdlBOOVdBOEMwUGVkY1JXTTByQ0ozaWotdDQzbVI0OHlhOHRlRERmTXVxSC1qVF9ZNGkwTnVQZ1Bhcmd0b2c2d1k5bU9vYkRvV0J5bEowenNsczdqQ2w0aHZKd0FwQkdxVQ?oc=5",
-    "pubDate": "2026-11-26 11:34:00",
-    "category": [
-     "sports",
-     "top",
-     "entertainment"
-    ]
-   },
-   {
-    "title": "New Delhi: Rajnath Singh attends 66th NDC Course Valedictory Ceremony #Gallery",
-    "description": "The post New Delhi: Rajnath Singh attends 66th NDC Course Valedictory Ceremony #Gallery appeared first on Social News XYZ.",
-    "source": "Social News Xyz",
-    "link": "https://www.socialnews.xyz/2026/11/26/new-delhi-rajnath-singh-attends-66th-ndc-course-valedictory-ceremony-gallery/",
-    "pubDate": "2026-11-26 11:33:56",
-    "category": [
-     "sports",
-     "top",
-     "lifestyle"
-    ]
-   },
-   {
-    "title": "Mizoram seeks Dutch coaches to strengthen hockey, football training",
-    "description": "Aizawl: Mizoram has approached the Netherlands for technical and coaching assistance to improve training standards in hockey and football and nurture young sporting talent in the state. Mizoram Sports Minister...",
-    "source": "Northeast News - Northeast India News 24×7",
-    "link": "https://nenews.in/mizoram/mizoram-seeks-dutch-coaches-to-strengthen-hockey-football-training/72357/",
-    "pubDate": "2026-11-26 11:33:19",
+    "title": "North Force Estonia wins the only Asian qualifier for the Adventure Racing World Championship",
+    "description": "Arunachal Pradesh captured international attention as Adventure Mechukha 2026 brought together adventure racing teams from 21 countries for an extraordinary test of endurance, navigation and teamwork across some of...",
+    "source": "Mice Showcase",
+    "link": "https://miceshowcase.com/north-force-estonia-wins-the-only-asian-qualifier-for-the-adventure-racing-world-championship/",
+    "pubDate": "2026-11-26 12:36:50",
     "category": [
      "sports",
      "top"
     ]
    },
    {
-    "title": "SMAT: Priyansh Arya shines as Delhi qualify for Super League stage",
+    "title": "Will Australia bounce back against England in 2nd T20I?",
+    "description": "The third T20I of the five-match series between Australia and England will be played at The Gabba in Brisbane tomorrow.",
+    "source": "Newsbytes",
+    "link": "https://www.newsbytesapp.com/news/sports/3rd-t20-australia-vs-england-preview/story",
+    "pubDate": "2026-11-26 12:36:41",
+    "category": [
+     "sports",
+     "top"
+    ]
+   },
+   {
+    "title": "Maha Deputy CM Sunetra Pawar Directs Redistribution Of Unspent Sports Complex Funds, Seeks Immediate Cabinet Proposals",
+    "description": "Maharashtra Deputy CM Sunetra Pawar directed officials to reclaim unspent funds from sports complex committees and redistribute them to facilities requiring urgent financial assistance. Chairing a meeting in Mumbai,...",
+    "source": "The Free Press Journal",
+    "link": "https://www.freepressjournal.in/mumbai/maha-deputy-cm-sunetra-pawar-directs-redistribution-of-unspent-sports-complex-funds-seeks-immediate-cabinet-proposals",
+    "pubDate": "2026-11-26 12:36:12",
+    "category": [
+     "sports",
+     "top",
+     "politics"
+    ]
+   },
+   {
+    "title": "Gaikwad rested, not dropped, from Maharashtra's final SMAT clash against Andhra",
+    "description": "Digital Desk | New Chandigarh, Nov 26 (IANS) Top-order batter Ruturaj Gaikwad's absence from Maharashtra's final Syed Mushtaq Ali Trophy game against Andhra at the IS Bindra Stadium on Thursday...",
+    "source": "Bhaskarlive",
+    "link": "https://bhaskarlive.in/others/gaikwad-rested-not-dropped-from-maharashtras-final-smat-clash-against-andhra-2170473",
+    "pubDate": "2026-11-26 12:36:06",
+    "category": [
+     "sports",
+     "top"
+    ]
+   },
+   {
+    "title": "'I think Vaibhav Sooryavanshi is just unbelievable to watch...': Ish Sodhi",
+    "description": "India A's batting sensation Vaibhav Sooryavanshi delivered a fiery knock of 204 runs off just 53 deliveries. His knock was laced with seven boundaries and 28 maximums",
+    "source": "Mid-day",
+    "link": "https://www.mid-day.com/sports/cricket/article/new-zealand-spinner-ish-sodhi-heaps-praise-on-vaibhav-sooryavanshi-23661477",
+    "pubDate": "2026-11-26 12:36:06",
+    "category": [
+     "sports"
+    ]
+   },
+   {
+    "title": "Who Is Bilal Asif? Pakistan Cricketer Marries Entrepreneur Abidha Chaudhary; Honey Singh, Atif Aslam Attend Wedding In Dubai",
+    "description": "Event host Sadiq Saleem shared pictures and videos from the wedding on Instagram. In one of the videos, Honey Singh and Atif Aslam can be seen dancing together.",
+    "source": "The Free Press Journal",
+    "link": "https://www.freepressjournal.in/sports/who-is-bilal-asif-pakistan-cricketer-marries-entrepreneur-abidha-chaudhary-honey-singh-atif-aslam-attend-wedding-in-dubai",
+    "pubDate": "2026-11-26 12:35:38",
+    "category": [
+     "sports",
+     "top"
+    ]
+   },
+   {
+    "title": "Which account conditions apply to casino offers: Spinfin",
+    "description": "Promotion types at Spinfin Eligibility and account rules for our offers Our casino games with their featured options Using our bonuses responsibly Our casino bonuses are intended to offer new and usual customers...",
+    "source": "Chhattisgarh Power Hub",
+    "link": "https://www.cgpowerhub.com/spinfin-casino-bonuses-and-slot-play-conditions-focused-summaries/",
+    "pubDate": "2026-11-26 12:35:19",
+    "category": [
+     "sports",
+     "top",
+     "business"
+    ]
+   },
+   {
+    "title": "Who’s Stan Stan? Rishabh Pant plays club cricket before operating F1 simulator",
     "description": "",
-    "source": "Ptinews",
-    "link": "https://www.ptinews.com/story/sports/smat-priyansh-arya-shines-as-delhi-qualify-for-super-league-stage/4295706",
-    "pubDate": "2026-11-26 11:33:02",
+    "source": "The Indian Express",
+    "link": "https://indianexpress.com/article/sports/cricket/rishabh-pant-new-zealand-club-cricket-stan-stan-f1-10979834/",
+    "pubDate": "2026-11-26 12:34:47",
     "category": [
      "sports",
      "top"
-    ]
-   },
-   {
-    "title": "Shodhan Rai Wins Silver at Natural Olympia 2026",
-    "description": "Indian natural bodybuilder Shodhan Rai has won a silver medal at Natural Olympia 2026 in Las Vegas, United States, adding another international achievement to his bodybuilding career spanning more than three decades....",
-    "source": "Global Indian News Network -",
-    "link": "https://globalindiannewsnetwork.com/shodhan-rai-wins-silver-at-natural-olympia-2026/",
-    "pubDate": "2026-11-26 11:32:48",
-    "category": [
-     "sports",
-     "top",
-     "lifestyle"
     ]
    }
   ],
   "entertainment": [
    {
-    "title": "Gunmaaster G9 Advance Booking: Emraan Hashmi & Genelia Deshmukh Starrer Records Slow Start Ahead of Release",
-    "description": "Emraan Hashmi and Genelia Deshmukh’s upcoming romantic action drama Gunmaaster G9 has registered a sluggish start in its opening-day bookings at major multiplex chains ahead of its theatrical release. As of 11 PM on...",
-    "source": "Pragativadi",
-    "link": "https://pragativadi.com/gunmaaster-g9-booking-data-ahead-of-release/",
-    "pubDate": "2026-11-26 11:35:51",
+    "title": "Anushka Shetty plans to sell her Hyderabad home worth Rs 12 crore",
+    "description": "Anushka Shetty is believed to be in talks to sell her property located in Jubilee Hills, Hyderabad. The property is valued at approximately Rs 12 crore, but financial issues are not a reason for the sale. There are...",
+    "source": "The Times Of India",
+    "link": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/anushka-shetty-plans-to-sell-her-hyderabad-home-worth-rs-12-crore-is-the-baahubali-actress-moving-abroad/articleshow/136192202.cms",
+    "pubDate": "2026-11-26 12:36:55",
+    "category": [
+     "entertainment"
+    ]
+   },
+   {
+    "title": "Nawazuddin Siddiqui turns unconventional medical genius in Dr. Hassan as JioHotstar show premieres December 11",
+    "description": "JioHotstar has unveiled the trailer of Dr. Hassan, starring Nawazuddin Siddiqui and Dia Mirza, offering a glimpse into a medical drama centred on an unconventional doctor with an exceptional ability to solve complex...",
+    "source": "Bollywood Hungama",
+    "link": "https://www.bollywoodhungama.com/news/features/nawazuddin-siddiqui-turns-unconventional-medical-genius-in-dr-hassan-as-jiohotstar-show-premieres-december-11/",
+    "pubDate": "2026-11-26 12:36:53",
+    "category": [
+     "entertainment"
+    ]
+   },
+   {
+    "title": "Arnab Dutta on composing ‘Awadh Ke Ram Chale’ for Ranbir Kapoor’s Ramayana: “The love for the song is beyond what I had imagined”",
+    "description": "Composer, lyricist and playback singer Arnab Dutta has reflected on the response to ‘Awadh Ke Ram Chale’, his musical contribution to Ramayana, starring Ranbir Kapoor. Released separately following the film's...",
+    "source": "Bollywood Hungama",
+    "link": "https://www.bollywoodhungama.com/news/features/arnab-dutta-on-composing-awadh-ke-ram-chale-for-ranbir-kapoors-ramayana-the-love-for-the-song-is-beyond-what-i-had-imagined/",
+    "pubDate": "2026-11-26 12:36:53",
+    "category": [
+     "entertainment"
+    ]
+   },
+   {
+    "title": "Gold rings and biryani: Inside Anirudh and Kavya’s lavish post-wedding feast for employees",
+    "description": "Newlyweds Anirudh Ravichander and Kavya Maran treated Sun Group staff to a grand biryani feast and gold rings following their star-studded wedding in Greece.",
+    "source": "Indulgexpress",
+    "link": "https://www.indulgexpress.com/entertainment/celebs/2026/Nov/26/gold-rings-and-biryani-inside-anirudh-and-kavyas-lavish-post-wedding-feast-for-employees",
+    "pubDate": "2026-11-26 12:35:26",
+    "category": [
+     "entertainment"
+    ]
+   },
+   {
+    "title": "SRK's team clears the air on influencer defamation reports",
+    "description": "Shah Rukh Khan's legal team denied that any defamation notice was sent to a social media influencer, calling a circulating notice dated November 23, 2026 unauthorised. It followed a viral Reel and media reports. SRK...",
+    "source": "The Times Of India",
+    "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/no-legal-notice-sent-shah-rukh-khans-team-clears-the-air-on-influencer-defamation-reports/articleshow/136192159.cms",
+    "pubDate": "2026-11-26 12:35:00",
     "category": [
      "entertainment"
     ]
@@ -316,11 +379,11 @@
   ],
   "tech": [
    {
-    "title": "BMW Recalls Select 4 Series Convertibles (M4 Included) Because Their Rearview Mirrors Could Detach",
-    "description": "Five different versions of the 4 Series Convertible are being recalled in the US market due to an iffy batch of rearview mirror mount primer",
-    "source": "Auto Evolution",
-    "link": "https://www.autoevolution.com/news/bmw-recalls-select-4-series-convertibles-m4-included-because-their-rearview-mirrors-could-detach-279036.html",
-    "pubDate": "2026-11-26 11:36:01",
+    "title": "iOS 28 will either fix notification abuse or make it all worse",
+    "description": "Apple is reportedly planning to revamp how iPhone notifications work in iOS 28, although with no further details, it can only be hoped that it will be an improvement. An example of an Apple ad notification. Let's not...",
+    "source": "Apple Insider",
+    "link": "https://appleinsider.com/articles/26/11/26/ios-28-will-either-fix-notification-abuse-or-make-it-all-worse",
+    "pubDate": "2026-11-26 12:36:45",
     "category": [
      "technology"
     ]

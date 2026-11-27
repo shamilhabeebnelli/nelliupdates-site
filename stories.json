@@ -1,6 +1,36 @@
 {
  "stories": [
   {
+   "id": "trai-extends-1601-series-ecommerce-hospitals-airlines-nov27",
+   "cats": [
+    "Tech"
+   ],
+   "title": "1601 സീരീസ് നമ്പറുകൾ ഇ-കൊമേഴ്സ്, ആശുപത്രി, എയർലൈൻ തുടങ്ങിയ മേഖലകളിലേക്കും നീട്ടി ട്രായ്",
+   "en": "TRAI extends 1601-series numbers for service and transactional calls to e-commerce, hospitals, airlines and other sectors, as reported",
+   "sum": "സേവന, ട്രാൻസാക്ഷണൽ വോയ്സ് കോളുകൾക്കുള്ള 1601 സീരീസ് നമ്പറുകൾ ഇ-കൊമേഴ്സ്, റീട്ടെയിൽ ശൃംഖലകൾ, ആശുപത്രികൾ, വിമാനക്കമ്പനികൾ, ഫുഡ്-റൈഡ് അഗ്രഗേറ്ററുകൾ തുടങ്ങിയ മേഖലകളിലേക്കും ട്രായ് നീട്ടിയതായി ബിസിനസ് സ്റ്റാൻഡേർഡും ടൈംസ് ഓഫ് ഇന്ത്യയും റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "28 Nov 2026",
+   "body": [
+    "സേവന, ട്രാൻസാക്ഷണൽ വോയ്സ് കോളുകൾക്കുള്ള 1601 സീരീസ് നമ്പറുകൾ ഇ-കൊമേഴ്സ്, റീട്ടെയിൽ ശൃംഖലകൾ, ആശുപത്രികൾ, വാണിജ്യ വിമാനക്കമ്പനികൾ, ഫുഡ്, റൈഡ്-ഹെയ്ലിങ് അഗ്രഗേറ്ററുകൾ തുടങ്ങിയ കൂടുതൽ മേഖലകളിലേക്കും ട്രായ് നീട്ടിയതായി ബിസിനസ് സ്റ്റാൻഡേർഡും ടൈംസ് ഓഫ് ഇന്ത്യയും (നവംബർ 27) റിപ്പോർട്ട് ചെയ്യുന്നു.",
+    "ഓഗസ്റ്റിൽ തുടങ്ങിയ ആദ്യ ഘട്ടത്തിൽ യൂട്ടിലിറ്റി, ലോജിസ്റ്റിക്സ് സ്ഥാപനങ്ങൾക്കായിരുന്നു ഈ സീരീസ്. വ്യാജ കോളുകൾ തിരിച്ചറിയാനും തട്ടിപ്പ് തടയാനും സഹായിക്കുക എന്നതാണ് ലക്ഷ്യം. ടൈംസ് ഓഫ് ഇന്ത്യ പ്രകാരം മുൻ മൂന്ന് സാമ്പത്തിക വർഷങ്ങളിൽ ഒന്നിലെങ്കിലും 500 കോടി രൂപയോ അതിലധികമോ വിറ്റുവരവുള്ള സ്ഥാപനങ്ങൾക്കാണ് അർഹത. പോസ്റ്ററിലെ ചിത്രം പ്രതീകാത്മകം മാത്രമാണ്."
+   ],
+   "srcs": [
+    [
+     "Business Standard: Trai extends 1601 series, Phase 2",
+     "https://www.business-standard.com/industry/news/trai-extends-1601-numbering-series-to-consumer-facing-sectors-in-phase-2-126112701066_1.html"
+    ],
+    [
+     "Times of India: Trai extends use of 1601-series",
+     "https://timesofindia.indiatimes.com/business/india-business/trai-extends-use-of-1601-series-to-additional-sectors-like-e-commerce-ride-aggregators/articleshow/136224353.cms"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgQe0RdBiCQ/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 1:26 AM IST on 28 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-28T01:26:22+05:30"
+  },
+  {
    "id": "tamil-nadu-340-rural-roads-1037-crore-upgrade-nov27",
    "cats": [
     "India"

@@ -1,6 +1,45 @@
 {
  "stories": [
   {
+   "id": "sebi-fpi-physical-commodity-derivatives-june-2027-nov27",
+   "cats": [
+    "India"
+   ],
+   "title": "വിദേശ പോർട്ട്ഫോളിയോ നിക്ഷേപകർക്ക് ഫിസിക്കൽ സെറ്റിൽമെന്റ് കമ്മോഡിറ്റി ഡെറിവേറ്റീവുകളിൽ പങ്കെടുക്കാൻ സെബി അനുമതി",
+   "en": "SEBI permits FPIs to trade physically settled non-agricultural commodity derivatives from June 1, 2027, with delivery-period safeguards, as reported",
+   "sum": "കാർഷികേതര ഫിസിക്കൽ സെറ്റിൽമെന്റ് കമ്മോഡിറ്റി ഡെറിവേറ്റീവ് കരാറുകളിൽ (ഗുഡ്സ് ഓപ്ഷനുകൾ ഒഴികെ) പങ്കെടുക്കാൻ എഫ്പിഐകൾക്ക് സെബി അനുമതി നൽകിയതായി റിപ്പോർട്ടുകൾ. 2027 ജൂൺ 1 മുതൽ പ്രാബല്യത്തിൽ.",
+   "date": "27 Nov 2026",
+   "body": [
+    "മണികൺട്രോൾ, ഇക്കണോമിക് ടൈംസ്, ദി ഹിന്ദു ബിസിനസ് ലൈൻ (പിടിഐ) എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നതനുസരിച്ച്, ഫിസിക്കൽ സെറ്റിൽമെന്റ് ഉള്ള കാർഷികേതര കമ്മോഡിറ്റി ഡെറിവേറ്റീവ് കരാറുകളിൽ (ഗുഡ്സ് ഓപ്ഷനുകൾ ഒഴികെ) വിദേശ പോർട്ട്ഫോളിയോ നിക്ഷേപകർക്ക് (എഫ്പിഐ) പങ്കെടുക്കാൻ സെബി സർക്കുലറിലൂടെ അനുമതി നൽകി. നിലവിൽ കാഷ് സെറ്റിൽമെന്റ് കരാറുകളിൽ മാത്രമാണ് എഫ്പിഐകൾക്ക് അനുമതി. പുതിയ രീതി 2027 ജൂൺ 1 മുതൽ പ്രാബല്യത്തിൽ വരുമെന്ന് റിപ്പോർട്ടുകൾ പറയുന്നു.",
+    "ടെൻഡർ അല്ലെങ്കിൽ ഡെലിവറി കാലയളവ് തുടങ്ങുന്നതിനു മുമ്പ് എഫ്പിഐകൾ തങ്ങളുടെ പൊസിഷൻ ക്ലോസ് ചെയ്യുകയോ റോൾ ഓവർ ചെയ്യുകയോ വേണം. അതിനു തൊട്ടുമുമ്പുള്ള ദിവസം വിപണി സമയം അവസാനിക്കുമ്പോഴും ബാക്കിയുള്ള പൊസിഷൻ നിശ്ചയിച്ച ട്രേഡിങ് അംഗത്തിന്റെ സ്വന്തം അക്കൗണ്ടിലേക്ക് മാറ്റുമെന്ന് സർക്കുലറിൽ പറയുന്നതായി റിപ്പോർട്ടുകൾ ഉദ്ധരിക്കുന്നു. ടെൻഡർ കാലയളവിനു മൂന്ന് വ്യാപാര ദിവസം മുമ്പുമുതൽ കാലഹരണപ്പെടുന്ന ഫ്യൂച്ചേഴ്സ് കരാറിൽ പുതിയ പൊസിഷൻ വർധിപ്പിക്കാനാവില്ല.",
+    "എഫ്പിഐകൾ ക്ലിയറിങ് അംഗവും ട്രേഡിങ് അംഗവുമായി ത്രികക്ഷി കരാറോ, ട്രേഡിങ്-കം-ക്ലിയറിങ് അംഗവുമായി ദ്വികക്ഷി കരാറോ ഉണ്ടാക്കണം. ഒരു ഡെസിഗ്നേറ്റഡ് അംഗം നിർബന്ധമാണെന്നും റിപ്പോർട്ടുകളിൽ പറയുന്നു."
+   ],
+   "srcs": [
+    [
+     "SEBI circular: FPI participation in ETCDs",
+     "https://www.sebi.gov.in/legal/circulars/nov-2026/fpi-participation-in-exchange-traded-commodity-derivatives-etcds-_105989.html"
+    ],
+    [
+     "Moneycontrol: SEBI allows FPIs in physical derivatives",
+     "https://www.moneycontrol.com/news/business/markets/sebi-allows-fpis-to-trade-in-physically-settled-commodity-derivatives-puts-in-place-risk-safeguards-14090472.html"
+    ],
+    [
+     "Economic Times: Sebi allows FPIs physical settlement",
+     "https://economictimes.indiatimes.com/markets/stocks/news/sebi-allows-fpis-to-participate-in-physically-settled-non-agri-commodity-derivatives/articleshow/136224039.cms"
+    ],
+    [
+     "BusinessLine (PTI): SEBI allows FPIs from June 2027",
+     "https://www.thehindubusinessline.com/markets/commodities/sebi-allows-fpis-to-trade-in-physically-settled-commodity-derivatives-from-june-2027/article71751009.ece"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgP7bTUh-VE/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 8:17 PM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T20:17:08+05:30"
+  },
+  {
    "id": "pf-trusts-exempted-investment-pattern-equity-5-15-nov27",
    "cats": [
     "India"

@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "bangkok-bangchak-refinery-explosion-fire-nov26",
+   "cats": [
+    "World"
+   ],
+   "title": "ബാങ്കോക്കിലെ ബാങ്ചാക് റിഫൈനറിയിൽ സ്ഫോടനവും തീപിടിത്തവും; കുറഞ്ഞത് ഏഴ് പേർക്ക് പരിക്ക്, ഉൽപ്പാദനം നിർത്തി",
+   "en": "Explosion and fire at Bangchak refinery in Bangkok injures at least seven; company shuts all production units, as reported by AP, Reuters and BBC",
+   "sum": "തായ്‌ലൻഡ് തലസ്ഥാനമായ ബാങ്കോക്കിലെ ഫ്ര ഖനോങ് റിഫൈനറിയിൽ വ്യാഴാഴ്ച (നവംബർ 26) സ്ഫോടനവും തീപിടിത്തവും ഉണ്ടായെന്നും കുറഞ്ഞത് ഏഴ് പേർക്ക് പരിക്കേറ്റെന്നും എപി, റോയിട്ടേഴ്സ് (സിഎൻഎ വഴി), ബിബിസി എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "ബാങ്കോക്കിലെ ബാങ്ചാക് കോർപ്പിന്റെ ഫ്ര ഖനോങ് റിഫൈനറിയിൽ വ്യാഴാഴ്ച (നവംബർ 26) ഉച്ചകഴിഞ്ഞ് ഏകദേശം 2.45-ന് സ്ഫോടനവും തീപിടിത്തവും ഉണ്ടായി. 30 മിനിറ്റിനുള്ളിൽ തീ നിയന്ത്രണവിധേയമാക്കിയെന്ന് കമ്പനി അറിയിച്ചതായി റോയിട്ടേഴ്സ് (സിഎൻഎ വഴി), ബിബിസി എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു.",
+    "കുറഞ്ഞത് ഏഴ് പേർക്ക് പരിക്കേറ്റെന്നും ചിലരുടെ നില ഗുരുതരമാണെന്നും എരാവൻ എമർജൻസി മെഡിക്കൽ സെന്ററിനെ ഉദ്ധരിച്ച് റിപ്പോർട്ടുകൾ പറയുന്നു. ചില റിപ്പോർട്ടുകളിൽ പരിക്കേറ്റവരുടെ എണ്ണം ഒൻപത് വരെയാണ്; കണക്കുകൾ വ്യത്യസ്തമാണ്. സമീപവാസികളെ താൽക്കാലികമായി ഒഴിപ്പിച്ചതായി എപി റിപ്പോർട്ട് ചെയ്യുന്നു.",
+    "ഫ്ര ഖനോങ് റിഫൈനറിയിലെ എല്ലാ ഉൽപ്പാദന യൂണിറ്റുകളും നിർത്തിവച്ചതായി ബാങ്ചാക് അറിയിച്ചു. അപകടകാരണം അന്വേഷിക്കുകയാണ്."
+   ],
+   "srcs": [
+    [
+     "AP: Explosion and fire at Bangkok oil facility",
+     "https://apnews.com/article/thailand-bangkok-explosion-oil-facility-e8098146bfb994dffc14448b1027c5d1"
+    ],
+    [
+     "CNA (Reuters): Bangchak shuts all units after fire",
+     "https://www.channelnewsasia.com/business/thailands-bangchak-shuts-all-units-bangkok-refinery-after-fire-6584891"
+    ],
+    [
+     "BBC: Bangkok oil refinery explosion",
+     "https://www.bbc.com/news/articles/crx209kwk4kzo"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgO5WnBhsfK/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 10:39 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T10:39:47+05:30"
+  },
+  {
    "id": "congo-ebola-12000-confirmed-cases-5904-deaths-nov26",
    "cats": [
     "World"

@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "character-ai-chat-auction-42-state-ags-object-nov27",
+   "cats": [
+    "Tech"
+   ],
+   "title": "ക്യാരക്ടർ.എഐ ഉപയോക്തൃ ചാറ്റുകളുടെ ലേലത്തിന് 42 യുഎസ് സംസ്ഥാനങ്ങളുടെ എതിർപ്പ്, റിപ്പോർട്ടുകൾ",
+   "en": "42 US state attorneys general object to Character.AI plan to auction user chats in bankruptcy sale, as reported",
+   "sum": "പാപ്പരത്ത നടപടിയിലുള്ള ചാറ്റ്ബോട്ട് കമ്പനി ക്യാരക്ടർ.എഐ ഉപയോക്തൃ ചാറ്റുകൾ ഉൾപ്പെടെ വിൽക്കാനുള്ള നീക്കത്തെ 42 യുഎസ് സംസ്ഥാനങ്ങളുടെ അറ്റോർണി ജനറൽമാർ കോടതിയിൽ എതിർത്തെന്ന് ക്യൂസെഡും ഫ്യൂച്ചറിസവും റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "പാപ്പരത്ത നടപടികളിലുള്ള ചാറ്റ്ബോട്ട് കമ്പനി ക്യാരക്ടർ.എഐ അതിന്റെ പ്ലാറ്റ്ഫോമും ഉപയോക്താക്കളുടെ സംഭാഷണങ്ങളും ഉൾപ്പെടെ വിൽക്കാൻ നീക്കം നടത്തുന്നതിനെ 42 യുഎസ് സംസ്ഥാനങ്ങളുടെ അറ്റോർണി ജനറൽമാർ ഡെലവെയറിലെ പാപ്പരത്ത കോടതിയിൽ എതിർത്തെന്ന് ക്യൂസെഡും ഫ്യൂച്ചറിസവും റിപ്പോർട്ട് ചെയ്യുന്നു.",
+    "യുഎസിലെ ഏകദേശം 2.1 കോടി അക്കൗണ്ടുകളിലെ ചാറ്റുകൾ വിൽപ്പനയിൽ ഉൾപ്പെടുന്നുണ്ടെന്നും അതിൽ 21 ലക്ഷത്തിലധികം അക്കൗണ്ടുകൾ പ്രായപൂർത്തിയാകാത്തവരുടേതാണെന്നും സംസ്ഥാനങ്ങളുടെ ഫയലിങ്ങിനെ ഉദ്ധരിച്ച് ക്യൂസെഡ് പറയുന്നു. ഡിസംബർ 1-ന് ലേലം നിശ്ചയിച്ചിട്ടുണ്ടെന്ന് ഇരു റിപ്പോർട്ടുകളും പറയുന്നു. ആദ്യ ലേലക്കാരൻ 1 കോടി ഡോളർ വാഗ്ദാനം ചെയ്തതായി ഫ്യൂച്ചറിസം റിപ്പോർട്ട് ചെയ്യുന്നു.",
+    "സ്വകാര്യതാ നിയമങ്ങൾ പാപ്പരത്തത്തിൽ ബാധകമല്ലാതാകുന്നില്ലെന്ന് സംസ്ഥാനങ്ങൾ വാദിക്കുന്നതായി ക്യൂസെഡ് റിപ്പോർട്ട് ചെയ്യുന്നു. ഇത് സംസ്ഥാനങ്ങളുടെ വാദമാണ്; കോടതിയുടെ അന്തിമ തീരുമാനം വന്നിട്ടില്ല."
+   ],
+   "srcs": [
+    [
+     "Qz: 42 state AGs try to block Character.AI chat auction",
+     "https://qz.com/character-ai-state-attorneys-general-chat-auction-112726"
+    ],
+    [
+     "Futurism: Bankrupt chatbot startup looking to sell child data",
+     "https://futurism.com/artificial-intelligence/bankrupt-chatbot-startup-sell-child-data"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgQEeidBPi5/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 9:36 PM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T21:36:13+05:30"
+  },
+  {
    "id": "delhi-aqi-220-poor-friday-morning-dtu-304-nov27",
    "cats": [
     "India"

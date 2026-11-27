@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "india-first-human-metabolic-chamber-cmc-vellore-tifr-nov23",
+   "cats": [
+    "India"
+   ],
+   "title": "ഇന്ത്യയിലെ ആദ്യ ഹ്യൂമൻ മെറ്റബോളിക് ചേംബർ വെല്ലൂർ സിഎംസിയിൽ: പൊണ്ണത്തടി, പ്രമേഹ ഗവേഷണത്തിന്",
+   "en": "India's first Human Metabolic Chamber facility opens at CMC Vellore with TIFR for obesity and diabetes research, as reported",
+   "sum": "സിഎംസി വെല്ലൂരും ടിഐഎഫ്ആറും ചേർന്ന് സ്ഥാപിച്ച ഇന്ത്യയിലെ ആദ്യ ഹ്യൂമൻ മെറ്റബോളിക് ചേംബർ സൗകര്യം നവംബർ 23-ന് കേന്ദ്ര ആരോഗ്യ സെക്രട്ടറി ഉദ്ഘാടനം ചെയ്തെന്ന് പിഐബിയും ഡെക്കാൻ ഹെറാൾഡും റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "ക്രിസ്ത്യൻ മെഡിക്കൽ കോളേജ് (സിഎംസി) വെല്ലൂരും ടാറ്റ ഇൻസ്റ്റിറ്റ്യൂട്ട് ഓഫ് ഫണ്ടമെന്റൽ റിസർച്ചും (ടിഐഎഫ്ആർ) ചേർന്ന് സ്ഥാപിച്ച ഇന്ത്യയിലെ ആദ്യ ഹ്യൂമൻ മെറ്റബോളിക് ചേംബർ സൗകര്യം നവംബർ 23-ന് കേന്ദ്ര ആരോഗ്യ സെക്രട്ടറി ഉദ്ഘാടനം ചെയ്തതായി പിഐബിയെ ഉദ്ധരിച്ച് എക്സ്പ്രസ് ഹെൽത്ത്കെയറും ഡെക്കാൻ ഹെറാൾഡും റിപ്പോർട്ട് ചെയ്യുന്നു.",
+    "ഒരു സന്നദ്ധപ്രവർത്തകൻ 24 മണിക്കൂറോ അതിലധികമോ ഉള്ളിൽ താമസിച്ച് ഭക്ഷണം കഴിക്കുകയും ഉറങ്ങുകയും ചെയ്യുമ്പോൾ ഓക്സിജൻ ഉപയോഗവും കാർബൺ ഡൈ ഓക്സൈഡ് പുറന്തള്ളലും അളക്കുന്ന മുറിയുടെ വലുപ്പമുള്ള കാലറിമീറ്ററാണിത്. ശരീരം ഊർജം എങ്ങനെ ഉപയോഗിക്കുന്നു എന്ന് മനസ്സിലാക്കാനാണ് ഇത്.",
+    "പൊണ്ണത്തടി, പ്രമേഹം തുടങ്ങിയ രോഗങ്ങളെക്കുറിച്ചുള്ള ഗവേഷണത്തിനും ഇന്ത്യക്കാരുടെ പ്രത്യേക ആരോഗ്യ സാഹചര്യങ്ങളിൽ അധിഷ്ഠിതമായ പോഷകാഹാര തന്ത്രങ്ങൾ രൂപപ്പെടുത്താനും ഇത് സഹായിക്കുമെന്ന് റിപ്പോർട്ടുകളിൽ പറയുന്നു."
+   ],
+   "srcs": [
+    [
+     "PIB via Express Healthcare: metabolic chamber at CMC",
+     "https://www.expresshealthcare.in/news/indias-first-dedicated-human-metabolic-chamber-facility-inaugurated-at-cmc-vellore/456000/"
+    ],
+    [
+     "Deccan Herald: India's 1st metabolic chamber, Vellore",
+     "https://www.deccanherald.com/health/healthcare/indias-1st-metabolic-chamber-launched-in-vellore-to-study-obesity-diabetes-4230683"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgOikuphU2y/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 7:20 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T07:20:44+05:30"
+  },
+  {
    "id": "goyal-darjeeling-tea-global-campaign-freight-support-nov26",
    "cats": [
     "India"

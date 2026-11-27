@@ -1,6 +1,36 @@
 {
  "stories": [
   {
+   "id": "kinnaur-forest-fire-woman-killed-burning-tree-nov27",
+   "cats": [
+    "India"
+   ],
+   "title": "കിന്നൗറിൽ കാട്ടുതീക്കിടെ കത്തുന്ന മരം കാറിന് മുകളിൽ വീണ് സ്ത്രീ മരിച്ചു; രണ്ടുപേർക്ക് പരിക്ക്",
+   "en": "Woman killed, two hurt as burning tree falls on car during Kinnaur forest fire in Himachal Pradesh",
+   "sum": "ഹിമാചൽ പ്രദേശിലെ കിന്നൗർ ജില്ലയിൽ കാട്ടുതീക്കിടെ കത്തുന്ന മരം കാറിന് മുകളിൽ വീണ് ഒരു സ്ത്രീ മരിക്കുകയും രണ്ടുപേർക്ക് പരിക്കേൽക്കുകയും ചെയ്തു. 200 ഹെക്ടറിലധികം വനഭൂമി കത്തിനശിച്ചതായി ട്രിബ്യൂൺ റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "ഹിമാചൽ പ്രദേശിലെ കിന്നൗർ ജില്ലയിൽ കാട്ടുതീക്കിടെ ഒരു കത്തുന്ന മരം കാറിന് മുകളിൽ വീണ് ഒരു സ്ത്രീ മരിക്കുകയും രണ്ട് പുരുഷന്മാർക്ക് പരിക്കേൽക്കുകയും ചെയ്തുവെന്ന് പോലീസ് പറഞ്ഞതായി ഹിന്ദുസ്ഥാൻ ടൈംസ് റിപ്പോർട്ട് ചെയ്യുന്നു. ഛഗാവ് ഗ്രാമത്തിൽ ബുധനാഴ്ച വൈകുന്നേരമായിരുന്നു സംഭവം. പരിക്കേറ്റവർ ചികിത്സയിലാണ്; കേസ് രജിസ്റ്റർ ചെയ്ത് അന്വേഷണം തുടങ്ങിയെന്ന് കിന്നൗർ എസ്പി പറഞ്ഞു.",
+    "കിന്നൗറിലെ നിചാർ ബ്ലോക്കിൽ 200 ഹെക്ടറിലധികം വനഭൂമി കത്തിനശിച്ചതായി ദി ട്രിബ്യൂൺ റിപ്പോർട്ട് ചെയ്യുന്നു. ഉർണി, ഛഗാവ് എന്നിവിടങ്ങളിലാണ് തീ പടർന്നത്; ഉർണിയിലെ തീ നിയന്ത്രണവിധേയമായെന്നും ഛഗാവിലേത് അണയ്ക്കാൻ ശ്രമം തുടരുന്നുവെന്നും ഡിഎഫ്ഒ പറഞ്ഞു. സൈന്യവും ഐടിബിപിയും തീയണയ്ക്കലിൽ പങ്കെടുക്കുന്നു. മനുഷ്യ ഇടപെടലാണ് തീപിടിത്തത്തിന് കാരണമെന്ന് സംശയിക്കുന്നതായും അജ്ഞാതർക്കെതിരെ എഫ്ഐആർ രജിസ്റ്റർ ചെയ്തതായും ഉദ്യോഗസ്ഥർ പറഞ്ഞു."
+   ],
+   "srcs": [
+    [
+     "Hindustan Times: Woman killed, 2 hurt in Kinnaur fire",
+     "https://www.hindustantimes.com/cities/chandigarh-news/woman-killed-2-hurt-as-burning-tree-falls-on-car-during-kinnaur-forest-fire-101795722697038.html"
+    ],
+    [
+     "The Tribune: 200 hectares gutted, Kinnaur woman killed",
+     "https://www.tribuneindia.com/news/himachal/massive-forest-fire-engulfs-200-hectares-in-kinnaur-woman-killed-as-burning-branch-falls-on-car/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgPNkaTBMHi/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 1:36 PM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T13:36:30+05:30"
+  },
+  {
    "id": "fifa-confirms-cyberattack-personal-business-data-nov26",
    "cats": [
     "Sports"

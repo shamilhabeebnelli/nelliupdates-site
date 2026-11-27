@@ -1,6 +1,40 @@
 {
  "stories": [
   {
+   "id": "esa-hera-dimorphos-stadium-sized-crater-dart-impact-nov25",
+   "cats": [
+    "World"
+   ],
+   "title": "ഡാർട്ട് ഇടിച്ച ഡൈമോർഫോസ് ഛിന്നഗ്രഹത്തിൽ സ്റ്റേഡിയം വലുപ്പമുള്ള ഗർത്തമെന്ന് ESA ഹെറ ദൗത്യം",
+   "en": "ESA's Hera mission finds stadium-sized crater on asteroid Dimorphos hit by NASA's DART in 2022; ESA release dated Nov 25, as reported",
+   "sum": "2022-ൽ നാസയുടെ ഡാർട്ട് പേടകം ഇടിച്ച ഡൈമോർഫോസ് ഛിന്നഗ്രഹത്തിൽ സ്റ്റേഡിയം വലുപ്പമുള്ള ഗർത്തം കണ്ടെത്തിയതായി ESA-യുടെ ഹെറ ദൗത്യം അറിയിച്ചു. ESA പത്രക്കുറിപ്പ് നവംബർ 25-ന്; ബിബിസി ന്യൂസ്റൗണ്ടും സിഎൻബിസി ടിവി18-ഉം നവംബർ 27-ന് റിപ്പോർട്ട് ചെയ്തു.",
+   "date": "28 Nov 2026",
+   "body": [
+    "2022 സെപ്റ്റംബർ 26-ന് നാസയുടെ ഡാർട്ട് പേടകം മനഃപൂർവം ഇടിച്ച ഡൈമോർഫോസ് ഛിന്നഗ്രഹത്തിന്റെ ഒരു വശം പരന്ന്, ഛിന്നഗ്രഹത്തിന്റെ മുഴുവൻ വീതിയിലും വ്യാപിക്കുന്ന സ്റ്റേഡിയം വലുപ്പമുള്ള ഗർത്തം രൂപപ്പെട്ടതായി യൂറോപ്യൻ സ്പേസ് ഏജൻസിയുടെ (ESA) ഹെറ ദൗത്യം കണ്ടെത്തിയെന്ന് ESA അറിയിച്ചു. ഇത് ചാവോട്ടിക് ആയി കറങ്ങുകയാണെന്നും ചുറ്റും നൂറുകണക്കിന് പുതിയ പാറക്കഷണങ്ങൾ കണ്ടെത്തിയെന്നും ESA പറയുന്നു.",
+    "ESA ലേഖനം നവംബർ 25-നാണ് പ്രസിദ്ധീകരിച്ചത്; ബിബിസി ന്യൂസ്റൗണ്ടും സിഎൻബിസി ടിവി18-ഉം (നവംബർ 27) ഇത് റിപ്പോർട്ട് ചെയ്തു. പോസ്റ്ററിലെ ചിത്രം ചന്ദ്രോപരിതലത്തിന്റേതാണ്, ഡൈമോർഫോസിന്റേതല്ല; പ്രതീകാത്മകം മാത്രം."
+   ],
+   "srcs": [
+    [
+     "ESA: Hera reveals stadium-sized asteroid crater",
+     "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-reveals-stadium-sized-asteroid-crater-left-after-spacecraft-impact"
+    ],
+    [
+     "CNBC TV18: Hera finds stadium-sized crater",
+     "https://www.cnbctv18.com/world/europes-hera-finds-stadium-sized-crater-on-asteroid-hit-by-nasas-dart-in-2022-20042786.htm"
+    ],
+    [
+     "BBC Newsround: Hera shows result of DART hit",
+     "https://www.bbc.co.uk/newsround/articles/cqm2jkrj1x4do"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgQgOoxh83s/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 1:38 AM IST on 28 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-28T01:38:43+05:30"
+  },
+  {
    "id": "trai-extends-1601-series-ecommerce-hospitals-airlines-nov27",
    "cats": [
     "Tech"

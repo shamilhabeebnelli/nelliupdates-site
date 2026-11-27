@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "india-smartphone-revenue-first-annual-decline-chip-nov27",
+   "cats": [
+    "Tech"
+   ],
+   "title": "ചിപ്പ് വില കൂടി, ഫോൺ വിൽപ്പന ഇടിവ്: 2026ൽ ഇന്ത്യൻ സ്മാർട്ഫോൺ വിപണിയുടെ വരുമാനം ആദ്യമായി കുറയാൻ സാധ്യത",
+   "en": "India's smartphone market set for first annual revenue decline in 2026 as memory chip costs surge, Mint reports",
+   "sum": "മെമ്മറി ചിപ്പുകളുടെ വില കൂടിയതോടെ ഇന്ത്യയിലെ സ്മാർട്ഫോൺ വിപണി 2026ൽ ആദ്യമായി വാർഷിക വരുമാനത്തിൽ ഇടിവ് നേരിടാൻ സാധ്യതയുണ്ടെന്ന് Mint റിപ്പോർട്ട് ചെയ്യുന്നു. ഉത്സവ സീസണിൽ വിൽപ്പന ഏകദേശം 22% കുറഞ്ഞെന്ന് Counterpoint.",
+   "date": "27 Nov 2026",
+   "body": [
+    "മെമ്മറി ചിപ്പ് ക്ഷാമം ഹാൻഡ്സെറ്റ് വില കൂട്ടിയതോടെ ഇന്ത്യൻ സ്മാർട്ഫോൺ വിപണി 2026ൽ ആദ്യമായി വാർഷിക വരുമാനത്തിൽ ഇടിവ് നേരിടാൻ സാധ്യതയുണ്ടെന്ന് Mint റിപ്പോർട്ട് ചെയ്യുന്നു. IDC ഇന്ത്യ, Counterpoint തുടങ്ങിയ വിശകലന സ്ഥാപനങ്ങളെ ഉദ്ധരിച്ച്, ഈ വർഷം വിൽപ്പന യൂണിറ്റുകൾ കുറഞ്ഞത് 20% കുറയുമെന്നും റിപ്പോർട്ടിൽ പറയുന്നു.",
+    "ഒക്ടോബർ 8 മുതൽ നവംബർ 10 വരെയുള്ള ഉത്സവ സീസണിൽ സ്മാർട്ഫോൺ വിൽപ്പന ഏകദേശം 22% കുറഞ്ഞെന്നും ശരാശരി വിൽപ്പന വില 28% കൂടിയെന്നും Counterpoint Research തങ്ങളുടെ പ്രാഥമിക കണക്കുകളിൽ പറയുന്നു. ഉത്സവ കിഴിവുകൾ 10-25% ആയി ചുരുങ്ങിയെന്നും ബജറ്റ് വിഭാഗത്തെ ഏറ്റവും കൂടുതൽ ബാധിച്ചെന്നും കണക്കുകൾ സൂചിപ്പിക്കുന്നു.",
+    "ജൂലൈ-സെപ്റ്റംബർ പാദത്തിൽ ഷിപ്മെന്റുകൾ 20 മുതൽ 23 ശതമാനം വരെ ഇടിഞ്ഞതായി വിവിധ ഏജൻസികളുടെ കണക്കുകൾ ഉദ്ധരിച്ച് ബിസിനസ് സ്റ്റാൻഡേർഡ് റിപ്പോർട്ട് ചെയ്യുന്നു; ഏജൻസികളുടെ കണക്കുകളിൽ വ്യത്യാസമുണ്ട്."
+   ],
+   "srcs": [
+    [
+     "Mint: India smartphone market first revenue decline",
+     "https://www.livemint.com/industry/india-smartphone-sales-market-in-2026-11795667015685.html"
+    ],
+    [
+     "Counterpoint: Festive smartphone sales plunge 22%",
+     "https://counterpointresearch.com/en/insights/indias-festive-smartphone-sales-plunge-22-percent-yoy-as-samsung-leads-a-sluggish-market"
+    ],
+    [
+     "Business Standard: India Q3 phone market shrinks",
+     "https://www.business-standard.com/technology/tech-news/india-smartphone-shipments-q3-2026-memory-costs-demand-126112000731_1.html"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgOcioyh760/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 6:28 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T06:28:00+05:30"
+  },
+  {
    "id": "chakkakomban-radio-collar-mission-chinnakanal-day3-nov27",
    "cats": [
     "Kerala"

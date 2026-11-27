@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "gold-rebounds-from-15-month-low-delhi-rs3100-nov27",
+   "cats": [
+    "India"
+   ],
+   "title": "സ്വർണ വിലയിൽ തിരിച്ചുകയറ്റം: ഡൽഹിയിൽ 10 ഗ്രാമിന് 3,100 രൂപ കൂടി 1,30,600 രൂപ, റിപ്പോർട്ടുകൾ",
+   "en": "Gold rebounds from 15-month low, Delhi up Rs 3,100 per 10 grams to Rs 1,30,600, as reported",
+   "sum": "വെള്ളിയാഴ്ച സ്വർണ വില തിരിച്ചുകയറിയതായി മണികൺട്രോൾ (പിടിഐ), മിന്റ്, എൻഡിടിവി പ്രോഫിറ്റ് എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു. ഡൽഹിയിൽ 10 ഗ്രാമിന് 3,100 രൂപ കൂടി 1,30,600 രൂപ.",
+   "date": "27 Nov 2026",
+   "body": [
+    "വെള്ളിയാഴ്ച സ്വർണ വില തിരിച്ചുകയറിയതായി മണികൺട്രോൾ (പിടിഐ), ലൈവ്മിന്റ്, എൻഡിടിവി പ്രോഫിറ്റ് എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു. ഓൾ ഇന്ത്യ സരാഫ അസോസിയേഷന്റെ കണക്കനുസരിച്ച് ഡൽഹിയിൽ 99.9 ശതമാനം ശുദ്ധമായ സ്വർണം 10 ഗ്രാമിന് 3,100 രൂപ കൂടി 1,30,600 രൂപയായെന്ന് പിടിഐ പറയുന്നു (എല്ലാ നികുതികളും ഉൾപ്പെടെ).",
+    "ഈ ആഴ്ച ആദ്യം 15 മാസത്തെ താഴ്ന്ന നിലയിലെത്തിയ സ്വർണം അവിടെ നിന്ന് തിരിച്ചുകയറിയെന്ന് എൻഡിടിവി പ്രോഫിറ്റ് പറയുന്നു. ദുർബലമായ ഡോളറും ടെക്നോളജി ഓഹരികളുടെ വീണ്ടെടുപ്പും ഇതിനു സഹായിച്ചതായി റിപ്പോർട്ടിലുണ്ട്. എംസിഎക്സിൽ സ്വർണം ഏകദേശം 1.245 ലക്ഷം രൂപ നിരക്കിലാണെന്ന് ലൈവ്മിന്റ് റിപ്പോർട്ട് ചെയ്യുന്നു.",
+    "സ്ഥലം, ശുദ്ധത, നികുതി, പണിക്കൂലി എന്നിവ അനുസരിച്ച് ചില്ലറ വിലയിൽ വ്യത്യാസമുണ്ടാകും. ഓരോ റിപ്പോർട്ടും വ്യത്യസ്ത അടിസ്ഥാനത്തിലുള്ള നിരക്കുകളാണ് ഉദ്ധരിക്കുന്നത് എന്നതിനാൽ അവ നേരിട്ട് താരതമ്യം ചെയ്യരുത്."
+   ],
+   "srcs": [
+    [
+     "Moneycontrol (PTI): Gold extends gains by Rs 3,100",
+     "https://www.moneycontrol.com/news/business/gold-prices-extends-gains-by-rs-3-100-silver-surges-rs-13-500-per-kg-14090509.html"
+    ],
+    [
+     "Mint: Gold price today 27 November 2026",
+     "https://www.livemint.com/market/commodities/gold-price-today-27-november-2026-mcx-gold-rate-jumps-but-still-31-down-from-record-high-is-it-the-right-time-to-buy-11795752383038.html"
+    ],
+    [
+     "NDTV Profit: Gold, silver rates live Nov 27",
+     "https://www.ndtvprofit.com/markets/gold-silver-prices-today-live-updates-22k-24k-mumbai-delhi-chennai-bengaluru-hyderabad-12383256"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgQB-EcBqLU/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 9:14 PM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T21:14:19+05:30"
+  },
+  {
    "id": "nz-vs-india-2nd-test-day1-stumps-246-5-hagley-oval-nov27",
    "cats": [
     "Sports"

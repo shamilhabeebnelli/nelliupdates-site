@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "pf-trusts-exempted-investment-pattern-equity-5-15-nov27",
+   "cats": [
+    "India"
+   ],
+   "title": "ഇളവുള്ള സ്ഥാപനങ്ങളുടെ പിഎഫ് ട്രസ്റ്റുകൾക്ക് പുതിയ നിക്ഷേപ രീതി: ഓഹരി 5-15% വരെ",
+   "en": "Labour Ministry revises investment pattern for exempted PF trusts: equities 5-15%, G-secs 45-65%, debt 35-45%, as reported",
+   "sum": "ഇളവുള്ള സ്ഥാപനങ്ങളുടെ പിഎഫ് ട്രസ്റ്റുകളുടെ നിക്ഷേപ രീതി തൊഴിൽ മന്ത്രാലയം പുതുക്കിയതായി റിപ്പോർട്ടുകൾ: സർക്കാർ സെക്യൂരിറ്റികളിൽ 45-65%, കടപ്പത്രങ്ങളിൽ 35-45%, ഓഹരികളിൽ 5-15%.",
+   "date": "27 Nov 2026",
+   "body": [
+    "മിന്റ്, സിഎൻബിസി-ടിവി18, ഐഎഎൻഎസ് എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നതനുസരിച്ച്, ഇളവ് ലഭിച്ച സ്ഥാപനങ്ങൾ സ്വന്തം ട്രസ്റ്റ് വഴി കൈകാര്യം ചെയ്യുന്ന പിഎഫ് നിക്ഷേപങ്ങൾക്കുള്ള പുതിയ രീതി തൊഴിൽ മന്ത്രാലയം വിജ്ഞാപനം ചെയ്തു. നവംബർ 20-ലെ ഗസറ്റ് വിജ്ഞാപനം 2015 മേയ് 29-ലെ മുൻ വിജ്ഞാപനത്തിനു പകരമാകുന്നു.",
+    "സർക്കാർ സെക്യൂരിറ്റികളിലും അനുബന്ധ നിക്ഷേപങ്ങളിലും 45-65%, കടപ്പത്രങ്ങളിൽ 35-45%, ഓഹരികളിലും അനുബന്ധ നിക്ഷേപങ്ങളിലും 5-15% എന്നിങ്ങനെയാണ് പരിധി. ഹ്രസ്വകാല കടപ്പത്രങ്ങൾക്ക് 5% വരെയും മറ്റ് നിക്ഷേപങ്ങൾക്ക് 5% വരെയും അനുവദിച്ചിട്ടുണ്ട്. ബിഎസ്ഇ/എൻഎസ്ഇ-യിൽ ലിസ്റ്റ് ചെയ്ത, കുറഞ്ഞത് 5,000 കോടി രൂപ വിപണി മൂല്യമുള്ള ഓഹരികളിലാണ് നിക്ഷേപിക്കാനാവുക എന്ന് റിപ്പോർട്ടുകൾ പറയുന്നു.",
+    "തൊഴിലുടമകൾ മാസാവസാനത്തിന് 15 ദിവസത്തിനകം പിഎഫ് വിഹിതം ട്രസ്റ്റിനു കൈമാറണമെന്നും ട്രസ്റ്റുകൾ രണ്ടാഴ്ചയ്ക്കകം നിക്ഷേപിക്കണമെന്നുമാണ് സിഎൻബിസി-ടിവി18 റിപ്പോർട്ട് ചെയ്യുന്നത്."
+   ],
+   "srcs": [
+    [
+     "Mint: Labour Ministry revises PF trust norms",
+     "https://www.livemint.com/money/personal-finance/epfo-rules-labour-ministry-revises-investment-norms-for-exempted-pf-trusts-check-equity-and-debt-limits-key-timelines-11795745733118.html"
+    ],
+    [
+     "CNBC-TV18: Labour Ministry changes PF trust rules",
+     "https://www.cnbctv18.com/personal-finance/labour-ministry-changes-pf-trust-investment-rules-what-is-new-epfo-20042777.htm"
+    ],
+    [
+     "IANS: Centre revises rules for exempted PF trusts",
+     "https://ianslive.in/centre-revises-investment-rules-for-exempted-pf-trusts-sets-equity-cap-at-15-pc--20261127133832"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgP6AxxBcXc/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 8:04 PM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T20:04:45+05:30"
+  },
+  {
    "id": "cert-in-flags-five-whatsapp-vulnerabilities-update-nov27",
    "cats": [
     "Tech"

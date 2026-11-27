@@ -1,6 +1,36 @@
 {
  "stories": [
   {
+   "id": "new-zealand-coalition-loses-majority-final-results-nov27",
+   "cats": [
+    "World"
+   ],
+   "title": "ന്യൂസിലൻഡ് തിരഞ്ഞെടുപ്പ്: ഔദ്യോഗിക ഫലപ്രകാരം ഭരണസഖ്യത്തിന് ഒരു സീറ്റിന്റെ കുറവ്, ഭൂരിപക്ഷമില്ലെന്ന് ബിബിസിയും ആർഎൻഇസഡും",
+   "en": "New Zealand final results: ruling coalition one seat short of a majority, BBC and RNZ report",
+   "sum": "ഔദ്യോഗിക ഫലപ്രകാരം നാഷണൽ, ആക്ട്, ന്യൂസിലൻഡ് ഫസ്റ്റ് സഖ്യത്തിന് 130 സീറ്റിൽ 65 സീറ്റ് മാത്രം. ഏഴ് സീറ്റുള്ള ഓപ്പർച്യുനിറ്റി പാർട്ടി നിർണായകമാകുമെന്ന് ബിബിസിയും ആർഎൻഇസഡും റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "ന്യൂസിലൻഡിലെ ഔദ്യോഗിക തിരഞ്ഞെടുപ്പ് ഫലപ്രകാരം ഭരണസഖ്യത്തിന് 130 അംഗ പാർലമെന്റിൽ ഭൂരിപക്ഷത്തിന് ഒരു സീറ്റിന്റെ കുറവുണ്ടെന്ന് ബിബിസിയും ആർഎൻഇസഡും റിപ്പോർട്ട് ചെയ്യുന്നു. നാഷണൽ പാർട്ടി 40, ആക്ട് 13, ന്യൂസിലൻഡ് ഫസ്റ്റ് 12 എന്നിങ്ങനെ ആകെ 65 സീറ്റാണ് സഖ്യത്തിന്.",
+    "ലേബർ, ഗ്രീൻസ്, ടെ പാതി മാവോറി, ഓപ്പർച്യുനിറ്റി എന്നിവരുടെ കൂട്ടായ്മയ്ക്കും 65 സീറ്റാണെന്ന് ആർഎൻഇസഡ് പറയുന്നു. ഏഴ് സീറ്റുള്ള ഓപ്പർച്യുനിറ്റി പാർട്ടിയുടെ നിലപാട് നിർണായകമാകും. ധാരണയിലെത്തിയില്ലെങ്കിൽ വീണ്ടും തിരഞ്ഞെടുപ്പ് വേണ്ടിവന്നേക്കാം. റീകൗണ്ട് അപേക്ഷകൾ ബാക്കിയുള്ളതിനാൽ കണക്കുകൾ മാറാനിടയുണ്ട്."
+   ],
+   "srcs": [
+    [
+     "BBC: NZ ruling coalition falls one seat short",
+     "https://www.bbc.com/news/articles/c670278qk879o"
+    ],
+    [
+     "RNZ: Election 2026 final results",
+     "https://www.rnz.co.nz/news/politics_election-2026/2820329/election-2026-final-results-coalition-loses-majority-another-election-possible"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgPIadGBc3q/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 12:51 PM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T12:51:21+05:30"
+  },
+  {
    "id": "estonia-closes-road-border-crossings-russia-dec1-nov26",
    "cats": [
     "World"

@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "rbi-consolidates-25-card-payment-circulars-directions-nov27",
+   "cats": [
+    "India"
+   ],
+   "title": "കാർഡ് ഇടപാട് ചട്ടങ്ങൾ ഒറ്റ ഡയറക്ഷൻസിൽ: 25 സർക്കുലറുകൾ ഏകീകരിച്ച് ആർബിഐ",
+   "en": "RBI consolidates 25 circulars on debit, credit and prepaid card transactions into one set of Directions, 2026, as reported",
+   "sum": "ഡെബിറ്റ്, ക്രെഡിറ്റ്, പ്രീപെയ്ഡ് കാർഡ് ഇടപാടുകളെക്കുറിച്ചുള്ള 25 സർക്കുലറുകൾ ചേർത്ത് ആർബിഐ നവംബർ 27-ന് പുതിയ ഡയറക്ഷൻസ് പുറത്തിറക്കി. പുതിയ പരിധികളില്ല, നിലവിലെ ചട്ടങ്ങളുടെ ഏകീകരണമാണെന്ന് മിന്റ് റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "ആർബിഐയുടെ വിജ്ഞാപനം, മിന്റ്, ദി ട്രിബ്യൂൺ (എഎൻഐ) എന്നിവ പ്രകാരം, ഡെബിറ്റ്, ക്രെഡിറ്റ്, പ്രീപെയ്ഡ് കാർഡ് ഇടപാടുകളെക്കുറിച്ചുള്ള 25 സർക്കുലറുകൾ ചേർത്ത് \"ഡിജിറ്റൽ പേയ്മെന്റ്സ് (കാർഡ് അധിഷ്ഠിത ഇടപാട്) ഡയറക്ഷൻസ്, 2026\" ആർബിഐ നവംബർ 27-ന് പുറപ്പെടുവിച്ചു. ഇത് ഉടൻ പ്രാബല്യത്തിൽ വന്നു.",
+    "പുതിയ ഇടപാട് പരിധിയോ ഓതന്റിക്കേഷൻ വ്യവസ്ഥയോ ഇതിലൂടെ പ്രഖ്യാപിക്കുന്നില്ലെന്നും നിലവിലെ ചട്ടങ്ങൾ ഒരു രേഖയിൽ ഒരുമിപ്പിക്കുകയാണെന്നും മിന്റ് പറയുന്നു. 5,000 രൂപ വരെയുള്ള കോൺടാക്റ്റ്ലെസ് ഇടപാടുകൾക്ക് അധിക ഓതന്റിക്കേഷൻ വേണ്ട എന്ന നിലവിലെ ഇളവ്, ഇടപാട് ചാനലുകൾ ഓൺ/ഓഫ് ചെയ്യാനും പരിധി മാറ്റാനുമുള്ള സൗകര്യം, ടോക്കണൈസേഷൻ, കാർഡ് വിവരങ്ങൾ സൂക്ഷിക്കുന്നതിലെ നിയന്ത്രണം എന്നിവ ഇതിലുൾപ്പെടുന്നു.",
+    "എടിഎം, പിഒഎസ് പണം പിൻവലിക്കൽ സംബന്ധിച്ച 17 സർക്കുലറുകൾ ഉൾപ്പെടുത്തി മറ്റൊരു ഡയറക്ഷൻസും ആർബിഐ പുറപ്പെടുവിച്ചതായി ദി ട്രിബ്യൂൺ (എഎൻഐ) റിപ്പോർട്ട് ചെയ്യുന്നു."
+   ],
+   "srcs": [
+    [
+     "RBI: Card-based transaction Directions 2026",
+     "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/477MD27112026EF6EF971FB54489288F4B731B409D9CE.PDF"
+    ],
+    [
+     "Mint: RBI consolidates 25 card circulars",
+     "https://www.livemint.com/money/personal-finance/rbi-consolidates-25-card-payment-circulars-into-one-framework-what-debit-and-credit-card-users-should-know-11795785543520.html"
+    ],
+    [
+     "Tribune (ANI): RBI consolidated ATM, card norms",
+     "https://www.tribuneindia.com/news/business/rbi-issues-consolidated-atm-card-payment-norms-charges-capped-at-rs-23-beyond-free-atm-transaction-limits/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgP3K5Ghvrt/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 7:39 PM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T19:39:55+05:30"
+  },
+  {
    "id": "cambodia-thailand-unclos-commission-site-visit-nov27",
    "cats": [
     "World"

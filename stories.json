@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "un-fao-wfp-hunger-hotspots-16-dec2026-may2027-nov27",
+   "cats": [
+    "World"
+   ],
+   "title": "ലോകത്ത് 16 \"ഹംഗർ ഹോട്ട്സ്പോട്ടുകളിൽ\" വിശപ്പ് രൂക്ഷമാകുമെന്ന് ഐക്യരാഷ്ട്രസഭയുടെ മുന്നറിയിപ്പ്",
+   "en": "UN agencies warn hunger set to worsen in 16 global hotspots over the next six months",
+   "sum": "2026 ഡിസംബർ മുതൽ 2027 മേയ് വരെ 16 \"ഹംഗർ ഹോട്ട്സ്പോട്ടുകളിൽ\" വിശപ്പ് രൂക്ഷമാകുമെന്ന് എഫ്എഒയും ഡബ്ല്യുഎഫ്പിയും വെള്ളിയാഴ്ച (നവംബർ 27) മുന്നറിയിപ്പ് നൽകിയതായി റിപ്പോർട്ട്. സുഡാൻ, ദക്ഷിണ സുഡാൻ, സൊമാലിയ, വടക്കൻ നൈജീരിയ, യെമൻ എന്നിവയാണ് ഏറ്റവും ഗുരുതരം.",
+   "date": "27 Nov 2026",
+   "body": [
+    "ഡബ്ല്യുഎഫ്പിയുടെ പ്രസിദ്ധീകരണ പേജും റോയിട്ടേഴ്സ് റിപ്പോർട്ടും (സ്ട്രെയ്റ്റ്സ് ടൈംസ്) അനുസരിച്ച്, എഫ്എഒ-ഡബ്ല്യുഎഫ്പി \"ഹംഗർ ഹോട്ട്സ്പോട്ട്സ്\" റിപ്പോർട്ടിന്റെ പുതിയ പതിപ്പ് വെള്ളിയാഴ്ച (നവംബർ 27) പുറത്തിറങ്ങി. 2026 ഡിസംബർ മുതൽ 2027 മേയ് വരെയുള്ള കാലയളവിൽ 16 കേന്ദ്രങ്ങളിൽ കടുത്ത ഭക്ഷ്യക്ഷാമം രൂക്ഷമാകുമെന്നാണ് മുന്നറിയിപ്പ്.",
+    "വടക്കൻ നൈജീരിയ, സൊമാലിയ, ദക്ഷിണ സുഡാൻ, സുഡാൻ, യെമൻ എന്നിവയെ ഏറ്റവും ഗുരുതര കേന്ദ്രങ്ങളായി ഡബ്ല്യുഎഫ്പി പേജ് പട്ടികപ്പെടുത്തുന്നു. ജൂണിലെ റിപ്പോർട്ടിൽ 13 ആയിരുന്ന ഹോട്ട്സ്പോട്ടുകൾ 16 ആയെന്നും 16-ൽ 12 ഇടങ്ങളിൽ സായുധ സംഘർഷമാണ് കാരണമെന്നും റോയിട്ടേഴ്സ് റിപ്പോർട്ട് ചെയ്യുന്നു.",
+    "സുഡാനിലെ നോർത്ത് ഡാർഫറിലെയും സൗത്ത് കോർഡോഫാനിലെയും 13 പ്രദേശങ്ങളിൽ 2027 ജനുവരി വരെ ക്ഷാമ സാധ്യതയുണ്ടെന്നും വികസിച്ചുവരുന്ന എൽ നിനോ സ്ഥിതി കൂടുതൽ വഷളാക്കിയേക്കാമെന്നും മനുഷ്യസഹായ ഫണ്ടിങ് കുറയുന്നത് ശ്രമങ്ങളെ ബാധിക്കുന്നുവെന്നും റിപ്പോർട്ടിൽ പറയുന്നതായി റോയിട്ടേഴ്സ് റിപ്പോർട്ട് ചെയ്യുന്നു."
+   ],
+   "srcs": [
+    [
+     "WFP: Hunger Hotspots, Dec 2026 to May 2027 outlook",
+     "https://www.wfp.org/publications/hunger-hotspots-fao-wfp-early-warnings-acute-food-insecurity-december-2026-may-2027"
+    ],
+    [
+     "The Straits Times (Reuters): UN warns famine risks rising",
+     "https://www.straitstimes.com/asia/un-warns-famine-risks-rising-as-hunger-hotspots-increase"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgPZs2_B7yE/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 3:22 PM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T15:22:26+05:30"
+  },
+  {
    "id": "sndp-microfinance-kerala-hc-reports-deadline-dec7-nov27",
    "cats": [
     "Kerala"

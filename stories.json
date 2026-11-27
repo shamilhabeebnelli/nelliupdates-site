@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "chakkakomban-mission-suspended-until-further-notice-nov27",
+   "cats": [
+    "Kerala"
+   ],
+   "title": "ചക്കക്കൊമ്പനെ റേഡിയോ കോളർ ധരിപ്പിക്കാനുള്ള ദൗത്യം വനം വകുപ്പ് തൽക്കാലം നിർത്തിവച്ചു",
+   "en": "Forest department suspends mission to radio-collar wild tusker Chakkakomban until further notice after third day, as reported",
+   "sum": "രണ്ട് മയക്കുവെടി വച്ചിട്ടും ചക്കക്കൊമ്പൻ പൂർണമായി മയങ്ങാത്തതിനെ തുടർന്ന് റേഡിയോ കോളർ ദൗത്യം മൂന്നാം ദിവസം വൈകുന്നേരം തൽക്കാലം നിർത്തിവച്ചതായി ദ ഹിന്ദുവും ടൈംസ് ഓഫ് ഇന്ത്യയും റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "കാട്ടാന ചക്കക്കൊമ്പനെ റേഡിയോ കോളർ ധരിപ്പിക്കാനുള്ള ദൗത്യം ദൗത്യത്തിന്റെ മൂന്നാം ദിവസമായ വെള്ളിയാഴ്ച വൈകുന്നേരം വനം വകുപ്പ് തൽക്കാലം നിർത്തിവച്ചതായി ദ ഹിന്ദുവും ടൈംസ് ഓഫ് ഇന്ത്യയും റിപ്പോർട്ട് ചെയ്യുന്നു. രണ്ട് തവണ മയക്കുവെടി വച്ചിട്ടും ആന പൂർണമായി മയങ്ങിയില്ലെന്നാണ് റിപ്പോർട്ടുകൾ.",
+    "മയക്കുവെടിക്ക് ശേഷം ആന അണയിരങ്കൽ ജലാശയത്തിൽ ഇറങ്ങി മറുകരയിലേക്ക് നീന്തി. വെളിച്ചക്കുറവും മയക്കം പൂർണമാകാത്തതും കാരണം ദൗത്യം അവസാനിപ്പിക്കേണ്ടി വന്നെന്ന് ഉദ്യോഗസ്ഥർ പറഞ്ഞു.",
+    "ഇനി അറിയിപ്പുണ്ടാകുന്നതുവരെ ദൗത്യം നിർത്തിവച്ചതായി ചീഫ് കൺസർവേറ്റർ ഓഫ് ഫോറസ്റ്റ്സ് ഡി.കെ. വിനോദ് കുമാർ അറിയിച്ചതായി ഇരു റിപ്പോർട്ടുകളും പറയുന്നു. ഡിസംബറിലോ ജനുവരിയിലോ ദൗത്യം പുനരാരംഭിക്കാൻ സാധ്യതയുണ്ടെന്നും അദ്ദേഹം പറഞ്ഞതായി ദ ഹിന്ദു റിപ്പോർട്ട് ചെയ്യുന്നു."
+   ],
+   "srcs": [
+    [
+     "The Hindu: Mission Chakkakompan temporarily called off",
+     "https://www.thehindu.com/news/national/kerala/forest-department-temporarily-calls-off-mission-chakkakompan-after-failure-on-third-day/article71751767.ece"
+    ],
+    [
+     "Times of India: Mission Chakkakomban temporarily suspended",
+     "https://timesofindia.indiatimes.com/city/kochi/mission-chakkakomban-temporarily-suspended-after-two-tranquiliser-doses-fail-to-sedate-elephant/articleshow/136227689.cms"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgQPFrNBRlZ/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 11:08 PM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T23:08:56+05:30"
+  },
+  {
    "id": "nasa-ng-25-space-crop-production-system-iss-nov27",
    "cats": [
     "Tech"

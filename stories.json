@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "zelenskyy-warns-russia-preparing-mass-strike-energy-nov26",
+   "cats": [
+    "World"
+   ],
+   "title": "റഷ്യ ഉക്രെയ്നെതിരെ വൻ ആക്രമണത്തിന് ഒരുങ്ങുന്നുവെന്ന് സെലെൻസ്കിയുടെ മുന്നറിയിപ്പ്",
+   "en": "Zelenskyy warns Russia is preparing a new mass strike on Ukraine's energy infrastructure, as reported",
+   "sum": "റഷ്യ പുതിയ വൻ ആക്രമണത്തിന്റെ ഒരുക്കം പൂർത്തിയാക്കുകയാണെന്ന് ഉക്രെയ്ൻ പ്രസിഡന്റ് വോളോഡിമിർ സെലെൻസ്കി വ്യാഴാഴ്ച (നവംബർ 26) പറഞ്ഞതായി എപി, റോയിട്ടേഴ്സ്, കീവ് ഇൻഡിപെൻഡന്റ് എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു. ഊർജ മേഖല ലക്ഷ്യമാകുമെന്നാണ് ഉക്രെയ്ൻ ഇന്റലിജൻസ് വിവരം.",
+   "date": "27 Nov 2026",
+   "body": [
+    "റഷ്യ ഉക്രെയ്ന്റെ ഊർജ അടിസ്ഥാനസൗകര്യങ്ങൾ, ലോജിസ്റ്റിക്സ്, നിർണായക സേവനങ്ങൾ എന്നിവയെ ലക്ഷ്യമിട്ട് പുതിയ വൻ ആക്രമണത്തിന് ഒരുങ്ങുകയാണെന്ന് പ്രസിഡന്റ് വോളോഡിമിർ സെലെൻസ്കി വ്യാഴാഴ്ച (നവംബർ 26) പറഞ്ഞതായി എപി റിപ്പോർട്ട് ചെയ്യുന്നു. ഉക്രെയ്ൻ ഇന്റലിജൻസ് വിവരങ്ങൾ പ്രകാരം മോസ്കോ പുതിയ വൻ ആക്രമണത്തിന്റെ ഒരുക്കം പൂർത്തിയാക്കുകയാണെന്ന് സെലെൻസ്കി സമൂഹമാധ്യമത്തിൽ കുറിച്ചു.",
+    "വരും ദിവസങ്ങളിൽ മിസൈൽ ഭീഷണി അലാറങ്ങൾ ശ്രദ്ധിക്കണമെന്ന് രാത്രി പ്രസംഗത്തിൽ അദ്ദേഹം ജനങ്ങളോട് ആവശ്യപ്പെട്ടതായി റോയിട്ടേഴ്സ് റിപ്പോർട്ട് ചെയ്യുന്നു.",
+    "ഇത് ഉക്രെയ്ൻ ഭാഗത്തുനിന്നുള്ള വിവരമാണ്. ഈ റിപ്പോർട്ടുകളിൽ റഷ്യയുടെ പ്രതികരണം ഉൾപ്പെടുത്തിയിട്ടില്ല."
+   ],
+   "srcs": [
+    [
+     "AP: Zelenskyy says Russia preparing major attack",
+     "https://apnews.com/article/russia-ukraine-war-zelenskyy-power-122f7f187eea20d4d2b659692b4c4f1e"
+    ],
+    [
+     "Reuters via Yahoo: Zelenskiy warns of mass strike",
+     "https://www.yahoo.com/news/articles/zelenskiy-says-russia-preparing-mass-203555107.html"
+    ],
+    [
+     "Kyiv Independent: Russia prepares new mass attack",
+     "https://kyivindependent.com/russia-prepares-new-mass-attack-on-ukraines-energy-infrastructure-zelensky-says/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgOzJZqhkgO/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 9:45 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T09:45:34+05:30"
+  },
+  {
    "id": "indonesia-bogor-illegal-gold-mine-flood-rescue-nov26",
    "cats": [
     "World"

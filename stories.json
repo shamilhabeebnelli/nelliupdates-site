@@ -1,6 +1,36 @@
 {
  "stories": [
   {
+   "id": "sydney-qantas-737-go-around-air-nz-a321-runway-atsb-nov25",
+   "cats": [
+    "World"
+   ],
+   "title": "സിഡ്നി വിമാനത്താവളത്തിൽ ക്വാണ്ടസ് വിമാനം ലാൻഡിങ് ഉപേക്ഷിച്ച് ഉയർന്നു; റൺവേ മുറിച്ചുകടന്ന എയർ ന്യൂസിലൻഡ് വിമാനത്തെക്കുറിച്ച് എടിഎസ്ബി അന്വേഷണം",
+   "en": "Qantas 737 aborts landing at Sydney as Air New Zealand A321 crosses runway, ATSB investigates",
+   "sum": "ബുധനാഴ്ച രാവിലെ സിഡ്നി വിമാനത്താവളത്തിൽ ലാൻഡിങ്ങിനിടെ റൺവേ മുറിച്ചുകടക്കുന്ന എയർ ന്യൂസിലൻഡ് എ321 വിമാനം കണ്ട ക്വാണ്ടസ് 737 ക്രൂ ഗോ-എറൗണ്ട് നടത്തിയെന്ന് ഓസ്ട്രേലിയൻ ട്രാൻസ്പോർട്ട് സേഫ്റ്റി ബ്യൂറോ (എടിഎസ്ബി) പറഞ്ഞു. അന്വേഷണം തുടങ്ങി.",
+   "date": "27 Nov 2026",
+   "body": [
+    "എടിഎസ്ബി ഔദ്യോഗിക പ്രസ്താവന പ്രകാരം, നവംബർ 25 ബുധനാഴ്ച രാവിലെ ഏകദേശം 10.15-ന് സിഡ്നി വിമാനത്താവളത്തിലെ റൺവേ 16R-ൽ ലാൻഡ് ചെയ്യാൻ വരികയായിരുന്ന ക്വാണ്ടസ് ബോയിങ് 737-ന്റെ ക്രൂവിന് റൺവേ മുറിച്ചുകടക്കുന്ന വിമാനങ്ങൾ കാരണം വൈകി ലാൻഡിങ് ക്ലിയറൻസ് പ്രതീക്ഷിക്കണമെന്ന് എയർ ട്രാഫിക് കൺട്രോൾ അറിയിച്ചിരുന്നു. ക്ലിയറൻസ് കിട്ടുന്നതിന് മുമ്പ്, ടാക്സിവേ ഗോൾഫിൽ എയർ ന്യൂസിലൻഡ് എ321 റൺവേ മുറിച്ചുകടക്കുന്നത് ക്രൂ കണ്ടു; തുടർന്ന് അവർ ഗോ-എറൗണ്ട് നടത്തി.",
+    "ക്വാണ്ടസ് ക്യുഎഫ്426 മെൽബണിൽ നിന്നുള്ള വിമാനമാണെന്ന് ആർഎൻസെഡ് റിപ്പോർട്ട് ചെയ്യുന്നു. ഇരു വിമാനങ്ങളുടെയും ക്രൂവിന് ലഭിച്ച വിവരങ്ങളും അവരുടെ ധാരണകളും അന്വേഷിക്കുമെന്ന് എടിഎസ്ബി പറഞ്ഞു. ഗോ-എറൗണ്ട് തീരുമാനം ഉൾപ്പെടെയുള്ള പ്രധാന സുരക്ഷാ പ്രതിരോധങ്ങൾ പ്രവർത്തിച്ചതായും ബ്യൂറോ പറയുന്നു. ഏകദേശം എട്ട് ആഴ്ചയ്ക്കുള്ളിൽ പ്രാഥമിക റിപ്പോർട്ട് പ്രസിദ്ധീകരിക്കുമെന്നാണ് പ്രതീക്ഷ."
+   ],
+   "srcs": [
+    [
+     "ATSB: Sydney Airport aircraft separation issue",
+     "https://www.atsb.gov.au/statements/2026/sydney-airport-aircraft-separation-issue"
+    ],
+    [
+     "RNZ: Sydney Airport incident under investigation",
+     "https://www.rnz.co.nz/news/world/2809117/sydney-airport-incident-involving-qantas-and-air-nz-planes-under-investigation"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgPQAUjB5Bc/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 1:57 PM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T13:57:42+05:30"
+  },
+  {
    "id": "fedex-md11-freighter-overruns-miami-runway-nov25",
    "cats": [
     "World"

@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "sc-contempt-notice-tn-officials-deepathoon-nov27",
+   "cats": [
+    "India"
+   ],
+   "title": "തിരുപ്പറങ്കുൺറം ദീപത്തൂൺ തർക്കം: തമിഴ്നാട് ചീഫ് സെക്രട്ടറി, ഡിജിപി, മധുര കളക്ടർ എന്നിവർക്ക് സുപ്രീം കോടതിയുടെ കോടതിയലക്ഷ്യ നോട്ടീസെന്ന് റിപ്പോർട്ട്",
+   "en": "Supreme Court issues contempt notice to Tamil Nadu officials over Thiruparankundram Deepathoon lamp order, as reported",
+   "sum": "നവംബർ 20-ലെ കാർത്തിക ദീപം ഉത്തരവ് ലംഘിച്ചെന്ന ഹർജിയിൽ തമിഴ്നാട് ചീഫ് സെക്രട്ടറി, ഡിജിപി, മധുര കളക്ടർ എന്നിവർക്ക് സുപ്രീം കോടതി കോടതിയലക്ഷ്യ നോട്ടീസ് നൽകിയതായി ലൈവ്‌ലോ, ഹിന്ദുസ്ഥാൻ ടൈംസ്, ആകാശവാണി എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "27 Nov 2026",
+   "body": [
+    "ലൈവ്‌ലോ, ഹിന്ദുസ്ഥാൻ ടൈംസ്, ആകാശവാണി വാർത്ത എന്നിവയുടെ റിപ്പോർട്ടുകൾ പ്രകാരം, തിരുപ്പറങ്കുൺറം ദീപത്തൂണിൽ ദീപം തെളിക്കാൻ അനുവദിച്ച നവംബർ 20-ലെ ഉത്തരവ് ലംഘിച്ചെന്ന ഹർജികളിൽ സുപ്രീം കോടതി വെള്ളിയാഴ്ച (നവംബർ 27) തമിഴ്നാട് ചീഫ് സെക്രട്ടറി, ഡിജിപി, മധുര കളക്ടർ തുടങ്ങിയവർക്ക് കോടതിയലക്ഷ്യ നോട്ടീസ് നൽകി. ജസ്റ്റിസുമാരായ അരവിന്ദ് കുമാർ, വിപുൽ എം. പഞ്ചോലി എന്നിവരുടെ ബെഞ്ചാണ് ഇത് പരിഗണിച്ചത്.",
+    "ചീഫ് സെക്രട്ടറി നേരിട്ട് ഹാജരാകണമെന്നും ഉദ്യോഗസ്ഥർ തമ്മിൽ കൈമാറിയ ഇമെയിലുകൾ, ഫോൺ വിളികൾ, സന്ദേശങ്ങൾ എന്നിവ വ്യക്തമാക്കി സത്യവാങ്മൂലം നൽകണമെന്നും കോടതി നിർദേശിച്ചതായി റിപ്പോർട്ടുകൾ പറയുന്നു. പ്രഥമദൃഷ്ട്യാ ഉള്ള നിരീക്ഷണങ്ങളാണിവ; അന്തിമ വിധിയല്ല.",
+    "നാളെ (നവംബർ 28) ഉച്ചിപ്പിള്ളയാർ മണ്ഡപത്തിലെ ദീപത്തിൽ നിന്ന് ദീപത്തൂണിൽ വിളക്ക് തെളിക്കാൻ കോടതി നിർദേശിച്ചതായും ക്ഷേത്രത്തിന്റെയും മലയുടെയും സുരക്ഷ സിആർപിഎഫിനെ ഏൽപ്പിച്ചതായും ഹിന്ദുസ്ഥാൻ ടൈംസും ആകാശവാണിയും റിപ്പോർട്ട് ചെയ്യുന്നു. ക്ഷേത്ര ട്രസ്റ്റി ബോർഡിനെ സസ്പെൻഡ് ചെയ്തതായും ഇവർ പറയുന്നു."
+   ],
+   "srcs": [
+    [
+     "LiveLaw: SC orders lamp lighting, contempt notice",
+     "https://www.livelaw.in/amp/top-stories/thiruparankundram-row-supreme-court-orders-lamp-lighting-at-deepathoon-tomorrow-issues-contempt-notice-to-tn-authorities-560277"
+    ],
+    [
+     "Hindustan Times: SC issues contempt notice to TN",
+     "https://www.hindustantimes.com/cities/others/karthigai-deepam-row-sc-issues-contempt-notice-to-tamil-nadu-chief-secretary-dgp-and-collector-101795773477953.html"
+    ],
+    [
+     "Akashvani: SC summons TN Chief Secretary",
+     "https://newsonair.gov.in/sc-summons-tamil-nadu-chief-secretary-over-non-compliance-with-deepam-order/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgPq6b1ha_O/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 5:52 PM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T17:52:50+05:30"
+  },
+  {
    "id": "kizhakkambalam-elderly-woman-robbery-three-arrested-nov27",
    "cats": [
     "Kerala"

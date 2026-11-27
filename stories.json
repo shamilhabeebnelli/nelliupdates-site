@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "erumeli-unlabelled-chemical-vermilion-seized-sabarimala",
+   "cats": [
+    "Kerala"
+   ],
+   "title": "എരുമേലിയിൽ ലേബലില്ലാത്ത രാസസിന്ദൂരം പിടികൂടി: ശബരിമല സീസണിൽ ഹൈക്കോടതി നിർദേശപ്രകാരം പ്രത്യേക സ്ക്വാഡ് പരിശോധന",
+   "en": "Unlabelled chemical vermilion seized at Erumeli in Sabarimala season; special drugs squad formed on High Court direction inspects shops, as reported",
+   "sum": "ശബരിമല സീസണിൽ എരുമേലിയിലെ കടകളിൽ ലേബലില്ലാത്ത സിന്ദൂരം ഡ്രഗ്സ് കൺട്രോൾ വകുപ്പിന്റെ പ്രത്യേക സ്ക്വാഡ് പിടിച്ചെടുത്തെന്ന് ന്യൂ ഇന്ത്യൻ എക്സ്പ്രസ് റിപ്പോർട്ട് ചെയ്യുന്നു. നിരോധിത രാസസിന്ദൂരം പോലീസ് പിടികൂടിയെന്ന് ജന്മഭൂമിയും.",
+   "date": "27 Nov 2026",
+   "body": [
+    "ശബരിമല തീർത്ഥാടന സീസണിൽ എരുമേലിയിലെ കടകളിൽ ലേബലില്ലാത്ത സിന്ദൂരം (കുങ്കുമം) സംസ്ഥാന ഡ്രഗ്സ് കൺട്രോൾ വകുപ്പിന്റെ പ്രത്യേക സ്ക്വാഡ് പിടിച്ചെടുത്തതായി ന്യൂ ഇന്ത്യൻ എക്സ്പ്രസ് റിപ്പോർട്ട് ചെയ്യുന്നു. ഹൈക്കോടതിയുടെ നിർദേശത്തെ തുടർന്നാണ് സ്ക്വാഡ് രൂപീകരിച്ചതെന്നും ഇതുവരെ പിടിച്ചെടുത്ത പായ്ക്കറ്റുകളിൽ നിർമാണ വിവരങ്ങളോ ലൈസൻസോ ഉണ്ടായിരുന്നില്ലെന്നും റിപ്പോർട്ടിൽ പറയുന്നു.",
+    "എരുമേലിയിൽ വിൽപ്പനയ്ക്കായി സൂക്ഷിച്ച നിരോധിത രാസസിന്ദൂരം പോലീസ് പിടികൂടിയതായി ജന്മഭൂമിയും റിപ്പോർട്ട് ചെയ്യുന്നു. പിടിച്ചെടുത്ത അളവിനെക്കുറിച്ച് റിപ്പോർട്ടുകളിൽ വ്യത്യാസമുള്ളതിനാൽ കണക്കുകൾ ഇവിടെ നൽകുന്നില്ല.",
+    "സിന്ദൂരം സൗന്ദര്യവർധക വസ്തുക്കളുടെ വിഭാഗത്തിൽ വരുന്നതിനാൽ ലൈസൻസും ലേബലിങ്ങും നിർബന്ധമാണെന്നും രാസപദാർഥങ്ങൾ ചർമപ്രശ്നങ്ങൾക്ക് കാരണമാകാമെന്ന് വിദഗ്ധർ മുന്നറിയിപ്പ് നൽകുന്നതായും ന്യൂ ഇന്ത്യൻ എക്സ്പ്രസ് പറയുന്നു."
+   ],
+   "srcs": [
+    [
+     "New Indian Express: unlabelled vermilion under lens",
+     "https://www.newindianexpress.com/states/kerala/2026/Nov/27/amid-crackdown-on-cosmetics-in-keralam-unlabelled-vermilion-under-lens"
+    ],
+    [
+     "Janmabhumi: banned chemical vermilion seized, Erumeli",
+     "https://janmabhumi.in/3688688/prohibited-chemical-vermilion-seized-erumeli-kept-sale-pilgrims/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgOe8brBXCR/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 6:49 AM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T06:49:00+05:30"
+  },
+  {
    "id": "kozhikode-japan-water-project-main-pipe-burst-perambra-nov26",
    "cats": [
     "Kerala"

@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "delhi-aqi-220-poor-friday-morning-dtu-304-nov27",
+   "cats": [
+    "India"
+   ],
+   "title": "ഡൽഹിയിൽ വായു ഗുണനിലവാരം വെള്ളിയാഴ്ച രാവിലെയും \"മോശം\" വിഭാഗത്തിൽ: സൂചിക 220, ഡിടിയുവിൽ 304",
+   "en": "Delhi air quality stays in poor category on Friday morning: AQI 220, DTU highest at 304, as reported",
+   "sum": "വെള്ളിയാഴ്ച രാവിലെ ഡൽഹിയിലെ വായു ഗുണനിലവാര സൂചിക 220 ആയി, \"മോശം\" വിഭാഗത്തിൽ തുടരുന്നെന്ന് ബിസിനസ് സ്റ്റാൻഡേർഡ്, ഇക്കണോമിക് ടൈംസ്, സിഎൻബിസി-ടിവി18 എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു. ഡിടിയുവിൽ ഏറ്റവും ഉയർന്ന 304.",
+   "date": "27 Nov 2026",
+   "body": [
+    "വെള്ളിയാഴ്ച രാവിലെ ഡൽഹിയിലെ മൊത്തത്തിലുള്ള വായു ഗുണനിലവാര സൂചിക (എക്യുഐ) 220 ആണെന്നും ഇത് \"മോശം\" വിഭാഗത്തിലാണെന്നും ബിസിനസ് സ്റ്റാൻഡേർഡ് (രാവിലെ 8 മണിയിലെ സിപിസിബി കണക്ക്), ഇക്കണോമിക് ടൈംസ്, സിഎൻബിസി-ടിവി18 (രാവിലെ 7 മണിയിലെ കണക്ക്) എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു.",
+    "രാവിലെ 7 മണിക്ക് സൂചിക 220 ആയിരുന്നെന്നും തലേന്ന് ഇതേ സമയത്തെ 226-നേക്കാൾ ആറ് പോയിന്റ് കുറവാണെന്നും ഇക്കണോമിക് ടൈംസും സിഎൻബിസി-ടിവി18-ഉം പറയുന്നു. ഡൽഹി ടെക്നോളജിക്കൽ യൂണിവേഴ്സിറ്റി (ഡിടിയു) സ്റ്റേഷനിലാണ് ഏറ്റവും ഉയർന്ന 304 രേഖപ്പെടുത്തിയത്; ഇത് \"വളരെ മോശം\" വിഭാഗമാണ്. പിഎം2.5 ആണ് പ്രധാന മലിനീകാരിയെന്ന് ബിസിനസ് സ്റ്റാൻഡേർഡും ഇക്കണോമിക് ടൈംസും പറയുന്നു.",
+    "സമയവും നിരീക്ഷണ കേന്ദ്രങ്ങളും അനുസരിച്ച് സൂചികയിൽ മാറ്റം വരാം. ഓരോ റിപ്പോർട്ടും രാവിലത്തെ വ്യത്യസ്ത സമയത്തെ കണക്കാണ് ഉദ്ധരിക്കുന്നത്. ഏറ്റവും പുതിയ കണക്കിന് സിപിസിബി വിവരങ്ങൾ പരിശോധിക്കുക."
+   ],
+   "srcs": [
+    [
+     "Business Standard: Delhi's AQI continues to remain poor",
+     "https://www.business-standard.com/india-news/delhi-s-aqi-continues-to-remain-poor-dtu-records-highest-reading-at-304-126112700133_1.html"
+    ],
+    [
+     "Economic Times: Delhi AQI and weather today",
+     "https://economictimes.indiatimes.com/news/new-updates/delhi-aqi-and-weather-today-air-quality-improves-to-220-check-readings-in-noida-ghaziabad-faridabad-and-gurugram-and-imd-forecast/articleshow/136206837.cms"
+    ],
+    [
+     "CNBC TV18: Delhi AQI improves to 220 but remains poor",
+     "https://www.cnbctv18.com/india/delhi-aqi-improves-to-220-but-remains-poor-dtu-north-campus-among-most-polluted-areas-19949201.htm"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgQDRGtBI9e/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 9:25 PM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-27T21:25:39+05:30"
+  },
+  {
    "id": "gold-rebounds-from-15-month-low-delhi-rs3100-nov27",
    "cats": [
     "India"

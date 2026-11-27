@@ -1,36 +1,6 @@
 {
  "stories": [
   {
-   "id": "us-east-coast-thanksgiving-storm-parade-postponed-nov26",
-   "cats": [
-    "World"
-   ],
-   "title": "അമേരിക്കയുടെ കിഴക്കൻ തീരത്ത് താങ്ക്സ്ഗിവിങ് ദിനത്തിൽ കൊടുങ്കാറ്റ്; മാസീസ് പരേഡ് ശനിയാഴ്ചയിലേക്ക് മാറ്റി",
-   "en": "Thanksgiving storm hits US East Coast, Macy's parade postponed to Saturday",
-   "sum": "താങ്ക്സ്ഗിവിങ് ദിനത്തിൽ യുഎസ് കിഴക്കൻ തീരത്ത് ശക്തമായ കാറ്റും മഴയും വെള്ളപ്പൊക്കവും ഉണ്ടായതായി റിപ്പോർട്ടുകൾ. ന്യൂ ജേഴ്സിയിൽ സംസ്ഥാനവ്യാപക അടിയന്തരാവസ്ഥ പ്രഖ്യാപിച്ചു; ന്യൂയോർക്കിലെ മാസീസ് താങ്ക്സ്ഗിവിങ് പരേഡ് ശനിയാഴ്ചയിലേക്ക് മാറ്റി.",
-   "date": "27 Nov 2026",
-   "body": [
-    "എഎഫ്പിയും നോർത്ത്ജേഴ്സി.കോമും റിപ്പോർട്ട് ചെയ്യുന്നതനുസരിച്ച്, താങ്ക്സ്ഗിവിങ് ദിനത്തിൽ (നവംബർ 26) യുഎസ് കിഴക്കൻ തീരത്ത് നോർ ഈസ്റ്റർ കൊടുങ്കാറ്റ് ശക്തമായ മഴയും കാറ്റും കൊണ്ടുവന്നു. തീരദേശ വെള്ളപ്പൊക്കം, റോഡുകൾ അടച്ചിടൽ, വിമാന സർവീസുകളിലെ വൈകലും റദ്ദാക്കലും എന്നിവ റിപ്പോർട്ട് ചെയ്തു. ഒന്നിലധികം സംസ്ഥാനങ്ങളിൽ ലക്ഷക്കണക്കിന് ഉപഭോക്താക്കൾക്ക് വൈദ്യുതി മുടങ്ങിയതായി റിപ്പോർട്ടുകൾ പറയുന്നു; കണക്കുകൾ റിപ്പോർട്ടുകൾക്കനുസരിച്ച് വ്യത്യസ്തമാണ്.",
-    "ന്യൂ ജേഴ്സിയിൽ സംസ്ഥാനവ്യാപക അടിയന്തരാവസ്ഥ പ്രഖ്യാപിച്ചിരുന്നു. കൊടുങ്കാറ്റിനെത്തുടർന്ന് ന്യൂയോർക്കിലെ മാസീസ് താങ്ക്സ്ഗിവിങ് ഡേ പരേഡ് ശനിയാഴ്ചയിലേക്ക് മാറ്റിയെന്ന് മാസീസ് അറിയിച്ചതായി എഎഫ്പി റിപ്പോർട്ട് ചെയ്യുന്നു."
-   ],
-   "srcs": [
-    [
-     "AFP: New York postpones Thanksgiving parade as storm hits US East Coast",
-     "https://www.afp.com/en/new-york-postpones-thanksgiving-parade-storm-hits-us-east-coast"
-    ],
-    [
-     "NorthJersey.com: NJ weather brings heavy storm, power outages, flooding",
-     "https://www.northjersey.com/story/weather/2026/11/26/nj-weather-forecast-thanksgiving-storm-state-of-emergency/92969523007/"
-    ],
-    [
-     "Instagram post (@nelli.updates)",
-     "https://www.instagram.com/nelli.updates/p/DgPSu6KB4jw/"
-    ]
-   ],
-   "note": "Posted on Instagram @nelli.updates at about 2:21 PM IST on 27 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
-   "published_at": "2026-11-27T14:21:33+05:30"
-  },
-  {
    "id": "madras-hc-bypolls-ambasamudram-perundurai-defers-3-nov27",
    "cats": [
     "India"
@@ -12783,6 +12753,7 @@
   }
  ],
  "removed": [
-  "cbi-uae-deports-2008-kerala-murder-accused-red-notice-nov25"
+  "cbi-uae-deports-2008-kerala-murder-accused-red-notice-nov25",
+  "us-east-coast-thanksgiving-storm-parade-postponed-nov26"
  ]
 }

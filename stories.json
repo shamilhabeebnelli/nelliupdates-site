@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "isro-hsfc-mission-antariksh-analog-facility-eoi-nov28",
+   "cats": [
+    "Tech"
+   ],
+   "title": "ഐഎസ്ആർഒ ക്രൂ പരിശീലന സിമുലേഷൻ സൗകര്യം: \"മിഷൻ അന്തരീക്ഷ്\" നിർമിക്കാൻ വ്യവസായ മേഖലയിൽ നിന്ന് താൽപര്യപത്രം ക്ഷണിച്ചു",
+   "en": "ISRO HSFC invites Indian industry to build Mission ANTARIKSH human spaceflight analog simulation facility; expression of interest dated Nov 26, closes Dec 30",
+   "sum": "ഐഎസ്ആർഒയുടെ ഹ്യൂമൻ സ്പേസ് ഫ്ലൈറ്റ് സെന്റർ നവംബർ 26ന് ഇറക്കിയ താൽപര്യപത്രത്തിലൂടെ \"മിഷൻ അന്തരീക്ഷ്\" എന്ന ഭൂമിയിലെ മനുഷ്യ ബഹിരാകാശ അനലോഗ് സിമുലേഷൻ സൗകര്യം നിർമിക്കാൻ ഇന്ത്യൻ വ്യവസായ മേഖലയെ ക്ഷണിച്ചു.",
+   "date": "28 Nov 2026",
+   "body": [
+    "ഐഎസ്ആർഒയുടെ ബെംഗളൂരുവിലെ ഹ്യൂമൻ സ്പേസ് ഫ്ലൈറ്റ് സെന്റർ (എച്ച്എസ്എഫ്സി) നവംബർ 26ന് പുറത്തിറക്കിയ താൽപര്യപത്രത്തിലൂടെ (EoI) \"മിഷൻ അന്തരീക്ഷ്\" എന്ന ഭൂമിയിലെ മനുഷ്യ ബഹിരാകാശ അനലോഗ് സിമുലേഷൻ സൗകര്യം പൂർണമായി നിർമിക്കാൻ ഇന്ത്യൻ വ്യവസായ മേഖലയെ ക്ഷണിച്ചതായി ദ ഹിന്ദുവും spaceexploration.in ഉം റിപ്പോർട്ട് ചെയ്തു.",
+    "ക്രൂ പരിശീലനം, ദൗത്യ റിഹേഴ്സൽ, സംവിധാനങ്ങളുടെ വിലയിരുത്തൽ എന്നിവയ്ക്കുള്ള സൗകര്യമാണിത്. ഗഗൻയാൻ, ഭാരതീയ അന്തരീക്ഷ് സ്റ്റേഷൻ സിമുലേറ്റർ മൊഡ്യൂളുകൾ, മിഷൻ കൺട്രോൾ സെന്റർ, ന്യൂട്രൽ ബോയൻസി സിമുലേറ്റർ എന്നിവ ഇതിലുണ്ടാകുമെന്ന് താൽപര്യപത്രത്തെ ഉദ്ധരിച്ച് റിപ്പോർട്ടുകൾ പറയുന്നു.",
+    "ടെൻഡർ പട്ടികയിൽ (HSFC/EoI/02/2026-27) അപേക്ഷ സമർപ്പിക്കാനുള്ള അവസാന തീയതി ഡിസംബർ 30 ആണ്. ഇത് താൽപര്യപത്രം മാത്രമാണ്, കരാർ ഇതുവരെ നൽകിയിട്ടില്ല. ചിത്രം പ്രതിനിധാന സ്വഭാവമുള്ള ഫയൽ ചിത്രമാണ്."
+   ],
+   "srcs": [
+    [
+     "The Hindu: ISRO invites industry, analog facility",
+     "https://www.thehindu.com/sci-tech/science/isro-invites-indian-industry-to-develop-human-space-flight-analog-simulation-facility/article71751015.ece"
+    ],
+    [
+     "spaceexploration.in: ISRO seeks industry for Antariksh",
+     "https://www.spaceexploration.in/news/isro-antariksh-analog-facility-eoi"
+    ],
+    [
+     "Tender listing HSFC/EoI/02/2026-27 (tenderdetail)",
+     "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/58756618/ac0905f065d4c624edcf153523189d96"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgSFdPdhUfV/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 4:23 PM IST on 28 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-28T16:23:25+05:30"
+  },
+  {
    "id": "ind-116-6-trail-nz-240-christchurch-test-day2-nov28",
    "cats": [
     "Sports"

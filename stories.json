@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "rbi-atm-pos-cash-withdrawal-master-direction-nov27",
+   "cats": [
+    "India"
+   ],
+   "title": "എടിഎം, പിഒഎസ് പണം പിൻവലിക്കലിന് ആർബിഐയുടെ ഏകീകൃത മാസ്റ്റർ ഡയറക്ഷൻ; സൗജന്യ ഇടപാട് പരിധി മാറ്റമില്ല, ഫീസ് പരമാവധി 23 രൂപ",
+   "en": "RBI issues consolidated ATM and PoS cash withdrawal Master Direction: free transaction limits unchanged, charge capped at Rs 23, banks must alert customers",
+   "sum": "17 പഴയ സർക്കുലറുകൾ ഏകീകരിച്ച് ആർബിഐ നവംബർ 27ന് എടിഎം, പിഒഎസ് പണം പിൻവലിക്കൽ ഡയറക്ഷൻ പുറപ്പെടുവിച്ചു. സൗജന്യ ഇടപാട് പരിധി മാറ്റമില്ല; പരിധി കഴിഞ്ഞാൽ ഫീസ് പരമാവധി 23 രൂപ; ഉപയോഗം ബാങ്കുകൾ ഉപഭോക്താവിനെ അറിയിക്കണം.",
+   "date": "28 Nov 2026",
+   "body": [
+    "റിസർവ് ബാങ്ക് ഓഫ് ഇന്ത്യ നവംബർ 27ന് (വെള്ളിയാഴ്ച) എടിഎം, പിഒഎസ് ടെർമിനലുകൾ വഴിയുള്ള പണം പിൻവലിക്കലിനുള്ള ഏകീകൃത മാസ്റ്റർ ഡയറക്ഷൻ പുറത്തിറക്കി. ആർബിഐ ഡയറക്ഷനും മിന്റ്, ഫ്രീ പ്രസ് ജേണൽ റിപ്പോർട്ടുകളും അനുസരിച്ച് ഇത് നേരത്തെയുള്ള 17 സർക്കുലറുകൾ ഏകീകരിക്കുന്നു.",
+    "റിപ്പോർട്ടുകൾ പ്രകാരം സേവിങ്സ് അക്കൗണ്ട് ഉടമകൾക്ക് സ്വന്തം ബാങ്കിന്റെ എടിഎമ്മിൽ മാസം അഞ്ച് സൗജന്യ ഇടപാടുകളും, മറ്റ് ബാങ്കുകളുടെ എടിഎമ്മിൽ മെട്രോ കേന്ദ്രങ്ങളിൽ മൂന്നും അല്ലാത്തിടത്ത് അഞ്ചും സൗജന്യ ഇടപാടുകളും തുടർന്നും ലഭിക്കും. പരിധി കഴിഞ്ഞാൽ ഒരു ഇടപാടിന് നികുതി ഒഴികെ പരമാവധി 23 രൂപയാണ് ഈടാക്കാവുന്നത്.",
+    "ഈ മാസം എത്ര സൗജന്യ ഇടപാടുകൾ ഉപയോഗിച്ചെന്നും തുടർന്നുള്ള ഇടപാടുകൾക്ക് ബാധകമായ ചാർജും ഉപഭോക്താവിനെ അറിയിക്കാൻ ബാങ്കുകൾ സംവിധാനം ഒരുക്കണമെന്നും റിപ്പോർട്ടുകൾ പറയുന്നു. സാങ്കേതിക തകരാർ പോലുള്ള കാരണങ്ങളാൽ പരാജയപ്പെടുന്ന ഇടപാടുകൾ സൗജന്യ പരിധിയിൽ കണക്കാക്കില്ല, അവയ്ക്ക് ചാർജും ഈടാക്കില്ല. ചിത്രം പ്രതിനിധാന സ്വഭാവമുള്ള ഫയൽ ചിത്രമാണ്."
+   ],
+   "srcs": [
+    [
+     "RBI: Cash Withdrawal (ATM and PoS) Directions 2026",
+     "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/MD478B97A8B21B85D417E96D2FA9EDC2A2A8E.PDF"
+    ],
+    [
+     "Mint: RBI ATM cash withdrawal rules",
+     "https://www.livemint.com/money/personal-finance/rbi-issues-atm-cash-withdrawal-rules-banks-must-alert-you-about-monthly-free-transactions-used-6-key-points-to-know-11795842057053.html"
+    ],
+    [
+     "Free Press Journal: RBI free ATM transaction alert",
+     "https://www.freepressjournal.in/business/running-out-of-free-atm-transactions-rbi-steps-in-banks-must-alert-customers-before-charges-kick-in"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgRzyYkB51e/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 1:48 PM IST on 28 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-28T13:48:55+05:30"
+  },
+  {
    "id": "karnataka-show-cause-iocl-devanagonthi-ethanol-meters-nov27",
    "cats": [
     "India"

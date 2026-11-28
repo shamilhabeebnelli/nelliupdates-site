@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "karnataka-show-cause-iocl-devanagonthi-ethanol-meters-nov27",
+   "cats": [
+    "India"
+   ],
+   "title": "ബെംഗളൂരുവിലെ ഐഒസിഎൽ ടെർമിനലിന് കർണാടക ലീഗൽ മെട്രോളജി വകുപ്പിന്റെ കാരണം കാണിക്കൽ നോട്ടീസ്; എഥനോൾ അളവിൽ വ്യത്യാസമെന്ന് ആരോപണം",
+   "en": "Karnataka serves show-cause notice on IOCL Devanagonthi terminal over alleged ethanol and petrol measurement discrepancies",
+   "sum": "ബെംഗളൂരു ദേവനഗൊന്തിയിലെ ഐഒസിഎൽ ടെർമിനലിന് കർണാടക ലീഗൽ മെട്രോളജി വകുപ്പ് നവംബർ 27ന് (വെള്ളിയാഴ്ച) കാരണം കാണിക്കൽ നോട്ടീസ് നൽകി. 3,000 ലിറ്ററിന് 14 ലിറ്റർ എഥനോൾ അധികമെന്നത് സംസ്ഥാനത്തിന്റെ ആരോപണമാണ്; ഏഴ് ദിവസത്തിനകം വിശദീകരണം തേടി.",
+   "date": "28 Nov 2026",
+   "body": [
+    "കർണാടക ലീഗൽ മെട്രോളജി വകുപ്പ് ബെംഗളൂരുവിലെ ദേവനഗൊന്തി ഐഒസിഎൽ ടെർമിനലിന് നവംബർ 27ന് (വെള്ളിയാഴ്ച) കാരണം കാണിക്കൽ നോട്ടീസ് നൽകിയതായി ദി ഹിന്ദു, ബിസിനസ് സ്റ്റാൻഡേർഡ്, ഇന്ത്യൻ എക്സ്പ്രസ് എന്നിവ റിപ്പോർട്ട് ചെയ്തു. നവംബർ 25ന് (ബുധനാഴ്ച) നടത്തിയ പരിശോധനയിൽ മാസ് ഫ്ലോ മീറ്ററുകളിൽ എഥനോൾ 3,000 ലിറ്ററിന് 14 ലിറ്റർ അധികമായും പെട്രോൾ 4 മുതൽ 6 ലിറ്റർ വരെ കുറവായും അളക്കപ്പെട്ടെന്നാണ് സംസ്ഥാനത്തിന്റെ ആരോപണം.",
+    "ഇത് അനുവദനീയ പരിധിക്ക് പുറത്താണെന്ന് മന്ത്രി റിസ്വാൻ അർഷദ് പറഞ്ഞു. ഏഴ് ദിവസത്തിനകം വിശദീകരണം നൽകണമെന്നും പരിശോധനയിൽ കണ്ടെത്തിയ അളവ് സംവിധാനങ്ങൾ കൃത്യത ഉറപ്പാക്കുന്നതുവരെ വാണിജ്യ ഇടപാടുകൾക്ക് ഉപയോഗിക്കരുതെന്നും വകുപ്പ് നിർദേശിച്ചതായി ദി ഹിന്ദു റിപ്പോർട്ട് ചെയ്യുന്നു.",
+    "ഈ റിപ്പോർട്ടുകളെല്ലാം മന്ത്രിയുടെ ഓഫീസിന്റെയും നോട്ടീസിന്റെയും വിവരങ്ങളെ ആശ്രയിക്കുന്നവയാണ്. തുറന്നുവായിച്ച റിപ്പോർട്ടുകളിൽ ഐഒസിഎല്ലിന്റെ പ്രതികരണം ഉണ്ടായിരുന്നില്ല. ഇത് സംസ്ഥാനത്തിന്റെ ആരോപണം മാത്രമാണ്. ചിത്രം പ്രതിനിധാന സ്വഭാവമുള്ള ഫയൽ ചിത്രമാണ്."
+   ],
+   "srcs": [
+    [
+     "The Hindu: show-cause notice to IOCL terminal",
+     "https://www.thehindu.com/news/national/karnataka/karnataka-government-serves-show-cause-notice-to-iocl-terminal-in-bengaluru-over-ethanol-measurement-discrepancies/article71751423.ece"
+    ],
+    [
+     "Business Standard: notice to IOC terminal",
+     "https://www.business-standard.com/companies/news/karnataka-issues-show-cause-notice-to-ioc-terminal-over-ethanol-blending-126112701020_1.html"
+    ],
+    [
+     "Indian Express: E20 row, notice to IOC terminal",
+     "https://indianexpress.com/article/cities/bangalore/karnataka-e20-fuel-row-ioc-ethanol-show-cause-notice-10982024/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgRyVE1B5J0/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 1:36 PM IST on 28 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-28T13:36:12+05:30"
+  },
+  {
    "id": "maharashtra-traffic-challan-amnesty-20-pct-from-dec1-nov27",
    "cats": [
     "India"

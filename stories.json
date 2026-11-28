@@ -1,6 +1,36 @@
 {
  "stories": [
   {
+   "id": "milma-compound-cattle-feed-price-hike-nov28",
+   "cats": [
+    "Kerala"
+   ],
+   "title": "മിൽമ കാലിത്തീറ്റ വില കൂട്ടി: ഉൽപാദനച്ചെലവ് ഉയർന്നതാണ് കാരണമെന്ന് ഫെഡറേഷൻ",
+   "en": "Milma raises compound cattle feed prices, citing higher input costs, as reported by The Hindu BusinessLine and Mathrubhumi; reports differ on the exact increase",
+   "sum": "ഉൽപാദനച്ചെലവ് ഉയർന്നതിനെ തുടർന്ന് മിൽമ കോമ്പൗണ്ട് കാലിത്തീറ്റയുടെ വില കൂട്ടിയെന്ന് ദ ഹിന്ദു ബിസിനസ്‌ലൈനും മാതൃഭൂമിയും റിപ്പോർട്ട് ചെയ്തു. വർധനയുടെ തുക റിപ്പോർട്ടുകളിൽ വ്യത്യസ്തമായതിനാൽ നൽകുന്നില്ല.",
+   "date": "28 Nov 2026",
+   "body": [
+    "കേരള കോഓപ്പറേറ്റീവ് മിൽക്ക് മാർക്കറ്റിങ് ഫെഡറേഷൻ (മിൽമ) കോമ്പൗണ്ട് കാലിത്തീറ്റയുടെ വില കൂട്ടിയെന്ന് ദ ഹിന്ദു ബിസിനസ്‌ലൈനും മാതൃഭൂമിയും റിപ്പോർട്ട് ചെയ്തു. ബിസിനസ്‌ലൈൻ നവംബർ 25നും മാതൃഭൂമി നവംബർ 26നുമാണ് വാർത്ത നൽകിയത്.",
+    "അസംസ്കൃത വസ്തുക്കൾ, പാക്കിങ് സാമഗ്രികൾ, ഗതാഗതം എന്നിവയുടെ ചെലവ് കുത്തനെ ഉയർന്നതാണ് കാരണമെന്ന് മിൽമ ചെയർമാൻ കെ.എസ്. മണി പറഞ്ഞതായി ബിസിനസ്‌ലൈൻ റിപ്പോർട്ട് ചെയ്യുന്നു. 2022 നവംബർ മുതൽ വിൽപന വില പുതുക്കിയിരുന്നില്ലെന്നും അദ്ദേഹം പറഞ്ഞു. സബ്സിഡി നിലച്ചതോടെ വർധന ക്ഷീരകർഷകർക്ക് ഇരുട്ടടിയാണെന്ന് മാതൃഭൂമി റിപ്പോർട്ട് ചെയ്യുന്നു. വർധനയുടെ തുക റിപ്പോർട്ടുകളിൽ വ്യത്യസ്തമായതിനാൽ ഇവിടെ നൽകുന്നില്ല; കൃത്യമായ വില മിൽമയുടെ ഔദ്യോഗിക അറിയിപ്പിൽ പരിശോധിക്കുക. ചിത്രം പ്രതിനിധാന സ്വഭാവമുള്ള ഫയൽ ചിത്രമാണ്."
+   ],
+   "srcs": [
+    [
+     "The Hindu BusinessLine: Milma cattle feed prices",
+     "https://www.thehindubusinessline.com/economy/agri-business/why-has-milma-increased-cattle-feed-prices-federation-cites-sharp-rise-in-input-costs/article71742342.ece"
+    ],
+    [
+     "Mathrubhumi: Milma cattle feed price hike",
+     "https://www.mathrubhumi.com/agriculture/animal-husbandry/milma-cattle-feed-price-hike-subsidy-stopped-a7gws8mr"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgRMD-FhfMd/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 8:01 AM IST on 28 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-28T08:01:44+05:30"
+  },
+  {
    "id": "kerala-bill-women-night-shift-two-women-batch-nov28",
    "cats": [
     "Kerala"

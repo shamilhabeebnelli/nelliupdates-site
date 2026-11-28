@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "hdfc-bank-stop-upi-sms-alerts-up-to-500-from-jan1-2027",
+   "cats": [
+    "India"
+   ],
+   "title": "എച്ച്ഡിഎഫ്സി ബാങ്ക്: 500 രൂപ വരെയുള്ള യുപിഐ ഇടപാടുകൾക്ക് ജനുവരി 1 മുതൽ എസ്എംഎസ് അലർട്ട് നിർത്തും",
+   "en": "HDFC Bank to stop SMS alerts for UPI payments up to Rs 500 from Jan 1, 2027; email alerts to continue, as reported",
+   "sum": "500 രൂപ വരെയുള്ള യുപിഐ ഇടപാടുകൾക്ക് 2027 ജനുവരി 1 മുതൽ എസ്എംഎസ് അലർട്ട് അയയ്ക്കില്ലെന്ന് എച്ച്ഡിഎഫ്സി ബാങ്ക് ഉപഭോക്താക്കളെ അറിയിച്ചതായി സിഎൻബിസി ടിവി18, മിന്റ് എന്നിവ റിപ്പോർട്ട് ചെയ്തു. ഇമെയിൽ അലർട്ട് തുടരും.",
+   "date": "28 Nov 2026",
+   "body": [
+    "2027 ജനുവരി 1 മുതൽ 500 രൂപയോ അതിൽ കുറവോ ഉള്ള യുപിഐ ഇടപാടുകൾക്ക് എസ്എംഎസ് അലർട്ട് അയയ്ക്കില്ലെന്ന് എച്ച്ഡിഎഫ്സി ബാങ്ക് ഉപഭോക്താക്കളെ അറിയിച്ചതായി സിഎൻബിസി ടിവി18, മിന്റ് എന്നിവ റിപ്പോർട്ട് ചെയ്തു. 500 രൂപയിൽ കൂടുതലുള്ള ഇടപാടുകൾക്ക് എസ്എംഎസ് അലർട്ട് തുടരും.",
+    "എല്ലാ യുപിഐ ഇടപാടുകൾക്കും ഇമെയിൽ അലർട്ട് തുടരുമെന്നും, അതിന് ബാങ്കിൽ രജിസ്റ്റർ ചെയ്ത ഇമെയിൽ വിലാസം വേണമെന്നും റിപ്പോർട്ടുകൾ പറയുന്നു. നവംബർ 27 വെള്ളിയാഴ്ചയാണ് ഈ റിപ്പോർട്ടുകൾ വന്നത്.",
+    "ഇലക്ട്രോണിക് ബാങ്കിങ് ഇടപാടുകളുടെ അലർട്ടുകൾ സംബന്ധിച്ച ആർബിഐയുടെ പുതുക്കിയ നിർദേശങ്ങൾ അനുസരിച്ച്, 500 രൂപയോ അതിൽ കുറവോ ഉള്ള ഇടപാടുകൾക്ക് എസ്എംഎസ് അയക്കണോ എന്ന് ബാങ്കുകൾക്ക് തീരുമാനിക്കാമെന്ന് റിപ്പോർട്ടുകൾ പറയുന്നു. എസ്എംഎസ് ലഭിക്കാത്തത് ഇടപാട് പരാജയപ്പെട്ടു എന്നതിന്റെ സൂചനയല്ലെന്നും, യുപിഐ ആപ്പ്, സ്റ്റേറ്റ്മെന്റ്, ഇമെയിൽ എന്നിവയിൽ പരിശോധിക്കാമെന്നും മിന്റ് പറയുന്നു. ചിത്രം പ്രതിനിധാന സ്വഭാവമുള്ള ഫയൽ ചിത്രമാണ്."
+   ],
+   "srcs": [
+    [
+     "CNBC TV18: HDFC Bank to stop UPI SMS alerts up to Rs 500",
+     "https://www.cnbctv18.com/personal-finance/hdfc-bank-to-stop-sms-alerts-for-upi-payments-up-to-%E2%82%B9500-from-january-1-2027-20043303.htm"
+    ],
+    [
+     "Mint: No HDFC Bank SMS alerts for UPI up to Rs 500",
+     "https://www.livemint.com/companies/news/no-hdfc-bank-sms-alerts-for-upi-payments-up-to-500-from-1st-january-2027-heres-why-what-customers-should-know-11795787590342.html"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgQ7hu4B_cS/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 5:37 AM IST on 28 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-28T05:37:15+05:30"
+  },
+  {
    "id": "india-presents-ahmedabad-2036-olympic-bid-ioc-panel-nov26",
    "cats": [
     "Sports"

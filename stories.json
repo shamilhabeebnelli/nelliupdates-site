@@ -1,6 +1,36 @@
 {
  "stories": [
   {
+   "id": "ecr-fog-schedule-20-train-pairs-cancelled-dec1-feb28",
+   "cats": [
+    "India"
+   ],
+   "title": "കോടമഞ്ഞ്: പൂർവ മധ്യ റെയിൽവേയിൽ 20 ജോടി ട്രെയിനുകൾ റദ്ദാക്കും, 26 ജോടിയുടെ ദിവസങ്ങൾ കുറയ്ക്കും",
+   "en": "East Central Railway to cancel 20 train pairs and cut days for 26 pairs from Dec 1 to Feb 28 due to fog, as reported by The Daily Jagran and Live Hindustan",
+   "sum": "കോടമഞ്ഞ് കാരണം ഡിസംബർ 1 മുതൽ ഫെബ്രുവരി 28 വരെ പൂർവ മധ്യ റെയിൽവേ 20 ജോടി ട്രെയിനുകൾ റദ്ദാക്കുകയും 26 ജോടി ട്രെയിനുകളുടെ സർവീസ് ദിവസങ്ങൾ കുറയ്ക്കുകയും ചെയ്യുമെന്ന് ദ ഡെയ്‌ലി ജാഗ്രണും ലൈവ് ഹിന്ദുസ്ഥാനും റിപ്പോർട്ട് ചെയ്തു.",
+   "date": "28 Nov 2026",
+   "body": [
+    "പൂർവ മധ്യ റെയിൽവേ (ഹാജിപൂർ) കോടമഞ്ഞിനെ തുടർന്നുള്ള സുരക്ഷ കണക്കിലെടുത്ത് 2026 ഡിസംബർ 1 മുതൽ 2027 ഫെബ്രുവരി 28 വരെ 20 ജോടി ട്രെയിനുകൾ പൂർണമായി റദ്ദാക്കുമെന്നും 26 ജോടി ട്രെയിനുകൾ ആഴ്ചയിൽ കുറച്ച് ദിവസം മാത്രം ഓടുമെന്നും ദ ഡെയ്‌ലി ജാഗ്രണും ലൈവ് ഹിന്ദുസ്ഥാനും റിപ്പോർട്ട് ചെയ്തു. നവംബർ 27 വെള്ളിയാഴ്ചയാണ് റിപ്പോർട്ടുകൾ വന്നത്.",
+    "ചില സർവീസുകൾ ഭാഗികമായി റദ്ദാക്കുമെന്നും ജാഗ്രൺ പറയുന്നു. ഓരോ ട്രെയിനിനും റദ്ദാക്കൽ തീയതികൾ വ്യത്യസ്തമാണ്. യാത്ര ചെയ്യുന്നവർ ട്രെയിനിന്റെ തീയതി റെയിൽവേ ഹെൽപ്പ്‌ലൈൻ വഴി ഉറപ്പാക്കണമെന്ന് ലൈവ് ഹിന്ദുസ്ഥാൻ റിപ്പോർട്ട് ചെയ്യുന്നു. ചിത്രം പ്രതിനിധാന സ്വഭാവമുള്ള ഫയൽ ചിത്രമാണ്."
+   ],
+   "srcs": [
+    [
+     "The Daily Jagran: Bihar winter train schedule",
+     "https://www.thedailyjagran.com/india/news/bihar-winter-train-schedule-20-pairs-including-muzaffarpur-prayagraj-junction-express-cancelled-26-to-run-on-fewer-days-check-details-10337908"
+    ],
+    [
+     "Live Hindustan: 20 trains cancelled due to fog",
+     "https://www.livehindustan.com/bihar/weather-hits-rail-operation-20-trains-cancelled-frequency-of-26-reduced-from-december-1-to-february-28-due-to-fog-201795828316170.html"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgRHJ8KBVLj/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 7:18 AM IST on 28 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-28T07:18:51+05:30"
+  },
+  {
    "id": "bmc-maiden-municipal-bond-retail-investors-plan-nov27",
    "cats": [
     "India"

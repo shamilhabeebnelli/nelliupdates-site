@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "maharashtra-one-lakh-autorickshaws-drought-hit-farmers-nov26",
+   "cats": [
+    "India"
+   ],
+   "title": "വരൾച്ചബാധിത മേഖലയിലെ കർഷകർക്ക് ഒരു ലക്ഷം ഓട്ടോറിക്ഷ: മഹാരാഷ്ട്ര സർക്കാർ പ്രഖ്യാപിച്ച പദ്ധതി",
+   "en": "Maharashtra announces plan to give 1 lakh autorickshaws to drought-hit small farmers over five years from 2027; 10% board aid, 90% bank loan",
+   "sum": "വരൾച്ചബാധിത പ്രദേശങ്ങളിലെ ചെറുകിട, നാമമാത്ര കർഷകർക്ക് 2027 മുതൽ 2031 വരെ ഒരു ലക്ഷം പാസഞ്ചർ ഓട്ടോറിക്ഷ നൽകുമെന്ന് മഹാരാഷ്ട്ര ഗതാഗതമന്ത്രി പ്രതാപ് സർനായിക് അറിയിച്ചു. 10% ക്ഷേമബോർഡ് സഹായം, 90% ബാങ്ക് വായ്പ.",
+   "date": "28 Nov 2026",
+   "body": [
+    "വരൾച്ചബാധിത പ്രദേശങ്ങളിലെ ചെറുകിട, നാമമാത്ര കർഷകർക്ക് അടുത്ത അഞ്ച് വർഷത്തിനുള്ളിൽ ഒരു ലക്ഷം പാസഞ്ചർ ഓട്ടോറിക്ഷ നൽകുമെന്ന് മഹാരാഷ്ട്ര ഗതാഗതമന്ത്രി പ്രതാപ് സർനായിക് നവംബർ 26ന് (വ്യാഴാഴ്ച) മുംബൈയിൽ അറിയിച്ചതായി ദ ഇന്ത്യൻ എക്സ്പ്രസ്, ടൈംസ് ഓഫ് ഇന്ത്യ, പിടിഐ വാർത്ത (ദ പ്രിന്റ്) എന്നിവ റിപ്പോർട്ട് ചെയ്തു. സംസ്ഥാനത്ത് വരൾച്ചബാധിതമായി പ്രഖ്യാപിച്ച 310ലധികം താലൂക്കുകളിലാണ് പദ്ധതി.",
+    "2027 മുതൽ 2031 വരെ വർഷംതോറും 20,000 വാഹനങ്ങൾ വിതരണം ചെയ്യും. വാഹനവിലയുടെ 10% ക്ഷേമബോർഡ് സഹായമായി നൽകും; ബാക്കി 90% ദേശസാൽകൃത, ഷെഡ്യൂൾഡ് ബാങ്കുകളോ മറ്റ് ധനകാര്യസ്ഥാപനങ്ങളോ നൽകുന്ന വായ്പയാണ്. ഗുണഭോക്താക്കളെ നറുക്കെടുപ്പിലൂടെ തിരഞ്ഞെടുക്കും. ആദ്യ വാഹനങ്ങളുടെ താക്കോൽ 2027 ഫെബ്രുവരി 9ന് കൈമാറുമെന്നും മന്ത്രി പറഞ്ഞു.",
+    "വൈദ്യുതി, ചാർജിങ് സൗകര്യങ്ങളുടെ കുറവ് കാരണം തുടക്കത്തിൽ സിഎൻജി, എൽപിജി ഓട്ടോകൾ മാത്രമാണ് നൽകുക, ഇലക്ട്രിക് ഓട്ടോകളല്ല. ലൈസൻസ്, പെർമിറ്റ് ഫീസ് ഇളവ് സർക്കാർ അനുമതിക്കായി അയയ്ക്കുന്ന നിർദേശം മാത്രമാണെന്ന് പിടിഐ റിപ്പോർട്ട് ചെയ്തു. ചിത്രം പ്രതിനിധാന സ്വഭാവമുള്ള ഫയൽ ചിത്രമാണ്."
+   ],
+   "srcs": [
+    [
+     "The Indian Express: Mahayuti drought relief autorickshaw",
+     "https://indianexpress.com/article/cities/mumbai/mahayuti-maharashtra-drought-relief-package-farmers-subsidised-autorickshaw-10979743/"
+    ],
+    [
+     "Times of India: a lakh autos for drought-hit farmers",
+     "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-plans-a-lakh-autos-for-drought-hit-farmers-to-give-them-a-second-source-of-income/articleshow/136199200.cms"
+    ],
+    [
+     "ThePrint (PTI): 1 lakh autorickshaws, Sarnaik",
+     "https://theprint.in/india/maharashtra-govt-to-provide-1-lakh-autorickshaws-to-drought-hit-farmers-over-five-years-sarnaik/3110050/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgRg07Vh4iP/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 11:03 AM IST on 28 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-28T11:03:11+05:30"
+  },
+  {
    "id": "telangana-cm-overseas-jobs-scheme-50-percent-subsidy-nov27",
    "cats": [
     "India"

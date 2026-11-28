@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "sp-upgrades-sri-lanka-rating-b-minus-from-ccc-plus-nov27",
+   "cats": [
+    "World"
+   ],
+   "title": "ശ്രീലങ്കയുടെ സോവറിൻ റേറ്റിങ് CCC+ ൽ നിന്ന് B- ലേക്ക് ഉയർത്തി എസ്&പി, ഔട്ട്ലുക്ക് സ്റ്റേബിൾ",
+   "en": "S&P upgrades Sri Lanka sovereign rating to B- from CCC+ with stable outlook on Nov 27, as reported by Daily FT and Xinhua",
+   "sum": "ശ്രീലങ്കയുടെ ദീർഘകാല സോവറിൻ ക്രെഡിറ്റ് റേറ്റിങ് എസ്&പി ഗ്ലോബൽ CCC+ ൽ നിന്ന് B- ലേക്ക് ഉയർത്തിയെന്നും ഔട്ട്ലുക്ക് സ്റ്റേബിൾ ആണെന്നും ഡെയ്‌ലി എഫ്ടി, സിൻഹുവ എന്നിവ റിപ്പോർട്ട് ചെയ്തു. ഹ്രസ്വകാല റേറ്റിങ് C യിൽ നിന്ന് B ആയും ഉയർത്തി.",
+   "date": "28 Nov 2026",
+   "body": [
+    "നവംബർ 27 വെള്ളിയാഴ്ച എസ്&പി ഗ്ലോബൽ റേറ്റിങ്സ് ശ്രീലങ്കയുടെ ദീർഘകാല സോവറിൻ ക്രെഡിറ്റ് റേറ്റിങ് CCC+ ൽ നിന്ന് B- ലേക്ക് ഉയർത്തിയതായും ഔട്ട്ലുക്ക് സ്റ്റേബിൾ ആണെന്നും ഡെയ്‌ലി എഫ്ടി, സിൻഹുവ എന്നിവ റിപ്പോർട്ട് ചെയ്തു. ഹ്രസ്വകാല റേറ്റിങ് C യിൽ നിന്ന് B ആയി ഉയർത്തിയെന്ന് ഡെയ്‌ലി എഫ്ടി പറയുന്നു.",
+    "അടുത്ത രണ്ട് വർഷത്തിനുള്ളിൽ കടത്തിൽ വീഴ്ച വരുത്താനുള്ള സാധ്യത കുറവാണെന്ന് എസ്&പി വിലയിരുത്തിയതായി ഇരു റിപ്പോർട്ടുകളും പറയുന്നു. സാമ്പത്തിക, ബാഹ്യ ബഫറുകൾ ശക്തിപ്പെട്ടതാണ് കാരണമായി പറയുന്നത്.",
+    "പശ്ചിമേഷ്യയിലെ സംഘർഷം നീണ്ടാൽ ക്രൂഡ് ഓയിൽ ലഭ്യതയിലും പ്രവാസി പണമയയ്ക്കലിലും സമ്മർദം ഉണ്ടാകാമെന്നും, ബാഹ്യ-ധനകാര്യ പ്രകടനം മോശമായാൽ റേറ്റിങ് താഴ്ത്താനിടയുണ്ടെന്നും എസ്&പി മുന്നറിയിപ്പ് നൽകിയതായി സിൻഹുവ റിപ്പോർട്ട് ചെയ്യുന്നു. ചിത്രം പ്രതിനിധാന സ്വഭാവമുള്ള ഫയൽ ചിത്രമാണ്."
+   ],
+   "srcs": [
+    [
+     "Daily FT: S&P upgrades Sri Lanka",
+     "https://www.ft.lk/top-story/S-P-upgrades-Sri-Lanka-says-out-of-default-danger-zone/26-800732"
+    ],
+    [
+     "Xinhua: S&P upgrades Sri Lanka's sovereign rating",
+     "https://english.news.cn/asiapacific/20261127/66682e7095b14dc29751daaf39b368f6/c.html"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgQ-O8Eh3aR/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 6:00 AM IST on 28 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-28T06:00:53+05:30"
+  },
+  {
    "id": "jaxa-unveils-chandrayaan-5-lupex-rover-prototype-nov25",
    "cats": [
     "Tech"

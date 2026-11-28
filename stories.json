@@ -1,6 +1,38 @@
 {
  "stories": [
   {
+   "id": "kerala-police-fake-traffic-fine-message-scam-alert-nov28",
+   "cats": [
+    "Kerala"
+   ],
+   "title": "വ്യാജ ട്രാഫിക് പിഴ, ഇൻഷുറൻസ് സന്ദേശങ്ങൾക്കെതിരെ കേരള പൊലീസിന്റെ മുന്നറിയിപ്പ്",
+   "en": "Kerala Police warn of fake traffic fine and insurance renewal messages with malicious links, as reported",
+   "sum": "ട്രാഫിക് പിഴ അടയ്ക്കണമെന്നും ഇൻഷുറൻസ് പുതുക്കണമെന്നും പറഞ്ഞ് വരുന്ന വ്യാജ സന്ദേശങ്ങൾക്കെതിരെ കേരള പൊലീസ് മുന്നറിയിപ്പ് നൽകിയെന്ന് റിപ്പോർട്ടുകൾ. ലിങ്ക് തുറക്കുകയോ ആപ്പ് ഇൻസ്റ്റാൾ ചെയ്യുകയോ ചെയ്യരുത്.",
+   "date": "28 Nov 2026",
+   "body": [
+    "ട്രാഫിക് നിയമലംഘനത്തിന് പിഴ അടയ്ക്കണമെന്നും വാഹന ഇൻഷുറൻസ് പുതുക്കണമെന്നും ആവശ്യപ്പെട്ട് വരുന്ന വ്യാജ സന്ദേശങ്ങൾ വർധിച്ചതായി കേരള പൊലീസ് മുന്നറിയിപ്പ് നൽകിയെന്ന് ഓൺമനോരമയും ദ നേഷൻ മിററും റിപ്പോർട്ട് ചെയ്തു.",
+    "സന്ദേശങ്ങളിൽ വാഹനത്തിന്റെ രജിസ്ട്രേഷൻ നമ്പർ ഉണ്ടാകും; പിഴ അടച്ചില്ലെങ്കിൽ ലൈസൻസ് സസ്പെൻഡ് ചെയ്യുമെന്നോ വാഹനം പിടിച്ചെടുക്കുമെന്നോ ഭീഷണിയുണ്ടാകും. ചില സന്ദേശങ്ങൾ ബ്ലൂ ടിക്ക് ഉള്ള നമ്പറിൽ നിന്നാണ് വരുന്നതെന്നും പൊലീസ് പറയുന്നതായി ഓൺമനോരമ റിപ്പോർട്ട് ചെയ്യുന്നു.",
+    "ലിങ്കിൽ ക്ലിക്ക് ചെയ്യുകയോ നിർദേശിക്കുന്ന ആപ്പ് ഡൗൺലോഡ് ചെയ്യുകയോ ചെയ്താൽ ഫോണിന്റെ നിയന്ത്രണം തട്ടിപ്പുകാർക്ക് ലഭിക്കാമെന്നും ബാങ്ക് വിവരങ്ങളും ഒടിപിയും ചോർത്തി പണം നഷ്ടപ്പെടാമെന്നും പൊലീസ് മുന്നറിയിപ്പിൽ പറയുന്നു. പിഴ ഔദ്യോഗിക സർക്കാർ പ്ലാറ്റ്ഫോമുകൾ വഴി മാത്രം പരിശോധിക്കുക, ഒടിപി ആരുമായും പങ്കിടരുത്.",
+    "രണ്ട് റിപ്പോർട്ടുകളും ഒരേ പൊലീസ് മുന്നറിയിപ്പിനെ ആശ്രയിച്ചുള്ളതായതിനാൽ ഒരു സ്രോതസ്സായി കണക്കാക്കുന്നു. ചിത്രം പ്രതിനിധാന സ്വഭാവമുള്ള ഫയൽ ചിത്രമാണ്."
+   ],
+   "srcs": [
+    [
+     "Onmanorama: Fake traffic fine link warning",
+     "https://www.onmanorama.com/news/kerala/2026/11/28/click-a-fake-traffic-fine-link-risk-losing-your-money.html"
+    ],
+    [
+     "The Nation Mirror: Fake traffic fine messages Kerala",
+     "https://thenationmirror.in/interstate-news/kerala-police-warns-of-traffic-fine-scam/263816"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgSVln0honq/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 6:44 PM IST on 28 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-28T18:44:20+05:30"
+  },
+  {
    "id": "sebi-considers-pre-ipo-exchange-consultation-paper-nov28",
    "cats": [
     "India"

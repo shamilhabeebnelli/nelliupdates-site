@@ -1,6 +1,38 @@
 {
  "stories": [
   {
+   "id": "sabarimala-ai-drone-surveillance-police-nov28",
+   "cats": [
+    "Kerala"
+   ],
+   "title": "ശബരിമലയിൽ എഐ ഡ്രോൺ നിരീക്ഷണം ആരംഭിച്ച് കേരള പൊലീസ്: സന്നിധാനം, പമ്പ, നിലയ്ക്കൽ എന്നിവിടങ്ങളിൽ",
+   "en": "Kerala Police begin AI-powered drone surveillance at Sabarimala: Sannidhanam, Pampa and Nilakkal",
+   "sum": "തീർഥാടന തിരക്ക് നിയന്ത്രിക്കാൻ സന്നിധാനം, പമ്പ, നിലയ്ക്കൽ എന്നിവിടങ്ങളിൽ എഐ സാങ്കേതികവിദ്യയുള്ള ഡ്രോണുകൾ ഉപയോഗിച്ച് കേരള പൊലീസ് നിരീക്ഷണം തുടങ്ങിയെന്ന് റിപ്പോർട്ടുകൾ. പൊലീസിന്റെ നാല് ഡ്രോണുകളിൽ മൂന്നെണ്ണം ഇവിടെ വിന്യസിച്ചു.",
+   "date": "28 Nov 2026",
+   "body": [
+    "ശബരിമല തീർഥാടനകാലത്തെ തിരക്ക് നിയന്ത്രിക്കാനും സുരക്ഷ ശക്തമാക്കാനും കേരള പൊലീസ് നിർമിതബുദ്ധി (എഐ) സാങ്കേതികവിദ്യയുള്ള ഡ്രോണുകൾ ഉപയോഗിച്ച് സന്നിധാനം, പമ്പ, നിലയ്ക്കൽ എന്നിവിടങ്ങളിൽ നിരീക്ഷണം തുടങ്ങിയെന്ന് ഓൺമനോരമയും ടൈംസ് നൗ മലയാളവും റിപ്പോർട്ട് ചെയ്തു.",
+    "പൊലീസിന്റെ പക്കലുള്ള നാല് ഡ്രോണുകളിൽ മൂന്നെണ്ണമാണ് ശബരിമലയിൽ വിന്യസിച്ചിരിക്കുന്നത്. ഒരു കിലോമീറ്റർ അകലെ നിന്നുപോലും ഡ്യൂട്ടിയിലുള്ള ഉദ്യോഗസ്ഥരുടെ നെയിം പ്ലേറ്റ് തിരിച്ചറിയാവുന്ന ദൃശ്യങ്ങൾ ലഭിക്കുമെന്നും രാത്രിയിലും വ്യക്തമായ ദൃശ്യം ലഭിക്കുമെന്നും പൊലീസ് പറയുന്നതായി റിപ്പോർട്ടുകളിൽ പറയുന്നു.",
+    "നിലയ്ക്കലിലും പമ്പയിലും രണ്ടു മണിക്കൂർ ഇടവിട്ടാണ് നിരീക്ഷണം. സന്നിധാനത്ത് നിയന്ത്രണങ്ങളുള്ളതിനാൽ പ്രത്യേക നിർദേശപ്രകാരം മാത്രമാണ് ഡ്രോൺ പറത്തുക. ലൈസൻസുള്ള 12 പൊലീസ് ഉദ്യോഗസ്ഥർ ഷിഫ്റ്റ് അടിസ്ഥാനത്തിൽ ചുമതലയിലുണ്ട്. മകരവിളക്കിന് മുന്നോടിയായി നിരീക്ഷണം ശക്തമാക്കുമെന്നും റിപ്പോർട്ടുകൾ പറയുന്നു.",
+    "രണ്ട് റിപ്പോർട്ടുകളും ഒരേ പൊലീസ് വിവരത്തെ ആശ്രയിച്ചുള്ളതായതിനാൽ ഒരു സ്രോതസ്സായി കണക്കാക്കുന്നു. ചിത്രം പ്രതിനിധാന സ്വഭാവമുള്ള ഫയൽ ചിത്രമാണ്."
+   ],
+   "srcs": [
+    [
+     "Onmanorama: AI drones give Kerala Police surveillance",
+     "https://www.onmanorama.com/news/kerala/2026/11/28/ai-powered-drones-give-kerala-police-eagle-eyed-surveillance-at-sabarimala.html"
+    ],
+    [
+     "Times Now Malayalam: Sabarimala AI drone surveillance",
+     "https://malayalam.timesnownews.com/news/sabarimala-gets-ai-powered-drone-surveillance-ahead-of-makaravilakku-article-156578370"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgSPUHDheNu/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 5:49 PM IST on 28 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-28T17:49:30+05:30"
+  },
+  {
    "id": "cabinet-11000-cr-construction-equipment-scheme-nov25",
    "cats": [
     "India"

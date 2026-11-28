@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "sc-declines-plea-lower-min-age-contest-polls-nov28",
+   "cats": [
+    "India"
+   ],
+   "title": "മത്സരിക്കാനുള്ള കുറഞ്ഞ പ്രായം കുറയ്ക്കണമെന്ന ഹർജി സുപ്രീം കോടതി പരിഗണിച്ചില്ല; ഹർജി പിൻവലിച്ചു",
+   "en": "Supreme Court declines to entertain plea to lower minimum age for contesting elections; plea dismissed as withdrawn, as reported",
+   "sum": "ലോക്സഭ, നിയമസഭ തിരഞ്ഞെടുപ്പുകളിൽ മത്സരിക്കാനുള്ള കുറഞ്ഞ പ്രായം കുറയ്ക്കണമെന്ന ഹർജി പരിഗണിക്കാൻ സുപ്രീം കോടതി നവംബർ 28ന് വിസമ്മതിച്ചു; ഹർജിക്കാരൻ പിൻവലിച്ചതോടെ അത് തള്ളിയതായി ദ ഹിന്ദു (പിടിഐ), വെർഡിക്റ്റം എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു.",
+   "date": "28 Nov 2026",
+   "body": [
+    "പാർലമെന്റ്, സംസ്ഥാന നിയമസഭ തിരഞ്ഞെടുപ്പുകളിൽ മത്സരിക്കാനുള്ള കുറഞ്ഞ പ്രായം കുറയ്ക്കണമെന്ന ഹർജി പരിഗണിക്കാൻ സുപ്രീം കോടതി നവംബർ 28ന് (ശനിയാഴ്ച) വിസമ്മതിച്ചതായി ദ ഹിന്ദു (പിടിഐ), വെർഡിക്റ്റം എന്നിവ റിപ്പോർട്ട് ചെയ്യുന്നു. ജസ്റ്റിസ് വിക്രം നാഥ്, ജസ്റ്റിസ് അപരേഷ് കുമാർ സിംഗ് എന്നിവരുടെ ബെഞ്ചാണ് ഹർജി കേട്ടത്.",
+    "വോട്ടവകാശ പ്രായം 21ൽ നിന്ന് 18 ആക്കി കുറച്ചെങ്കിലും ലോക്സഭാംഗമാകാനുള്ള കുറഞ്ഞ പ്രായം 25ഉം രാജ്യസഭയിൽ 30ഉം ആണെന്ന് ഹർജിക്കാരന്റെ അഭിഭാഷകൻ ചൂണ്ടിക്കാട്ടി. കേന്ദ്രത്തെയും തിരഞ്ഞെടുപ്പ് കമ്മീഷനെയും എതിർകക്ഷികളാക്കിയായിരുന്നു ഹർജി.",
+    "ഹർജി ഉചിതമല്ലെന്ന് ബെഞ്ച് നിരീക്ഷിച്ചു; നിവേദനത്തിൽ തീരുമാനം ആവശ്യപ്പെട്ട് ആർട്ടിക്കിൾ 226 പ്രകാരം ഹൈക്കോടതിയെ സമീപിക്കാനും പറഞ്ഞു. തുടർന്ന് ഹർജി പിൻവലിക്കുന്നതായി അഭിഭാഷകൻ അറിയിച്ചതോടെ \"പിൻവലിച്ചതായി കണക്കാക്കി തള്ളി\" എന്ന് ബെഞ്ച് വ്യക്തമാക്കിയെന്നാണ് റിപ്പോർട്ടുകൾ. രണ്ട് റിപ്പോർട്ടുകളും ഒരേ കോടതി നടപടിയെ ആശ്രയിക്കുന്നവയാണ്, അതിനാൽ ഒരേ ഉറവിടമായി കണക്കാക്കണം. ചിത്രം പ്രതിനിധാന സ്വഭാവമുള്ള ഫയൽ ചിത്രമാണ്."
+   ],
+   "srcs": [
+    [
+     "The Hindu (PTI): SC refuses plea to reduce minimum age",
+     "https://www.thehindu.com/news/national/supreme-court-refuses-to-entertain-plea-to-reduce-minimum-age-for-contesting-elections/article71753945.ece"
+    ],
+    [
+     "Verdictum: SC refuses plea to reduce minimum age",
+     "https://www.verdictum.in/supreme-court/supreme-court-refuses-to-entertain-plea-to-reduce-minimum-age-for-contesting-elections-1626662"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgR-_hHBAy6/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 3:27 PM IST on 28 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-28T15:27:05+05:30"
+  },
+  {
    "id": "sebi-nod-8-ipos-sterlite-electric-svatantra-nov28",
    "cats": [
     "India"

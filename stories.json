@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "jaxa-unveils-chandrayaan-5-lupex-rover-prototype-nov25",
+   "cats": [
+    "Tech"
+   ],
+   "title": "ചന്ദ്രയാൻ-5 (ലൂപെക്സ്) ദൗത്യത്തിനുള്ള റോവറിന്റെ പ്രോട്ടോടൈപ്പ് ജാക്സ ജപ്പാനിൽ അവതരിപ്പിച്ചു",
+   "en": "JAXA unveils Chandrayaan-5/LUPEX rover prototype in Japan on Nov 25; launch targeted for 2028, as reported by The Hindu and Mainichi",
+   "sum": "ചന്ദ്രയാൻ-5/ലൂപെക്സ് ദൗത്യത്തിനുള്ള റോവറിന്റെ പ്രോട്ടോടൈപ്പ് ജാക്സ നവംബർ 25 ബുധനാഴ്ച ജപ്പാനിലെ ചോഫു എയ്റോസ്പേസ് സെന്ററിൽ പ്രദർശിപ്പിച്ചതായി ദ ഹിന്ദു, മൈനിച്ചി എന്നിവ റിപ്പോർട്ട് ചെയ്തു. വിക്ഷേപണം 2028 ലക്ഷ്യമിടുന്നു.",
+   "date": "28 Nov 2026",
+   "body": [
+    "ചന്ദ്രയാൻ-5/ലൂപെക്സ് (LUPEX) ദൗത്യത്തിനുള്ള റോവറിന്റെ പ്രോട്ടോടൈപ്പ് ജപ്പാൻ ബഹിരാകാശ ഏജൻസിയായ ജാക്സ (JAXA) നവംബർ 25 ബുധനാഴ്ച ടോക്യോയ്ക്ക് സമീപമുള്ള ചോഫു എയ്റോസ്പേസ് സെന്ററിൽ പ്രദർശിപ്പിച്ചതായി ദ ഹിന്ദുവും മൈനിച്ചിയും റിപ്പോർട്ട് ചെയ്തു. പ്രദർശനത്തിൽ പരീക്ഷണ ഓട്ടവും നടത്തിയതായി ഹിന്ദു പറയുന്നു.",
+    "ചന്ദ്രന്റെ ദക്ഷിണ ധ്രുവത്തിനടുത്ത് ജലസാന്നിധ്യം പരിശോധിക്കുകയാണ് ദൗത്യത്തിന്റെ ലക്ഷ്യം. റോവർ ജാക്സയും ലാൻഡർ ഐഎസ്ആർഒയും വികസിപ്പിക്കുന്നു. വിക്ഷേപണം 2028 ൽ ലക്ഷ്യമിടുന്നുവെന്നും ജാപ്പനീസ് എച്ച്3 റോക്കറ്റ് ഉപയോഗിക്കുമെന്നും റിപ്പോർട്ടുകൾ പറയുന്നു.",
+    "ചക്രങ്ങൾക്ക് പകരം ക്രാളർ ട്രാക്കുകളാണ് പ്രോട്ടോടൈപ്പിനുള്ളതെന്ന് മൈനിച്ചി പറയുന്നു. റോവർ 2027 ൽ ഇന്ത്യയിലേക്ക് കൊണ്ടുവരുമെന്നും റിപ്പോർട്ടുണ്ട്. ചിത്രം പ്രതിനിധാന സ്വഭാവമുള്ള ഫയൽ ചിത്രമാണ് (ചന്ദ്രൻ)."
+   ],
+   "srcs": [
+    [
+     "The Hindu: Prototype of Chandrayaan-5/LUPEX rover unveiled",
+     "https://www.thehindu.com/sci-tech/science/prototype-of-chandrayaan-5lupex-rover-unveiled/article71746762.ece"
+    ],
+    [
+     "Mainichi: Japan unveils lunar rover prototype",
+     "https://mainichi.jp/english/articles/20261126/p2a/00m/0sc/002000c"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgQ8uywBSzz/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 5:47 AM IST on 28 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-28T05:47:46+05:30"
+  },
+  {
    "id": "hdfc-bank-stop-upi-sms-alerts-up-to-500-from-jan1-2027",
    "cats": [
     "India"

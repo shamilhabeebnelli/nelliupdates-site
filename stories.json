@@ -1,6 +1,38 @@
 {
  "stories": [
   {
+   "id": "vande-bharat-vada-bolt-complaint-irctc-action-nov28",
+   "cats": [
+    "India"
+   ],
+   "title": "വന്ദേഭാരത് ഭക്ഷണത്തിലെ വടയിൽ ബോൾട്ട് കണ്ടെന്ന് പരാതി; കരാറുകാരനെതിരെ നടപടിയെന്ന് ഐആർസിടിസി",
+   "en": "Passenger complains of metal bolt in vada on Bengaluru-Belagavi Vande Bharat; IRCTC says action taken against caterer, as reported",
+   "sum": "ബെംഗളൂരു-ബെലഗാവി വന്ദേഭാരതിൽ വിളമ്പിയ വടയിൽ വലിയ ലോഹ ബോൾട്ട് കണ്ടെന്ന് യാത്രക്കാരൻ എക്സിൽ പരാതിപ്പെട്ടതായി റിപ്പോർട്ടുകൾ. കരാറുകാരനെതിരെ കർശന നടപടി എടുത്തെന്ന് ഐആർസിടിസി അറിയിച്ചു.",
+   "date": "28 Nov 2026",
+   "body": [
+    "ബെംഗളൂരുവിൽ നിന്ന് ബെലഗാവിയിലേക്കുള്ള വന്ദേഭാരത് ട്രെയിനിൽ വിളമ്പിയ ഭക്ഷണത്തിലെ വടയിൽ വലിയ ലോഹ ബോൾട്ട് കണ്ടെന്ന് ഒരു യാത്രക്കാരൻ എക്സിൽ പരാതിപ്പെട്ടതായി ഇന്ത്യൻ എക്സ്പ്രസും എൻഡിടിവിയും റിപ്പോർട്ട് ചെയ്തു. ഇത് യാത്രക്കാരന്റെ അവകാശവാദമാണ്.",
+    "ഐആർസിടിസി ഖേദം രേഖപ്പെടുത്തി. ബന്ധപ്പെട്ട സേവനദാതാവിനെതിരെ കർശന നടപടി എടുത്തെന്നും അടുക്കള യൂണിറ്റിലെ ജീവനക്കാർക്ക് പ്രവർത്തനച്ചട്ടങ്ങൾ കർശനമായി പാലിക്കാൻ നിർദേശം നൽകിയെന്നും അവർ അറിയിച്ചു.",
+    "പാചകം തുടങ്ങും മുമ്പ് അടുക്കളയും ഉപകരണങ്ങളും പരിശോധിക്കണമെന്ന് ഉദ്യോഗസ്ഥർക്ക് നിർദേശമുണ്ടെന്നും ഐആർസിടിസി പറഞ്ഞു.",
+    "രണ്ട് റിപ്പോർട്ടുകളും യാത്രക്കാരന്റെ പോസ്റ്റിനെയും ഐആർസിടിസിയുടെ മറുപടിയെയും ആശ്രയിച്ചുള്ളതായതിനാൽ ഒരു സ്രോതസ്സായി കണക്കാക്കുന്നു. ചിത്രം പ്രതിനിധാന സ്വഭാവമുള്ള ഫയൽ ചിത്രമാണ്."
+   ],
+   "srcs": [
+    [
+     "Indian Express: Metal bolt in Vande Bharat vada",
+     "https://indianexpress.com/article/india/metal-bolt-vada-bengaluru-belagavi-vande-bharat-irctc-reaction-10982415/"
+    ],
+    [
+     "NDTV: Bolt in vada on Vande Bharat, IRCTC acts",
+     "https://www.ndtv.com/india-news/man-finds-rusty-bolt-in-vada-served-on-vande-bharat-train-irctc-responds-12388726"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgSYEmbB0YS/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 7:06 PM IST on 28 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-28T19:06:08+05:30"
+  },
+  {
    "id": "bhusaval-nagpur-express-train-approved-by-minister-nov28",
    "cats": [
     "India"

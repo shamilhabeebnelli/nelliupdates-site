@@ -1,6 +1,33 @@
 {
  "stories": [
   {
+   "id": "who-searo-measles-47-percent-cases-immunity-gaps-nov28",
+   "cats": [
+    "World"
+   ],
+   "title": "അഞ്ചാംപനി: ലോകത്തെ 47% കേസുകളും ലോകാരോഗ്യ സംഘടനയുടെ തെക്കുകിഴക്കൻ ഏഷ്യ മേഖലയിൽ, ഉയർന്ന വാക്സിൻ കവറേജിലും പ്രതിരോധ വിടവ്",
+   "en": "WHO South-East Asia office: region accounted for 47% of estimated global measles cases in 2025 despite 96% first-dose coverage; urges closing immunity gaps",
+   "sum": "ലോകാരോഗ്യ സംഘടനയുടെ തെക്കുകിഴക്കൻ ഏഷ്യ റീജിയണൽ ഓഫീസ് നവംബർ 28ന് പുറത്തിറക്കിയ കുറിപ്പ് പ്രകാരം 2025ൽ ലോകത്തെ ഏകദേശം 47% അഞ്ചാംപനി കേസുകളും ഈ മേഖലയിലാണ്, ഉയർന്ന വാക്സിൻ കവറേജ് ഉണ്ടായിട്ടും.",
+   "date": "28 Nov 2026",
+   "body": [
+    "ലോകാരോഗ്യ സംഘടനയുടെ (WHO) തെക്കുകിഴക്കൻ ഏഷ്യ റീജിയണൽ ഓഫീസ് നവംബർ 28ന് പുറത്തിറക്കിയ കുറിപ്പ് പ്രകാരം, ലോകത്ത് 2025ൽ ഉണ്ടായ അഞ്ചാംപനി കേസുകളുടെ ഏകദേശം 47 ശതമാനം ഈ മേഖലയിലാണ്. ഏറ്റവും ഉയർന്ന വാക്സിനേഷൻ കവറേജ് ഉള്ള മേഖലയായിട്ടും ഇതാണ് സ്ഥിതി.",
+    "2025ൽ മേഖലയിൽ ഏകദേശം 46 ലക്ഷം കേസുകളും 16,800 മരണങ്ങളും ഉണ്ടായെന്നാണ് കണക്ക്. ആദ്യ ഡോസ് വാക്സിൻ കവറേജ് 96 ശതമാനവും രണ്ടാം ഡോസ് 93 ശതമാനവുമാണ്. എങ്കിലും ഏകദേശം 11 ലക്ഷം കുഞ്ഞുങ്ങൾക്ക് ആദ്യ ഡോസ് ലഭിച്ചില്ല. 2000 മുതൽ കേസുകൾ 59 ശതമാനവും മരണങ്ങൾ 90 ശതമാനവും കുറഞ്ഞു.",
+    "എല്ലാ കുട്ടികൾക്കും രണ്ട് ഡോസും ഉറപ്പാക്കണമെന്നും വാക്സിൻ എടുക്കാത്തവരെ കണ്ടെത്തി ക്യാച്ച്-അപ്പ് വാക്സിനേഷൻ നടത്തണമെന്നും നിരീക്ഷണം ശക്തമാക്കണമെന്നും WHO ആവശ്യപ്പെട്ടു. ഇത് WHO യുടെ സ്വന്തം പ്രാഥമിക സ്രോതസ്സായ കുറിപ്പാണ്. ചിത്രം പ്രതിനിധാന സ്വഭാവമുള്ള ഫയൽ ചിത്രമാണ്."
+   ],
+   "srcs": [
+    [
+     "WHO South-East Asia: measles immunity gaps (Nov 28)",
+     "https://www.who.int/southeastasia/news/detail/28-11-2026-who-urges-action-to-close-measles-immunity-gaps-as-south-east-asia-countries-account-for-47--of-global-cases-despite-highest-immunization-coverage"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgSGswaB5H-/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 4:34 PM IST on 28 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-28T16:34:15+05:30"
+  },
+  {
    "id": "isro-hsfc-mission-antariksh-analog-facility-eoi-nov28",
    "cats": [
     "Tech"

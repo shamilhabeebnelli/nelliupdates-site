@@ -1,6 +1,41 @@
 {
  "stories": [
   {
+   "id": "telangana-11-new-policies-global-summit-dec7-nov28",
+   "cats": [
+    "India"
+   ],
+   "title": "ഇൻവെസ്റ്റ് തെലങ്കാന ഗ്ലോബൽ സമ്മിറ്റിൽ 11 പുതിയ നയങ്ങൾ അവതരിപ്പിക്കാൻ സർക്കാർ ഒരുങ്ങുന്നു",
+   "en": "Telangana government preparing to unveil 11 new policies at Invest Telangana Global Summit, Dec 7-9",
+   "sum": "ഡിസംബർ 7 മുതൽ 9 വരെ ഹൈദരാബാദിൽ നടക്കുന്ന ഇൻവെസ്റ്റ് തെലങ്കാന ഗ്ലോബൽ സമ്മിറ്റിൽ വ്യവസായം, ഐടി, ഉന്നത വിദ്യാഭ്യാസം എന്നീ മേഖലകളിലെ 11 പുതിയ നയങ്ങൾ അവതരിപ്പിക്കാൻ സംസ്ഥാന സർക്കാർ ഒരുങ്ങുന്നതായി റിപ്പോർട്ട്.",
+   "date": "28 Nov 2026",
+   "body": [
+    "ഇൻവെസ്റ്റ് തെലങ്കാന ഗ്ലോബൽ സമ്മിറ്റിൽ വ്യവസായം, ഐടി, ഉന്നത വിദ്യാഭ്യാസം എന്നിവ ഉൾപ്പെടെയുള്ള മേഖലകളിലെ 11 പുതിയ നയങ്ങൾ അവതരിപ്പിക്കാൻ തെലങ്കാന സർക്കാർ ഒരുങ്ങുന്നതായി ദി ഹിന്ദുവും ടിവി9 തെലുങ്കും നവംബർ 28ന് റിപ്പോർട്ട് ചെയ്തു. ഇവ തയ്യാറാക്കിക്കൊണ്ടിരിക്കുന്ന നയങ്ങളാണ്; അന്തിമ രൂപം ഉച്ചകോടിയിൽ മാത്രമേ വ്യക്തമാകൂ.",
+    "റിപ്പോർട്ടുകൾ പ്രകാരം നയങ്ങൾ: ഇൻഡസ്ട്രിയൽ പോളിസി 2.0, ഫുട്‌വെയർ ആൻഡ് ലെതർ, ടെക്സ്റ്റൈൽസ് ആൻഡ് അപ്പാരൽ 2.0, എയ്റോസ്പേസ്-ഡിഫൻസ്-സ്പേസ്, ലോജിസ്റ്റിക്സ്, ഐസിടി പോളിസി 2.0, ജിസിസി, ഡാറ്റ സെന്ററുകൾ 2.0, ഇലക്ട്രോണിക്സ് ആൻഡ് സെമികണ്ടക്ടർ, എവിജിസി, വിദേശ ഉന്നത വിദ്യാഭ്യാസ സ്ഥാപനങ്ങളുടെ ഓഫ്‌ഷോർ ക്യാമ്പസ് നയം.",
+    "ഉച്ചകോടി ഡിസംബർ 7 മുതൽ 9 വരെ (തിങ്കൾ മുതൽ ബുധൻ വരെ) ഭാവി നഗരത്തിലെ യംഗ് ഇന്ത്യ സ്കിൽസ് യൂണിവേഴ്സിറ്റി ക്യാമ്പസിൽ നടക്കുമെന്ന് ടൈംസ് ഓഫ് ഇന്ത്യ റിപ്പോർട്ട് ചെയ്തു. ചിത്രം പ്രതിനിധാന സ്വഭാവമുള്ള ഫയൽ ചിത്രമാണ്."
+   ],
+   "srcs": [
+    [
+     "The Hindu: Telangana to unveil 11 new policies",
+     "https://www.thehindu.com/news/national/telangana/telangana-to-unveil-11-new-policies-at-global-summit/article71753637.ece"
+    ],
+    [
+     "TV9 Telugu: 11 policies at Global Summit",
+     "https://tv9telugu.com/telangana/telangana-global-summit-state-govt-ready-to-launch-11-new-policies-across-it-avgc-and-aerospace-sectors-1968306.html"
+    ],
+    [
+     "TOI: Global Summit footprint triples",
+     "https://timesofindia.indiatimes.com/city/hyderabad/global-summit-footprint-triples-as-telangana-woos-investors/articleshow/136231626.cms"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgRop1FhdvB/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 12:11 PM IST on 28 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-28T12:11:34+05:30"
+  },
+  {
    "id": "royal-enfield-himalayan-750-launched-india-489-lakh-nov27",
    "cats": [
     "Tech"

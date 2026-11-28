@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "kerala-thunderstorm-rain-imd-forecast-nov28",
+   "cats": [
+    "Kerala"
+   ],
+   "title": "കേരളത്തിൽ ഇടിമിന്നലോടെ മഴ തുടരുമെന്ന് ഐഎംഡി; കാറ്റിന് 30-40 കിലോമീറ്റർ വേഗം",
+   "en": "IMD forecasts continued rain with thunderstorm, lightning and gusty winds over Kerala on Nov 28; cyclonic circulation likely over South Andaman Sea",
+   "sum": "ശനിയാഴ്ച (നവംബർ 28) കേരളത്തിൽ ഇടിമിന്നലോടും ശക്തമായ കാറ്റോടും കൂടിയ മഴയുണ്ടാകുമെന്ന് ഐഎംഡി പ്രവചിച്ചതായി ഇക്കണോമിക് ടൈംസ് റിപ്പോർട്ട് ചെയ്യുന്നു. കോട്ടയം പ്രവചനത്തിലും ഇതേ മുന്നറിയിപ്പുണ്ട്.",
+   "date": "28 Nov 2026",
+   "body": [
+    "ശനിയാഴ്ച (നവംബർ 28) കേരളത്തിലും മാഹിയിലും മഴയും ഇടിമിന്നലും ഉണ്ടാകുമെന്ന് ഇന്ത്യൻ കാലാവസ്ഥാ വകുപ്പ് (ഐഎംഡി) ബുള്ളറ്റിനിൽ പറയുന്നതായി ഇക്കണോമിക് ടൈംസ് റിപ്പോർട്ട് ചെയ്തു. മണിക്കൂറിൽ 30-40 കിലോമീറ്റർ വേഗത്തിലുള്ള കാറ്റിനും സാധ്യതയുണ്ട്.",
+    "ഐഎംഡിയുടെ കോട്ടയം പ്രാദേശിക പ്രവചനത്തിലും ഇടിമിന്നലിനും 30-40 കിലോമീറ്റർ വേഗത്തിലുള്ള കാറ്റിനുമുള്ള മുന്നറിയിപ്പ് ഉണ്ട്. തുടർന്നുള്ള ദിവസങ്ങളിൽ ഒറ്റപ്പെട്ട മഴയ്ക്കുള്ള സാധ്യതയാണ് പ്രവചനത്തിൽ.",
+    "നവംബർ 29ഓടെ തെക്കൻ ആൻഡമാൻ കടലിൽ ചക്രവാതച്ചുഴി രൂപപ്പെടാൻ സാധ്യതയുണ്ടെന്നും ഇത് ദക്ഷിണേന്ത്യയിലെ കാലാവസ്ഥയെ സ്വാധീനിച്ചേക്കാമെന്നും റിപ്പോർട്ട് പറയുന്നു. ഏറ്റവും പുതിയ ഐഎംഡി ബുള്ളറ്റിൻ പരിശോധിക്കുക. ചിത്രം പ്രതിനിധാന സ്വഭാവമുള്ള ഫയൽ ചിത്രമാണ്."
+   ],
+   "srcs": [
+    [
+     "Economic Times: Kerala weather today, Nov 28",
+     "https://economictimes.indiatimes.com/news/new-updates/kerala-weather-today-november-28-cyclonic-circulation-over-andaman-sea-imd-issues-yellow-alert-forecasts-more-rain-in-coming-days-check-full-forecast/articleshow/136237510.cms"
+    ],
+    [
+     "IMD: Kottayam local forecast, Nov 28",
+     "https://city.imd.gov.in/citywx/citywxnew_warnings.php?id=43355"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgSC-WEhXns/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 4:01 PM IST on 28 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-28T16:01:40+05:30"
+  },
+  {
    "id": "kerala-local-bodies-2029-cr-second-instalment-nov28",
    "cats": [
     "Kerala"

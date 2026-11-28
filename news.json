@@ -1,75 +1,42 @@
 {
- "fetched_at": "2026-11-28 10:47 UTC",
+ "fetched_at": "2026-11-28 11:47 UTC",
  "groups": {
   "india": [
    {
-    "title": "EPFO’s exempted PF trust investment rules changed: Check allocation limits for G-Sec, debt, equity and other investments",
-    "description": "The Ministry of Labour and Employment has introduced updated regulations regarding provident fund trusts in India. Employers are now required to submit their monthly contributions to the Board of Trustees within 15...",
+    "title": "Infosys sees eightfold jump in US H-1B approvals to 2,088 in FY26 as Texas plans to lift hiring curbs: Report",
+    "description": "Infosys received 2,088 approvals for new H-1B employment in the US in FY26, more than eight times the 257 approvals recorded in the previous financial year, according to federal immigration data. The increase comes...",
     "source": "The Economic Times",
-    "link": "https://economictimes.indiatimes.com/wealth/invest/epfos-exempted-pf-trust-investment-rules-changed-check-allocation-limits-for-g-sec-debt-equity-and-other-investments/articleshow/136223850.cms",
-    "pubDate": "2026-11-27 22:47:00",
+    "link": "https://economictimes.indiatimes.com/nri/work/infosys-sees-eightfold-jump-in-us-h-1b-approvals-to-2088-in-fy26-as-texas-plans-to-lift-hiring-curbs-report/articleshow/136238970.cms",
+    "pubDate": "2026-11-27 23:45:37",
     "category": [
      "top",
      "business"
-    ]
-   },
-   {
-    "title": "Winter break for Kashmir schools announced",
-    "description": "Srinagar, Nov 27: The Directorate of School Education Kashmir (DSEK) on Friday announced the winter vacation schedule for all government and recognised private schools up to the Higher Secondary level across Kashmir...",
-    "source": "Rising Kashmir",
-    "link": "https://risingkashmir.com/top-stories/winter-break-for-kashmir-schools-announced-12847309",
-    "pubDate": "2026-11-27 22:46:37",
-    "category": [
-     "top",
-     "education"
-    ]
-   },
-   {
-    "title": "FPIs buy some more, but D-St slips 1% on tech, consumer drag",
-    "description": "India's equity markets slid over 1% on Friday, halting a four-week rally. The downturn was largely influenced by investor sell-offs in response to climbing crude oil prices and uncertainty on the global stage....",
-    "source": "The Economic Times",
-    "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-buy-some-more-but-d-st-slips-1-on-tech-consumer-drag/articleshow/136238205.cms",
-    "pubDate": "2026-11-27 22:46:22",
-    "category": [
-     "top",
-     "business"
-    ]
-   },
-   {
-    "title": "Passenger autos to deliver goods? Bengaluru emerges as testing ground",
-    "description": "Passenger autos to deliver goods? B’luru emerges as testing ground",
-    "source": "Deccan Herald",
-    "link": "https://www.deccanherald.com/india/karnataka/bengaluru/passenger-autos-to-deliver-goods-bengaluru-emerges-as-testing-ground-4234085",
-    "pubDate": "2026-11-27 22:46:07",
-    "category": [
-     "top",
-     "technology"
-    ]
-   },
-   {
-    "title": "Only 20-30% Indian exporters using FTA benefits: RBI Guv",
-    "description": "RBI Governor Sanjay Malhotra notes 20–30% FTA utilization by Indian exporters vs 60–70% by partners, declines 180-day MSME NPA shift, and urges SMEs to diversify funding.",
-    "source": "The Hans India",
-    "link": "https://www.thehansindia.com/business/only-20-30-indian-exporters-using-fta-benefits-rbi-guv-1146503",
-    "pubDate": "2026-11-27 22:45:56",
-    "category": [
-     "top",
-     "business"
-    ]
-   },
-   {
-    "title": "Gunmaster G9 box office collection day 1: Emraan Hashmi's film fails to beat Ayushmann Khurrana's Yeh Prem Mol Liya. Opens on a slow note",
-    "description": "Gunmaster G9, featuring Emraan Hashmi and Genelia Deshmukh, debuted on November 27 and tells the story of a businessman entangled in chaos. With a disappointing net collection amid stiff competition from Yeh Prem Mol...",
-    "source": "The Economic Times",
-    "link": "https://economictimes.indiatimes.com/magazines/panache/gunmaster-g9-box-office-collection-day-1-emraan-hashmis-film-fails-to-beat-ayushmann-khurranas-yeh-prem-mol-liya-opens-on-a-slow-note/articleshow/136236604.cms",
-    "pubDate": "2026-11-27 22:45:35",
-    "category": [
-     "top",
-     "entertainment"
     ]
    }
   ],
   "kerala": [
+   {
+    "title": "IITF 2026 concludes with 10 lakh visitors",
+    "description": "The India International Trade Fair (IITF) 2026 concluded on Friday with an estimated 10 lakh visitors over its 14-day run, marking a significant increase in footfall and business activity compared to last year....",
+    "source": "The Tribune India",
+    "link": "https://www.tribuneindia.com/news/delhi/iitf-2026-concludes-with-10-lakh-visitors",
+    "pubDate": "2026-11-27 23:43:06",
+    "category": [
+     "top",
+     "business"
+    ]
+   },
+   {
+    "title": "Tamil Nadu to see widespread rain; Delhi, Punjab, Haryana under dense fog warning on Saturday",
+    "description": "The IMD forecasts widespread rain over Tamil Nadu, Puducherry, and Karaikal, while dense fog disrupts north India and East Rajasthan faces cold-wave conditions.",
+    "source": "Cnbctv18",
+    "link": "https://www.cnbctv18.com/india/tamil-nadu-to-see-widespread-rain-delhi-punjab-haryana-under-dense-fog-warning-on-saturday-20042950.htm",
+    "pubDate": "2026-11-27 23:30:59",
+    "category": [
+     "environment",
+     "top"
+    ]
+   },
    {
     "title": "Kerala weather today: Cyclonic circulation over Andaman Sea; IMD issues yellow alert, forecasts more rain in coming days; check full forecast",
     "description": "Kerala rain alert: The IMD has forecast rain, thunderstorms and lightning across Kerala on November 28, with gusty winds reaching 30–40 kmph and gusts of up to 50 kmph. An upper-air cyclonic circulation is likely to...",
@@ -135,170 +102,166 @@
      "environment",
      "top"
     ]
-   },
+   }
+  ],
+  "world": [
    {
-    "title": "Soumya Guguloth and Sulanjana Raul lead East Bengal to 2-0 IWL win",
-    "description": "Soumya Guguloth and Sulanjana Raul score as East Bengal beat BBFS Garhwal United 2-0 in the IWL 2026/27 to go top with nine points.",
-    "source": "The News Mill",
-    "link": "https://thenewsmill.com/2026/11/soumya-guguloth-and-sulanjana-raul-lead-east-bengal-to-2-0-iwl-win/",
-    "pubDate": "2026-11-27 20:22:58",
+    "title": "Doctors Without Borders denounces Israeli strike on Gaza clinic",
+    "description": "'Israeli authorities must be held accountable,' says medical charity",
+    "source": "Anadolu Agency",
+    "link": "https://www.aa.com.tr/en/middle-east/doctors-without-borders-denounces-israeli-strike-on-gaza-clinic/4141089",
+    "pubDate": "2026-11-27 23:46:00",
     "category": [
-     "sports",
-     "top"
+     "world"
     ]
    },
    {
-    "title": "Kerala Child Abuse Case Triggers Swift State Intervention and Rescue",
-    "description": "A young boy assaulted by his stepfather in Kerala and his family have been safely relocated to a shelter home following swift state ministerial intervention.",
-    "source": "Growmudra",
-    "link": "https://growmudra.com/news/details/78df662f141715d49dad1c3a3b356531/kerala-child-abuse-case-triggers-swift-state-intervention-and-rescue",
-    "pubDate": "2026-11-27 19:50:56",
+    "title": "Hackers reportedly breach US Air Force cloud platform",
+    "description": "An earlier Reuters report says the intrusion was discovered over the past month as the system was being upgraded.",
+    "source": "Trt World",
+    "link": "https://www.trtworld.com/article/7c2a983c4b7b",
+    "pubDate": "2026-11-27 23:42:48",
     "category": [
-     "business",
-     "domestic"
+     "world"
+    ]
+   },
+   {
+    "title": "Budapest’s Christmas-Light Trams Add to Hungarian Capital’s Festive Cheer",
+    "description": "The fleet of Christmas-light trams run by the Budapest Public Transport Company, BKV, set out from their tram depot on Friday to contribute to the Hungarian capital’s festive atmosphere.",
+    "source": "Ntd",
+    "link": "https://www.ntd.com/ntdplus/budapests-christmas-light-trams-add-to-hungarian-capitals-festive-cheer_1187871.html",
+    "pubDate": "2026-11-27 23:40:04",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "Tata Trusts challenge N Chandrasekaran's reappointment as Tata Sons Chairman in Bombay High Court",
+    "description": "The governance struggle for control over India's largest conglomerate by revenue has escalated into a legal battle, as the Sir Dorabji Tata Trust (SDTT) and R D Tata Trust (RDTT) have approached the Bombay High Court...",
+    "source": "Pravda",
+    "link": "https://english.pravda.ru/news/world/174744-tata-trusts-legal-challenge-n-chandrasekaran-reappointment/",
+    "pubDate": "2026-11-27 23:40:00",
+    "category": [
+     "world"
     ]
    }
   ],
-  "world": [],
   "sports": [
    {
-    "title": "[Watch] Anshul Kamboj gives India ideal start on Day 2 in 2nd Test, dismisses in-form Glenn Phillips",
-    "description": "Anshul Kamboj and Glenn Phillips. (Photo Source: Sony LIV) Hagley Oval in Christchurch was the setting for an early India breakthrough on Day 2 of the 2nd Test against New Zealand. Anshul Kamboj, the 25-year-old...",
-    "source": "Bj Sports - Cricket Prediction, Live Score",
-    "link": "https://www.bjsports.live/latest-news-en/watch-anshul-kamboj-gives-india-ideal-start-on-day-2-in-2nd-test-dismisses-in-form-glenn-phillips",
-    "pubDate": "2026-11-27 22:46:39",
+    "title": "Morgan Gibbs-White Scores Twice In Nottingham Forest's 3-2 Win Over Chelsea",
+    "description": "Alonso's side crashed to a fourth defeat in their last five Premier League matches after another laboured performance at the City Ground.",
+    "source": "News 18",
+    "link": "https://www.news18.com/sports/football/morgan-gibbs-white-scores-twice-in-nottingham-forests-3-2-win-over-chelsea-ws-l-10444184.html",
+    "pubDate": "2026-11-27 23:46:14",
     "category": [
      "sports",
      "top"
     ]
    },
    {
-    "title": "Did Hailee Steinfeld undergo plastic surgery before marrying Josh Allen? Old photos spark debate",
-    "description": "Hailee Steinfeld faced plastic surgery speculation before marrying Buffalo Bills quarterback Josh Allen in May 2025. Fans compared her old and recent photographs, questioning whether she had undergone rhinoplasty or...",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/sports/nfl/news/did-hailee-steinfeld-undergo-plastic-surgery-before-marrying-josh-allen-old-photos-spark-debate/articleshow/136235382.cms",
-    "pubDate": "2026-11-27 22:46:13",
-    "category": [
-     "sports",
-     "top",
-     "entertainment"
-    ]
-   },
-   {
-    "title": "TOPPER IN CLASS, CHAMPION ON THE CHESSBOARD: HOW TO WIN BOTH GAMES!",
-    "description": "First of all, congratulations! Being a class topper and a chess enthusiast at the age of 15 is quite an achievement. You already have two important qualities: the ability to work hard and the desire to improve.",
-    "source": "Gujaratsamachar",
-    "link": "https://www.gujaratsamachar.com/news/zagmag/topper-in-class-champion-on-the-chessboard-how-to-win-both-games-91174461187",
-    "pubDate": "2026-11-27 22:45:00",
-    "category": [
-     "sports",
-     "top",
-     "lifestyle"
-    ]
-   },
-   {
-    "title": "Selection shock as Aussies name squad for first New Zealand Test",
-    "description": "Australia have unveiled a 15-player squad for the first ICC World Test Championship fixture against New Zealand in Perth. The Aussies have lost patience with veteran spinner Nathan Lyon, with the right-armer left out...",
-    "source": "Icc",
-    "link": "https://www.icc-cricket.com/tournaments/world-test-championship/news/selection-shock-as-aussies-name-squad-for-first-new-zealand-test",
-    "pubDate": "2026-11-27 22:44:18",
+    "title": "Lorenzo Musetti Takes Italy To 4th Straight Davis Cup Final",
+    "description": "Italy are only the second nation in the post-Challenge Round era to make four finals in a row, after Sweden, who reached seven consecutive finals from 1983 to 1989.",
+    "source": "News 18",
+    "link": "https://www.news18.com/sports/tennis/lorenzo-musetti-takes-italy-to-4th-straight-davis-cup-final-ws-l-10444181.html",
+    "pubDate": "2026-11-27 23:41:35",
     "category": [
      "sports",
      "top"
     ]
    },
    {
-    "title": "Clayton and Rocchiccioli named in Australia Test squad for New Zealand series - Cricinfo",
-    "description": "Clayton and Rocchiccioli named in Australia Test squad for New Zealand series Cricinfo Selection shock as Aussies name squad for first New Zealand Test ICC Clayton, Rocchiccioli earn maiden Test call-ups as Lyon...",
-    "source": "Google News",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNnVOemVTTW9GN3hGUUk4VnoxajB0dWdpNlNOdWlZSjJKaTViMlpHMmdZRW45bFNGeEF0RmdJcUJLTmZmeGRlODk5M0pKa2I1bGxZRGVtQ3JDMGNxUEZZTjZsM1haQmhRNXBTSkRiN05lZ2VCV285aEYza2ZaTm9ZdHhFM1pmQjhfSnRxMHlvZkt2QjFLQ3Q4emRLZ2RZa09xUC1NVzJuR2Vuc205SXNmN05KeHplT0lHdDhXNEExclhUUFNQa2fSAdcBQVVfeXFMTTRlTG5vdVhrNllmS2t4OHNGQm81TTRwblRKMng0WDl1bU1ZUV9Rakt1NHBpWWFxMWwxT3NNRUp2WnRtclIzMG4yQV8tajJUWUF1Y0hrS3lHaW9tU01EQ1p6eGRjSFlWbHkzb3l0Mm0zWmJFUmQ1TlhHekpTZmpFSkFsUkp3STByY0VsR3lDcllkWFdzd0NyQlFxMm1CNHY4WWJtaVM5Nm9iQjA4dzZIU1haaTlVOGtYNUxqNVRzaGtzczdSOGVTbnlPZ2JRRXlEV19ZUU1LM0k?oc=5",
-    "pubDate": "2026-11-27 22:43:20",
+    "title": "Is Arsenal-Man City still the biggest PL match? What's at stake for both teams",
+    "description": "Arsenal vs. Man City was supposed to be the Premier League's marquee fixture, but it feels anything but in light of City's guilty verdict. What does Sunday's game really mean?",
+    "source": "Entertainment And Sports Programming Network",
+    "link": "https://www.espn.in/football/story/_/id/50612391/arsenal-man-city-preview-premier-league",
+    "pubDate": "2026-11-27 23:40:31",
     "category": [
      "sports"
     ]
    },
    {
-    "title": "Valencia would be interested in former Americanist Álvaro Fidalgo at the request of Javier Aguirre",
-    "description": "Faced with the short minutes that it adds to Real Betis, Javier Aguirre would have requested the entry of Álvaro Fidalgo to reinforce Valencia this winter.",
-    "source": "News247plus - Only News That Matters",
-    "link": "https://www.news247plus.com/news/Sports/valencia-would-be-interested-in-former-americanist-alvaro-fidalgo-at-the-request-of-javier-aguirre-64990",
-    "pubDate": "2026-11-27 22:42:48",
+    "title": "Fofana booed by Chelsea fans against Forest for interview remarks",
+    "description": "Chelsea fans booed Wesley Fofana during the early stages of the visit to Nottingham Forest after his controversial unauthorized interview.",
+    "source": "Entertainment And Sports Programming Network",
+    "link": "https://www.espn.in/football/story/_/id/50614098/wesley-fofana-chelsea-nottingham-forest-booing",
+    "pubDate": "2026-11-27 23:40:31",
+    "category": [
+     "sports"
+    ]
+   },
+   {
+    "title": "Jesus stunner helps Forest dump Chelsea for another big home win",
+    "description": "Chelsea slumped to a third-successive Premier League defeat as they went down 3-2 at Nottingham Forest on Friday to mount pressure on boss Xavi Alonso.",
+    "source": "Entertainment And Sports Programming Network",
+    "link": "https://www.espn.in/football/report/_/gameId/401879225",
+    "pubDate": "2026-11-27 23:40:31",
+    "category": [
+     "sports"
+    ]
+   },
+   {
+    "title": "Today's Wordle hints: How to solve the Wordle puzzle for November 28 (#1988) and what's the answer?",
+    "description": "On November 28, players of the word game Wordle were challenged with a new puzzle, with hints designed to assist in solving it. This day's word kicks off with W and wraps up with Y, alongside two vowels. Users can...",
+    "source": "The Economic Times",
+    "link": "https://economictimes.indiatimes.com/world/sports/todays-wordle-hints-how-to-solve-the-wordle-puzzle-for-november-28-1988-and-whats-the-answer/articleshow/136238956.cms",
+    "pubDate": "2026-11-27 23:40:07",
     "category": [
      "sports",
      "top"
     ]
    },
    {
-    "title": "'Go Krida' returns to Bengaluru with sports festival for neurodiverse students",
-    "description": "Inter-school sports festival for neurodiverse students",
-    "source": "Deccan Herald",
-    "link": "https://www.deccanherald.com/india/karnataka/bengaluru/go-krida-returns-to-bengaluru-with-sports-festival-for-neurodiverse-students-4234092",
-    "pubDate": "2026-11-27 22:38:39",
-    "category": [
-     "sports",
-     "top",
-     "education"
-    ]
-   },
-   {
-    "title": "Steelers’ DK Metcalf Pays Tribute to Outcast Aaron Rodgers Despite Receiving Harsh Criticism From QB",
-    "description": "DK Metcalf had a reason to celebrate after finding the end zone against the Denver Broncos, but his touchdown celebration appeared to carry a message for someone who was no longer in the Pittsburgh Steelers locker...",
-    "source": "Essentially Sports",
-    "link": "https://www.essentiallysports.com/nfl-active-news-steelers-dk-metcalf-pays-tribute-to-outcast-aaron-rodgers-despite-receiving-harsh-criticism-from-qb/",
-    "pubDate": "2026-11-27 22:34:59",
+    "title": "Nathan Lyon faces the axe as Australia announce squads for New Zealand Tests",
+    "description": "Australia is all set to take on New Zealand in a Test series soon; the side is currently in the middle of a T20I series against England, and after the conclusion of the series, Australia will be taking on New Zealand...",
+    "source": "India Tv",
+    "link": "https://www.indiatvnews.com/sports/cricket/nathan-lyon-faces-the-axe-as-australia-announce-squads-for-new-zealand-tests-2026-11-28-1060566",
+    "pubDate": "2026-11-27 23:38:41",
     "category": [
      "sports"
     ]
    }
   ],
-  "entertainment": [],
+  "entertainment": [
+   {
+    "title": "Today's Horoscope - November 28, 2026: Check horoscope for all sun signs",
+    "description": "Zodiac guide: Read your astrological forecast for all sun signs to plan ahead and navigate daily challenges successfully.",
+    "source": "Deccan Herald",
+    "link": "https://www.deccanherald.com/astrology/todays-horoscope-november-28-2026-check-horoscope-for-all-sun-signs-4233997",
+    "pubDate": "2026-11-27 23:30:00",
+    "category": [
+     "entertainment",
+     "top",
+     "technology"
+    ]
+   },
+   {
+    "title": "Hyderabad International Short Film Festival 2027 Second edition dates announced",
+    "description": "Second Hyderabad International Short Film Festival runs Jan 27–31, 2027, organized by Dadasaheb Phalke School of Film Studies with Telangana tourism and culture backing.",
+    "source": "The Hans India",
+    "link": "https://www.thehansindia.com/cinema/tollywood/hyderabad-international-short-film-festival-2027-second-edition-dates-announced-1146520",
+    "pubDate": "2026-11-27 23:20:18",
+    "category": [
+     "entertainment"
+    ]
+   }
+  ],
   "tech": [
    {
-    "title": "Top 4 Black Friday Gaming Deals: Save Up to $40 on EA Sports FC 27 and Other Games - CNET",
-    "description": "Top 4 Black Friday Gaming Deals: Save Up to $40 on EA Sports FC 27 and Other Games CNET Black Friday gaming deals 2026: PS5, Nintendo Switch, and lots more deals live now Mashable Black Friday Deals 2026 Live: Sales,...",
-    "source": "Google News",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY1RSYVBkYWxYejNpRGt6dnRFYW84NGM0bTVKdUg4RE03SV8xeDJZbzB4Q2JDaDN1cU9JU2tjZmRoX2NuZHphWWVpSExtMk55N1FLaW9RSHVHNTRHR3pqbTVMdFYwRGlDYUU4RE5TWnZETVMxcmctNHFKUjEtUXRfY253RF9MRWZxcXJCVWc3ZFFJUQ?oc=5",
-    "pubDate": "2026-11-27 22:46:52",
+    "title": "This Oppo Phone's Camera Has A Feature That No Other Smartphone Has",
+    "description": "If you're looking for a mobile device with a set of really good camera lenses, don't forget to check out the triple lens system offered by Oppo.",
+    "source": "Bgr",
+    "link": "https://www.bgr.com/2326417/oppo-find-x-10-pro-max-200-mp-triple-camera-explained/",
+    "pubDate": "2026-11-27 23:47:00",
     "category": [
      "technology"
     ]
    },
    {
-    "title": "5 ways to make sure your console isn't holding back your GTA 6 performance",
-    "description": "GTA 6 pulled a lot of tricks to run on current consoles, so you should make sure you're getting the best performance available.",
-    "source": "Engadget",
-    "link": "https://www.engadget.com/2329878/gta-6-performance-ways-make-sure-console-not-holding-back/",
-    "pubDate": "2026-11-27 22:46:29",
-    "category": [
-     "technology"
-    ]
-   },
-   {
-    "title": "How I Start My Car with Alexa Using Home Assistant",
-    "description": "One of my favourite things about Home Assistant is that it can integrate services that were never necessarily designed to work together. In this case, I wanted to connect my 2025 Mazda 3 to Alexa so I could use two...",
-    "source": "Dev Community",
-    "link": "https://dev.to/techoptio/how-i-start-my-car-with-alexa-using-home-assistant-6fn",
-    "pubDate": "2026-11-27 22:46:07",
-    "category": [
-     "technology"
-    ]
-   },
-   {
-    "title": "A wall that saved as the literal text of a shell command",
-    "description": "For four wakes, one of our agents wrote its own status page as the literal text $(cat /tmp/wall.md). Each wake ended with a command that was supposed to hand the agent's notes to the runtime, and that command had the...",
-    "source": "Dev Community",
-    "link": "https://dev.to/ilya_mozerov_867dbdd91feb/a-wall-that-saved-as-the-literal-text-of-a-shell-command-290",
-    "pubDate": "2026-11-27 22:46:07",
-    "category": [
-     "technology"
-    ]
-   },
-   {
-    "title": "1970 Dodge Challenger SE Packs Big-Block Power, Fender Tag Is Missing",
-    "description": "In 1970, Chrysler debuted the E-body platform. Plymouth used it for the third-generation Barracuda, while Dodge developed the then-new Challenger on it. The latter was the last Mopar to join the muscle car market,...",
-    "source": "Auto Evolution",
-    "link": "https://www.autoevolution.com/news/1970-dodge-challenger-se-packs-big-block-power-fender-tag-is-missing-279141.html",
-    "pubDate": "2026-11-27 22:46:01",
+    "title": "Your Old Nightstand Lamp Looks Ancient Next to Govee’s Smart Table Lamp 2, and Black Friday Just Made Upgrading Easy",
+    "description": "Late-night trips to the bathroom just got a softer, smarter light.",
+    "source": "Gizmodo Australia",
+    "link": "https://gizmodo.com/your-old-nightstand-lamp-looks-ancient-next-to-govees-smart-table-lamp-2-and-black-friday-just-made-upgrading-easy-2000846283",
+    "pubDate": "2026-11-27 23:45:05",
     "category": [
      "technology"
     ]

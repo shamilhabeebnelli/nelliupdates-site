@@ -1,6 +1,38 @@
 {
  "stories": [
   {
+   "id": "bhusaval-nagpur-express-train-approved-by-minister-nov28",
+   "cats": [
+    "India"
+   ],
+   "title": "ഭുസാവൽ–നാഗ്പുർ പുതിയ എക്സ്പ്രസ് ട്രെയിന് റെയിൽവേ മന്ത്രിയുടെ അനുമതി",
+   "en": "Railway Minister approves new Bhusaval-Nagpur Express (11111/11112), as reported",
+   "sum": "ഭുസാവലിനും നാഗ്പുരിനുമിടയിൽ പുതിയ എക്സ്പ്രസ് ട്രെയിൻ (11111/11112) ഓടിക്കാൻ കേന്ദ്ര റെയിൽവേ മന്ത്രി അശ്വിനി വൈഷ്ണവ് അനുമതി നൽകിയെന്ന് റിപ്പോർട്ടുകൾ. സർവീസ് തുടങ്ങുന്ന തീയതി റിപ്പോർട്ട് ചെയ്തിട്ടില്ല.",
+   "date": "28 Nov 2026",
+   "body": [
+    "ഭുസാവലിനും നാഗ്പുരിനുമിടയിൽ പുതിയ എക്സ്പ്രസ് ട്രെയിൻ (നമ്പർ 11111/11112) ഓടിക്കാൻ കേന്ദ്ര റെയിൽവേ മന്ത്രി അശ്വിനി വൈഷ്ണവ് അനുമതി നൽകിയെന്ന് ഇന്ത്യൻ എക്സ്പ്രസും എൻഡിടിവി ഇന്ത്യയും റിപ്പോർട്ട് ചെയ്തു.",
+    "നവംബർ 23ന് മഹാരാഷ്ട്ര മുഖ്യമന്ത്രി ദേവേന്ദ്ര ഫഡ്നവിസിന് അയച്ച കത്തിലാണ് മന്ത്രി അനുമതി അറിയിച്ചതെന്ന് ഇന്ത്യൻ എക്സ്പ്രസ് പറയുന്നു. പ്രധാനമന്ത്രിക്കും റെയിൽവേ മന്ത്രിക്കും നന്ദി അറിയിച്ച് ഫഡ്നവിസ് എക്സിൽ കുറിച്ചു.",
+    "സർവീസ് എന്ന് തുടങ്ങുമെന്ന് റിപ്പോർട്ടുകളിൽ പറയുന്നില്ല. റൂട്ട് വിവരങ്ങൾ റിപ്പോർട്ടുകളിൽ വ്യത്യസ്തമായതിനാൽ ഇവിടെ നൽകുന്നില്ല.",
+    "രണ്ട് റിപ്പോർട്ടുകളും ഒരേ അനുമതി കത്തിനെ ആശ്രയിച്ചുള്ളതായതിനാൽ ഒരു സ്രോതസ്സായി കണക്കാക്കുന്നു. ചിത്രം പ്രതിനിധാന സ്വഭാവമുള്ള ഫയൽ ചിത്രമാണ്."
+   ],
+   "srcs": [
+    [
+     "Indian Express: Bhusaval-Nagpur Express approved",
+     "https://indianexpress.com/article/india/bhusaval-nagpur-express-train-approval-ashwini-vaishnaw-10982468/"
+    ],
+    [
+     "NDTV India: Bhusawal-Nagpur Express approved",
+     "https://ndtv.in/india/bhusawal-nagpur-express-train-approved-via-burhanpur-khandwa-itarsi-betul-pandhurna-superfast-connectivity-12387472"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgSW0BkBXfC/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 6:55 PM IST on 28 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-28T18:55:15+05:30"
+  },
+  {
    "id": "kerala-police-fake-traffic-fine-message-scam-alert-nov28",
    "cats": [
     "Kerala"

@@ -1,56 +1,86 @@
 {
- "fetched_at": "2026-11-28 09:47 UTC",
+ "fetched_at": "2026-11-28 10:47 UTC",
  "groups": {
   "india": [
    {
-    "title": "Cabinet clears Constitution Amendment Bill to raise Lok Sabha, Assembly seats by 50%",
-    "description": "Cabinet okays Bill to raise LS, Assembly seats by 50%",
-    "source": "Deccan Herald",
-    "link": "https://www.deccanherald.com/india/cabinet-clears-constitution-amendment-bill-to-raise-lok-sabha-assembly-seats-by-50-4234006",
-    "pubDate": "2026-11-27 21:45:17",
+    "title": "EPFO’s exempted PF trust investment rules changed: Check allocation limits for G-Sec, debt, equity and other investments",
+    "description": "The Ministry of Labour and Employment has introduced updated regulations regarding provident fund trusts in India. Employers are now required to submit their monthly contributions to the Board of Trustees within 15...",
+    "source": "The Economic Times",
+    "link": "https://economictimes.indiatimes.com/wealth/invest/epfos-exempted-pf-trust-investment-rules-changed-check-allocation-limits-for-g-sec-debt-equity-and-other-investments/articleshow/136223850.cms",
+    "pubDate": "2026-11-27 22:47:00",
     "category": [
      "top",
-     "politics"
-    ]
-   },
-   {
-    "title": "As People Shop Black Friday: AI Debt Looks Like Bear Stearns In 2008",
-    "description": "LAST DAY of the Black Friday sale: https://ninjablackfridaydeals.com/black-friday/ In March of 2008, Bear Stearns went from … The post As People Shop Black Friday: AI Debt Looks Like Bear Stearns In 2008 appeared...",
-    "source": "Cbnc",
-    "link": "https://cbnc.com/as-people-shop-black-friday-ai-debt-looks-like-bear-stearns-in-2008/",
-    "pubDate": "2026-11-27 21:45:10",
-    "category": [
-     "top",
-     "business",
-     "technology"
-    ]
-   },
-   {
-    "title": "Dhanpal joins Nasha Mukt Bharat rally",
-    "description": "He called on parents to closely monitor their children and described Kishan Reddy’s campaign as an inspiring initiative towards building a drug-free society.",
-    "source": "The Hans India",
-    "link": "https://www.thehansindia.com/news/cities/nizamabad/dhanpal-joins-nasha-mukt-bharat-rally-1146490",
-    "pubDate": "2026-11-27 21:44:16",
-    "category": [
-     "top",
-     "politics",
      "business"
     ]
    },
    {
-    "title": "Apollo 17 astronauts Eugene Cernan and Harrison Schmitt took Moon samples in 1972. Houston-based scientists analyzed the samples kept in vacuum for almost 50 years in March 2022",
-    "description": "NASA has analyzed one of the final Apollo 17 Moon samples 73001 in March 2022. It was taken by Apollo 17 astronauts Eugene Cernan and Harrison ‘Jack Schmitt in December 1972. The sample was kept in vacuum so that it...",
-    "source": "The Economic Times",
-    "link": "https://economictimes.indiatimes.com/science/apollo-17-astronauts-eugene-cernan-and-harrison-schmitt-took-moon-samples-in-1972-houston-based-scientists-analyzed-the-samples-kept-in-vacuum-for-almost-50-years-in-march-2022/articleshow/136233256.cms",
-    "pubDate": "2026-11-27 21:43:16",
+    "title": "Winter break for Kashmir schools announced",
+    "description": "Srinagar, Nov 27: The Directorate of School Education Kashmir (DSEK) on Friday announced the winter vacation schedule for all government and recognised private schools up to the Higher Secondary level across Kashmir...",
+    "source": "Rising Kashmir",
+    "link": "https://risingkashmir.com/top-stories/winter-break-for-kashmir-schools-announced-12847309",
+    "pubDate": "2026-11-27 22:46:37",
     "category": [
      "top",
-     "science",
+     "education"
+    ]
+   },
+   {
+    "title": "FPIs buy some more, but D-St slips 1% on tech, consumer drag",
+    "description": "India's equity markets slid over 1% on Friday, halting a four-week rally. The downturn was largely influenced by investor sell-offs in response to climbing crude oil prices and uncertainty on the global stage....",
+    "source": "The Economic Times",
+    "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-buy-some-more-but-d-st-slips-1-on-tech-consumer-drag/articleshow/136238205.cms",
+    "pubDate": "2026-11-27 22:46:22",
+    "category": [
+     "top",
+     "business"
+    ]
+   },
+   {
+    "title": "Passenger autos to deliver goods? Bengaluru emerges as testing ground",
+    "description": "Passenger autos to deliver goods? B’luru emerges as testing ground",
+    "source": "Deccan Herald",
+    "link": "https://www.deccanherald.com/india/karnataka/bengaluru/passenger-autos-to-deliver-goods-bengaluru-emerges-as-testing-ground-4234085",
+    "pubDate": "2026-11-27 22:46:07",
+    "category": [
+     "top",
      "technology"
+    ]
+   },
+   {
+    "title": "Only 20-30% Indian exporters using FTA benefits: RBI Guv",
+    "description": "RBI Governor Sanjay Malhotra notes 20–30% FTA utilization by Indian exporters vs 60–70% by partners, declines 180-day MSME NPA shift, and urges SMEs to diversify funding.",
+    "source": "The Hans India",
+    "link": "https://www.thehansindia.com/business/only-20-30-indian-exporters-using-fta-benefits-rbi-guv-1146503",
+    "pubDate": "2026-11-27 22:45:56",
+    "category": [
+     "top",
+     "business"
+    ]
+   },
+   {
+    "title": "Gunmaster G9 box office collection day 1: Emraan Hashmi's film fails to beat Ayushmann Khurrana's Yeh Prem Mol Liya. Opens on a slow note",
+    "description": "Gunmaster G9, featuring Emraan Hashmi and Genelia Deshmukh, debuted on November 27 and tells the story of a businessman entangled in chaos. With a disappointing net collection amid stiff competition from Yeh Prem Mol...",
+    "source": "The Economic Times",
+    "link": "https://economictimes.indiatimes.com/magazines/panache/gunmaster-g9-box-office-collection-day-1-emraan-hashmis-film-fails-to-beat-ayushmann-khurranas-yeh-prem-mol-liya-opens-on-a-slow-note/articleshow/136236604.cms",
+    "pubDate": "2026-11-27 22:45:35",
+    "category": [
+     "top",
+     "entertainment"
     ]
    }
   ],
   "kerala": [
+   {
+    "title": "Kerala weather today: Cyclonic circulation over Andaman Sea; IMD issues yellow alert, forecasts more rain in coming days; check full forecast",
+    "description": "Kerala rain alert: The IMD has forecast rain, thunderstorms and lightning across Kerala on November 28, with gusty winds reaching 30–40 kmph and gusts of up to 50 kmph. An upper-air cyclonic circulation is likely to...",
+    "source": "The Economic Times",
+    "link": "https://economictimes.indiatimes.com/news/new-updates/kerala-weather-today-november-28-cyclonic-circulation-over-andaman-sea-imd-issues-yellow-alert-forecasts-more-rain-in-coming-days-check-full-forecast/articleshow/136237510.cms",
+    "pubDate": "2026-11-27 22:13:04",
+    "category": [
+     "environment",
+     "top"
+    ]
+   },
    {
     "title": "East Bengal FC Defeats Garhwal United 2-0 to Top IWL League Standings",
     "description": "East Bengal FC extended their winning streak to three matches in the IWL 2026/27 after a 2-0 victory over BBFS Garhwal United FC, with goals from substitutes Soumya Guguloth and Sulanjana Raul placing them at the top...",
@@ -127,161 +157,152 @@
      "business",
      "domestic"
     ]
-   },
-   {
-    "title": "Cabinet approves Delimitation Bill; Lok Sabha and Assembly seats to increase by 50%",
-    "description": "The Union Cabinet approves the Delimitation Bill, proposing a 50% increase in seats, with Kerala set to get 30 Lok Sabha and 210 Assembly seats.",
-    "source": "Kerala Kaumudi Online",
-    "link": "https://www.keralakaumudi.com/en/india/general/cabinet-approves-delimitation-bill-1830953",
-    "pubDate": "2026-11-27 19:38:33",
-    "category": [
-     "top",
-     "politics"
-    ]
    }
   ],
-  "world": [
-   {
-    "title": "Opinion | Treasury Aims at China, Hits American Cancer Patients",
-    "description": "A proposed federal ban on U.S. joint ventures with Chinese biotech could cut drug development in oncology by about 20%.",
-    "source": "Wsj",
-    "link": "https://www.wsj.com/opinion/treasury-aims-at-china-hits-american-cancer-patients-c6656739?mod=rss_worldnews",
-    "pubDate": "2026-11-27 21:46:00",
-    "category": [
-     "world"
-    ]
-   },
-   {
-    "title": "US disables ship to trying breach blockade in Iran",
-    "description": "The US military says it disabled a ship in the Gulf of Oman that tried to breach naval blockade on Iranian ports.",
-    "source": "Blue Mountains Gazette",
-    "link": "https://www.bluemountainsgazette.com.au/story/9399798/us-disables-ship-to-trying-breach-blockade-in-iran/?src=rss",
-    "pubDate": "2026-11-27 21:45:20",
-    "category": [
-     "world"
-    ]
-   },
-   {
-    "title": "Brazil's Lula thanks students for movement that fuelled victory",
-    "description": "NITEROI, Brazil - Brazilian President Luiz Inacio Lula da Silva on Friday thanked university students who kickstarted a mass movement that helped him secure a dramatic turnaround in October elections, in which he won...",
-    "source": "Bangkok Post",
-    "link": "https://www.bangkokpost.com/world/3362356/brazils-lula-thanks-students-for-movement-that-fuelled-victory",
-    "pubDate": "2026-11-27 21:45:00",
-    "category": [
-     "world"
-    ]
-   },
-   {
-    "title": "Bolivia Just Stopped Arguing for the Sea and Started Building a Bypass",
-    "description": "For a nation locked out of the Pacific Ocean by history and geopolitics, Bolivia's most pressing strategic challenge has never been just about territory. It is about logistics, cost, and survival. President Rodrigo...",
-    "source": "Pravda",
-    "link": "https://english.pravda.ru/news/world/174808-bolivia-triangle-trade-strategy/",
-    "pubDate": "2026-11-27 21:45:00",
-    "category": [
-     "world"
-    ]
-   }
-  ],
+  "world": [],
   "sports": [
    {
-    "title": "Sharjah Warriorz register first ILT20 Season 5 win with dominant victory over Dubai Capitals",
-    "description": "Sharjah Warriorz secured their first victory in ILT20 Season 5 against Dubai Capitals. The Capitals managed to score only 126 runs in 19.4 overs while Sharjah chased down the target with ease. Tim Seifert and Paul...",
+    "title": "[Watch] Anshul Kamboj gives India ideal start on Day 2 in 2nd Test, dismisses in-form Glenn Phillips",
+    "description": "Anshul Kamboj and Glenn Phillips. (Photo Source: Sony LIV) Hagley Oval in Christchurch was the setting for an early India breakthrough on Day 2 of the 2nd Test against New Zealand. Anshul Kamboj, the 25-year-old...",
+    "source": "Bj Sports - Cricket Prediction, Live Score",
+    "link": "https://www.bjsports.live/latest-news-en/watch-anshul-kamboj-gives-india-ideal-start-on-day-2-in-2nd-test-dismisses-in-form-glenn-phillips",
+    "pubDate": "2026-11-27 22:46:39",
+    "category": [
+     "sports",
+     "top"
+    ]
+   },
+   {
+    "title": "Did Hailee Steinfeld undergo plastic surgery before marrying Josh Allen? Old photos spark debate",
+    "description": "Hailee Steinfeld faced plastic surgery speculation before marrying Buffalo Bills quarterback Josh Allen in May 2025. Fans compared her old and recent photographs, questioning whether she had undergone rhinoplasty or...",
     "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/sports/cricket/news/sharjah-warriorz-register-first-ilt20-season-5-win-with-dominant-victory-over-dubai-capitals/articleshow/136233272.cms",
-    "pubDate": "2026-11-27 21:44:48",
+    "link": "https://timesofindia.indiatimes.com/sports/nfl/news/did-hailee-steinfeld-undergo-plastic-surgery-before-marrying-josh-allen-old-photos-spark-debate/articleshow/136235382.cms",
+    "pubDate": "2026-11-27 22:46:13",
     "category": [
      "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "The Rise of Live Online Casino: A Modern Video Gaming Revolution",
-    "description": "The pc gaming industry has undertaken a substantial makeover over the previous years, mainly sustained by quick technical innovations. Amongst the most innovative developments is the arrival of live casino…",
-    "source": "Newz India 24",
-    "link": "https://newzindia24.in/?p=173932",
-    "pubDate": "2026-11-27 21:43:35",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "Ishan Kishan hails 15-year-old Vaibhav Sooryavanshi as rare talent",
-    "description": "Ishan Kishan praised 15-year-old Vaibhav Sooryavanshi after his record-breaking 204 off 52 balls helped India A reach the semifinals.",
-    "source": "The News Mill",
-    "link": "https://thenewsmill.com/2026/11/ishan-kishan-hails-15-year-old-vaibhav-sooryavanshi-as-rare-talent/",
-    "pubDate": "2026-11-27 21:42:32",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "Browns Safety Grant Delpit Takes Shots at Mike McCarthy After Aaron Rodgers Exposes Steelers HC",
-    "description": "Mike McCarthy is now at the center of an unexpected NFL controversy after Aaron Rodgers publicly questioned the Pittsburgh Steelers head coach’s leadership and responsibilities. The veteran quarterback made several...",
-    "source": "Essentially Sports",
-    "link": "https://www.essentiallysports.com/nfl-active-news-browns-safety-grant-delpit-takes-shots-at-mike-mccarthy-after-aaron-rodgers-exposes-steelers-hc/",
-    "pubDate": "2026-11-27 21:33:36",
-    "category": [
-     "sports"
-    ]
-   },
-   {
-    "title": "USC marching band barred from UCLA game after campus sign prank",
-    "description": "USC canceled its band’s pregame and halftime performances after members altered a sign at UCLA’s football center. The rivalry game also carries conference and playoff stakes.",
-    "source": "Daily News",
-    "link": "https://dailynewsen.com/news/usc-band-benched-ucla-game-vandalism",
-    "pubDate": "2026-11-27 21:33:32",
-    "category": [
-     "sports",
-     "crime",
-     "top"
-    ]
-   },
-   {
-    "title": "Pete Golding’s Ole Miss Athlete Under Fire After Costly Penalty for Headbutting Mississippi State Opponent",
-    "description": "Things got a little too heated on the field during Friday’s annual Egg Bowl showdown, turning a routine defensive stop into an instant momentum shift. Even after the Rebels pulled away for a dominant 41-17 victory in...",
-    "source": "Essentially Sports",
-    "link": "https://www.essentiallysports.com/ncaa-college-football-news-pete-goldings-ole-miss-athlete-under-fire-after-costly-penalty-for-headbutting-mississippi-state-opponent-luke-ferrelli/",
-    "pubDate": "2026-11-27 21:27:25",
-    "category": [
-     "sports"
-    ]
-   },
-   {
-    "title": "Kona Takahashi agrees to deal with Diamondbacks (source)",
-    "description": "Japanese right-hander Kona Takahashi and the D-backs are in agreement on a contract, a source told MLB.com. The club has not confirmed the news. The Saitama Seibu Lions posted Takahashi last offseason along with...",
-    "source": "Cbnc",
-    "link": "https://cbnc.com/kona-takahashi-agrees-to-deal-with-diamondbacks-source/",
-    "pubDate": "2026-11-27 21:25:00",
-    "category": [
-     "sports"
-    ]
-   },
-   {
-    "title": "Honoring Bishan Singh Bedi: A Legacy Overlooked in Indian Cricket",
-    "description": "Anju Bedi, wife of the late cricket legend Bishan Singh Bedi, speaks out about the lack of recognition for her husband's contributions to Indian cricket. During a recent event in Chandigarh, she emphasized the need...",
-    "source": "Gyanhigyan",
-    "link": "https://gyanhigyan.com/sports/cricket/honoring-bishan-singh-bedi-a-legacy-overlooked-in-indian/cid19593133.htm",
-    "pubDate": "2026-11-27 21:24:10",
-    "category": [
-     "sports",
-     "top"
-    ]
-   }
-  ],
-  "entertainment": [
-   {
-    "title": "Denis Villeneuve on 'Dunesday' clash: 'I hope we survive'",
-    "description": "Filmmaker Denis Villeneuve has expressed disappointment over the release date clash between 'Dune: Part Three' and 'Avengers: Doomsday'. Both films are set to release on December 18, creating significant competition...",
-    "source": "The Times Of India",
-    "link": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/denis-villeneuve-disappointed-over-dunesday-clash-says-dune-is-not-a-mammoth-like-the-avengers-i-hope-we-will-survive/articleshow/136233061.cms",
-    "pubDate": "2026-11-27 21:39:09",
-    "category": [
+     "top",
      "entertainment"
     ]
+   },
+   {
+    "title": "TOPPER IN CLASS, CHAMPION ON THE CHESSBOARD: HOW TO WIN BOTH GAMES!",
+    "description": "First of all, congratulations! Being a class topper and a chess enthusiast at the age of 15 is quite an achievement. You already have two important qualities: the ability to work hard and the desire to improve.",
+    "source": "Gujaratsamachar",
+    "link": "https://www.gujaratsamachar.com/news/zagmag/topper-in-class-champion-on-the-chessboard-how-to-win-both-games-91174461187",
+    "pubDate": "2026-11-27 22:45:00",
+    "category": [
+     "sports",
+     "top",
+     "lifestyle"
+    ]
+   },
+   {
+    "title": "Selection shock as Aussies name squad for first New Zealand Test",
+    "description": "Australia have unveiled a 15-player squad for the first ICC World Test Championship fixture against New Zealand in Perth. The Aussies have lost patience with veteran spinner Nathan Lyon, with the right-armer left out...",
+    "source": "Icc",
+    "link": "https://www.icc-cricket.com/tournaments/world-test-championship/news/selection-shock-as-aussies-name-squad-for-first-new-zealand-test",
+    "pubDate": "2026-11-27 22:44:18",
+    "category": [
+     "sports",
+     "top"
+    ]
+   },
+   {
+    "title": "Clayton and Rocchiccioli named in Australia Test squad for New Zealand series - Cricinfo",
+    "description": "Clayton and Rocchiccioli named in Australia Test squad for New Zealand series Cricinfo Selection shock as Aussies name squad for first New Zealand Test ICC Clayton, Rocchiccioli earn maiden Test call-ups as Lyon...",
+    "source": "Google News",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNnVOemVTTW9GN3hGUUk4VnoxajB0dWdpNlNOdWlZSjJKaTViMlpHMmdZRW45bFNGeEF0RmdJcUJLTmZmeGRlODk5M0pKa2I1bGxZRGVtQ3JDMGNxUEZZTjZsM1haQmhRNXBTSkRiN05lZ2VCV285aEYza2ZaTm9ZdHhFM1pmQjhfSnRxMHlvZkt2QjFLQ3Q4emRLZ2RZa09xUC1NVzJuR2Vuc205SXNmN05KeHplT0lHdDhXNEExclhUUFNQa2fSAdcBQVVfeXFMTTRlTG5vdVhrNllmS2t4OHNGQm81TTRwblRKMng0WDl1bU1ZUV9Rakt1NHBpWWFxMWwxT3NNRUp2WnRtclIzMG4yQV8tajJUWUF1Y0hrS3lHaW9tU01EQ1p6eGRjSFlWbHkzb3l0Mm0zWmJFUmQ1TlhHekpTZmpFSkFsUkp3STByY0VsR3lDcllkWFdzd0NyQlFxMm1CNHY4WWJtaVM5Nm9iQjA4dzZIU1haaTlVOGtYNUxqNVRzaGtzczdSOGVTbnlPZ2JRRXlEV19ZUU1LM0k?oc=5",
+    "pubDate": "2026-11-27 22:43:20",
+    "category": [
+     "sports"
+    ]
+   },
+   {
+    "title": "Valencia would be interested in former Americanist Álvaro Fidalgo at the request of Javier Aguirre",
+    "description": "Faced with the short minutes that it adds to Real Betis, Javier Aguirre would have requested the entry of Álvaro Fidalgo to reinforce Valencia this winter.",
+    "source": "News247plus - Only News That Matters",
+    "link": "https://www.news247plus.com/news/Sports/valencia-would-be-interested-in-former-americanist-alvaro-fidalgo-at-the-request-of-javier-aguirre-64990",
+    "pubDate": "2026-11-27 22:42:48",
+    "category": [
+     "sports",
+     "top"
+    ]
+   },
+   {
+    "title": "'Go Krida' returns to Bengaluru with sports festival for neurodiverse students",
+    "description": "Inter-school sports festival for neurodiverse students",
+    "source": "Deccan Herald",
+    "link": "https://www.deccanherald.com/india/karnataka/bengaluru/go-krida-returns-to-bengaluru-with-sports-festival-for-neurodiverse-students-4234092",
+    "pubDate": "2026-11-27 22:38:39",
+    "category": [
+     "sports",
+     "top",
+     "education"
+    ]
+   },
+   {
+    "title": "Steelers’ DK Metcalf Pays Tribute to Outcast Aaron Rodgers Despite Receiving Harsh Criticism From QB",
+    "description": "DK Metcalf had a reason to celebrate after finding the end zone against the Denver Broncos, but his touchdown celebration appeared to carry a message for someone who was no longer in the Pittsburgh Steelers locker...",
+    "source": "Essentially Sports",
+    "link": "https://www.essentiallysports.com/nfl-active-news-steelers-dk-metcalf-pays-tribute-to-outcast-aaron-rodgers-despite-receiving-harsh-criticism-from-qb/",
+    "pubDate": "2026-11-27 22:34:59",
+    "category": [
+     "sports"
+    ]
    }
   ],
-  "tech": []
+  "entertainment": [],
+  "tech": [
+   {
+    "title": "Top 4 Black Friday Gaming Deals: Save Up to $40 on EA Sports FC 27 and Other Games - CNET",
+    "description": "Top 4 Black Friday Gaming Deals: Save Up to $40 on EA Sports FC 27 and Other Games CNET Black Friday gaming deals 2026: PS5, Nintendo Switch, and lots more deals live now Mashable Black Friday Deals 2026 Live: Sales,...",
+    "source": "Google News",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY1RSYVBkYWxYejNpRGt6dnRFYW84NGM0bTVKdUg4RE03SV8xeDJZbzB4Q2JDaDN1cU9JU2tjZmRoX2NuZHphWWVpSExtMk55N1FLaW9RSHVHNTRHR3pqbTVMdFYwRGlDYUU4RE5TWnZETVMxcmctNHFKUjEtUXRfY253RF9MRWZxcXJCVWc3ZFFJUQ?oc=5",
+    "pubDate": "2026-11-27 22:46:52",
+    "category": [
+     "technology"
+    ]
+   },
+   {
+    "title": "5 ways to make sure your console isn't holding back your GTA 6 performance",
+    "description": "GTA 6 pulled a lot of tricks to run on current consoles, so you should make sure you're getting the best performance available.",
+    "source": "Engadget",
+    "link": "https://www.engadget.com/2329878/gta-6-performance-ways-make-sure-console-not-holding-back/",
+    "pubDate": "2026-11-27 22:46:29",
+    "category": [
+     "technology"
+    ]
+   },
+   {
+    "title": "How I Start My Car with Alexa Using Home Assistant",
+    "description": "One of my favourite things about Home Assistant is that it can integrate services that were never necessarily designed to work together. In this case, I wanted to connect my 2025 Mazda 3 to Alexa so I could use two...",
+    "source": "Dev Community",
+    "link": "https://dev.to/techoptio/how-i-start-my-car-with-alexa-using-home-assistant-6fn",
+    "pubDate": "2026-11-27 22:46:07",
+    "category": [
+     "technology"
+    ]
+   },
+   {
+    "title": "A wall that saved as the literal text of a shell command",
+    "description": "For four wakes, one of our agents wrote its own status page as the literal text $(cat /tmp/wall.md). Each wake ended with a command that was supposed to hand the agent's notes to the runtime, and that command had the...",
+    "source": "Dev Community",
+    "link": "https://dev.to/ilya_mozerov_867dbdd91feb/a-wall-that-saved-as-the-literal-text-of-a-shell-command-290",
+    "pubDate": "2026-11-27 22:46:07",
+    "category": [
+     "technology"
+    ]
+   },
+   {
+    "title": "1970 Dodge Challenger SE Packs Big-Block Power, Fender Tag Is Missing",
+    "description": "In 1970, Chrysler debuted the E-body platform. Plymouth used it for the third-generation Barracuda, while Dodge developed the then-new Challenger on it. The latter was the last Mopar to join the muscle car market,...",
+    "source": "Auto Evolution",
+    "link": "https://www.autoevolution.com/news/1970-dodge-challenger-se-packs-big-block-power-fender-tag-is-missing-279141.html",
+    "pubDate": "2026-11-27 22:46:01",
+    "category": [
+     "technology"
+    ]
+   }
+  ]
  }
 }

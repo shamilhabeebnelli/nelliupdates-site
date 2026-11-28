@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "bmc-maiden-municipal-bond-retail-investors-plan-nov27",
+   "cats": [
+    "India"
+   ],
+   "title": "ബിഎംസി ആദ്യ മുനിസിപ്പൽ ബോണ്ട് ഒരുക്കുന്നു; റീട്ടെയിൽ നിക്ഷേപകർക്കും അവസരം നൽകാൻ പദ്ധതി",
+   "en": "BMC preparing maiden municipal bond issue and plans to open it to retail investors, as reported by Bloomberg and PTI via CNBC-TV18",
+   "sum": "മുംബൈ നഗരസഭയായ ബിഎംസി ആദ്യത്തെ മുനിസിപ്പൽ ബോണ്ട് ഇറക്കാനുള്ള നടപടികൾ ആരംഭിച്ചെന്നും സെബിയിൽ രേഖകൾ സമർപ്പിക്കുകയാണെന്നും കമ്മീഷണർ അശ്വിനി ഭിഡെ നവംബർ 27 ന് പറഞ്ഞതായി ബ്ലൂംബെർഗും പിടിഐയും റിപ്പോർട്ട് ചെയ്തു.",
+   "date": "28 Nov 2026",
+   "body": [
+    "ബൃഹൻമുംബൈ മുനിസിപ്പൽ കോർപ്പറേഷൻ (ബിഎംസി) ആദ്യത്തെ മുനിസിപ്പൽ ബോണ്ട് ഇറക്കാൻ തയ്യാറെടുക്കുകയാണെന്നും സെബിയിൽ ആവശ്യമായ രേഖകൾ സമർപ്പിക്കുന്ന നടപടികൾ നടക്കുകയാണെന്നും മുനിസിപ്പൽ കമ്മീഷണർ അശ്വിനി ഭിഡെ നവംബർ 27 വെള്ളിയാഴ്ച പറഞ്ഞതായി ബ്ലൂംബെർഗും പിടിഐയും (സിഎൻബിസി-ടിവി18 വഴി) റിപ്പോർട്ട് ചെയ്തു.",
+    "സ്ഥാപന നിക്ഷേപകർക്കൊപ്പം റീട്ടെയിൽ നിക്ഷേപകർക്കും അവസരം നൽകാനാണ് ആലോചിക്കുന്നതെന്ന് റിപ്പോർട്ടുകൾ പറയുന്നു.",
+    "ഇത് പദ്ധതി മാത്രമാണ്. ബോണ്ട് ഇറക്കിത്തുടങ്ങിയിട്ടില്ല; തുക, കാലാവധി, പലിശ എന്നിവയിൽ തീരുമാനമായിട്ടില്ല. ചിത്രം പ്രതിനിധാന സ്വഭാവമുള്ള ഫയൽ ചിത്രമാണ്."
+   ],
+   "srcs": [
+    [
+     "Bloomberg: BMC to open bond sales to retail",
+     "https://www.bloomberg.com/news/articles/2026-11-27/india-s-richest-civic-body-will-open-bond-sales-to-retail-buyers"
+    ],
+    [
+     "CNBC-TV18 (PTI): BMC municipal bond issue",
+     "https://www.cnbctv18.com/market/bmc-gets-ready-for-municipal-bond-issue-will-soon-file-papers-with-sebi-bhide-20043222.htm"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgRF8p7BaG5/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 7:08 AM IST on 28 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-28T07:08:17+05:30"
+  },
+  {
    "id": "telangana-rs-10000-crore-el-nino-drought-programme-nov27",
    "cats": [
     "India"

@@ -1,20 +1,141 @@
 {
- "fetched_at": "2026-11-28 11:47 UTC",
+ "fetched_at": "2026-11-28 12:48 UTC",
  "groups": {
   "india": [
    {
-    "title": "Infosys sees eightfold jump in US H-1B approvals to 2,088 in FY26 as Texas plans to lift hiring curbs: Report",
-    "description": "Infosys received 2,088 approvals for new H-1B employment in the US in FY26, more than eight times the 257 approvals recorded in the previous financial year, according to federal immigration data. The increase comes...",
-    "source": "The Economic Times",
-    "link": "https://economictimes.indiatimes.com/nri/work/infosys-sees-eightfold-jump-in-us-h-1b-approvals-to-2088-in-fy26-as-texas-plans-to-lift-hiring-curbs-report/articleshow/136238970.cms",
-    "pubDate": "2026-11-27 23:45:37",
+    "title": "UAE deports man wanted in Karnataka murder case",
+    "description": "The CBI, as the NCB for INTERPOL in India, coordinates with law enforcement agencies across the country through BHARATPOL to facilitate international police cooperation.",
+    "source": "The New Indian Express",
+    "link": "https://www.newindianexpress.com/states/karnataka/2026/Nov/28/uae-deports-man-wanted-in-karnataka-murder-case",
+    "pubDate": "2026-11-28 00:47:48",
+    "category": [
+     "top",
+     "politics",
+     "technology"
+    ]
+   },
+   {
+    "title": "Turkey Set To Extend Iran Gas Deal Until 2032, Despite US Sanctions Push? Reports",
+    "description": "Turkey is reportedly extending its natural gas partnership with Iran until 2032, a move that could keep a crucial energy revenue channel open for Tehran even as Washington tightens its economic squeeze. According to...",
+    "source": "The Times Of India",
+    "link": "https://timesofindia.indiatimes.com/videos/international/turkey-set-to-extend-iran-gas-deal-until-2032-despite-us-sanctions-push-reports/videoshow/136236032.cms",
+    "pubDate": "2026-11-28 00:47:23",
+    "category": [
+     "top",
+     "politics"
+    ]
+   },
+   {
+    "title": "Shoppers flock to stores in Kosovo to pick up Black Friday deals (Video)",
+    "description": "Black Friday has become an annual shopping tradition in Kosovo, a small Balkan country where retailers begin rolling out special offers weeks ahead of the actual day. Heavy traffic has built up around some of... The...",
+    "source": "Social News Xyz",
+    "link": "https://www.socialnews.xyz/2026/11/27/shoppers-flock-to-stores-in-kosovo-to-pick-up-black-friday-deals-video/",
+    "pubDate": "2026-11-28 00:47:04",
     "category": [
      "top",
      "business"
     ]
+   },
+   {
+    "title": "A decade of Sofar Chennai: Audience discovers indie voices in a fun set up",
+    "description": "London-based Sofar Sounds’ Chennai chapter offers a raw, intimate musical experience at secret venues",
+    "source": "The New Indian Express",
+    "link": "https://www.newindianexpress.com/cities/chennai/2026/Nov/28/a-decade-of-sofar-chennai-audience-discovers-indie-voices-in-a-fun-set-up",
+    "pubDate": "2026-11-28 00:47:00",
+    "category": [
+     "top",
+     "entertainment"
+    ]
+   },
+   {
+    "title": "Oppn, BJP spar over Kotia",
+    "description": "The dispute started before Independence when Andhra Pradesh claimed 21 of 28 villages in Kotia gram panchayat in Pottangi block in Koraput district.",
+    "source": "The Hans India",
+    "link": "https://www.thehansindia.com/odisha/oppn-bjp-spar-over-kotia-1146531",
+    "pubDate": "2026-11-28 00:46:51",
+    "category": [
+     "top",
+     "politics"
+    ]
+   },
+   {
+    "title": "Why Elon Musk's plan for 1 million AI satellites is raising concerns",
+    "description": "SpaceX's pitch is to take the impact of data centres away from Earth, using a million solar-powered satellites to do AI data crunching in space and beam the results to Earth. But what is the impact of one million...",
+    "source": "The Economic Times",
+    "link": "https://economictimes.indiatimes.com/tech/technology/why-elon-musks-plan-for-1-million-ai-satellites-is-raising-concerns/articleshow/136240198.cms",
+    "pubDate": "2026-11-28 00:46:12",
+    "category": [
+     "top",
+     "science",
+     "technology"
+    ]
    }
   ],
   "kerala": [
+   {
+    "title": "Sonia Balani: Many shades of an actor",
+    "description": "With Ramayana: Part 1 marking a new milestone, the actor looks back at her journey across television, films and theatre",
+    "source": "The New Indian Express",
+    "link": "https://www.newindianexpress.com/cities/hyderabad/2026/Nov/28/sonia-balani-many-shades-of-an-actor",
+    "pubDate": "2026-11-28 00:30:00",
+    "category": [
+     "top",
+     "entertainment"
+    ]
+   },
+   {
+    "title": "Conversions become an ‘official affair’ in many cases in Keralam",
+    "description": "Conversions in Kerala have become largely an official process, with reduced role for religious institutions since 2020, per court-reported changes.",
+    "source": "The Hindu",
+    "link": "https://www.thehindu.com/news/national/kerala/conversions-become-an-official-affair-in-many-cases-in-keralam/article71751646.ece",
+    "pubDate": "2026-11-28 00:30:00",
+    "category": [
+     "top",
+     "politics",
+     "lifestyle"
+    ]
+   },
+   {
+    "title": "Central House: One roof, many flavours",
+    "description": "From Kizhi Parotta to Idiyappam Khao Suey, Central House serves up a delicious mix of culinary traditions",
+    "source": "The New Indian Express",
+    "link": "https://www.newindianexpress.com/cities/hyderabad/2026/Nov/28/central-house-one-roof-many-flavours",
+    "pubDate": "2026-11-28 00:30:00",
+    "category": [
+     "top",
+     "food"
+    ]
+   },
+   {
+    "title": "Will launch 'Delhi Chalo' protest if Centre fails to provide drought relief before Belagavi session ends: DK Shivakumar",
+    "description": "Karnataka Chief Minister DK Shivakumar on Saturday warned that the state government would launch a 'Delhi Chalo' protest if the Centre failed to provide drought relief before the conclusion of the Belagavi...",
+    "source": "Ani (asian News International)",
+    "link": "https://www.aninews.in/news/national/politics/will-launch-delhi-chalo-protest-if-centre-fails-to-provide-drought-relief-before-belagavi-session-ends-dk-shivakumar20261128141453/",
+    "pubDate": "2026-11-28 00:00:00",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "Tamil Nadu: Locals gather at Sikandar Badusha Dargah atop Thiruparankundram Hill to offer special prayers",
+    "description": "Locals and visitors from various areas, including Kerala, gathered at the Hazrat Sultan Sikandar Badusha Auliya Dargah, located atop Thiruparankundram Hill in Madurai, to offer special prayers.",
+    "source": "Ani (asian News International)",
+    "link": "https://www.aninews.in/news/national/general-news/tamil-nadu-locals-gather-at-sikandar-badusha-dargah-atop-thiruparankundram-hill-to-offer-special-prayers20261128080603/",
+    "pubDate": "2026-11-28 00:00:00",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "IWL 2026/27: Soumya Guguloth's stunner, Sulanjana Raul's header power East Bengal FC to 2-0 victory over BBFS Garhwal United FC",
+    "description": "Goals from substitutes Soumya Guguloth (45+3') and Sulanjana Raul (80') helped East Bengal FC secure a 2-0 victory over BBFS Garhwal United FC in their Indian Women's League (IWL) 2026/27 encounter at the Kalyani...",
+    "source": "Ani (asian News International)",
+    "link": "https://www.aninews.in/news/sports/football/iwl-202627-soumya-guguloths-stunner-sulanjana-rauls-header-power-east-bengal-fc-to-2-0-victory-over-bbfs-garhwal-united-fc20261128014638/",
+    "pubDate": "2026-11-28 00:00:00",
+    "category": [
+     "world"
+    ]
+   },
    {
     "title": "IITF 2026 concludes with 10 lakh visitors",
     "description": "The India International Trade Fair (IITF) 2026 concluded on Friday with an estimated 10 lakh visitors over its 14-day run, marking a significant increase in footfall and business activity compared to last year....",
@@ -36,111 +157,55 @@
      "environment",
      "top"
     ]
-   },
-   {
-    "title": "Kerala weather today: Cyclonic circulation over Andaman Sea; IMD issues yellow alert, forecasts more rain in coming days; check full forecast",
-    "description": "Kerala rain alert: The IMD has forecast rain, thunderstorms and lightning across Kerala on November 28, with gusty winds reaching 30–40 kmph and gusts of up to 50 kmph. An upper-air cyclonic circulation is likely to...",
-    "source": "The Economic Times",
-    "link": "https://economictimes.indiatimes.com/news/new-updates/kerala-weather-today-november-28-cyclonic-circulation-over-andaman-sea-imd-issues-yellow-alert-forecasts-more-rain-in-coming-days-check-full-forecast/articleshow/136237510.cms",
-    "pubDate": "2026-11-27 22:13:04",
-    "category": [
-     "environment",
-     "top"
-    ]
-   },
-   {
-    "title": "East Bengal FC Defeats Garhwal United 2-0 to Top IWL League Standings",
-    "description": "East Bengal FC extended their winning streak to three matches in the IWL 2026/27 after a 2-0 victory over BBFS Garhwal United FC, with goals from substitutes Soumya Guguloth and Sulanjana Raul placing them at the top...",
-    "source": "Asianet Newsable",
-    "link": "https://newsable.asianetnews.com/sports/east-bengal-fc-defeats-garhwal-united-2-0-to-top-iwl-league-standings-articleshow-h737tdr",
-    "pubDate": "2026-11-27 21:00:07",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "Use tech-aided plan to curb elephant conflicts",
-    "description": "Agriculture, tourism, irrigation, and highway and railway expansion projects have broken contiguous elephant corridors. Fences and trenches have fragmented their habitats. The protective boundaries have helped...",
-    "source": "The New Indian Express",
-    "link": "https://www.newindianexpress.com/editorial/2026/Nov/27/use-tech-aided-plan-to-curb-elephant-conflicts",
-    "pubDate": "2026-11-27 20:59:40",
-    "category": [
-     "environment",
-     "top"
-    ]
-   },
-   {
-    "title": "East Bengal FC Triumphs Over BBFS Garhwal United with 2-0 Win in IWL",
-    "description": "In a decisive match at Kalyani Stadium, East Bengal FC triumphed over BBFS Garhwal United FC with a 2-0 scoreline in the Indian Women's League. Substitutes Soumya Guguloth and Sulanjana Raul were the stars of the...",
-    "source": "Gyanhigyan",
-    "link": "https://gyanhigyan.com/sports/cricket/east-bengal-fc-triumphs-over-bbfs-garhwal-united-with-2-0/cid19593126.htm",
-    "pubDate": "2026-11-27 20:55:51",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "CPM distances itself from ‘payback’ politics, says era of retaliation is over",
-    "description": "KANNUR: The CPM state leadership and the party have rejected former MLA T I Madhusoodanan’s controversial ‘settling scores’ speech.",
-    "source": "Kerala Kaumudi Online",
-    "link": "https://www.keralakaumudi.com/en/kerala/politics/cpm-distances-itself-from-payback-politics-1830970",
-    "pubDate": "2026-11-27 20:46:00",
-    "category": [
-     "top",
-     "politics"
-    ]
-   },
-   {
-    "title": "Tamil Nadu weather today: Chennai rain forecast, IMD issues heavy rainfall alert for 3 districts; check latest update & how long the showers will continue",
-    "description": "The IMD has forecast isolated heavy rainfall in Tamil Nadu on November 28, with thunderstorms, lightning and gusty winds likely across Tamil Nadu, Puducherry and Karaikal. While southern and western districts may...",
-    "source": "The Economic Times",
-    "link": "https://economictimes.indiatimes.com/news/new-updates/tamil-nadu-weather-today-november-28-chennai-rain-forecast-imd-issues-heavy-rainfall-alert-for-3-districts-check-latest-update-how-long-the-showers-will-continue/articleshow/136236431.cms",
-    "pubDate": "2026-11-27 20:27:20",
-    "category": [
-     "environment",
-     "top"
-    ]
    }
   ],
   "world": [
    {
-    "title": "Doctors Without Borders denounces Israeli strike on Gaza clinic",
-    "description": "'Israeli authorities must be held accountable,' says medical charity",
-    "source": "Anadolu Agency",
-    "link": "https://www.aa.com.tr/en/middle-east/doctors-without-borders-denounces-israeli-strike-on-gaza-clinic/4141089",
-    "pubDate": "2026-11-27 23:46:00",
+    "title": "Nvidia's restricted AI servers advertised for $3 million in China amid US curbs on advanced chip exports: Report",
+    "description": "Nvidia AI servers are being advertised for up to $3.4 million in China amid tighter US export controls.",
+    "source": "Hindustan Times",
+    "link": "https://www.hindustantimes.com/world-news/us-news/nvidias-restricted-ai-servers-advertised-for-3-million-in-china-amid-us-curbs-on-advanced-chip-exports-report-101795825511820.html",
+    "pubDate": "2026-11-28 00:47:30",
     "category": [
      "world"
     ]
    },
    {
-    "title": "Hackers reportedly breach US Air Force cloud platform",
-    "description": "An earlier Reuters report says the intrusion was discovered over the past month as the system was being upgraded.",
-    "source": "Trt World",
-    "link": "https://www.trtworld.com/article/7c2a983c4b7b",
-    "pubDate": "2026-11-27 23:42:48",
+    "title": "Putin unveils nuclear-powered sub armed with missiles",
+    "description": "President Vladimir Putin has unveiled a new nuclear-powered submarine and says Russia will add five more to its fleet by 2030.",
+    "source": "Blue Mountains Gazette",
+    "link": "https://www.bluemountainsgazette.com.au/story/9399819/putin-unveils-nuclear-powered-sub-armed-with-missiles/?src=rss",
+    "pubDate": "2026-11-28 00:45:03",
     "category": [
      "world"
     ]
    },
    {
-    "title": "Budapest’s Christmas-Light Trams Add to Hungarian Capital’s Festive Cheer",
-    "description": "The fleet of Christmas-light trams run by the Budapest Public Transport Company, BKV, set out from their tram depot on Friday to contribute to the Hungarian capital’s festive atmosphere.",
-    "source": "Ntd",
-    "link": "https://www.ntd.com/ntdplus/budapests-christmas-light-trams-add-to-hungarian-capitals-festive-cheer_1187871.html",
-    "pubDate": "2026-11-27 23:40:04",
-    "category": [
-     "world"
-    ]
-   },
-   {
-    "title": "Tata Trusts challenge N Chandrasekaran's reappointment as Tata Sons Chairman in Bombay High Court",
-    "description": "The governance struggle for control over India's largest conglomerate by revenue has escalated into a legal battle, as the Sir Dorabji Tata Trust (SDTT) and R D Tata Trust (RDTT) have approached the Bombay High Court...",
+    "title": "Delhi High Court restores FCRA registration of NGO Socio Legal Information Centre",
+    "description": "The Delhi High Court has overturned a 2022 decision by the Ministry of Home Affairs (MHA) to cancel the Foreign Contribution (Regulation) Act (FCRA) registration of the Socio Legal Information Centre (SLIC), an NGO...",
     "source": "Pravda",
-    "link": "https://english.pravda.ru/news/world/174744-tata-trusts-legal-challenge-n-chandrasekaran-reappointment/",
-    "pubDate": "2026-11-27 23:40:00",
+    "link": "https://english.pravda.ru/news/world/174746-delhi-high-court-restores-slic-fcra-registration/",
+    "pubDate": "2026-11-28 00:41:00",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "Virginia Governor Declares State of Emergency After Thanksgiving Coastal Storm",
+    "description": "Coastal communities began facing elevated tides and sustained winds on Wednesday that led to major flooding.",
+    "source": "Ntd",
+    "link": "https://www.ntd.com/virginia-governor-declares-state-of-emergency-after-thanksgiving-coastal-storm_1187887.html",
+    "pubDate": "2026-11-28 00:38:12",
+    "category": [
+     "world"
+    ]
+   },
+   {
+    "title": "Neither inflation nor bad weather in the US deters Black Friday shoppers from seeking deals",
+    "description": "Black Friday shoppers flock to US stores and online deals despite inflation and bad weather, with AI helping drive retail traffic. Read more at straitstimes.com.",
+    "source": "Straitstimes",
+    "link": "https://www.straitstimes.com/world/united-states/neither-inflation-nor-bad-weather-in-the-us-deters-black-friday-shoppers-from-seeking-deals",
+    "pubDate": "2026-11-28 00:38:00",
     "category": [
      "world"
     ]
@@ -148,74 +213,21 @@
   ],
   "sports": [
    {
-    "title": "Morgan Gibbs-White Scores Twice In Nottingham Forest's 3-2 Win Over Chelsea",
-    "description": "Alonso's side crashed to a fourth defeat in their last five Premier League matches after another laboured performance at the City Ground.",
-    "source": "News 18",
-    "link": "https://www.news18.com/sports/football/morgan-gibbs-white-scores-twice-in-nottingham-forests-3-2-win-over-chelsea-ws-l-10444184.html",
-    "pubDate": "2026-11-27 23:46:14",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "Lorenzo Musetti Takes Italy To 4th Straight Davis Cup Final",
-    "description": "Italy are only the second nation in the post-Challenge Round era to make four finals in a row, after Sweden, who reached seven consecutive finals from 1983 to 1989.",
-    "source": "News 18",
-    "link": "https://www.news18.com/sports/tennis/lorenzo-musetti-takes-italy-to-4th-straight-davis-cup-final-ws-l-10444181.html",
-    "pubDate": "2026-11-27 23:41:35",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "Is Arsenal-Man City still the biggest PL match? What's at stake for both teams",
-    "description": "Arsenal vs. Man City was supposed to be the Premier League's marquee fixture, but it feels anything but in light of City's guilty verdict. What does Sunday's game really mean?",
-    "source": "Entertainment And Sports Programming Network",
-    "link": "https://www.espn.in/football/story/_/id/50612391/arsenal-man-city-preview-premier-league",
-    "pubDate": "2026-11-27 23:40:31",
+    "title": "India T20I captain Shreyas Iyer joins Mumbai squad for Syed Mushtaq Ali Trophy Super League Stage",
+    "description": "Shreyas Iyer has been included in Mumbai's squad for the Syed Mushtaq Ali Trophy Super League stage in Nagpur, where he will play under Suryakumar Yadav's captaincy.",
+    "source": "Newkerala.com",
+    "link": "https://www.newkerala.com/news/a/india-t20i-captain-shreyas-iyer-joins-mumbai-squad-801.htm",
+    "pubDate": "2026-11-28 00:45:06",
     "category": [
      "sports"
     ]
    },
    {
-    "title": "Fofana booed by Chelsea fans against Forest for interview remarks",
-    "description": "Chelsea fans booed Wesley Fofana during the early stages of the visit to Nottingham Forest after his controversial unauthorized interview.",
-    "source": "Entertainment And Sports Programming Network",
-    "link": "https://www.espn.in/football/story/_/id/50614098/wesley-fofana-chelsea-nottingham-forest-booing",
-    "pubDate": "2026-11-27 23:40:31",
-    "category": [
-     "sports"
-    ]
-   },
-   {
-    "title": "Jesus stunner helps Forest dump Chelsea for another big home win",
-    "description": "Chelsea slumped to a third-successive Premier League defeat as they went down 3-2 at Nottingham Forest on Friday to mount pressure on boss Xavi Alonso.",
-    "source": "Entertainment And Sports Programming Network",
-    "link": "https://www.espn.in/football/report/_/gameId/401879225",
-    "pubDate": "2026-11-27 23:40:31",
-    "category": [
-     "sports"
-    ]
-   },
-   {
-    "title": "Today's Wordle hints: How to solve the Wordle puzzle for November 28 (#1988) and what's the answer?",
-    "description": "On November 28, players of the word game Wordle were challenged with a new puzzle, with hints designed to assist in solving it. This day's word kicks off with W and wraps up with Y, alongside two vowels. Users can...",
-    "source": "The Economic Times",
-    "link": "https://economictimes.indiatimes.com/world/sports/todays-wordle-hints-how-to-solve-the-wordle-puzzle-for-november-28-1988-and-whats-the-answer/articleshow/136238956.cms",
-    "pubDate": "2026-11-27 23:40:07",
-    "category": [
-     "sports",
-     "top"
-    ]
-   },
-   {
-    "title": "Nathan Lyon faces the axe as Australia announce squads for New Zealand Tests",
-    "description": "Australia is all set to take on New Zealand in a Test series soon; the side is currently in the middle of a T20I series against England, and after the conclusion of the series, Australia will be taking on New Zealand...",
-    "source": "India Tv",
-    "link": "https://www.indiatvnews.com/sports/cricket/nathan-lyon-faces-the-axe-as-australia-announce-squads-for-new-zealand-tests-2026-11-28-1060566",
-    "pubDate": "2026-11-27 23:38:41",
+    "title": "Tom Blundell's unbeaten fifty takes New Zealand to 330/8 at Lunch",
+    "description": "Tom Blundell remained unbeaten at lunch as New Zealand reached 330/8 on Day 2 of the second Test in Christchurch. Anshul Kamboj and Akash Deep struck for India.",
+    "source": "Newkerala.com",
+    "link": "https://www.newkerala.com/news/a/2nd-test-blundells-unbeaten-fifty-keeps-new-zealand-986.htm",
+    "pubDate": "2026-11-28 00:45:06",
     "category": [
      "sports"
     ]
@@ -223,23 +235,52 @@
   ],
   "entertainment": [
    {
-    "title": "Today's Horoscope - November 28, 2026: Check horoscope for all sun signs",
-    "description": "Zodiac guide: Read your astrological forecast for all sun signs to plan ahead and navigate daily challenges successfully.",
-    "source": "Deccan Herald",
-    "link": "https://www.deccanherald.com/astrology/todays-horoscope-november-28-2026-check-horoscope-for-all-sun-signs-4233997",
-    "pubDate": "2026-11-27 23:30:00",
+    "title": "Sharvari steps into the Rajshri heroine’s world with Yeh Prem Mol Liya",
+    "description": "For Sharvari, stepping into the world of Rajshri Productions is more than just another milestone in her acting career. It is a moment that carries the nostalgia of childhood memories, the excitement of a new...",
+    "source": "The Tribune India",
+    "link": "https://www.tribuneindia.com/news/entertainment/sharvari-steps-into-the-rajshri-heroines-world-with-yeh-prem-mol-liya",
+    "pubDate": "2026-11-28 00:43:16",
     "category": [
-     "entertainment",
-     "top",
-     "technology"
+     "entertainment"
     ]
    },
    {
-    "title": "Hyderabad International Short Film Festival 2027 Second edition dates announced",
-    "description": "Second Hyderabad International Short Film Festival runs Jan 27–31, 2027, organized by Dadasaheb Phalke School of Film Studies with Telangana tourism and culture backing.",
-    "source": "The Hans India",
-    "link": "https://www.thehansindia.com/cinema/tollywood/hyderabad-international-short-film-festival-2027-second-edition-dates-announced-1146520",
-    "pubDate": "2026-11-27 23:20:18",
+    "title": "'Hail Mary' BO day 2: Kunchacko Boban's film records 60% growth",
+    "description": "Kunchacko Boban's 'Hail Mary' improved its box office performance significantly on its second day. The film collected Rs 1.20 crore, indicating a 60% increase over the previous day's earnings. Overall, the film's net...",
+    "source": "The Times Of India",
+    "link": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/hail-mary-box-office-collection-day-2-kunchacko-bobans-film-records-60-growth-india-net-collection-reaches-rs-1-95-crore/articleshow/136235976.cms",
+    "pubDate": "2026-11-28 00:36:43",
+    "category": [
+     "entertainment"
+    ]
+   },
+   {
+    "title": "News in Pics | November 28, 2026: Best photos from around the world",
+    "description": "",
+    "source": "Deccan Herald",
+    "link": "https://www.deccanherald.com/world/news-in-pics-november-28-2026-best-photos-from-around-the-world-4234166",
+    "pubDate": "2026-11-28 00:36:18",
+    "category": [
+     "entertainment",
+     "top"
+    ]
+   },
+   {
+    "title": "'Ramayana' day 23: Ranbir, Yash's film crosses Rs 1,000 crore net in India",
+    "description": "Ramayana: Rise of a Legend, directed by Nitesh Tiwari, has crossed the Rs 1,000 crore mark in net box office collections. The film achieved a cumulative net collection of Rs 1,000.55 crore after its 23rd day in...",
+    "source": "The Times Of India",
+    "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-rise-of-a-legend-box-office-collection-day-23-ranbir-kapoor-yashs-film-crosses-rs-1000-crore-net-in-india-worldwide-gross-reaches-rs-1790-crore/articleshow/136235973.cms",
+    "pubDate": "2026-11-28 00:34:40",
+    "category": [
+     "entertainment"
+    ]
+   },
+   {
+    "title": "'Ramayana: Rise of a Legend' box office collection day 23: Ranbir Kapoor, Yash's film crosses Rs 1,000 cr - The Times of India",
+    "description": "'Ramayana: Rise of a Legend' box office collection day 23: Ranbir Kapoor, Yash's film crosses Rs 1,000 cr The Times of India",
+    "source": "Google News",
+    "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPQk45dEhBd0JGdjFBTnhKTEEzaHhrQVhnNzkzeFI0emsyTzhRNnA5cDZVNkZwSDFFb3VBYmx2aDFqN21YT1U3czVnZjlEQnVaNzVJQjVNUGhjMlJoS3l3R1FkMWhteGlDalRwckxublJzbS0zUlZEekEyRGkzTXp0UkE5WHV0Y3RMLU5hRi1kdTVJXzRiWFhfbjEzeGdqNU51SUFReGNoWUZ5RkxzS3FncjRpN19IQzhQUTR1WW5SdmtzQXN0SDdpLUU0NUc5bFc2aFd6RnlNaV9BelFhcVB3QXhOeW1tNjBYTUtnZ1NjRFVhbHNxakUyVS1CT3RYZFhVdXExTS1IQW83dktFM1o0MDhWNEN6aUFLWVhZSGRxN2w4MGVQOFd2aENtbjM0cmwxT1VNQnV2akxwZHNUZkVtck50RnFfUU9ZclR0bzlwMXJ1ZUVGTXY1RHI5SThwZ05XLWdJbS0wRW8?oc=5",
+    "pubDate": "2026-11-28 00:34:00",
     "category": [
      "entertainment"
     ]
@@ -247,21 +288,21 @@
   ],
   "tech": [
    {
-    "title": "This Oppo Phone's Camera Has A Feature That No Other Smartphone Has",
-    "description": "If you're looking for a mobile device with a set of really good camera lenses, don't forget to check out the triple lens system offered by Oppo.",
+    "title": "Googlebooks Vs. Samsung Galaxy Tablets: Which Device Should You Buy?",
+    "description": "Googlebooks and Samsung Galaxy Tablets are occupying a lot of the same spaces for current tech trends, but which one makes more sense for you?",
     "source": "Bgr",
-    "link": "https://www.bgr.com/2326417/oppo-find-x-10-pro-max-200-mp-triple-camera-explained/",
-    "pubDate": "2026-11-27 23:47:00",
+    "link": "https://www.bgr.com/2326579/googlebooks-vs-samsung-galaxy-tablets-which-device-should-buy/",
+    "pubDate": "2026-11-28 00:47:00",
     "category": [
      "technology"
     ]
    },
    {
-    "title": "Your Old Nightstand Lamp Looks Ancient Next to Govee’s Smart Table Lamp 2, and Black Friday Just Made Upgrading Easy",
-    "description": "Late-night trips to the bathroom just got a softer, smarter light.",
+    "title": "Samsung Wants a Galaxy Z Fold8 Under Every Christmas Tree, and Black Friday Just Made It a Lot Cheaper",
+    "description": "Long flights feel shorter when your phone unfolds into a movie screen.",
     "source": "Gizmodo Australia",
-    "link": "https://gizmodo.com/your-old-nightstand-lamp-looks-ancient-next-to-govees-smart-table-lamp-2-and-black-friday-just-made-upgrading-easy-2000846283",
-    "pubDate": "2026-11-27 23:45:05",
+    "link": "https://gizmodo.com/samsung-wants-a-galaxy-z-fold8-under-every-christmas-tree-and-black-friday-just-made-it-a-lot-cheaper-2000846290",
+    "pubDate": "2026-11-28 00:45:36",
     "category": [
      "technology"
     ]

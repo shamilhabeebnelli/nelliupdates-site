@@ -1,6 +1,37 @@
 {
  "stories": [
   {
+   "id": "nasa-northrop-grumman-crs-25-cygnus-xl-launch-nov29",
+   "cats": [
+    "Tech"
+   ],
+   "title": "നാസയുടെ സിഗ്നസ് XL കാർഗോ പേടകം ഞായറാഴ്ച വിക്ഷേപിക്കാൻ ലക്ഷ്യം: ഇന്ത്യൻ സമയം രാത്രി 9.17, കാലാവസ്ഥ 60% അനുകൂലം",
+   "en": "NASA, Northrop Grumman and SpaceX target Sunday Nov 29 launch of Cygnus XL cargo to ISS at 10:47 a.m. EST (9:17 p.m. IST); 60% favourable weather",
+   "sum": "നോർത്രോപ് ഗ്രുമ്മന്റെ സിഗ്നസ് XL കാർഗോ പേടകം സ്പേസ്എക്സ് ഫാൽക്കൺ 9 റോക്കറ്റിൽ ഞായറാഴ്ച (നവംബർ 29) ഇന്ത്യൻ സമയം രാത്രി 9.17ന് വിക്ഷേപിക്കാനാണ് നാസയുടെ ലക്ഷ്യം. അനുകൂല കാലാവസ്ഥയ്ക്ക് 60% സാധ്യത.",
+   "date": "28 Nov 2026",
+   "body": [
+    "നോർത്രോപ് ഗ്രുമ്മന്റെ സിഗ്നസ് XL കാർഗോ പേടകം സ്പേസ്എക്സ് ഫാൽക്കൺ 9 റോക്കറ്റിൽ ഞായറാഴ്ച (നവംബർ 29) ഫ്ലോറിഡയിലെ കേപ് കനാവറൽ സ്പേസ് ഫോഴ്സ് സ്റ്റേഷനിൽ നിന്ന് വിക്ഷേപിക്കാനാണ് ലക്ഷ്യമെന്ന് നാസ അറിയിച്ചു. യു.എസ് ഈസ്റ്റേൺ സമയം രാവിലെ 10.47 (ഇന്ത്യൻ സമയം രാത്രി 9.17) ആണ് ലക്ഷ്യമിടുന്ന സമയം.",
+    "ഏകദേശം 11,000 പൗണ്ട് ചരക്കാണ് പേടകം രാജ്യാന്തര ബഹിരാകാശ നിലയത്തിലേക്ക് കൊണ്ടുപോകുക. നോർത്രോപ് ഗ്രുമ്മൻ സിആർഎസ്-25 എന്ന ഈ ദൗത്യത്തിന് വിക്ഷേപണത്തിന് അനുകൂലമായ കാലാവസ്ഥയ്ക്ക് 60% സാധ്യതയാണ് നാസ പറയുന്നത്. മേഘങ്ങളാണ് പ്രധാന ആശങ്ക. നവംബർ 30ന് രാവിലെ 10.24 (ഈസ്റ്റേൺ) ആണ് അടുത്ത അവസരം.",
+    "ഇത് വിക്ഷേപണ ലക്ഷ്യ സമയമാണ്, ഉറപ്പായ വിക്ഷേപണമല്ല; കാലാവസ്ഥയും സാങ്കേതിക കാര്യങ്ങളും അനുസരിച്ച് മാറാം. സ്പേസ് ആൻഡ് സ്കൈയുടെ റിപ്പോർട്ടും നാസയുടെ കുറിപ്പിനെ ആധാരമാക്കിയുള്ളതാണ്. ചിത്രം പ്രതിനിധാന സ്വഭാവമുള്ള ഫയൽ ചിത്രമാണ്."
+   ],
+   "srcs": [
+    [
+     "NASA: preps on track for Sunday launch (Nov 27)",
+     "https://www.nasa.gov/blogs/spacestation/2026/11/27/nasa-partners-preps-on-track-for-sunday-space-station-cargo-launch/"
+    ],
+    [
+     "SpaceAndSky: Cygnus XL NG-25 launch Sunday",
+     "https://spaceandsky.com/cygnus-xl-ng-25-launch-sunday-weather-60-percent/"
+    ],
+    [
+     "Instagram post (@nelli.updates)",
+     "https://www.instagram.com/nelli.updates/p/DgSKarehWN0/"
+    ]
+   ],
+   "note": "Posted on Instagram @nelli.updates at about 5:06 PM IST on 28 Nov 2026. Facts were verified when posted and not refreshed since. No photo from the post is shown on this site.",
+   "published_at": "2026-11-28T17:06:45+05:30"
+  },
+  {
    "id": "sc-clears-hockey-india-election-dec5-orissa-hc-orders-nov28",
    "cats": [
     "Sports"
